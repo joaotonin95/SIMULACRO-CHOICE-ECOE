@@ -109,14 +109,14 @@ setInterval(timerRefresh,500);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function needsReview(k){return !!(k&&(/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
 function home(){
-  timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.includes(S.year))S.year='Por especialidad';
+  timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year='Por especialidad';
   let h='<h1>CHOICES Final de Carrera – UAI</h1><p class="sub">Simulacros por año y por especialidad · '+EX.reduce((a,e)=>a+e.qs.length,0)+' preguntas · tu avance se guarda en este navegador</p><div class="years">';
-  ys.forEach(y=>h+='<button class="chip'+(y==S.year?' on':'')+'" data-y="'+y+'">'+y+'</button>');
+  ys.forEach(y=>h+='<button class="chip'+(String(y)===String(S.year)?' on':'')+'" data-y="'+y+'">'+y+'</button>');
   h+='</div><div class="exams">';
-  EX.filter(e=>e.year==S.year).forEach(e=>{const st=load(e.id),n=Object.keys(st).length,k=Object.values(st).filter(v=>v.c).length;
+  EX.filter(e=>String(e.year)===String(S.year)).forEach(e=>{const st=load(e.id),n=Object.keys(st).length,k=Object.values(st).filter(v=>v.c).length;
     h+='<button class="ex" data-e="'+e.id+'"><b>'+e.name+'</b><span>'+e.qs.length+' preguntas · '+k+' verificadas</span><div class="bar"><i style="width:'+(100*k/e.qs.length)+'%"></i></div></button>'});
   app.innerHTML=h+'</div>';
-  app.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>{S.year=b.dataset.y;home()});
+  app.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>{S.year=ys.find(y=>String(y)===b.dataset.y);home()});
   app.querySelectorAll('[data-e]').forEach(b=>b.onclick=()=>{S.ex=EX.find(e=>e.id==b.dataset.e);S.st=load(S.ex.id);S.i=0;S.review=false;S.timer=timerLoad(S.ex.id);timerResume();quiz()});
 }
 function quiz(){
