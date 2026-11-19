@@ -10,12 +10,12 @@ Banco: **326 preguntas en 22 áreas**; bloque adicional: **827 preguntas por añ
 - Esta prueba estructural **no** verifica por sí sola la exactitud médica de las respuestas.
 
 ## Estado de revisión bibliográfica del bloque de 326
-- **43** marcadas `validado` en el archivo de explicaciones tras la corrección de vascular periférico 1–3.
-- **26** identificadas como discutibles o con observaciones de ambigüedad/error, y pendientes de resolución definitiva.
-- **256** mantienen explicación genérica provisional y requieren revisión científica individual.
+- **56** marcadas `validado` en el archivo de explicaciones tras la corrección de vascular periférico 1–3.
+- **31** identificadas como discutibles o con observaciones de ambigüedad/error, y pendientes de resolución definitiva.
+- **238** mantienen explicación genérica provisional y requieren revisión científica individual.
 - **1** explicación individualizada sin clasificación inequívoca por los criterios de esta auditoría; revisar manualmente.
 
-*Estas categorías describen etiquetas y textos que aparecen en el código y no constituyen certificación clínica independiente de los 43 ítems.*
+*Estas categorías describen etiquetas y textos que aparecen en el código y no constituyen certificación clínica independiente de los 56 ítems.*
 
 ## Cambios de esta tanda
 1. `explicaciones.js`: actualización con justificación por alternativa y bibliografía en **Vascular Periférico preguntas 1, 2 y 3**; fuentes ACC/AHA 2024, WSES 2022, CIRSE 2025.
@@ -44,3 +44,9 @@ No declarar la validación de las 326 hasta revisar pregunta por pregunta: enunc
 - En traumatología 2 el gabarito original señalaba A; C puede ser mejor para tratamiento farmacológico de osteoporosis, pero sin población la pregunta no se califica.
 - Marcaciones acumuladas: 43 validadas, 26 discutibles, 256 con texto provisional y 1 con clasificación pendiente. Esto no es una certificación de corrección científica de todas las preguntas.
 - Commit: `05da15781143418b52b43a20ef572e39b36c095c`.
+
+## Quinta tanda: Psiquiatría y Salud Pública (19/11/2026)
+- Psiquiatría 1–4: 3 marcadas validadas, 1 discutible (depresión y aumento del apetito sí es posible). Ley 26.657 art. 23 aclarada. Síndrome de abstinencia alcohólica: destacar evaluación diferencial y benzodiazepinas/tiamina.
+- Salud Pública, Ética y Medicina Legal 1–14: 10 marcadas validadas, 4 discutibles (nº 3 antropometría, nº 5 screening adulto 28 años, nº 11 etapa de cambio tabáquico, nº 12 donación de órganos). Se corrigió contexto de consentimiento adolescente para VIH, confidencialidad y lesión gravísima según leyes argentinas.
+- Estado total: 56 validadas, 31 discutibles, 238 todavía provisionales y una clasificación manual pendiente (326 total). Etiquetas no sustituyen auditoría científica independiente.
+- Commits: `8a74d4f` psiquiatría; `958e849` salud pública.
