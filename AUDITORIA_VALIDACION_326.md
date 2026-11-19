@@ -10,12 +10,12 @@ Banco: **326 preguntas en 22 áreas**; bloque adicional: **827 preguntas por añ
 - Esta prueba estructural **no** verifica por sí sola la exactitud médica de las respuestas.
 
 ## Estado de revisión bibliográfica del bloque de 326
-- **37** marcadas `validado` en el archivo de explicaciones tras la corrección de vascular periférico 1–3.
-- **21** identificadas como discutibles o con observaciones de ambigüedad/error, y pendientes de resolución definitiva.
-- **267** mantienen explicación genérica provisional y requieren revisión científica individual.
+- **43** marcadas `validado` en el archivo de explicaciones tras la corrección de vascular periférico 1–3.
+- **26** identificadas como discutibles o con observaciones de ambigüedad/error, y pendientes de resolución definitiva.
+- **256** mantienen explicación genérica provisional y requieren revisión científica individual.
 - **1** explicación individualizada sin clasificación inequívoca por los criterios de esta auditoría; revisar manualmente.
 
-*Estas categorías describen etiquetas y textos que aparecen en el código y no constituyen certificación clínica independiente de los 37 ítems.*
+*Estas categorías describen etiquetas y textos que aparecen en el código y no constituyen certificación clínica independiente de los 43 ítems.*
 
 ## Cambios de esta tanda
 1. `explicaciones.js`: actualización con justificación por alternativa y bibliografía en **Vascular Periférico preguntas 1, 2 y 3**; fuentes ACC/AHA 2024, WSES 2022, CIRSE 2025.
@@ -36,3 +36,11 @@ No declarar la validación de las 326 hasta revisar pregunta por pregunta: enunc
 - Ictericia neonatal: se aclara la urgencia de descartar atresia biliar y la diferencia entre colestasis y etiología definitiva.
 - Recuento de marcaciones: 37 validadas, 21 discutibles, 267 provisionales y 1 ítem restante con clasificación manual pendiente.
 - Commits: histología `3f4dfa4`, dermatología `76073e6`.
+
+## Cuarta tanda: Traumatología, Urología y Oftalmología (19/11/2026)
+- 11 preguntas revisadas individualmente, cada una con explicación, distractores y fuente médica: traumatología 1–4; urología 1–3; oftalmología 1–4.
+- 6 con etiqueta `validado`: traumatología 1, 3, 4; urología 2; oftalmología 3, 4.
+- 5 con etiqueta `discutible`: traumatología 2 (prevención fractura de cadera sin población); urología 1 (Doppler nunca debe retrasar cirugía si sospecha alta), 3 (no se puede presumir ITS); oftalmología 1 (sífilis/TB/toxoplasmosis antes de inmunosupresión, según presentación), 2 (asociación queratocono/Sjögren no sustentada como opción universal).
+- En traumatología 2 el gabarito original señalaba A; C puede ser mejor para tratamiento farmacológico de osteoporosis, pero sin población la pregunta no se califica.
+- Marcaciones acumuladas: 43 validadas, 26 discutibles, 256 con texto provisional y 1 con clasificación pendiente. Esto no es una certificación de corrección científica de todas las preguntas.
+- Commit: `05da15781143418b52b43a20ef572e39b36c095c`.
