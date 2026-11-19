@@ -14,6 +14,7 @@ function timerRefresh(){const clock=document.getElementById('clock'),btn=documen
 setInterval(timerRefresh,500);
 
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function isProvisional(k){return !!(k&&/Revisar con bibliografía actualizada|todavía no se ha validado individualmente/i.test(k.why||''))}
 function needsReview(k){return !!(k&&(k.status==='discutible'||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
 function home(){
   timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year='Por especialidad';
@@ -38,14 +39,14 @@ function quiz(){
   h+='<div class="progress-line" role="progressbar" aria-label="Progreso del examen" aria-valuenow="'+done+'" aria-valuemin="0" aria-valuemax="'+e.qs.length+'"><span style="width:'+(100*done/e.qs.length)+'%"></span></div>';
   h+='<div class="timer"><span>⏱ Tiempo: <span class="timer-time" id="clock">'+timerFmt(timerMs())+'</span></span><button class="btn" id="timer-toggle">'+(S.timer?.running?'Pausar':'Retomar')+'</button><span class="timer-note">Tiempo efectivo de resolución</span></div>';
   h+='<div class="btns" style="margin:0 0 12px"><button class="btn" id="review">'+(S.review?'Mostrar todas las preguntas':'Revisar errores ('+wrong.length+')')+'</button></div>';
-  h+='<div class="card"><div class="qn">'+esc(e.name)+' · pregunta '+esc(q.n)+'</div>'+(needsReview(k)?'<span class="flag">⚠ Pregunta ambigua o clave discutible: no se califica</span>':'')+'<p class="qt">'+esc(q.q)+'</p>';
+  h+='<div class="card"><div class="qn">'+esc(e.name)+' · pregunta '+esc(q.n)+'</div>'+(needsReview(k)?'<span class="flag">⚠ '+(isProvisional(k)?'Respuesta pendiente de validación científica: no se califica':'Pregunta ambigua o clave discutible: no se califica')+'</span>':'')+'<p class="qt">'+esc(q.q)+'</p>';
   if(q.o.length<2)h+='<div class="fb warn">El PDF original trae esta pregunta incompleta (sin opciones legibles). Usá el texto como consigna abierta.</div>';
   q.o.forEach((t,j)=>{let c='opt';if(st.a===L[j])c+=' sel';
     if(st.c&&k&&k.a&&!needsReview(k)){if(L[j]===k.a)c+=' ok';else if(st.a===L[j])c+=' ko'}
     h+='<button class="'+c+'" data-o="'+L[j]+'" aria-label="Alternativa '+L[j]+'"'+(st.c?' disabled':'')+'><b>'+L[j]+'</b><span>'+esc(t)+'</span></button>'});
   if(q.o.length&&q.o.length<4)h+='<div class="note" style="margin-top:4px">Nota: el PDF muestra solo '+q.o.length+' opciones para esta pregunta.</div>';
   if(st.c){
-    if(k&&k.a){const ok=st.a===k.a,uncertain=needsReview(k);h+='<div class="fb '+(uncertain?'warn':ok?'ok':'ko')+'"><b>'+(uncertain?'Pregunta discutible: sin puntuación definitiva.':ok?'Correcto.':'Incorrecto.')+' '+(uncertain?'Clave propuesta (no evaluable): ':'Clave registrada: ')+esc(k.a)+'.</b><br>'+esc(k.why||'')+(k.src?'<br><i>'+(k.src_url?'Fuente consultada para esta corrección: ':'Referencia sugerida (sin verificación individual): ')+esc(k.src)+'</i>':'')+(k.src_url&&/^https:\/\//.test(k.src_url)?'<br><a href="'+esc(k.src_url)+'" target="_blank" rel="noopener noreferrer">Consultar fuente</a>':'')+'</div>'}
+    if(k&&k.a){const ok=st.a===k.a,uncertain=needsReview(k);h+='<div class="fb '+(uncertain?'warn':ok?'ok':'ko')+'"><b>'+(uncertain?(isProvisional(k)?'Respuesta aún no validada científicamente: sin puntuación definitiva.':'Pregunta discutible: sin puntuación definitiva.'):ok?'Correcto.':'Incorrecto.')+' '+(uncertain?'Clave propuesta (no evaluable): ':'Clave registrada: ')+esc(k.a)+'.</b><br>'+esc(k.why||'')+(k.src?'<br><i>'+(k.src_url?'Fuente consultada para esta corrección: ':'Referencia sugerida (sin verificación individual): ')+esc(k.src)+'</i>':'')+(k.src_url&&/^https:\/\//.test(k.src_url)?'<br><a href="'+esc(k.src_url)+'" target="_blank" rel="noopener noreferrer">Consultar fuente</a>':'')+'</div>'}
     else h+='<div class="fb warn">'+(k?'<b>Pregunta anulable.</b> '+esc(k.why)+(k.src?'<br><i>Fuente: '+esc(k.src)+'</i>':''):'Tu respuesta quedó registrada ('+(st.a||'—')+'). El gabarito con fundamento científico de esta pregunta todavía no está cargado.')+'</div>'}
   if(st.c&&k&&k.o&&Object.keys(k.o).length)h+='<div class="why"><b>Revisión de las otras alternativas</b>'+Object.keys(k.o).sort().map(l=>'<p><b>'+l+'.</b> '+esc(k.o[l])+'</p>').join('')+'</div>';
   h+='<p class="kbd">Atajos: teclas 1–5 para responder · ← / → para navegar. Las respuestas quedan bloqueadas después de elegir.</p>';
