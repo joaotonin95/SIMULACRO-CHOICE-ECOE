@@ -10,12 +10,12 @@ Banco: **326 preguntas en 22 áreas**; bloque adicional: **827 preguntas por añ
 - Esta prueba estructural **no** verifica por sí sola la exactitud médica de las respuestas.
 
 ## Estado de revisión bibliográfica del bloque de 326
-- **19** marcadas `validado` en el archivo de explicaciones tras la corrección de vascular periférico 1–3.
-- **18** identificadas como discutibles o con observaciones de ambigüedad/error, y pendientes de resolución definitiva.
-- **288** mantienen explicación genérica provisional y requieren revisión científica individual.
+- **25** marcadas `validado` en el archivo de explicaciones tras la corrección de vascular periférico 1–3.
+- **20** identificadas como discutibles o con observaciones de ambigüedad/error, y pendientes de resolución definitiva.
+- **280** mantienen explicación genérica provisional y requieren revisión científica individual.
 - **1** explicación individualizada sin clasificación inequívoca por los criterios de esta auditoría; revisar manualmente.
 
-*Estas categorías describen etiquetas y textos que aparecen en el código y no constituyen certificación clínica independiente de los 19 ítems.*
+*Estas categorías describen etiquetas y textos que aparecen en el código y no constituyen certificación clínica independiente de los 25 ítems.*
 
 ## Cambios de esta tanda
 1. `explicaciones.js`: actualización con justificación por alternativa y bibliografía en **Vascular Periférico preguntas 1, 2 y 3**; fuentes ACC/AHA 2024, WSES 2022, CIRSE 2025.
@@ -23,3 +23,9 @@ Banco: **326 preguntas en 22 áreas**; bloque adicional: **827 preguntas por añ
 
 ## Regla de cierre
 No declarar la validación de las 326 hasta revisar pregunta por pregunta: enunciado, opciones, respuesta, distractores y fuente primaria/guía vigente; marcar ítems desactualizados, incompletos o con más de una respuesta defendible. Validar además funcionamiento final del navegador y persistencia de puntuaciones.
+
+## Segunda tanda: Farmacología y Enfermería (19/11/2026)
+- Revisadas las ocho preguntas del área 20, con justificación por alternativa y bibliografía rastreable.
+- 6 marcadas como validadas (1, 2, 3, 5, 6 y 7); la nº 7 explica la coexistencia de dos mecanismos de amiodarona.
+- 2 marcadas como discutibles y sin puntuación definitiva: nº 4 (cálculo de vancomicina correcto, pero condiciones de infusión potencialmente inseguras) y nº 8 (faltan datos clínicos para elegir IECA/ARA-II como única primera línea).
+- Commit de preguntas: `408d7ae08afe5bb9dd356f11297c9a617d975d83`.
