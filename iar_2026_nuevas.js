@@ -327,3 +327,29 @@ C:"La ecografía transvaginal ayuda cuando hay sospecha de patología anexial o 
 D:"La TC sin contraste no es la elección habitual inicial para sospecha de apendicitis en un adulto cuando puede administrarse contraste; puede usarse en circunstancias especiales."
 }});
 })();
+
+/* Corrección clínica de ítems con mejor respuesta única recuperable (noviembre 2026). */
+(function(){
+const k=KEY["iar-2026-completo"];if(!k)return;
+Object.assign(k[37],{
+a:"B",status:"validado",calificable:true,
+why:"En una adulta de 27 años sin documentación vacunal se debe verificar inmunidad y completar triple viral (2 dosis documentadas, separadas al menos 4 semanas cuando corresponda), hepatitis B y esquema antitetánico con refuerzos según calendario argentino. Entre las alternativas, B es la única respuesta apropiada; otras vacunas se individualizan según antecedentes y riesgos.",
+o:{A:"Una sola dosis de triple viral puede ser insuficiente si no hay evidencia de esquema completo; la vacuna antigripal no reemplaza hepatitis B.",C:"Neumococo no es universal a los 27 años sin factores de riesgo y se omiten vacunas de recuperación esenciales.",D:"La vacuna antitetánica no se administra anualmente; HPV no es obligatoria para todas las personas de 30 años."},
+src:"Ministerio de Salud de Argentina, Calendario Nacional de Vacunación; CDC, Adult Immunization Schedule (criterios generales de recuperación).",
+src_url:"https://www.argentina.gob.ar/salud/vacunas"
+});
+Object.assign(k[38],{
+a:"C",status:"validado",calificable:true,
+why:"La anemia microcítica con ferritina 8 ng/mL confirma ferropenia. En paciente hemodinámicamente estable, el tratamiento inicial habitual es hierro oral y control de la causa del sangrado. La opción C es la única que aporta hierro oral, pero la frecuencia cada 8 horas es excesiva según recomendaciones modernas: se prefiere habitualmente una dosis diaria como máximo o días alternos, según tolerancia. Se puntúa la elección de la vía y del principio activo, no la pauta obsoleta.",
+o:{A:"Hb 8,9 g/dL en paciente estable no constituye por sí sola indicación de transfusión.",B:"El hierro IV se considera si hay intolerancia, mala absorción, falta de respuesta o necesidad de reposición rápida, no necesariamente como primera medida.",D:"El ácido fólico no corrige la ferropenia demostrada por ferritina baja."},
+src:"American Gastroenterological Association (AGA), Clinical Practice Update on Management of Iron Deficiency Anemia, 2024.",
+src_url:"https://gastrojournal.org/article/S0016-5085(24)00196-9/fulltext"
+});
+Object.assign(k[75],{
+a:"D",status:"validado",calificable:true,
+why:"Cefalea de reciente comienzo, claudicación mandibular y VSG elevada en una persona mayor son altamente sugestivas de arteritis de células gigantes. Entre las opciones, D es la única que reconoce el diagnóstico y plantea confirmación mediante ecografía Doppler y/o biopsia. ADVERTENCIA: la conducta clínica completa exige iniciar glucocorticoides inmediatamente, sin esperar estudios confirmatorios, para evitar pérdida visual.",
+o:{A:"La claudicación mandibular y los marcadores inflamatorios elevados no corresponden a migraña habitual.",B:"La RM por tumor no debe retrasar el tratamiento urgente de una sospecha de arteritis de células gigantes.",C:"Cefalea tensional no explica el conjunto de claudicación mandibular y VSG muy elevada."},
+src:"EULAR recommendations for imaging in large vessel vasculitis, 2023 update; ACR/VF guideline for giant cell arteritis.",
+src_url:"https://ard.bmj.com/content/83/6/741"
+});
+})();
