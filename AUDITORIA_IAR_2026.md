@@ -1,6 +1,6 @@
 # Auditoría del banco — Últimas IAR 2026
 
-**88 preguntas en el simulado; 67 con gabarito puntuable; 21 excluidas por ambigüedad, defectos del PDF o falta de evidencia suficiente.**
+**88 preguntas en el simulado; 70 con gabarito puntuable; 18 excluidas por ambigüedad, defectos del PDF o falta de evidencia suficiente.**
 
 > «Validado» indica el estado de la corrección integrada en el sitio; no implica revisión externa independiente de cada fuente. Las exclusiones no significan respuestas correctas o incorrectas.
 
@@ -49,8 +49,8 @@
 | 34 | validado | A | Sí | [Fuente](https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines) |
 | 35 | validado | C | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/NBK448095/) |
 | 36 | discutible | D | No | Sin enlace |
-| 37 | provisional | B | No | Sin enlace |
-| 38 | discutible | C | No | Sin enlace |
+| 37 | validado | B | Sí | [Fuente](https://www.argentina.gob.ar/salud/vacunas) |
+| 38 | validado | C | Sí | [Fuente](https://gastrojournal.org/article/S0016-5085(24)00196-9/fulltext) |
 | 39 | validado | B | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/NBK557819/) |
 | 40 | validado | B | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/?term=alveolar+type+I+type+II+pneumocytes) |
 | 41 | validado | C | Sí | [Fuente](https://www.idsociety.org/practice-guideline/mrsa/) |
@@ -87,7 +87,7 @@
 | 72 | validado | C | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/NBK430835/) |
 | 73 | validado | D | Sí | [Fuente](https://www.nice.org.uk/guidance/cg173) |
 | 74 | validado | C | Sí | [Fuente](https://www.facs.org/quality-programs/trauma/education/advanced-trauma-life-support/) |
-| 75 | discutible | D | No | Sin enlace |
+| 75 | validado | D | Sí | [Fuente](https://ard.bmj.com/content/83/6/741) |
 | 76 | validado | A | Sí | [Fuente](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Chronic-Coronary-Syndromes) |
 | 77 | validado | B | Sí | [Fuente](https://www.cancer.gov/about-cancer/diagnosis-staging/staging) |
 | 78 | validado | D | Sí | [Fuente](https://www.cdc.gov/traumatic-brain-injury/hcp/clinical-guidance/index.html) |
@@ -111,4 +111,4 @@
 
 ## Preguntas sin puntuación
 
-3, 6, 8, 20, 21, 22, 31, 36, 37, 38, 54, 55, 59, 63, 64, 67, 71, 75, 83, 84, 87
+3, 6, 8, 20, 21, 22, 31, 36, 54, 55, 59, 63, 64, 67, 71, 83, 84, 87
