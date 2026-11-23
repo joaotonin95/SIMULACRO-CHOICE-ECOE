@@ -54,3 +54,13 @@ Exclusões automáticas, que **não equivalem a 912 duplicatas confirmadas**:
 - Filtro no site: **Novas do PDF · por especialidade**.
 
 Commits: `e003e768dfdf142ed6a55236231415e68c84976a` e `1fe43a26431367db67426dfafd060e4dada42cd4`.
+
+## Auditoria semântica complementar — 23/11/2026
+
+Foi feita nova comparação dos 144 itens inicialmente importados contra as 1.153 questões anteriores, desta vez também com alternativas normalizadas (não apenas os enunciados). Uma duplicata clínica foi identificada: `pdf-novas-5`, questão 1 (paciente de 71 anos com diabetes/hipertensão, deficiência de eritropoietina), já presente em `area-14`, questão 11. A duplicata foi removida, e a numeração de Hematologia foi reajustada. Total atual: **143 novas questões**, **1.296 no site**.
+
+Também foram removidos 11 cabeçalhos de página que haviam contaminado alternativas em Ginecologia/Obstetrícia e dois rodapés de datas em outras especialidades. Foram encontrados outros casos com três alternativas iguais, mas enunciados clínicos diferentes, portanto não foram removidos automaticamente.
+
+**Pendência importante:** ainda não foi feita auditoria semântica individual de todos os 911 itens restantes (816 excluídos por similaridade, 87 por alternativas incompletas, 4 por repetição interna, 1 por chave e 4 por comprimento, menos 1 já recuperado como duplicata na revisão). O filtro textual conservador inicial não é prova de repetição; não se deve declarar que todos são duplicados nem importar sem revisão. A validade científica das 143 chaves do PDF continua pendente.
+
+Commits: `2904b193d895e52a86c41384f12cfd0c3d58638a` e `ab13eb7a325be19d8e00c1ade88f5f70b13e59a8`.
