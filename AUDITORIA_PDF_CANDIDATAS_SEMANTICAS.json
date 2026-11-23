@@ -1,0 +1,3860 @@
+{
+  "date": "2026-11-23",
+  "source": "Choices_Final_UAI.pdf 577 páginas",
+  "siteCount": 1296,
+  "total": 1056,
+  "classes": {
+    "MESMAS ALTERNATIVAS": 458,
+    "JÁ IMPORTADA": 149,
+    "REVISAR SEMELHANÇA MÉDIA": 101,
+    "PROVÁVEL REPETIÇÃO": 108,
+    "REVISAR SEMELHANÇA ALTA": 20,
+    "OPÇÕES INCOMPLETAS": 210,
+    "GABARITO NÃO UTILIZÁVEL": 6,
+    "BAIXA SEMELHANÇA TEXTUAL": 4
+  },
+  "candidates": [
+    {
+      "block": 1,
+      "especialidad": "Cirugía",
+      "n": 3,
+      "pagina": 2,
+      "q": "pregunta 38 (UAI AGOSTO 2025) varón de 74 años con fa crónica, no anticoagulado, acude por dolor abdominal intenso de 5hs de evolución. afebril, ta 95/65mmhg, fc aumentada. abdomen blando, sin defensa. se solicita laboratorio: leucocitosis, lactato 5 mmol/l ¿cuál es el próximo paso diagnostico más apropiado?",
+      "o": [
+        "ecografía doppler mesentérica",
+        "angiotac abdominal con contraste",
+        "endoscopia",
+        "radiografía de abdomen"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.317,
+      "comparacoes": [
+        {
+          "id": "area-22",
+          "n": 2,
+          "sim": 0.317,
+          "shared": 0,
+          "q": "Mujer de 70 años con FA crónica no anticoagulada, dolor abdominal intenso desproporcionado, náuseas, vómitos. Leucocitosis, acidosis metabólica, lactato elevado. ¿Diagnóstico?"
+        },
+        {
+          "id": "area-4",
+          "n": 15,
+          "sim": 0.282,
+          "shared": 0,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 4,
+          "sim": 0.264,
+          "shared": 0,
+          "q": "Un hombre de 28 años presenta dolor abdominal intenso en el cuadrante inferior derecho, fiebre y leucocitosis. ¿Cuál es el método de diagnóstico más adecuado?"
+        }
+      ]
+    },
+    {
+      "block": 1,
+      "especialidad": "Cirugía",
+      "n": 62,
+      "pagina": 15,
+      "q": "cuál de las siguientes afirmaciones respecto a la valoración del dolor abdominal en un anciano es cierta:",
+      "o": [
+        "Comparado con los jóvenes, en los pacientes ancianos son menos frecuentes problemas como la apendicitis o colecistitis.",
+        "Para una misma causa de abdomen agudo, los ancianos tienen el mismo pronóstico que los jóvenes.",
+        "Comparado con los jóvenes, los ancianos tienen menos dolor y sensibilidad a la palpación abdominal, pero es más probable que tengan fiebre y leucocitosis.",
+        "En los ancianos, la forma atípica de presentación de la enfermedad y el retraso en el diagnóstico conducen a una mayor mortalidad que en los jóvenes."
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.352,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 118,
+          "sim": 0.352,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con dolor abdominal?"
+        },
+        {
+          "id": "area-4",
+          "n": 15,
+          "sim": 0.258,
+          "shared": 0,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 79,
+          "sim": 0.229,
+          "shared": 0,
+          "q": "Se presenta a la consulta Luciano de 3 años junto su madre quien le cuenta lo siguiente: \"Luciano esta con diarrea hace como 2 meses, al principio me dijeron que era una gastroenteritis y que se le iba pasar. Pero la verdad que sigue con diarrea a ve"
+        }
+      ]
+    },
+    {
+      "block": 1,
+      "especialidad": "Cirugía",
+      "n": 67,
+      "pagina": 16,
+      "q": "un paciente de 58 años que ingreso a guardia por dolor en hipocondrio derecho y epigastrio que irradia a dorso, fiebre con escalofríos e ictericia de 24 hs de evolución, deterioro progresivamente su estado general por lo cual es internado en terapia intensiva. laboratorio: leucocitosis aumento de fosfatasa alcalina y bilirrubina. en la ecografía se encuentra vesícula litiasica no distendida con vía biliar de 13mm y páncreas normal. de acuerdo a su sospecha diagnostica cual es la conducta más adecuada?",
+      "o": [
+        "Antibióticos de amplio espectro por vía parenteral y control evolutivo",
+        "Colecistectomía laparoscopia con colocación de tubo de kehr",
+        "Tratamiento antibiótico y drenaje endoscópico de la vía biliar",
+        "Colecistectomía abierta con exploración de la vía biliar."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.3,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 1,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "Un hombre de 47 años consulta en la guardia por dolor abdominal de inicio súbito, localizado en el hipocondrio derecho, irradiado hacia el hombro derecho. El dolor comenzó tras la ingesta de una comida copiosa y grasosa. Refiere náuseas y vómitos bil"
+        },
+        {
+          "id": "area-4",
+          "n": 9,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "Hombre de 65 años, HTA y DM-2, dolor en hipocondrio derecho, fiebre 38.5°C. Ictericia, Murphy positivo, leucocitosis, bilirrubina elevada, dilatación biliar. ¿Diagnóstico más probable?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 27,
+          "sim": 0.285,
+          "shared": 0,
+          "q": "Un hombre de 55 años acude a la guardia con, dolor en hipocondrio derecho y fiebre. Ecografía: vesícula con pared de 1.5 mm, con cálculos múltiples el mayor de 4mm y colección sobre el hígado de 2 mm. ¿Cuál es el diagnóstico y conducta inicial adecua"
+        }
+      ]
+    },
+    {
+      "block": 1,
+      "especialidad": "Cirugía",
+      "n": 71,
+      "pagina": 17,
+      "q": "La colecistectomía laparoscópica tiene como ventaja sobre la colecistectomía por laparotomía:",
+      "o": [
+        "Permite conservar la vesícula.",
+        "La reducción de la estancia hospitalaria.",
+        "Es una técnica exenta de mortalidad.",
+        "No se asocia a lesiones de la vía biliar."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.303,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 45,
+          "sim": 0.303,
+          "shared": 0,
+          "q": "La colecistectomía por cirugía video laparoscópica esta contraindicada en:"
+        },
+        {
+          "id": "area-1",
+          "n": 27,
+          "sim": 0.216,
+          "shared": 0,
+          "q": "Paciente de 63 años con EPOC intervenido por colecistectomía laparoscópica. En el postoperatorio presenta ictericia, dolor en hipocondrio derecho y bilirrubina directa elevada. ¿Causa más probable?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 10,
+      "pagina": 46,
+      "q": "pregunta 74 pct. femenina de 20 años consulta a la guardia por dolor abdominal en fosa iliaca derecha de 48 horas de evolución, fiebre y nauseas. blumberg negativo, dolor a la palpación en fosa iliaca y flanco derechos, sin defensa. laboratorio gb 11.500/mm3. pcr 35mg/l, su normal. bhcg negativa. tac de abdomen sin contraste informa, engrosamiento de colon ascendente y transverso, ganglios mesentéricos aumentados de tamaño y numero. ¿cuál es el diagnostico más probable en esta paciente?",
+      "o": [
+        "enfermedad de crohn",
+        "adenitis mesentérica",
+        "apendicitis aguda.",
+        "linfoma abdominal."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.265,
+      "comparacoes": [
+        {
+          "id": "diciembre-2024",
+          "n": 11,
+          "sim": 0.265,
+          "shared": 1,
+          "q": "Un adolescente de 17 años es llevado a urgencias por dolor abdominal en el cuadrante inferior derecho. A la exploración presente fiebre, dolor a la palpación profunde en la fosa iliaca derecha, y signo de rebote positivo. ¿Cuál es el diagnostico más "
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 18,
+          "sim": 0.263,
+          "shared": 0,
+          "q": "Un paciente de 25 años consulta por un cuadro de fiebre con dolor abdominal a predominio de flanco y fosa iliaca derecha y diarrea sanguinolenta de 15 días de evolución. Refiere debilidad generalizada y artralgias en ambas muñecas en los últimos días"
+        },
+        {
+          "id": "abril-2022",
+          "n": 47,
+          "sim": 0.234,
+          "shared": 0,
+          "q": "Una mujer de 73 años consulta a la guardia por presentar dolor abdominal a predominio en fosa iliaca izquierda, fiebre y vómitos de 3 días de evolución. Al examen físico se encuentra con una TA: 140/90 mmHg FC: 104 lpm, T° 38,7 ºC, dolor a la palpaci"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 62,
+      "pagina": 56,
+      "q": "Un hombre de 73 años consulta a la guardia por distensión abdominal y vómitos sin eliminación de gases ni materia fecal. El estudio radiológico de abdomen muestra asas de intestino delgado distendidas con niveles hidroaéreos y aire en la vía biliar intrahepática (aerobilia). ¿Cuál es el diagnóstico más probable?",
+      "o": [
+        "Íleo biliar",
+        "Fistula gastroyeyunocolonica",
+        "Colecistitis gangrenosa",
+        "Cáncer de colon derecho con perforación intestinal"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.262,
+      "comparacoes": [
+        {
+          "id": "area-4",
+          "n": 17,
+          "sim": 0.262,
+          "shared": 0,
+          "q": "Mujer de 58 años con diarrea crónica y distensión abdominal (enfermedad celíaca). ¿Estudio diagnóstico?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 21,
+          "sim": 0.208,
+          "shared": 1,
+          "q": "Mujer de 78 años con demencia e institucionalizada es traída por sus cuidadores por dolor abdominal importante con deterioro del estado general y distensión abdominal. Analítica con leucocitosis, hematocrito elevado, insuficiencia renal y acidosis me"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 66,
+          "sim": 0.172,
+          "shared": 0,
+          "q": "Varón de 52 años con ictericia (coluria, acolia, prurito), sin cálculos en ecografía, CA 19-9 elevado. ¿Cuál es el diagnóstico probable y qué estudio realizar para confirmar?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 65,
+      "pagina": 57,
+      "q": "El porcentaje de recidiva post tratamiento de las varices esofágicas es, aproximadamente",
+      "o": [
+        "75%.",
+        "70%",
+        "80%",
+        "65%"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.27,
+      "comparacoes": [
+        {
+          "id": "area-1",
+          "n": 4,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "¿Cuál es el tratamiento de elección en un paciente que presenta una hernia inguinal recidiva?"
+        },
+        {
+          "id": "area-13",
+          "n": 4,
+          "sim": 0.208,
+          "shared": 0,
+          "q": "Mujer de 65 años con dolor post herpes zóster en dermatoma D6. ¿Tratamiento NO recomendable?"
+        },
+        {
+          "id": "area-6",
+          "n": 1,
+          "sim": 0.168,
+          "shared": 0,
+          "q": "Paciente de 17 años, asmático, edemas en miembros inferiores, oliguria. Post tratamiento con amoxicilina e ibuprofeno. HTA 150/100, hematíes dismórficos. ¿Diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 67,
+      "pagina": 57,
+      "q": "Un paciente de 70 años de edad acude al Servicio de Urgencias por dolor y distensión abdominal. Se encuentra como causa una obstrucción intestinal de origen tumoral. ¿En qué lugar del tracto digestivo se localizaría con mayor probabilidad el tumor responsable de la obstrucción?",
+      "o": [
+        "Colon ascendente.",
+        "Colon descendente.",
+        "Estómago",
+        "Ciego"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.506,
+      "comparacoes": [
+        {
+          "id": "area-1",
+          "n": 31,
+          "sim": 0.506,
+          "shared": 2,
+          "q": "Paciente de 70 años con obstrucción intestinal de origen tumoral. ¿En qué lugar del tracto digestivo se localiza con mayor frecuencia?"
+        },
+        {
+          "id": "area-4",
+          "n": 15,
+          "sim": 0.194,
+          "shared": 0,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        },
+        {
+          "id": "pdf-novas-3",
+          "n": 4,
+          "sim": 0.193,
+          "shared": 0,
+          "q": "una joven de 24 años sufre una caída de la bicicleta con traumatismo en la zona abdominal con el manillar. a las pocas horas del traumatismo, comienza con dolor intenso en hipocondrio izq, por lo que acude a consultar a un servicio de urgencias. a su"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 68,
+      "pagina": 57,
+      "q": "Un hombre de 57 años lo consulta por presentar episodios de epigastralgia, eructos, plenitud gástrica precoz con predominio postprandial y vómitos ocasionales de 3 meses de evolución, No presenta antecedentes de intolerancia gástrica ni dolor abdominal. En el Interrogatorio surge una disfagia leve para sólidos y perdida de 4-5 kg de peso en los últimos 8 meses (8% del peso corporal). ¿Cuál sería la conducta más adecuada?",
+      "o": [
+        "Colon por enema doble contraste",
+        "Fibroendoscopia digestiva alta",
+        "Consejos dietarios y control en 3 meses",
+        "Ecografía abdominal y dieta blanda hipograsa"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.273,
+      "comparacoes": [
+        {
+          "id": "area-4",
+          "n": 15,
+          "sim": 0.273,
+          "shared": 0,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        },
+        {
+          "id": "area-8",
+          "n": 27,
+          "sim": 0.252,
+          "shared": 0,
+          "q": "Luciano de 3 años con diarrea crónica de 2 meses, distensión abdominal, descenso de peso. ¿Cuál conducta NO sería prioridad?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 62,
+          "sim": 0.2,
+          "shared": 0,
+          "q": "¿Cuál sería la conducta más adecuada para una paciente de 52 años, menopaúsica? que consultó por metrorragia de 3 meses de evolución? Se le realizó histeroscopia y en el estudio citológico se informa hiperplasia con atipia."
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 69,
+      "pagina": 58,
+      "q": "Un paciente de 18 años consulta por astenia, adinamia y distensión abdominal de varias semanas de evolución. Asocia algunas deposiciones desligadas y le refiere que ha perdido peso, Asimismo, le comenta que días atrás tuvo una \"erupción en la espada\" con pequeñas \"ampollitas\" que desaparecieron sin tratamiento. Le muestra un laboratorio donde presenta anemia ferropénica. Ud. sospecha:",
+      "o": [
+        "Enfermedad celíaca.",
+        "Tumor gástrico.",
+        "Enfermedad de crohn.",
+        "Colitis ulcerosa"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.46,
+      "comparacoes": [
+        {
+          "id": "area-4",
+          "n": 4,
+          "sim": 0.46,
+          "shared": 1,
+          "q": "Paciente de 18 años con astenia, distensión abdominal, deposiciones desligadas, pérdida de peso y erupción vesicular en espalda. Anemia ferropénica. ¿Sospecha?"
+        },
+        {
+          "id": "area-14",
+          "n": 3,
+          "sim": 0.413,
+          "shared": 0,
+          "q": "Tratamiento de anemia ferropénica:"
+        },
+        {
+          "id": "area-12",
+          "n": 2,
+          "sim": 0.214,
+          "shared": 0,
+          "q": "Mujer de 25 años con LES, anemia hemolítica. ¿Hallazgos de laboratorio?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 75,
+      "pagina": 59,
+      "q": "en el diagnóstico de carcinoma hepatocelular, señale la respuesta correcta:",
+      "o": [
+        "El estudio histológico es obligatorio en todos los casos",
+        "En pacientes cirróticos el dx se puede realizar mediante técnicas de imagenes dinâmicas",
+        "En pacientes cirróticos el dx se puede realizar ante la sospecha clinica y niveles de alfa fetoproteina > 100ng/dl",
+        "La arteriografia es la única que demuestra de forma fiable la característica fundamental de este tumor que es la hipervascularización arterial"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.338,
+      "comparacoes": [
+        {
+          "id": "febrero-2024",
+          "n": 18,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "¿Cuál es el marcador más sensible del carcinoma hepatocelular?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 60,
+          "sim": 0.284,
+          "shared": 0,
+          "q": "¿Cuál es el principal factor de riesgo para el carcinoma hepatocelular?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 55,
+          "sim": 0.247,
+          "shared": 0,
+          "q": "En un ensayo clínico aleatorizado, controlado y con diseño doble-ciego se han administrado dosis crecientes de 10 mg, 20 mg, 50 mg y 100 mg de un nuevo fármaco en un total de 60 pacientes (15 pacientes por cada grupo de dosis), con el fin de establec"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 83,
+      "pagina": 60,
+      "q": "Fármaco que tiene efecto inespecífico:",
+      "o": [
+        "Ranitidina",
+        "Omeprazol",
+        "Metoclopramida",
+        "Sucralfato"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.378,
+      "comparacoes": [
+        {
+          "id": "area-19",
+          "n": 9,
+          "sim": 0.378,
+          "shared": 0,
+          "q": "La capacidad de un fármaco de producir efecto deseado en condiciones ideales de laboratorio:"
+        },
+        {
+          "id": "abril-2022",
+          "n": 12,
+          "sim": 0.342,
+          "shared": 0,
+          "q": "La capacidad de un fármaco de producir el efecto deseado en condiciones ideales de uso en un ensayo de laboratorio es lo que llamamos:"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 86,
+      "pagina": 61,
+      "q": "La enfermedad de Hirschsprung o Megacolon congénito: (UBA 2019)",
+      "o": [
+        "Puede estar asociada a una mutación del proto oncogén RET del cromosoma 10",
+        "Se asocia a una ausencia de células ganglionares en el plexo de Meissner y de Auerbach del intestino",
+        "Se asocia a una ausencia de fibras colinérgicas y adrenérgicas en el segmento intestinal afectado",
+        "No se asocia a un retraso en la emisión del meconio en el periodo neonatal"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.27,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 147,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un hallazgo característico de la enfermedad de Hirschsprung en recién nacidos?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 88,
+      "pagina": 61,
+      "q": "La causa más frecuente de cirrosis hepática es alcoholismo, ¿Cuál de las siguientes opciones también es una causa muy frecuente de cirrosis hepática?",
+      "o": [
+        "TBC",
+        "Virales",
+        "Sífilis",
+        "AINES"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.293,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 99,
+          "sim": 0.293,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes NO es causa probable de vértigo?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 14,
+          "sim": 0.248,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es la complicación metabólica más frecuente en el cancer?:"
+        },
+        {
+          "id": "julio-2024",
+          "n": 18,
+          "sim": 0.217,
+          "shared": 0,
+          "q": "¿Cuál sería la causa más frecuente de síndrome nefrótico en el adulto?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 105,
+      "pagina": 65,
+      "q": "Cual de los siguientes tiene el menor índice glicémico?",
+      "o": [
+        "Pure de papas",
+        "Arroz integral",
+        "Arroz carnaroli",
+        "Pan blanco"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.361,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 33,
+          "sim": 0.361,
+          "shared": 2,
+          "q": "¿Cuál de los siguientes alimentos tiene un índice glucémico más bajo?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 106,
+          "sim": 0.283,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de fiebre en un niño menor de 3 meses sin foco aparente?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 7,
+          "sim": 0.243,
+          "shared": 0,
+          "q": "Usted realiza el control de salud de un paciente de 30 años. No presenta antecedentes de importancia y esta asintomático. Su examen físico es normal, su índice de masa corporal es de 24 kg/m2 y una tensión arterial de 125/75 mm hg ¿Cuál de las siguie"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 106,
+      "pagina": 65,
+      "q": "Cuál de las siguientes afirmaciones respecto a la valoración del dolor abdominal agudo en el anciano es cierta?",
+      "o": [
+        "Comparado con los jóvenes, en los pacientes ancianos son menos frecuentes problemas como la apendicitis o colecistitis.",
+        "Para una misma causa de abdomen agudo, los ancianos tienen el mismo pronóstico que los jóvenes.",
+        "Comparado con los jóvenes, los ancianos tienen menos dolor y sensibilidad a la palpación abdominal, pero es más probable que tengan fiebre y leucocitosis.",
+        "En los ancianos, la forma atípica de presentación de la enfermedad y el retraso en el diagnóstico conducen a una mayor mortalidad que en los jóvenes."
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.337,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 118,
+          "sim": 0.337,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con dolor abdominal?"
+        },
+        {
+          "id": "area-4",
+          "n": 15,
+          "sim": 0.248,
+          "shared": 0,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 95,
+          "sim": 0.217,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes afirmaciones sobre la fisiopatología de la sepsis es correcta?"
+        }
+      ]
+    },
+    {
+      "block": 2,
+      "especialidad": "Digestivo",
+      "n": 107,
+      "pagina": 65,
+      "q": "Medicamento para tratamiento de hemorroides",
+      "o": [
+        "AINES",
+        "Diosmina + hisperidina",
+        "Anestésicos locales",
+        "Crema con corticoides"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.302,
+      "comparacoes": [
+        {
+          "id": "diciembre-2022",
+          "n": 23,
+          "sim": 0.302,
+          "shared": 0,
+          "q": "Un paciente consulta por episodios reiterados de proctorragia y dolor defecatorio. El estudio anoscópico informa hemorroides que prolapsan a bajos esfuerzos y requieren reducción manual. ¿Qué grado de hemorroides presenta el paciente y cuál es el tra"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 1,
+      "pagina": 135,
+      "q": "pregunta 88 a qué edad debe realizarse el rastreo de cáncer de cuello uterino con pap y test de hpv respectivamente?",
+      "o": [
+        "mayor de 21 años y mayor de 30 años",
+        "mayor de 25 y mayor de 30 años",
+        "mayor de 30 años para ambos.",
+        "a partir del inicio de relaciones sexuales."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.314,
+      "comparacoes": [
+        {
+          "id": "area-7",
+          "n": 5,
+          "sim": 0.314,
+          "shared": 0,
+          "q": "¿Cuál es una medida de prevención primaria del cáncer de cuello uterino?"
+        },
+        {
+          "id": "febrero-2024",
+          "n": 27,
+          "sim": 0.138,
+          "shared": 0,
+          "q": "¿En relación a la clasificación postparto de Diabetes Gestacional, según el cuál es el método diagnóstico y en qué momento debe realizarse?"
+        },
+        {
+          "id": "febrero-2024",
+          "n": 64,
+          "sim": 0.129,
+          "shared": 0,
+          "q": "La aplicación de Gammaglobulina anti-D a puérperas Rh negativas con hijo Rh positivo debe realizarse dentro de las primeras:"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 2,
+      "pagina": 135,
+      "q": "pregunta 89 ante que patología está contraindicada la lactancia materna?",
+      "o": [
+        "galactosemia",
+        "fenilcetonuria.",
+        "ictericia fisiológica.",
+        "prematurez"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.489,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 33,
+          "sim": 0.489,
+          "shared": 0,
+          "q": "¿En cuál de las siguientes circunstancias está contraindicada la lactancia materna?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 38,
+          "sim": 0.241,
+          "shared": 0,
+          "q": "Marina, de 15 días de vida, es traída por su madre para realizar el primer control en salud. El embarazo fue controlado, sin complicaciones. Nació de 39 semanas con un peso de 3400 gr. Alta conjunta a las 48 horas y se alimenta con lactancia materna "
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 75,
+          "sim": 0.239,
+          "shared": 0,
+          "q": "Marina, de 15 días de vida, es traída por su madre, para realizar el primer control en salud. El embarazo fue controlado, sin complicaciones. Nació de 39 semanas con un peso de 3400 gr. Alta conjunta a les 48 horas y se alimenta con lactancia materna"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 7,
+      "pagina": 136,
+      "q": "pregunta 95 paciente de 22 años con amenorrea de 9 semanas, nauseas intensas y sangrado vaginal. al examen: útero aumentado a tamaño compatible con 14 semanas. eco transvaginal: imagen en ¨conos de nieve¨, sin embrión visible. beta hcg 180.000 ui/ml. cual es el diagnóstico más probable?",
+      "o": [
+        "mola hidatiforme completa",
+        "mola parcial.",
+        "embarazo múltiple.",
+        "embarazo ectópico."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.426,
+      "comparacoes": [
+        {
+          "id": "area-7",
+          "n": 28,
+          "sim": 0.426,
+          "shared": 0,
+          "q": "Embarazada de 36 semanas, shock con TA 80/40, pulso 120, sin sangrado vaginal, útero con tono aumentado. ¿Diagnóstico más probable?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 40,
+          "sim": 0.306,
+          "shared": 0,
+          "q": "Mujer de 33 años acude por amenorrea de 8 semanas, dolor abdominal leve y sangrado vaginal escaso. Ecografía transvaginal muestra saco gestacional sin actividad cardíaca en el útero. ¿Cuál es el diagnóstico más probable y el manejo inicial?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 33,
+          "sim": 0.289,
+          "shared": 0,
+          "q": "Una paciente embarazada de 36 semanas de gestación es admitida a la sala de emergencias con un cuadro de shock con una tensión arterial de 80/40, con pulso materno de 120, sin sangrado vaginal y útero con tono aumentado. ¿cuál es el diagnostico proba"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 31,
+      "pagina": 141,
+      "q": "Embarazada primigesta de 19 años se presenta a la consulta con el siguiente cuadro: amenorrea de 34 semanas, presión arterial 150/100, intenso dolor abdominal espontaneo, útero hipertónico que no relaja y no permite la palpación de las partes fetales, abdomen blando depresible e indoloro a la palpación, cuello centralizado, totalmente borrado de 4 a 5cmde dilatación, membranas ovulares integras, presentación cefálica móvil. Frente a este cuadro, ¿Cuál de los diagnóstico que mencionan a continuación es el más correcto? (Similar prevalentes 1)",
+      "o": [
+        "Placenta previa oclusiva total.",
+        "Desprendimiento prematuro de placenta normoinserta",
+        "Rotura de vasa previa",
+        "Rotura uterina"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.493,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 40,
+          "sim": 0.493,
+          "shared": 0,
+          "q": "Embarazada primigesta de 19 años se presenta a la consulta con el siguiente cuadro: amenorrea de 34 semanas, presión arterial 150/100, útero hipertónico que no relaja y no responde a tocólisis, ausencia de latidos fetales, abdomen blando depresible e"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 65,
+          "sim": 0.206,
+          "shared": 0,
+          "q": "¿Cuál es el diagnóstico más probable de una mujer embarazada en 38 semanas de gestación, que cursa cuarto embarazo y consulta por dolor abdominal intenso acompañado de sangrado vaginal? En el examen físico el útero en encuentra tenso y no se ausculta"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 11,
+          "sim": 0.205,
+          "shared": 0,
+          "q": "¿Cómo se denomina la relación de las partes fetales entre sí?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 76,
+      "pagina": 150,
+      "q": "En relación al manejo de una embarazada con diagnóstico de infección por el VIH, según la Guía de “Prevención de la transmisión vertical de Sífilis, HBV y VIH” ¿Cuándo debe realizarse el dosaje de carga viral (CV)?",
+      "o": [
+        "En la 2da consulta, repetir entre la semana 30 y 33, y después de las 36 semanas para definir vía de parto.",
+        "En la 1era consulta, repetir entre la semana 30 y 33, y después de las 36 semanas para definir vía de parto.",
+        "En la 2da consulta, repetir entre la semana 24 y 28, y después de las 34 semanas para definir vía de parto.",
+        "En la 1era consulta, repetir entre la semana 24 y 28, y después de las 34 semanas para definir vía de parto."
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.347,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 25,
+          "sim": 0.347,
+          "shared": 0,
+          "q": "En una mujer embarazada con control prenatal, usted recibe un primer tamizaje que informa no reactivo para HIV. Ante la sospecha de un posible periodo ventana, según la guía de “prevención de la transmisión vertical de sífilis, HBV y HIV” ¿Cuándo deb"
+        },
+        {
+          "id": "febrero-2024",
+          "n": 27,
+          "sim": 0.248,
+          "shared": 0,
+          "q": "¿En relación a la clasificación postparto de Diabetes Gestacional, según el cuál es el método diagnóstico y en qué momento debe realizarse?"
+        },
+        {
+          "id": "area-9",
+          "n": 22,
+          "sim": 0.24,
+          "shared": 0,
+          "q": "¿Infección oportunista que NO aparece en VIH+ con más de 200 CD4?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 80,
+      "pagina": 151,
+      "q": "Concurre al servicio de emergencias una mujer de 20 años, secundigesta, cesárea anterior, cursando embarazo de 34 semanas, por presentar dolor hipogástrico intenso de aparición súbita acompañado de sangrado escaso oscuro por genitales externos. Al examen clínico la paciente se presenta con TA 150/100 mm hg, tono uterino aumentado, frecuencia cardiaca fetal 90 latidos por minuto, frecuencia cardiaca materna 100 latidos por minuto con palpación uterina dolorosa. ¿Cuál es su presunción diagnóstica? *",
+      "o": [
+        "Rotura uterina.",
+        "Placenta previa sangrante.",
+        "Rotura de vasa previa.",
+        "Desprendimiento prematuro de placenta normoinserta."
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.333,
+      "comparacoes": [
+        {
+          "id": "pdf-novas-4",
+          "n": 11,
+          "sim": 0.333,
+          "shared": 2,
+          "q": "Usted se encuentra asistiendo el trabajo de parto de una mujer embarazada de término con antecedente de 1 cesárea previa. Al examen la paciente presenta 1 contracción cada 3 minutos de 45 segundo de duración, tono uterino normal, frecuencia cardiaca "
+        },
+        {
+          "id": "febrero-2024",
+          "n": 100,
+          "sim": 0.278,
+          "shared": 1,
+          "q": "Paciente de 17 años, primigesta, actualmente cursa un embarazo de 32 semanas. Acude a la guardia por presentar metrorragia, dolor uterino, tono uterino aumentado, TA 145/100 y bradicardia fetal. ¿En cuál diagnóstico sospecharía?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 65,
+          "sim": 0.215,
+          "shared": 0,
+          "q": "¿Cuál es el diagnóstico más probable de una mujer embarazada en 38 semanas de gestación, que cursa cuarto embarazo y consulta por dolor abdominal intenso acompañado de sangrado vaginal? En el examen físico el útero en encuentra tenso y no se ausculta"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 84,
+      "pagina": 152,
+      "q": "Una paciente de 35 años, G1, con embarazo de 39 semanas se encuentra en sala de partos. Al examen presenta dilatación completa, bolsa rota, presentación cefálica en III plano de Hodge. Se constata bradicardia fetal sostenida. ¿Cuál es la conducta más adecuada? *",
+      "o": [
+        "Reanimación intrauterina y realizar cesárea abdominal.",
+        "Reanimación intrauterina y conducta expectante.",
+        "Realizar toma de Fórceps.",
+        "Cesárea abdominal."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.409,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 31,
+          "sim": 0.409,
+          "shared": 1,
+          "q": "Una paciente de 30 años, G3P2, cursando embarazo de 39 semanas, consulta a guardia por contracciones uterinas. Al examen físico se constatan latidos cardíacos fetales 140 por minuto, dinámica uterina 3/10'/35'', tono uterino normal. Al tacto vaginal "
+        },
+        {
+          "id": "febrero-2023",
+          "n": 43,
+          "sim": 0.294,
+          "shared": 0,
+          "q": "Una mujer que se encuentra en la semana 38 de su embarazo concurre a la guardia por presentar cefalea. Al examen físico se constata una TA 140/90 mmHg FC 80 lpm, dinámica uterina 3/10´/30´´ , FC fetal 140 lpm, presentación cefálica, tacto vaginal con"
+        },
+        {
+          "id": "abril-2022",
+          "n": 81,
+          "sim": 0.249,
+          "shared": 0,
+          "q": "Una mujer con infección por VIH en tratamiento antirretroviral, cursa embarazo a término y presenta contracciones desde hace 2 horas. En el examen físico se constatan movimientos fetales positivos, frecuencia cardiaca fetal de 150 latidos por minuto,"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 85,
+      "pagina": 152,
+      "q": "Cuál de los siguientes MACs es el de menor efectividad?",
+      "o": [
+        "DIU.",
+        "ACO.",
+        "Preservativo masculino.",
+        "Diafragma"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.283,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 106,
+          "sim": 0.283,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de fiebre en un niño menor de 3 meses sin foco aparente?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 86,
+      "pagina": 152,
+      "q": "Concurre a la guardia una mujer de 26 años cursando su primer embarazo de 38 semanas por presentar contracciones. Se trata de una gestacion gemelar doble, bicorial biamniótico con ambos fetos en presentacion cefálica y buena vitalidad. Al examen obstétrico se encuentra en trabajo de parto, con el cuello uterino borrado y 7 cm de dilatación, membranas ovulares íntegras y buena dinámica uterina. ¿Cuál es la conducta más adecuada? *",
+      "o": [
+        "Cesárea de urgencia",
+        "Inducción del parto",
+        "Conducción del parto",
+        "Esperar el parto espontáneo"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.341,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 31,
+          "sim": 0.341,
+          "shared": 0,
+          "q": "Una paciente de 30 años, G3P2, cursando embarazo de 39 semanas, consulta a guardia por contracciones uterinas. Al examen físico se constatan latidos cardíacos fetales 140 por minuto, dinámica uterina 3/10'/35'', tono uterino normal. Al tacto vaginal "
+        },
+        {
+          "id": "febrero-2023",
+          "n": 43,
+          "sim": 0.306,
+          "shared": 0,
+          "q": "Una mujer que se encuentra en la semana 38 de su embarazo concurre a la guardia por presentar cefalea. Al examen físico se constata una TA 140/90 mmHg FC 80 lpm, dinámica uterina 3/10´/30´´ , FC fetal 140 lpm, presentación cefálica, tacto vaginal con"
+        },
+        {
+          "id": "abril-2022",
+          "n": 81,
+          "sim": 0.247,
+          "shared": 0,
+          "q": "Una mujer con infección por VIH en tratamiento antirretroviral, cursa embarazo a término y presenta contracciones desde hace 2 horas. En el examen físico se constatan movimientos fetales positivos, frecuencia cardiaca fetal de 150 latidos por minuto,"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 87,
+      "pagina": 152,
+      "q": "Cuál es el valor normal de la frecuencia cardiaca fetal? *",
+      "o": [
+        "100-140 latidos por minuto.",
+        "120-170 latidos por minuto.",
+        "110-160 latidos por minuto.",
+        "60-90 latidos por minuto."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.424,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 33,
+          "sim": 0.424,
+          "shared": 0,
+          "q": "¿Cuál es la conducta más adecuada con una mujer de 19 años, nulípara, que cursa 33 semanas de gestación, que durante el control gestacional se constata TA 150/100 mmHg, y el valor se repite 30 minutos después? No ha presentado ginecorragia ni rotura "
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 11,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "Usted se encuentra asistiendo el trabajo de parto de una mujer embarazada de término con antecedente de 1 cesárea previa. Al examen la paciente presenta 1 contracción cada 3 minutos de 45 segundo de duración, tono uterino normal, frecuencia cardiaca "
+        },
+        {
+          "id": "abril-2022",
+          "n": 81,
+          "sim": 0.334,
+          "shared": 0,
+          "q": "Una mujer con infección por VIH en tratamiento antirretroviral, cursa embarazo a término y presenta contracciones desde hace 2 horas. En el examen físico se constatan movimientos fetales positivos, frecuencia cardiaca fetal de 150 latidos por minuto,"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 90,
+      "pagina": 153,
+      "q": "En la evaluación de los factores de riesgo para desarrollar una restricción de crecimiento intrauterino, existen factores preconcepcionales, concepcionales y ambientales. ¿Cuál de las siguientes opciones corresponde a un factor concepcional?",
+      "o": [
+        "Anemia",
+        "Tabaquismo",
+        "Estrés",
+        "Extremos de la vida reproductiva"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.278,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 124,
+          "sim": 0.278,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo de la meningitis en niños?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 127,
+          "sim": 0.278,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo de la depresión en adolescentes?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 132,
+          "sim": 0.278,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo del autismo en niños?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 93,
+      "pagina": 154,
+      "q": "Ingresa por guardia una mujer cursando embarazo de 30 semanas, refiriendo que está perdiendo líquido claro por sus genitales desde el día de ayer. Al examen se constata feto vivo, salida de líquido amniótico con fetidez, temperatura axilar de 39 grados, frecuencia cardiaca materna 110 latidos por minuto. El examen de laboratorio informa leucocitosis, eritrosedimentacion acelerada y PCR reactiva. ¿Cuál es la conducta más adecuada?",
+      "o": [
+        "Control ambulatorio, antibióticos, antitérmicos y manejo expectante",
+        "Internación, cultivos, antibióticos, uteroinhibición parenteral y maduración pulmonar fetal con corticoides",
+        "Internación, antibióticos, ecografía, control de laboratorio cada 72 horas y finalizar el embarazo a la semana 34",
+        "Internación, antibióticos y finalización del embarazo"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.333,
+      "comparacoes": [
+        {
+          "id": "area-7",
+          "n": 25,
+          "sim": 0.333,
+          "shared": 0,
+          "q": "Paciente G3P2, 37 semanas, pérdida de líquido por genitales. Presentación pelviana, líquido amniótico claro. ¿Conducta?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 39,
+          "sim": 0.288,
+          "shared": 0,
+          "q": "Una paciente de 34 años, G3P2, cursa embarazo de 37 semanas. Consulta a la guardia por pérdida de líquido claro, inoloro, TA 110/60 mmHg, FC 84 por minuto, temperatura axilar 36,4 °C, dinámica uterina ausente, tono uterino normal, movimientos fetales"
+        },
+        {
+          "id": "abril-2022",
+          "n": 15,
+          "sim": 0.283,
+          "shared": 0,
+          "q": "Una mujer de 20 años. G1. cursando embarazo de 33 semanas. concurre a guardia por pérdida de líquido claro por genitales de 2 horas de evolución. Al examen físico presenta temperatura de 36,4 ºC. y se constata por especuloscopía salida de líquido cla"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 98,
+      "pagina": 155,
+      "q": "El uso del DIU (dispositivo intrauterino) está contraindicado (categoría 4) en una de las siguientes condiciones:",
+      "o": [
+        "Edad menos a 18 anos",
+        "Nuliparidad",
+        "Enfermedad trofoblastica maligna",
+        "Cesárea previa"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.405,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 95,
+          "sim": 0.405,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es un criterio de elegibilidad 4 para el uso de DIU?"
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 15,
+          "sim": 0.271,
+          "shared": 0,
+          "q": "Cuál de las siguientes condiciones NO es categoría 4 de los criterios de elegibilidad de la OMS para los anticonceptivos combinados? (ACO)"
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 26,
+          "sim": 0.203,
+          "shared": 0,
+          "q": "una paciente de 23 años consulta por dolor pelviano, flujo genital y fiebre. tiene colocado un dispositivo intrauterino (diu) como método anticonceptivo. presenta 38 de temp axilar y en el examen ginecológico se tacta el útero y anexo derechos doloro"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 99,
+      "pagina": 155,
+      "q": "Concurre a la guardia una mujer cursando 38 semanas de su primer embarazo, por presentar perdida de líquido amniótico de 2 horas de evolución. Al examen físico se conta buena vitalidad fetal, sin dinámica uterina, afebril, normotensa. En el tacto se aprecia cuello posterior, formado, cerrado. ¿Cuál es la conducta más adecuada?",
+      "o": [
+        "Monitoreo fetal, laboratorio y conducta expectante",
+        "Internación, cultivos, antibiótico y cesárea de urgencia",
+        "Internación, cultivos, antibióticos y esperar el inicio espontaneo del parto",
+        "Internación y terminación del embarazo"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.404,
+      "comparacoes": [
+        {
+          "id": "diciembre-2024",
+          "n": 67,
+          "sim": 0.404,
+          "shared": 0,
+          "q": "Una paciente de 34 años, G3P2, cursa embarazo de 37 semanas. Consulta a a la guardia por pérdida de líquido por genitales externos de 2 horas de evolución. Al examen, lucida, TA 110/60 m, FC 84 por minuto, temperatura axilar 36,4 °C, dinámica uterina"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 32,
+          "sim": 0.4,
+          "shared": 0,
+          "q": "Una paciente de 34 años, G3P2, cursa embarazo de 37 semanas. Consulta a la guardia por pérdida de líquido por genitales externos de 2 horas de evolución. Al examen, lúcida, TA 110/60 mmHg, FC 84 por minuto, temperatura axilar 36,4°C. Dinámica uterina"
+        },
+        {
+          "id": "abril-2022",
+          "n": 15,
+          "sim": 0.365,
+          "shared": 0,
+          "q": "Una mujer de 20 años. G1. cursando embarazo de 33 semanas. concurre a guardia por pérdida de líquido claro por genitales de 2 horas de evolución. Al examen físico presenta temperatura de 36,4 ºC. y se constata por especuloscopía salida de líquido cla"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 100,
+      "pagina": 155,
+      "q": "Se presenta a la guardia una mujer joven con dolor en fosa ilíaca derecha y fiebre. ¿Cuál debe ser el primer método diagnóstico de elección a solicitar?",
+      "o": [
+        "Ecografía abdominal pelviana.",
+        "La radiografía simple de abdomen",
+        "La ecografía transvaginal",
+        "La tomografía computarizada sin contraste IV"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.284,
+      "comparacoes": [
+        {
+          "id": "diciembre-2024",
+          "n": 11,
+          "sim": 0.284,
+          "shared": 0,
+          "q": "Un adolescente de 17 años es llevado a urgencias por dolor abdominal en el cuadrante inferior derecho. A la exploración presente fiebre, dolor a la palpación profunde en la fosa iliaca derecha, y signo de rebote positivo. ¿Cuál es el diagnostico más "
+        },
+        {
+          "id": "febrero-2024",
+          "n": 62,
+          "sim": 0.28,
+          "shared": 0,
+          "q": "Paciente de 32 años sin antecedentes relevantes que ingresa a la guardia del hospital por un cuadro de 12 horas de evolución, caracterizado por dolor en la fosa ilíaca derecha de intensidad 8/10. ¿Cuál de los siguientes signos le indicaría a usted qu"
+        },
+        {
+          "id": "julio-2024",
+          "n": 4,
+          "sim": 0.251,
+          "shared": 0,
+          "q": "Un hombre de 28 años presenta dolor abdominal intenso en el cuadrante inferior derecho, fiebre y leucocitosis. ¿Cuál es el método de diagnóstico más adecuado?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 109,
+      "pagina": 157,
+      "q": "Qué método anticonceptivo (MAC) sería el más apropiado y efectivo para una mujer que tiene 18 años, es soltera y no tiene pareja estable. Como antecedentes de importancia, tiene una ligera anemia ferropénica (probablemente debida a las alteraciones frecuentes del ciclo: hipermenorrea, Dismenorrea, es fumadora de 20 cigarrillos diarios y refiere cefaleas tensionales esporádicas).",
+      "o": [
+        "ACO anticonceptivos orales combinados.",
+        "DIU.",
+        "Anticonceptivo oral sólo progestágeno (Minipíldora y Desogestrel)",
+        "Acetato de Medroxiprogesterona de Depósito (anticonceptivo sólo de progestágeno inyectable trimestral)."
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.28,
+      "comparacoes": [
+        {
+          "id": "area-14",
+          "n": 3,
+          "sim": 0.28,
+          "shared": 0,
+          "q": "Tratamiento de anemia ferropénica:"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 84,
+          "sim": 0.162,
+          "shared": 0,
+          "q": "que practicas preventivas corresponden a una paciente mujer de 70 años no fumadora sin antecedentes de importancia con controles de salud al día."
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 16,
+          "sim": 0.147,
+          "shared": 0,
+          "q": "Una joven de 16 años consulta para control de salud y manifiesta que quiere cuidarse porque está en pareja. No tiene antecedentes y no utiliza método anticonceptivo. ¿Cuál es la conducta adecuada para el abordaje de su salud sexual y reproductiva?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 114,
+      "pagina": 158,
+      "q": "Una paciente de 57 años, con diagnóstico de carcinoma de mama, presenta en cuadrante superoexterno de mama izquierda nódulo de 2 cm de diámetro, consistencia duro pétrea, mama derecha sin particularidades, axilas libres. No se evidencian metástasis a distancia. ¿Cuál es la conducta inicial más adecuada?",
+      "o": [
+        "Quimioterapia neoadyuvante",
+        "Tumorectomía con ganglio centinela",
+        "Tumorectomía con linfadenectomía axilar",
+        "Mastectomía radical modificada"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.26,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 31,
+          "sim": 0.26,
+          "shared": 0,
+          "q": "Una paciente de 4 años concurre a control ginecológico. Como antecedentes heredofamiliares refiere que la madre falleció a los 60 años con diagnóstico de cáncer de mama. Al examen físico, presenta formación nodular en cuadrante superoexterno de mama "
+        },
+        {
+          "id": "area-7",
+          "n": 4,
+          "sim": 0.229,
+          "shared": 0,
+          "q": "¿Qué se denomina carcinoma oculto de la mama?"
+        },
+        {
+          "id": "area-7",
+          "n": 29,
+          "sim": 0.203,
+          "shared": 0,
+          "q": "Paciente G2P1, 10 semanas, glucemia en ayunas 105 mg/dl. Sin antecedentes de diabetes. ¿Conducta inicial?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 116,
+      "pagina": 158,
+      "q": "cuál es la conducta adecuada con un adolescente de 16 años que consulta porque ha tenido relaciones sin uso del preservativo y quiere realizarse serología de vih (virus de la inmunodeficiencia humana)? único 2017- 57",
+      "o": [
+        "Pedir serología de vih previo consentimiento informado de los padres.",
+        "Aconsejar no realizar la serología en este momento y brindar consejería sobre uso del preservativo.",
+        "Pedir serología de vih previo consentimiento informado de los padres y del adolescente.",
+        "Pedir serología de vih previo consentimiento informado del adolescente."
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.306,
+      "comparacoes": [
+        {
+          "id": "area-19",
+          "n": 2,
+          "sim": 0.306,
+          "shared": 0,
+          "q": "Paciente de 16 años, preservativo rompió. ¿Conducta?"
+        },
+        {
+          "id": "area-3",
+          "n": 8,
+          "sim": 0.179,
+          "shared": 0,
+          "q": "Paciente COVID, dímero-D de 750 y PaFi en 112 con ARM. ¿Conducta adecuada?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 16,
+          "sim": 0.169,
+          "shared": 0,
+          "q": "Una joven de 16 años consulta para control de salud y manifiesta que quiere cuidarse porque está en pareja. No tiene antecedentes y no utiliza método anticonceptivo. ¿Cuál es la conducta adecuada para el abordaje de su salud sexual y reproductiva?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 124,
+      "pagina": 160,
+      "q": "¿Cuáles de los siguientes factores no es un factor de riesgo para desprendimiento prematuro de placenta normalmente inserta?",
+      "o": [
+        "Nuliparidad",
+        "Tabagismo",
+        "Hipofibrinogenemia congênita",
+        "Presencia del anticoagulante lupico en sangre"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.337,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 124,
+          "sim": 0.337,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo de la meningitis en niños?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 127,
+          "sim": 0.337,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo de la depresión en adolescentes?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 132,
+          "sim": 0.337,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo del autismo en niños?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 128,
+      "pagina": 161,
+      "q": "una paciente de 45 años consulta porque en una mamografía se le informa que presenta múltiples calcificaciones agrupadas menores a 2 mm de diámetro, irregulares distribuidas en el cuadrante superior externo de la mama. ¿cuál es la conducta inicial más adecuada ¿",
+      "o": [
+        "Control mamográfico en 6 meses",
+        "Completar estudio con ecografía mamaria",
+        "Punción biopsia histológica",
+        "Cuadrantectomia de mama derecha"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.286,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 44,
+          "sim": 0.286,
+          "shared": 0,
+          "q": "Una paciente de 46 años acude a control ginecológico. Como antecedentes heredofamiliares refiere que su madre falleció a los 60 años con diagnóstico de cáncer de mama. Al examen físico, presenta una formación nodular en el cuadrante superior externo "
+        },
+        {
+          "id": "febrero-2023",
+          "n": 70,
+          "sim": 0.208,
+          "shared": 0,
+          "q": "¿con cuál de las siguientes imágenes mamográficas le solicitaría una biopsia mamaria a una paciente de 60 años que consulta por dolor en el cuadrante superior externo de mama izquierda y que tiene una mamografía realizada hace un año con aumento de l"
+        },
+        {
+          "id": "area-8",
+          "n": 20,
+          "sim": 0.205,
+          "shared": 0,
+          "q": "Santino de 3 años con vómitos y diarrea de 48hs. ¿Conducta inicial?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 144,
+      "pagina": 165,
+      "q": "Consulta a la guardia una mujer embarazada de 28 semanas de edad gestacional, con diagnóstico de tuberculosis pulmonar. ¿Según la “guía de prevención y tratamiento de las infecciones congénitas y perinatales”, cual es la conducta más adecuada? (Municipalidad 2018)",
+      "o": [
+        "Indicar tratamiento materno con Isoniazida, rifampicina, etambutol y pirazinamida y suplementar con piridoxina; En el posparto contraindicar lactancia y suplementar al recién nacido con piridoxina",
+        "Indicar tratamiento materno con isoniazida, rifampicina, etambutol y pirazinamida y suplementar con piridoxina; En el postparto permitir lactancia con quimioprofilaxis y suplementar con piridoxina al recién nacido.",
+        "Indicar tratamiento materno con isoniazida, rifampicina, etambutol y estreptomicina y suplementar con piridoxina; En el postparto contraindicar lactancia y suplementar al recién nacido con piridoxina.",
+        "Indicar tratamiento materno con isoniazida, rifampicina, etambutol y estreptomicina y suplementar con piridoxina; En el postparto permitir lactancia con quimioprofilaxis y suplementar con piridoxina al recién nacido."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.3,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 69,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "¿Cuál es la conducta más adecuada para una embarazada de 42 años que cursa embarazo de 8 semanas y tiene hipertensión crónica controlada en tratamiento con IECA?"
+        },
+        {
+          "id": "pdf-novas-6",
+          "n": 4,
+          "sim": 0.271,
+          "shared": 0,
+          "q": "Usted está realizando el control prenatal de una mujer de 25 años, primigesta, que se scree 18 de embarazo y no presenta antecedentes patológicos de importancia. La mujer refiere que hace una semana almorzó con la familia y hoy le avisaron que su sob"
+        },
+        {
+          "id": "area-7",
+          "n": 24,
+          "sim": 0.243,
+          "shared": 0,
+          "q": "Embarazada de 16 semanas con urocultivo positivo para E. coli, asintomática. ¿Conducta?"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 147,
+      "pagina": 165,
+      "q": "Cuál de las siguientes es contraindicación absoluta (categoría 4) para la anticoncepción hormonal combinada (ACO y ACI)?",
+      "o": [
+        "Diabetes con complicación crónica, dislipidemia, anemia ferropénica.",
+        "Migrañas, dislipidemia, várices severas.",
+        "HTA estadio 2, tabaquismo mayor a 20 cig/d en mujer mayor de 35 años, migraña con foco neurológico.",
+        "Tabaquismo mayor a 35 cig/d, hepatopatía crónica, epilepsia."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.387,
+      "comparacoes": [
+        {
+          "id": "diciembre-2024",
+          "n": 52,
+          "sim": 0.387,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes NO ES UNA CONTRAINDICACIÓN absoluta para la donación de órganos?"
+        },
+        {
+          "id": "area-19",
+          "n": 12,
+          "sim": 0.293,
+          "shared": 0,
+          "q": "¿Cuál NO es contraindicación absoluta para donación de órganos?"
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 15,
+          "sim": 0.247,
+          "shared": 0,
+          "q": "Cuál de las siguientes condiciones NO es categoría 4 de los criterios de elegibilidad de la OMS para los anticonceptivos combinados? (ACO)"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 148,
+      "pagina": 165,
+      "q": "El método anticonceptivo de mayor eficacia es:",
+      "o": [
+        "DIU (dispositivo intrauterino).",
+        "MELA (método de la lactancia materna exclusiva).",
+        "POP (anticonceptivo oral de sólo progestágeno).",
+        "ACO (anticonceptivo oral combinado)"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.319,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 130,
+          "sim": 0.319,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es el método anticonceptivo más eficaz para prevenir el embarazo en adolescentes?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 16,
+          "sim": 0.243,
+          "shared": 0,
+          "q": "Una joven de 16 años consulta para control de salud y manifiesta que quiere cuidarse porque está en pareja. No tiene antecedentes y no utiliza método anticonceptivo. ¿Cuál es la conducta adecuada para el abordaje de su salud sexual y reproductiva?"
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 26,
+          "sim": 0.229,
+          "shared": 0,
+          "q": "una paciente de 23 años consulta por dolor pelviano, flujo genital y fiebre. tiene colocado un dispositivo intrauterino (diu) como método anticonceptivo. presenta 38 de temp axilar y en el examen ginecológico se tacta el útero y anexo derechos doloro"
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 149,
+      "pagina": 166,
+      "q": "Mujer de 37 años embarazada de 34 semanas, consulta por prurito en torso y extremidades. No se ve ictérica al examen físico. Le pide laboratorio y encuentra sales biliares por encima de 70. Usted se encuentra frente a:",
+      "o": [
+        "Hepatitis A",
+        "Colestasis leve - control ambulatorio",
+        "Colestasis grave - cesárea inmediata",
+        "Colestasis grave - ácido ursodesoxicólico cada 8hs - internación y control"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.283,
+      "comparacoes": [
+        {
+          "id": "area-7",
+          "n": 7,
+          "sim": 0.283,
+          "shared": 0,
+          "q": "Embarazada con prurito y ácidos biliares aumentados. ¿Tratamiento?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 65,
+          "sim": 0.212,
+          "shared": 0,
+          "q": "¿Cuál es el diagnóstico más probable de una mujer embarazada en 38 semanas de gestación, que cursa cuarto embarazo y consulta por dolor abdominal intenso acompañado de sangrado vaginal? En el examen físico el útero en encuentra tenso y no se ausculta"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 64,
+          "sim": 0.206,
+          "shared": 0,
+          "q": "Mujer de 18 años primigesta, embarazada de 35 semanas consulta por cefalea. En el examen físico se encuentra en buen estado general, afebril, tensión arterial de 140/110 mmHg, movimientos fetales positivos, frecuencia cardiaca fetal de 140 lpm, tono "
+        }
+      ]
+    },
+    {
+      "block": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 165,
+      "pagina": 169,
+      "q": "Cual de las siguientes es categoría 4 para indicación de un ACO?",
+      "o": [
+        "Hipertensión arterial sistémica 140/ 80 mmhg",
+        "Cáncer de mama",
+        "Nuliparidad",
+        "Alteraciones en el PAP"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.493,
+      "comparacoes": [
+        {
+          "id": "diciembre-2025",
+          "n": 13,
+          "sim": 0.493,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes NO es una indicación de la difenhidramina?"
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 15,
+          "sim": 0.457,
+          "shared": 0,
+          "q": "Cuál de las siguientes condiciones NO es categoría 4 de los criterios de elegibilidad de la OMS para los anticonceptivos combinados? (ACO)"
+        },
+        {
+          "id": "area-2",
+          "n": 25,
+          "sim": 0.392,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes NO es indicación terapéutica del Propranolol?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 1,
+      "pagina": 227,
+      "q": "Pregunta 03 (UAI AGOSTO 2025) Paciente con antecedente de Lupus Eritematoso Sistémico presenta fiebre, pancitopenia y ferritina > 10.000 ng/mL. El frotis revela hemo fagocitosis. ¿Cuál es el diagnostico más probable?",
+      "o": [
+        "Linfoma No Hodgkin asociado a Lupus",
+        "síndrome hemofagocitico",
+        "Septicemia con Shok séptico",
+        "Trombocitopenia induzida por fármacos"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.508,
+      "comparacoes": [
+        {
+          "id": "area-14",
+          "n": 9,
+          "sim": 0.508,
+          "shared": 1,
+          "q": "Paciente con LES, fiebre, pancitopenia, ferritina >10.000, hemofagocitosis en frotis. ¿Diagnóstico?"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 86,
+          "sim": 0.319,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes marcadores serológicos es más específico para el diagnóstico de Lupus eritematoso sistémico (LES)?"
+        },
+        {
+          "id": "area-9",
+          "n": 16,
+          "sim": 0.251,
+          "shared": 0,
+          "q": "Hombre de 20 años con fiebre, dolor muscular, ictericia, náuseas. Antecedente de canotaje en aguas abiertas. ¿Diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 2,
+      "pagina": 227,
+      "q": "pregunta 48 (UAI AGOSTO 2025) mujer de 38 consulta por fatiga progresiva y anemia ferropénica",
+      "o": [
+        "hierro via oral",
+        "transfusión de glóbulos rojos.",
+        "vitamina b12 inyectable.",
+        "ácido fólico."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.45,
+      "comparacoes": [
+        {
+          "id": "area-14",
+          "n": 3,
+          "sim": 0.45,
+          "shared": 1,
+          "q": "Tratamiento de anemia ferropénica:"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 113,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de anemia ferropénica en niños pequeños?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 86,
+          "sim": 0.24,
+          "shared": 0,
+          "q": "En el diagnóstico de anemia ferropénica, ¿cuál de los siguientes parámetros es más sensible y específico para confirmar déficit de hierro?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 21,
+      "pagina": 231,
+      "q": "Las características morfológicas de la anemia ferropénica son:",
+      "o": [
+        "VCM normal, HCM bajo, RDW bajo y RR bajo.",
+        "VCM bajo, HCM bajo, RDW alto y RR bajo.",
+        "VCM bajo, HCM bajo, RDW bajo y RR bajo.",
+        "VCM alto, HCM bajo, RDW alto y RR alto."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.493,
+      "comparacoes": [
+        {
+          "id": "area-14",
+          "n": 3,
+          "sim": 0.493,
+          "shared": 0,
+          "q": "Tratamiento de anemia ferropénica:"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 113,
+          "sim": 0.319,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de anemia ferropénica en niños pequeños?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 86,
+          "sim": 0.283,
+          "shared": 0,
+          "q": "En el diagnóstico de anemia ferropénica, ¿cuál de los siguientes parámetros es más sensible y específico para confirmar déficit de hierro?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 22,
+      "pagina": 231,
+      "q": "Un paciente de 65 años cursa el tercer día de un posoperatorio de cirugía de reemplazo parcial de cadera derecha. Presenta aumento del diámetro del miembro inferior derecho, dolor en la pantorrilla y signo de Homans positivo. ¿Cuál es el estudio diagnóstico que debe solicitarse en primer término?",
+      "o": [
+        "Angiotomografía computada de pelvis.",
+        "Centellograma de Ventilación/Perfusión.",
+        "Eco Doppler de miembro inferior derecho.",
+        "Arteriografía ileofemoral."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.361,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 16,
+          "sim": 0.361,
+          "shared": 0,
+          "q": "Una mujer de 50 años con inmovilización prolongada por cirugía ortopédica consulta por edema, eritema y dolor en la pierna derecha. En la exploración, hay aumento de la circunferencia de la pantorrilla, signo de Homans positivo. ¿Cuál es el estudio d"
+        },
+        {
+          "id": "area-15",
+          "n": 3,
+          "sim": 0.301,
+          "shared": 0,
+          "q": "Mujer de 50 años con inmovilización prolongada, edema, eritema y dolor en pierna derecha. Homans positivo. ¿Estudio diagnóstico de elección?"
+        },
+        {
+          "id": "area-22",
+          "n": 1,
+          "sim": 0.247,
+          "shared": 0,
+          "q": "Varón de 75 años con dolor brusco en miembro inferior derecho, impotencia funcional, pulsos distales ausentes. ¿Diagnóstico?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 27,
+      "pagina": 232,
+      "q": "Consulta a la guardia una mujer de 25 años por presentar un cuadro de inicio agudo caracterizado por astenia, adinamia y escalofríos. refiere antecedentes de lupus eritematoso sistémico. En el laboratorio usted constata anemia, que debido a los antecedentes y el cuadro clínica infiere que es de causa hemolítica. ¿Cuáles son os hallazgos que espera encontrar en el laboratorio?",
+      "o": [
+        "VCM normal, Índice de reticulocitos aumentado, bilirrubina total aumentada leve a predominio indirecta y haPTOGlobina baja.",
+        "VCM normal, Índice de reticulocitos aumentando, bilirrubina total aumentada leve a predominio directa y haPTOGlobina baja.",
+        "VCM disminuido, Índice de reticulocitos aumentado, bilirrubina total aumentada leve a predominio directa, haPTOGlobina baja y LDH aumentada.",
+        "VCM disminuido, índice de reticulocitos normal, bilirrubina total aumentada leve a predominio indirecta, haPTOGlobina baja y LDH aumentada."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.458,
+      "comparacoes": [
+        {
+          "id": "area-12",
+          "n": 2,
+          "sim": 0.458,
+          "shared": 0,
+          "q": "Mujer de 25 años con LES, anemia hemolítica. ¿Hallazgos de laboratorio?"
+        },
+        {
+          "id": "area-9",
+          "n": 3,
+          "sim": 0.225,
+          "shared": 0,
+          "q": "Fiebre Hemorrágica Argentina. ¿Qué espera en laboratorio?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 20,
+          "sim": 0.225,
+          "shared": 0,
+          "q": "¿Qué espera encontrar en un síndrome nefrítico?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 28,
+      "pagina": 232,
+      "q": "La localización más frecuente de la trombosis venosa profunda es:",
+      "o": [
+        "Sector femoral en el muslo",
+        "Plexo venoso de los músculos soleos.",
+        "Sector ilíaco",
+        "Vena cava inferior"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.291,
+      "comparacoes": [
+        {
+          "id": "diciembre-2024",
+          "n": 91,
+          "sim": 0.291,
+          "shared": 0,
+          "q": "Una mujer de 65 años presenta dolor e hinchazón en la pierna derecha. La ecografía confirma trombosis venosa profunda. El equipo de salud planifica el inicio de tratamiento para reducir el riesgo de embolia pulmonar. ¿Cuál sería la intervención INICI"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 30,
+      "pagina": 233,
+      "q": "Un paciente de 50 años, en buen estado general, consulta pues en un examen de rutina se hallaron los siguientes resultados: GR 3.600.000mm3 , Hto 33%, Hb 10,5, GB ¿0.000mm3 (Metamielocitos 4%, neutrófilos segmentados 60%, eosinofilos 4%, basófilos ¿, linfocitos 20%), plaquetas: 490.000mm3 , en el examen físico presenta una esplenomegalia leve, adenopatías inguinales derechas de menos de 1cm. Se le realiza una punción aspiración de la medula ósea que informa celularidad aumentada, con aumento de la serie mieloide, disminución de la eritroide y aumento de la serie megacariocitica ¿Cuál es el diagnostico ms probable?",
+      "o": [
+        "Leucemia linfática crónica",
+        "Leucemia mieloide crónica",
+        "Trombocitosis esencial",
+        "Linfoma No Hodgkin"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.5,
+      "comparacoes": [
+        {
+          "id": "area-14",
+          "n": 4,
+          "sim": 0.5,
+          "shared": 1,
+          "q": "Paciente de 50 años con GB 30.000, esplenomegalia leve, punción de médula con celularidad aumentada y serie mieloide aumentada. ¿Diagnóstico?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 69,
+          "sim": 0.221,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes NO forma parte del examen físico en la evaluación del paciente con vértigo?"
+        },
+        {
+          "id": "area-8",
+          "n": 31,
+          "sim": 0.221,
+          "shared": 0,
+          "q": "Joaquín de 2 años con palidez. Hb 8.5, Hto 25%, VCM 65. ¿Diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "block": 5,
+      "especialidad": "Hematología",
+      "n": 44,
+      "pagina": 236,
+      "q": "En un hemograma el RDW aumentado representa",
+      "o": [
+        "Anisocitosis",
+        "Poiquilocitose",
+        "Micrositosis",
+        "Macrositosis"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.361,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 100,
+          "sim": 0.361,
+          "shared": 1,
+          "q": "En un hemograma, el aumento del RDW o ADE, indica:"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 3,
+      "pagina": 252,
+      "q": "Pregunta 23 (UAI AGOSTO 2025) Un paciente de 55 años con diagnóstico reciente de tuberculosis pulmonar comienza tratamiento con Rifampicina, Isoniazida, Pirazinamida y Etambutol. A las 3 semanas presenta ictericia, náuseas y elevación marcada de las transaminasas. Se suspende drogas hepatotóxicas y se confirma hepatitis medicamentosa. Tras la normalización de la función hepática, se decide reintroducir el tratamiento en forma escalonada, vigilando la hepatotoxicidad. ¿Cuál es la secuencia correcta para reintroducir los fármacos hepatotóxicos en este paciente?",
+      "o": [
+        "Rifampicina, Isoniazida, Pirazinamida",
+        "Isoniazida, rifampicina, pirazinamida",
+        "Pirazinamida, Rifampicina, Isoniazida.",
+        "Etambutol, Rifampicina, Isoniazida"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.365,
+      "comparacoes": [
+        {
+          "id": "area-9",
+          "n": 18,
+          "sim": 0.365,
+          "shared": 0,
+          "q": "Paciente con TBC, hepatitis medicamentosa. Tras normalización hepática, ¿secuencia correcta de reintroducción?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 78,
+          "sim": 0.175,
+          "shared": 0,
+          "q": "Un varón de 45 años lo consulta porque se le realizó diagnóstico de TBC pulmonar recientemente. Usted decide iniciar tratamiento con RifampicinaIsoniazida·Pirazinamida y Etambutol (R-H-Z-E). Luego de cumplir correctamente la terapéutica durante 10 se"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 9,
+          "sim": 0.149,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes fármacos es de elección para el tratamiento de las crisis de ausencia?"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 7,
+      "pagina": 253,
+      "q": "Pregunta 34 (UAI AGOSTO 2025) Cual de las siguientes infecciones oportunistas NO aparece en paciente VIH positivo con más de 200 CD4?",
+      "o": [
+        "Tuberculosis",
+        "Aspergilosis (tb esta correcta).",
+        "Candidiasis esofágicas",
+        "Neumonía por Pneumocystis Jirovecii"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.319,
+      "comparacoes": [
+        {
+          "id": "area-9",
+          "n": 22,
+          "sim": 0.319,
+          "shared": 2,
+          "q": "¿Infección oportunista que NO aparece en VIH+ con más de 200 CD4?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 13,
+          "sim": 0.176,
+          "shared": 0,
+          "q": "En un paciente infectado por VIH se inicia tratamiento antirretroviral. para el seguimiento evolutivo de la infección y control del tratamiento ¿Cuál de las siguientes determinaciones es más útil?"
+        },
+        {
+          "id": "pdf-novas-6",
+          "n": 8,
+          "sim": 0.176,
+          "shared": 0,
+          "q": "entre los siguientes fluidos corporales sin contenido hemoptoico, ¿cuál de ellos no se considera potencial infeccioso para la transmisión del VIH?"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 8,
+      "pagina": 253,
+      "q": "Pregunta 37 (UAI AGOSTO 2025) Paciente femenina de 42 años que consulta por fatiga persistente desde hace varios meses y pérdida de peso de 4kg en el último semestre. niega consumo de alcohol. no fiebre, no prurito. trabaja como manicura. mac: preservativo, ocasionalmente. no pareja estable. examen físico: buen estado general, piel y mucosas normo coloreadas. abdomen hepatomegalia leve, no dolorosa. laboratorio: ast 78 u/l alt 110 u/l, bilirrubina total 1.1. mg/dl, ggt 65 u/l, albumina 3.7 g/di, anti-vhc positivo, arn vhc por pcr 1.200.000 ui/mi, genotipo 1a, ¿cuál es el tratamiento más adecuado para esta paciente?",
+      "o": [
+        "interferón semanal + ribavirina por 48 semanas",
+        "sofosbuvir + ledipasvir 12 semanas",
+        "cirugía de resección hepática",
+        "observación y dieta"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.503,
+      "comparacoes": [
+        {
+          "id": "area-4",
+          "n": 14,
+          "sim": 0.503,
+          "shared": 1,
+          "q": "Paciente de 42 años, manicura, con fatiga, pérdida de peso, hepatomegalia. Anti-VHC positivo, ARN VHC 1.200.000 UI/mL, genotipo 1a. ¿Tratamiento más adecuado?"
+        },
+        {
+          "id": "area-5",
+          "n": 10,
+          "sim": 0.202,
+          "shared": 0,
+          "q": "Mujer de 45 años con fatiga, pérdida de peso, hiperpigmentación en mucosas, mareos ortostáticos. Na 128. ¿Diagnóstico más probable?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 5,
+          "sim": 0.202,
+          "shared": 0,
+          "q": "Un hombre de 60 años con antecedentes de tabaquismo de 40 años, presenta tos persistente, hemoptisis y pérdida de peso. ¿Cuál será el diagnóstico, el método de diagnóstico más adecuado y el tratamiento?"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 9,
+      "pagina": 254,
+      "q": "pregunta 40 (UAI AGOSTO 2025) paciente en tratamiento antibiótico por infección grave presenta enrojecimiento, prurito, hipotensión y broncoespasmo, síndrome de hombre rojo. ¿cuál de los siguientes antibióticos produce este síndrome?",
+      "o": [
+        "tazobactam- piperacilina-tazobactam",
+        "vancomicina",
+        "cefepima",
+        "meropenem"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.253,
+      "comparacoes": [
+        {
+          "id": "diciembre-2022",
+          "n": 65,
+          "sim": 0.253,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes antibióticos orales utilizaría en el tratamiento de un forúnculo con celulitis?"
+        },
+        {
+          "id": "area-9",
+          "n": 9,
+          "sim": 0.251,
+          "shared": 0,
+          "q": "¿Tratamiento antibiótico empírico para uretritis?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 63,
+          "sim": 0.212,
+          "shared": 0,
+          "q": "¿Qué tratamiento antibiótico empírico elegiría para un paciente con uretritis?"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 21,
+      "pagina": 256,
+      "q": "¿23) ¿Cuál es la recomendación que debe hacerse a una persona de 30 años que la última dosis de doble adulto fue a los 16 anos y a partir de ese momento no recibio ningún refuerzo? (único 2022 p73)",
+      "o": [
+        "indicar una dosis ahora y continuar refuerzos cada 10 años",
+        "Reiniciar el esquema, indicando tres dosis (1º dosis: ahora, 2º dosis en un mes y 3º dosis en seis meses)",
+        "Indicar dos dosis con diferencia de un mes",
+        "Indicar primera dosis ahora y refuerzo en un año"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.382,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 23,
+          "sim": 0.382,
+          "shared": 0,
+          "q": "¿Cuál es la recomendación que debe hacerse a una persona de 30 años de edad que la última dosis de aplicación de la vacuna contra el COVID-19 recibió hace más de 6 meses?"
+        },
+        {
+          "id": "febrero-2024",
+          "n": 97,
+          "sim": 0.149,
+          "shared": 0,
+          "q": "¿A partir de qué mes debe indicársele a un nacido de término hierro suplementario?"
+        },
+        {
+          "id": "area-19",
+          "n": 1,
+          "sim": 0.149,
+          "shared": 0,
+          "q": "Adulto de 36 años afebril con catarro de VAS. ¿Puede vacunarse con doble bacteriana?"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 75,
+      "pagina": 267,
+      "q": "Señale cuál es el efecto postvacunal más frecuente de la vacuna BCG. *",
+      "o": [
+        "Dolor, tumefacción y enrojecimiento local.",
+        "Formación de abscesos en el sitio de la aplicación.",
+        "Ulceración prolongada.",
+        "Adenopatías locales."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.338,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 1,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "¿Cuál es el efecto adverso más frecuente del bupropión?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 2,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "¿Cuál es el efecto adverso más frecuente del etambutol?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 3,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "¿Cuál es el efecto adverso más frecuente de la rifampicina?"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 87,
+      "pagina": 269,
+      "q": "Una mujer de 45 años con antecedentes de asma bronquial en tratamiento con Budesonide, consulta por odinofagia de 15 días de evolución. Al examen físico presenta múltiples placas blanquecinas en paladar duro, lengua y amígdalas que al retirarlas con un bajalenguas revelan una mucosa eritematosa. ¿Cuál es el tratamiento indicado?",
+      "o": [
+        "Fluconazol vía oral.",
+        "Nistatina local.",
+        "Voriconazol vía oral.",
+        "Amoxicillina vía oral."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.496,
+      "comparacoes": [
+        {
+          "id": "area-9",
+          "n": 4,
+          "sim": 0.496,
+          "shared": 2,
+          "q": "Mujer de 45 años asmática con odinofagia, placas blanquecinas en paladar, lengua y amígdalas. ¿Tratamiento?"
+        },
+        {
+          "id": "area-20",
+          "n": 1,
+          "sim": 0.227,
+          "shared": 0,
+          "q": "Paciente de 57 años, asmático con HTA. ¿Tratamiento NO indicado?"
+        },
+        {
+          "id": "area-13",
+          "n": 2,
+          "sim": 0.184,
+          "shared": 0,
+          "q": "Varón de 26 años con hepatitis C, placas blanquecinas reticulares en mucosa yugal que no se desprenden al raspado:"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 89,
+      "pagina": 270,
+      "q": "¿Cuál de las siguientes enfermedades infecciosas son de notificación obligatoria?",
+      "o": [
+        "Parotiditis, Tuberculosis, Leishmaniasis, chagas y Sarampión.",
+        "Parotiditis, Tuberculosis, Leishmaniasis, chagas y Escarlatina.",
+        "Parotiditis, Tuberculosis, Leishmaniasis, chagas y Faringitis por Estreptococo.",
+        "Parotiditis, Tuberculosis, Leishmaniasis, chagas y Osteomielitis."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.284,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 55,
+          "sim": 0.284,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes enfermedades cutáneas está relacionada con la enfermedad celiaca?"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 21,
+          "sim": 0.176,
+          "shared": 0,
+          "q": "Paciente femenina de 35 años viene a la consulta para control de sus enfermedades de base. La misma tiene antecedentes de baja desarrollo puberal, vitíligo segmentario, queratoconjuntivitis a repetición desde la infancia, hipoplasia del esmalte denta"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 21,
+          "sim": 0.173,
+          "shared": 0,
+          "q": "Mujer de 67 años, posmenopáusica desde los 50, acude para control. No tiene antecedentes de enfermedades previas, niega alcohol y TBQ. IMC 22. Laboratorio calcio, vitamina d y función renal normal. Densitometría ósea: columna lumbar T-score -2.3, cue"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 92,
+      "pagina": 270,
+      "q": "cuál es la conducta más adecuada con un adulto de 36 años, afebril, que cursa catarro de vías aéreas superiores, y lo consulta porque le indicaron la vacuna doble bacteriana y no sabe si vacunarse o no con este cuadro clínico? único 2017 - 11",
+      "o": [
+        "Puede aplicarse la vacuna.",
+        "Puede vacunarse inmediatamente después de la curación del cuadro actual.",
+        "Debe postergar la vacunación hasta dos semanas después del curado el cuadro.",
+        "Debe postergar la vacunación hasta un mes después de curado el cuadro."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.44,
+      "comparacoes": [
+        {
+          "id": "area-19",
+          "n": 1,
+          "sim": 0.44,
+          "shared": 0,
+          "q": "Adulto de 36 años afebril con catarro de VAS. ¿Puede vacunarse con doble bacteriana?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 73,
+          "sim": 0.226,
+          "shared": 0,
+          "q": "¿Cuál es la conducta más adecuada con un niño de 3 años, previamente sano que cursa catarro de vías aéreas superiores, desgano y con registros febriles de 38 °C en las últimas 24 horas? Es llevado al control en el Centro de Salud y al realizar otosco"
+        },
+        {
+          "id": "abril-2022",
+          "n": 88,
+          "sim": 0.18,
+          "shared": 0,
+          "q": "Ud. atiende en su consultorio a Pedro de 2 años quien presenta un cuadro de catarro de vías aéreas y fiebre de 12 hs de evolución. Al momento del examen físico presenta una convulsión tónico clónico generalizado. ¿Cuál es el tratamiento más indicado "
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 99,
+      "pagina": 272,
+      "q": "¿Cuál de las siguientes vacunas es de aplicación intradérmica?",
+      "o": [
+        "Triple viral",
+        "Anti HVB",
+        "Anti neumococica conjugada.",
+        "BCG"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.319,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 93,
+          "sim": 0.319,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes vacunas puede ser indicada con seguridad en el paciente inmunocomprometido?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 105,
+          "sim": 0.293,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes vacunas se administra al recién nacido dentro de las primeras 12 horas de vida?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 46,
+          "sim": 0.237,
+          "shared": 0,
+          "q": "Ud. atiende a un niño de 6 años que concurre para recibir las vacunas del ingreso escolar. La mama refiere que hace un mes fue mordido por un perro, y recibió gammaglobulina y vacunas en el Centro Antirrábico. ¿Cuál es la conducta con respecto a la a"
+        }
+      ]
+    },
+    {
+      "block": 6,
+      "especialidad": "Infectología",
+      "n": 136,
+      "pagina": 278,
+      "q": "La indicación de trimetroprimasulfametoxazol (TSM) como profilaxis está indicado para prevenir:",
+      "o": [
+        "Pneumocystis Jiroveci",
+        "E.coli",
+        "Staphylococcus aureus",
+        "Pseudomonas"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.392,
+      "comparacoes": [
+        {
+          "id": "diciembre-2022",
+          "n": 72,
+          "sim": 0.392,
+          "shared": 0,
+          "q": "La indicación de trimetroprima-sulfametoxazol como profilaxis está indicada para prevenir:"
+        },
+        {
+          "id": "pdf-novas-6",
+          "n": 1,
+          "sim": 0.171,
+          "shared": 0,
+          "q": "Un varón de 45 años se encuentra en lista de programación de cirugía electiva abdominal. Tiene carnet con vacunación antitetánica completa y un refuerzo a los 27 años. No recuerda si luego se aplicó otro refuerzo. ¿Cuál es la indicación de profilaxis"
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "especialidad": "Neurología",
+      "n": 23,
+      "pagina": 327,
+      "q": "Un paciente de 25 años ingresa a la guardia de urgencias luego de un choque automovilístico frontal a alta velocidad. Al examen físico no presenta apertura ocular a estímulos verbales o dolorosos, emite gemidos incomprensibles al dolor y retira la mano ante un estímulo doloroso. ¿Cuál sería el puntaje de la Escala de Glasgow y la conducta inmediata más adecuada?",
+      "o": [
+        "Glasgow 10. Internación en UTI, intubación orotraqueal, oxigenación adecuada y TAC de cerebro urgente.",
+        "Glasgow 7. Internación en UTI, intubación orotraqueal, oxigenación adecuada, protección de la columna cervical y TAC de cerebro y columna cervical urgente.",
+        "Glasgow 7. Observación en la sala de guardia, control de signos vitales y TAC de cerebro de urgencia.",
+        "Glasgow 10. Se descarta traumatismo de cráneo grave, se trata la herida del cuero cabelludo y se da de alta al paciente."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.368,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 16,
+          "sim": 0.368,
+          "shared": 0,
+          "q": "Paciente masculino de 28 años es traído a la guardia tras un choque automotor. Al arribo presenta apertura ocular al dolor, emite sonidos incomprensibles y localiza el dolor. Se encuentra hemodinámicamente estable, con respiración espontánea. ¿Cuál e"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 35,
+          "sim": 0.193,
+          "shared": 0,
+          "q": "Paciente de 35 años que presentas traumatismo de cráneo (TEC) en vía pública. Al ingreso paciente sin apertura ocular al dolor, localiza el estímulo doloroso con el miembro superior derecho, emite sonidos. TA 160/110 mmHg FC 110 FR 18, buena ventilat"
+        },
+        {
+          "id": "area-4",
+          "n": 15,
+          "sim": 0.178,
+          "shared": 0,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "especialidad": "Neurología",
+      "n": 27,
+      "pagina": 328,
+      "q": "Un varón de 52 años es traído a la guardia por su esposa porque lo encontró en estado de estupor en la casa. Refiere que hace 30 minutos estaba bien y que comenzó a dolerle la cabeza y que tenía debilidad en la mitad derecha del cuerpo. Tiene antecedentes de hipertensión arterial en tratamiento con 25 mg/día de hidroclorotiazida. Al examen físico está somnoliento y casi no responde a las preguntas, la TA: 242-148 mm Hg, FC: 124 lpm, FR: 24 rpm, SatO2 es de 98% con aire ambiental y su temperatura es de 37.0°C. No mueve el brazo, ni la pierna derecha. Se realiza TC cerebral sin contraste que evidencia imagen hiperdensa que compromete el putamen izquierdo. ¿Cuál es el diagnóstico más probable?",
+      "o": [
+        "Tumoración encefálica.",
+        "Hemorragia intracraneal.",
+        "Accidente cerebrovascular isquémico en el territorio de la arteria cerebral media izquierda.",
+        "Hematoma subdural."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.266,
+      "comparacoes": [
+        {
+          "id": "diciembre-2024",
+          "n": 47,
+          "sim": 0.266,
+          "shared": 0,
+          "q": "Un hombre de 60 años con antecedentes de hipertensión y dislipidemia presenta un episodio de pérdida de fuerza en el brazo y pierna derecha que resolvió en una hora ¿Cuál es el diagnóstico más probable?"
+        },
+        {
+          "id": "febrero-2024",
+          "n": 96,
+          "sim": 0.257,
+          "shared": 0,
+          "q": "¿Cuál es la prevalencia de Hipertensión Arterial en Argentina?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 55,
+          "sim": 0.227,
+          "shared": 0,
+          "q": "Un paciente de 60 años con antecedentes de hipertensión arterial consulta por fatiga y debilidad muscular. En el laboratorio se destaca hipopotasemia y alcalosis metabólica. ¿Cuál es el diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "especialidad": "Neurología",
+      "n": 29,
+      "pagina": 328,
+      "q": "Ud. recibe en Guardia una paciente de 28 años sin enfermedades previas conocidas que es traída por su madre por cuadro de cefalea de inicio súbito, intensidad 10/10 que se acompaña de vómitos y somnolencia. Cuando la examina está afebril, hipersomnolencia y se evidencia rigidez de nuca y hemiparesia derecha. El diagnóstico más probable es:",
+      "o": [
+        "Hemorragia subaracnóidea por ruptura aneurismática.",
+        "Accidente cerebrovascular.",
+        "Meningitis bacteriana",
+        "Migraña con aura"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.497,
+      "comparacoes": [
+        {
+          "id": "area-10",
+          "n": 2,
+          "sim": 0.497,
+          "shared": 2,
+          "q": "Paciente de 28 años con cefalea súbita 10/10, vómitos, somnolencia, rigidez de nuca y hemiparesia derecha. ¿Diagnóstico?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 95,
+          "sim": 0.261,
+          "shared": 0,
+          "q": "Una mujer de 30 años consulta por cefalea intensa de inicio súbito. La tomografía computarizada de cráneo sin contraste es normal. ¿Qué prueba confirmaría el diagnóstico más probable?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 33,
+          "sim": 0.215,
+          "shared": 0,
+          "q": "Paciente de 50 años con antecedente de hipertensión no tratada, acude con cefalea súbita, vómitos y rigidez de nuca. TAC: hemorragia subaracnoidea. ¿Cuál es la causa más probable?"
+        }
+      ]
+    },
+    {
+      "block": 7,
+      "especialidad": "Neurología",
+      "n": 41,
+      "pagina": 331,
+      "q": "Qué diagnóstico sospecha en una paciente femenina de 65 años, que presenta alteraciones del equilibrio de 3 meses de evolución, y ha comenzado con alteraciones de la voz hace dos semanas?",
+      "o": [
+        "Ataxia cerebelosa",
+        "Tumor tiroideo",
+        "Sindrome de Meniere",
+        "Enfermedad de Parkinson"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.272,
+      "comparacoes": [
+        {
+          "id": "area-7",
+          "n": 12,
+          "sim": 0.272,
+          "shared": 0,
+          "q": "Paula de 25 años, 16 semanas, TA 140/90 en dos controles. Sin antecedentes. ¿Diagnóstico?"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 32,
+          "sim": 0.23,
+          "shared": 0,
+          "q": "Paciente femenina de 72 años con diagnóstico de artritis reumatoide de mucho tiempo de evolución presenta deformidad en cuello de cisne. ¿Con cuáles alteraciones articulares se correlaciona este signo?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 43,
+          "sim": 0.227,
+          "shared": 0,
+          "q": "Las dos alteraciones fundamentales que caracterizan a la acalasia son:"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 40,
+      "pagina": 375,
+      "q": "Paciente de 7 años con cuadro de dificultad respiratoria. La noche previa comenzó con fiebre y dolor de garganta; interpretado al cuadro como \"angina\" indicándose antitérmicos. El día de la consulta presenta: un rápido deterioro al que se agregan marcada dificultad para \"deglutir\" y \"respirar\". Rechaza también líquidos. Se encuentra excitada, sentándose para respirar mejor. Habla muy poco, presentando voz apagada. Al examen físico: Mal estado general, pálida, ansiosa. Temperatura axilar: 39,2 ºC. Decúbito preferencial (sentada hacia adelante). Frecuencia cardiaca: 120 por minuto. Frecuencia respiratoria: 32 latidos por minuto. Escurrimiento de saliva por boca que permanece entreabierta. Estridor respiratorio. Retracciones torácicas generalizadas. Auscultación de campos pulmonares: disminución homogénea de entrada de aire en forma simétrica. Roncus. Su diagnóstico presuntivo es: (unico 2012 p23)",
+      "o": [
+        "Laringitis subglótica.",
+        "Laringitis estridulosa.",
+        "Epiglotitis aguda.",
+        "Aspiración de cuerpo extraño"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.485,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 32,
+          "sim": 0.485,
+          "shared": 1,
+          "q": "Paciente de 7 años con cuadro de dificultad respiratoria. La noche previa comenzó con fiebre y dolor de garganta; interpretado al cuadro como \"gripe\" y se automedicó. El día de la consulta presenta: interpretación del mismo cuadro como \"gripe\" y \"res"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 98,
+          "sim": 0.156,
+          "shared": 0,
+          "q": "Un paciente de 45 años con antecedentes de diabetes tipo 2 consulta por dolor en la parte inferior de la pierna y dificultad para caminar. Al examen físico se observan úlceras en los pies y piel pálida y fría. ¿Cuál es el diagnóstico más probable?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 94,
+          "sim": 0.156,
+          "shared": 0,
+          "q": "¿Cuál es el diagnóstico más probable de un niño de 3 años, sin carnet de vacunación, que consulta por fiebre, regular estado general y tos con estridor laríngeo acompañada de vómitos?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 101,
+      "pagina": 386,
+      "q": "Marcos de 5 meses, se alimenta a pecho exclusivo, presenta deposiciones líquidas y más frecuentes, de 2 días de evolución. Al examen físico el niño se encuentra vigil y reactivo, con mucosas húmedas, frecuencia cardíaca de 120 x min, frecuencia respiratoria de 30 x min, pulsos periféricos positivos y relleno capilar de 1 segundo. La madre refiere haber cambiado un pañal con orina hace una hora. ¿Cuál es la recomendación con respecto a la alimentación? *",
+      "o": [
+        "Continuar con la lactancia materna con más frecuencia.",
+        "Reemplazar lactancia materna por leche deslactosada.",
+        "Suspender la lactancia e hidratar con sales de la OMS.",
+        "Reemplazar la lactancia materna por leche maternizada."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.263,
+      "comparacoes": [
+        {
+          "id": "area-8",
+          "n": 3,
+          "sim": 0.263,
+          "shared": 0,
+          "q": "Si en el examen de un niño de 3 meses encuentra cerrada la fontanela anterior:"
+        },
+        {
+          "id": "pdf-novas-9",
+          "n": 3,
+          "sim": 0.177,
+          "shared": 0,
+          "q": "Bebé de 8 meses que llora mucho cuando la madre se va a trabajar, recomendación?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 67,
+          "sim": 0.165,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes exámenes complementarios solicita en primera instancia a un niño de 6 años que presenta dolor en Hipocondrio derecho y fiebre de 72h de evolución? La madre refiere que desde hace tres días presenta tos, disminución del apetito"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 102,
+      "pagina": 386,
+      "q": "Jairo de 6 meses es traído a la consulta por su madre por la aparición de un condiloma acuminado perianal. El examen físico no arroja otro dato positivo. Ella es la única cuidadora del niño, aunque conviven con los abuelos de Jairo, con quienes refiere una buena relación. Al interrogatorio no surgen otros datos a destacar salvo que la madre se encuentra en seguimiento por ginecología por una infección. Según el PRONAP de abuso sexual infantil (ASI) ¿Cuál es la conducta indicada en función de la categorización de este hallazgo? *",
+      "o": [
+        "Interno al niño y hago denuncia penal con diagnóstico de certeza de ASI por infección con virus papiloma humano (HPV)",
+        "Realizo catastro familiar para detectar HPV y serologías para otras ETS con diagnóstico probable de ASI por infección con HPV hasta descartar transmisión vertical.",
+        "Realizo catastro familiar para detectar sífilis y serologías para otras enfermedades de transmisión sexual (ETS) con diagnóstico probable de ASI por infección por sífilis hasta descartar transmisión vertical.",
+        "Solicito serologías para ETS y catastro familiar y tomo muestra para estudio directo con microscopio de campo oscuro con diagnóstico incierto de ASI por infección por sífilis."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.254,
+      "comparacoes": [
+        {
+          "id": "area-8",
+          "n": 3,
+          "sim": 0.254,
+          "shared": 0,
+          "q": "Si en el examen de un niño de 3 meses encuentra cerrada la fontanela anterior:"
+        },
+        {
+          "id": "area-8",
+          "n": 13,
+          "sim": 0.203,
+          "shared": 0,
+          "q": "Niño de 3 años con TA por debajo del percentil 90. ¿Conducta?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 142,
+          "sim": 0.17,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es el primer paso en el manejo de un niño con sospecha de abuso sexual?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 103,
+      "pagina": 387,
+      "q": "Un niño de 18 meses, tratado con amoxicilina por una faringitis, vuelve a la consulta por fiebre persistente de seis días de evolución de 39,8 °C. Presenta exantema maculopapular en tronco, inyección conjuntival, labios secos y agrietados. Las palmas de las manos eritematosas. ¿Cuál es el diagnóstico más probable? *",
+      "o": [
+        "Alergia a los antibióticos.",
+        "Síndrome de Kawasaki.",
+        "Escarlatina.",
+        "Sarampión."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.278,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 1,
+          "sim": 0.278,
+          "shared": 2,
+          "q": "Un niño de 6 años es traído a consulta por sus padres debido a fiebre alta, exantema maculopapular que comenzó en la cara y se extendió al tronco y extremidades, conjuntivitis y tos. ¿Cuál es el diagnóstico más probable?"
+        },
+        {
+          "id": "area-8",
+          "n": 46,
+          "sim": 0.236,
+          "shared": 2,
+          "q": "Niño de 6 años con fiebre de 5 días, conjuntivitis bilateral no purulenta, lengua aframbuesada, exantema polimorfo, adenopatía cervical. ¿Diagnóstico?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 86,
+          "sim": 0.223,
+          "shared": 0,
+          "q": "Un niño de 6 años presenta fiebre, odinofagia y exantema maculopapular que inicia en la cara y se extiende al tronco. ¿Qué signo esperaría encontrar en la cavidad oral?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 107,
+      "pagina": 387,
+      "q": "Señale cuál de las siguientes es la causa más frecuente de trasplante hepático en la infancia:",
+      "o": [
+        "Atresia biliar.",
+        "Hiperoxaluria primaria tipo I.",
+        "Enfermedad de Alagille.",
+        "Enfermedad de Crigler-Najjar de tipo I."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.319,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 99,
+          "sim": 0.319,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes NO es causa probable de vértigo?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 14,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es la complicación metabólica más frecuente en el cancer?:"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 109,
+          "sim": 0.235,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es la causa más común de neumonía en niños mayores de 5 años?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 110,
+      "pagina": 388,
+      "q": "nino de 4 anos presenta um TEC leve asintomatico com cefalohematoma frontal, cual es la conducta inicial a seguir?",
+      "o": [
+        "Analgésicos, crioterapia, internacion y rx de cráneo",
+        "Analgésicos, crioterapia y pautas de alarma",
+        "TAC de cerebro sin contraste e interconsulta con neurología",
+        "Analgésicos, crioterapia y oxigeno"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.372,
+      "comparacoes": [
+        {
+          "id": "area-5",
+          "n": 2,
+          "sim": 0.372,
+          "shared": 0,
+          "q": "Paciente asintomático con glucemia en ayunas de 118 mg/dl. ¿Conducta a seguir?"
+        },
+        {
+          "id": "area-8",
+          "n": 13,
+          "sim": 0.283,
+          "shared": 0,
+          "q": "Niño de 3 años con TA por debajo del percentil 90. ¿Conducta?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 80,
+          "sim": 0.244,
+          "shared": 0,
+          "q": "Un paciente de 5 años es traído a la consulta por sus padres porque a la niñera que cuida a su hijo 7 hs al día se le diagnostico TBC. El examen físico es normal y el niño esta asintomático. ¿Cuál consideras usted que sea la conducta más adecuada a s"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 123,
+      "pagina": 391,
+      "q": "cuál de los siguientes cuadros clínicos es la causa más común de discapacidad intelectual en la infancia? único 2017- 88",
+      "o": [
+        "Mielomeningocele.",
+        "Síndrome de down.",
+        "Parálisis cerebral.",
+        "Hipocacusia neurosensorial"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.337,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 109,
+          "sim": 0.337,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es la causa más común de neumonía en niños mayores de 5 años?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 113,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de anemia ferropénica en niños pequeños?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 143,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de dolor de cabeza en niños y adolescentes?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 124,
+      "pagina": 391,
+      "q": "cuál es la complicación evolutiva más frecuente en la meningitis bacteriana en la edad pediátrica?",
+      "o": [
+        "Hipoacusia",
+        "Retraso mental",
+        "Hidrocefalia",
+        "Defectos visuales"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.37,
+      "comparacoes": [
+        {
+          "id": "diciembre-2025",
+          "n": 76,
+          "sim": 0.37,
+          "shared": 0,
+          "q": "¿Cuál es la causa más frecuente de síndrome nefrótico en la edad pediátrica?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 14,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es la complicación metabólica más frecuente en el cancer?:"
+        },
+        {
+          "id": "area-8",
+          "n": 11,
+          "sim": 0.2,
+          "shared": 0,
+          "q": "¿Complicación digestiva más frecuente en RN pretérmino de bajo peso con letargia y acidosis?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 125,
+      "pagina": 391,
+      "q": "niño de 4 años de edad que consulta por aparición a lo largo de los últimos tres días de lesiones cutáneas en las piernas y glúteos. sus padres refieran que su pediatra le había diagnosticado una infección de vía respiratoria superiores 10 días antes. en las últimas 12 horas presenta dolor abdominal intenso tipo cólico y ha realizado dos deposiciones diarreicas. afebril no pérdida de peso. a la exploración presenta numerosas petequias y lesiones purpuricas palpables de predominio en glúteos y extremidades inferiores. buen estado general, aunque tiene dolor abdominal intenso. la palpación abdominal es difícil de valorar por dolor difuso. no viceromegalias. no otros hallazgos de interés a la exploración. ¿cuál de los siguientes datos no apoya su sospecha diagnostica?",
+      "o": [
+        "Artritis de rodilla y tobillo",
+        "Hematuria",
+        "Plaquetopenia",
+        "Sangre oculta en heces"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.275,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 118,
+          "sim": 0.275,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con dolor abdominal?"
+        },
+        {
+          "id": "area-4",
+          "n": 4,
+          "sim": 0.182,
+          "shared": 0,
+          "q": "Paciente de 18 años con astenia, distensión abdominal, deposiciones desligadas, pérdida de peso y erupción vesicular en espalda. Anemia ferropénica. ¿Sospecha?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 133,
+          "sim": 0.18,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con sospecha de maltrato infantil?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 127,
+      "pagina": 391,
+      "q": "la anemia ferropénica es la desnutrición mas frecuente en nuestro país. cuales de estas es la correcta prevención:",
+      "o": [
+        "Clampleo tardio de cordon",
+        "Introduccion oportuna de semisolidos",
+        "Lactancia materna",
+        "A y C correctas"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.363,
+      "comparacoes": [
+        {
+          "id": "area-14",
+          "n": 3,
+          "sim": 0.363,
+          "shared": 0,
+          "q": "Tratamiento de anemia ferropénica:"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 113,
+          "sim": 0.193,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes es una causa común de anemia ferropénica en niños pequeños?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 86,
+          "sim": 0.154,
+          "shared": 0,
+          "q": "En el diagnóstico de anemia ferropénica, ¿cuál de los siguientes parámetros es más sensible y específico para confirmar déficit de hierro?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 128,
+      "pagina": 392,
+      "q": "Senale la opción correcta",
+      "o": [
+        "La antropometría siempre nos determina el estado nutricional de los niños",
+        "El estado nutricional depende de la carga genética familiar",
+        "La obesidad es la epidemia nutricional de nuestro tiempo",
+        "La lactancia exclusiva hasta el 6 meses es insuficiente para los niños nacidos de alto peso"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.419,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 59,
+          "sim": 0.419,
+          "shared": 0,
+          "q": "Con respecto a la Enfermedad de Crohn. Señale la opción incorrecta:"
+        },
+        {
+          "id": "pdf-novas-4",
+          "n": 31,
+          "sim": 0.396,
+          "shared": 0,
+          "q": "Señale la correcta con respecto al siguiente enunciado: La vagina esta irrigada por la arteria…"
+        },
+        {
+          "id": "julio-2024",
+          "n": 55,
+          "sim": 0.285,
+          "shared": 0,
+          "q": "En un ensayo clínico aleatorizado, controlado y con diseño doble-ciego se han administrado dosis crecientes de 10 mg, 20 mg, 50 mg y 100 mg de un nuevo fármaco en un total de 60 pacientes (15 pacientes por cada grupo de dosis), con el fin de establec"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 129,
+      "pagina": 392,
+      "q": "un niño de 24 meses de edad con vomitos rigidez de nuca y fotofobia. de acuerdo a la edad del paciente las seguintes especies bacterianas son los principales agentes etiológico de meningitis purulenta, senale la opción incorrecta.",
+      "o": [
+        "Streptococcus agalactiae",
+        "Neisseria meningitidis",
+        "Haemophilus influenzae",
+        "Klebsiella pneumoniae"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.264,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 59,
+          "sim": 0.264,
+          "shared": 0,
+          "q": "Con respecto a la Enfermedad de Crohn. Señale la opción incorrecta:"
+        },
+        {
+          "id": "area-8",
+          "n": 48,
+          "sim": 0.212,
+          "shared": 0,
+          "q": "Niño de 7 meses con fotofobia, lagrimeo y buftalmia. ¿PIO que sugiere el diagnóstico?"
+        },
+        {
+          "id": "area-10",
+          "n": 2,
+          "sim": 0.195,
+          "shared": 0,
+          "q": "Paciente de 28 años con cefalea súbita 10/10, vómitos, somnolencia, rigidez de nuca y hemiparesia derecha. ¿Diagnóstico?"
+        }
+      ]
+    },
+    {
+      "block": 9,
+      "especialidad": "Pediatría",
+      "n": 141,
+      "pagina": 394,
+      "q": "Cual de los siguientes antibióticos utilizaría para tratar un niño de 6 años de edad que es traído a la consulta porque presenta otalgia unilateral derecha y fiebre de 48 horas de evolución? En el examen físico presenta dolor a la palpación de la región auricular y en la otoscopia se observa la membrana timpánica abombada y despulida con ausencia de movilidad y sin reflejo luminoso. (UNICO 2016)",
+      "o": [
+        "Ceftriaxona",
+        "Lincomicina",
+        "Amoxicilina",
+        "Tetraciclina"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.308,
+      "comparacoes": [
+        {
+          "id": "area-8",
+          "n": 12,
+          "sim": 0.308,
+          "shared": 0,
+          "q": "Niño de 3 años con catarro, otalgia, fiebre 38°C. Otoscopia: membrana timpánica eritematosa abombada con contenido blanco-amarillento. ¿Tratamiento?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 107,
+          "sim": 0.267,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con fiebre?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 3,
+          "sim": 0.248,
+          "shared": 0,
+          "q": "Acude a la consulta un varón de 17 años con un cuadro de otalgia, otorrea, hipoacusia y fiebre de 48 horas de evolución. A la otoscopía neumática se observa líquido en oído medio e inmovilidad de la membrana timpánica, que se encuentra abombada. Indi"
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "especialidad": "Renal",
+      "n": 16,
+      "pagina": 458,
+      "q": "Un paciente de 53 años con antecedentes de hipertensión arterial y diabetes concurre a la consulta para realizar control de salud ¿Qué estudios solicitaría inicialmente para evaluar si hay presencia de enfermedad renal?",
+      "o": [
+        "Proteinuria en orina de 24 hs, creatinina y urea séricas.",
+        "Índice de albumina/creatinina en muestra aislada de orina; creatinina sérica para estimación del filtrado glomerular por fórmula; ecografía renal bilateral y fondo de ojo.",
+        "Índice albúmina/creatinina en muestra de orina aislada; creatinina sérica para estimación de filtrado glomerular por fórmula.",
+        "Tiras reactivas de orina para detectar proteinuria y microhematuria; creatinina y urea séricas; ecografía renal bilateral."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.394,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 77,
+          "sim": 0.394,
+          "shared": 0,
+          "q": "Un varón de 57 años con antecedentes de hipertensión arterial y diabetes tipo ll diagnosticada hace 2 anos. concurre a control a su consultorio. La TA es de 125/80 mmHg y trae un laboratorio de hace 2 meses con los siguientes resultados: hemoglobina "
+        },
+        {
+          "id": "febrero-2024",
+          "n": 96,
+          "sim": 0.31,
+          "shared": 0,
+          "q": "¿Cuál es la prevalencia de Hipertensión Arterial en Argentina?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 15,
+          "sim": 0.258,
+          "shared": 0,
+          "q": "Consulta una paciente de 62 años que fuma desde hace 15 años y no presenta otros antecedentes. ¿Qué estudios están recomendados en su control periódico de salud?"
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "especialidad": "Renal",
+      "n": 17,
+      "pagina": 458,
+      "q": "Paciente de 17 años, con asma leve intermitente, que consulta por edemas en miembros inferiores y disminución del volumen de orina. El cuadro inicio luego de haber completado tratamiento con Amoxicilina e Ibuprofeno por una faringitis aguda. En el examen físico lo halla hipertenso (TA 150/100), con edema leve en ambas piernas. se realiza una ecografía renal que informa riñones de tamaño y eco estructura normales y un laboratorio cuyos datos más relevantes son: Hematocrito 33% - Uremia 108 mg/L (VN: hasta 50 mg/1). Creatinina 2.5 mg% (VN: hasta 1.2 mg%) Sodio 128 mEq/I - Potasio 5.6 mEq/L El sedimento de orina muestra abundantes hematíes dismorficos. El diagnóstico más probable es:",
+      "o": [
+        "Insuficiencia renal aguda secundaria a glomerulonefritis postinfecciosa.",
+        "Insuficiencia renal Agudo por el uso de AINES",
+        "Glomerulonefritis de cambios mínimos",
+        "Ninguna de las alternativas anteriores"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.366,
+      "comparacoes": [
+        {
+          "id": "area-6",
+          "n": 1,
+          "sim": 0.366,
+          "shared": 0,
+          "q": "Paciente de 17 años, asmático, edemas en miembros inferiores, oliguria. Post tratamiento con amoxicilina e ibuprofeno. HTA 150/100, hematíes dismórficos. ¿Diagnóstico más probable?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 87,
+          "sim": 0.206,
+          "shared": 0,
+          "q": "Un paciente de 24 años con antecedentes de migraña y consumo de AINEs en los últimos 30 días consulta a guardia. Presenta creatininemia de 3,4 mg%, Uremia 102 mg% y Excreción Fraccionada de Sodio(FeNa) de 1.6. El examen de orina muestra abundantes ci"
+        },
+        {
+          "id": "pdf-novas-10",
+          "n": 5,
+          "sim": 0.186,
+          "shared": 0,
+          "q": "Un paciente de 18 años con antecedentes de faringitis eritematoso exudativa 15 días antes, lo consulta por emisión de orinas color rojizo. Presenta edema facial, TA: 170/100, diuresis 400ml/ 24 hs y orina completa con 10 hematíes dismórficos/campo. U"
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "especialidad": "Renal",
+      "n": 19,
+      "pagina": 459,
+      "q": "Una mujer de 68 años presenta desde hace 3 meses una alteración en la función renal detectada por índice urinario proteína/creatinina. se atiende en el centro de salud de forma irregular desde hace 5 años por hipertensión arterial. no fuma, no tiene diabetes y no realiza actividad física. En la consulta se constata: ta 145-90 mm/hg, imc 28,67 kg/m2 y en el laboratorio presenta: colesterol: total 200 mg/dl, ldl100 mg/dl y velocidad de filtración glomerular 75 ml/min/1,73m2. según la “guía de práctica clínica sobre prevención y detección precoz de la enfermedad renal crónica en el primer nivel de atención”, ¿cuál es la conducta más adecuada? (muni 2018, 18)",
+      "o": [
+        "Control de los factores de riesgo cardiovascular; estabilizar la tensión arterial y agregar medicación con inhibidores de la enzima convertidora de angiotensina (ieca).",
+        "Estabilizar la tensión arterial con medidas farmacológicas y no farmacológicas; indicar dieta hipoproteica, hiposódica e hipokalémica y realizar interconsulta con nefrología.",
+        "Derivar al servicio de nefrología y seguimiento en el segundo nivel de atención.",
+        "Control de los factores de riesgo cardiovascular; estabilizar la tensión arterial con medidas farmacologías y no farmacológicas; indicar dieta hipoproteica y agregar estatinas."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.261,
+      "comparacoes": [
+        {
+          "id": "febrero-2024",
+          "n": 96,
+          "sim": 0.261,
+          "shared": 0,
+          "q": "¿Cuál es la prevalencia de Hipertensión Arterial en Argentina?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 84,
+          "sim": 0.233,
+          "shared": 0,
+          "q": "Un varón de 48 años concurre a control de salud. Niega antecedentes patológicos. Trae laboratorio que informa: glucemia 105 mg/dl, triglicéridos: 190 mg/dl, colesterol total 210 mg/dl, col-HDL: 42 mg/dl, col-LDL-150 mg/dl y creatinina 0.60 mg/dl. En "
+        },
+        {
+          "id": "abril-2022",
+          "n": 77,
+          "sim": 0.21,
+          "shared": 0,
+          "q": "Un varón de 57 años con antecedentes de hipertensión arterial y diabetes tipo ll diagnosticada hace 2 anos. concurre a control a su consultorio. La TA es de 125/80 mmHg y trae un laboratorio de hace 2 meses con los siguientes resultados: hemoglobina "
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "especialidad": "Renal",
+      "n": 20,
+      "pagina": 459,
+      "q": "cuál es el diagnóstico más probable de un paciente que presenta microhematuria con leucocituria y un análisis de orina? único 2017- 14",
+      "o": [
+        "Glomerulonefritis membranosa.",
+        "Tumor renal.",
+        "Infección urinaria.",
+        "Malformación vascular."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.3,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 7,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "Una mujer de 50 años con diabetes tipo 2 acude con letargo, poliuria y polidipsia de varios días. En los análisis de laboratorio glucosa 70 mg/dL, osmolaridad sérica 340 mOsm/L, sodio corregido 135 mEq/L, cetonas en orina negativas, bicarbonato 24 mE"
+        },
+        {
+          "id": "pdf-novas-10",
+          "n": 2,
+          "sim": 0.26,
+          "shared": 0,
+          "q": "mujer de 68 años, que es diagnosticada de una tbc pulmonar. se instauro tto con isoniacida, rifampsina y etambutol. a los 12 días de iniciado el tratamiento consulta por fiebre de 38ºc, exantema cutâneo, adenopatias, artralgia, dolor lumbar, oliguria"
+        },
+        {
+          "id": "pdf-novas-9",
+          "n": 19,
+          "sim": 0.247,
+          "shared": 0,
+          "q": "Cuál es el diagnóstico más probable de un lactante de 6 meses que presenta eritema en regiones glútea, genital y superficies convexas de los muslos, dejando libre el fondo de los pliegues? (único 2020)"
+        }
+      ]
+    },
+    {
+      "block": 10,
+      "especialidad": "Renal",
+      "n": 39,
+      "pagina": 463,
+      "q": "¿Cuál es el diagnóstico más probable de un paciente que presenta microhematuria con leucocituria y un análisis de orina?",
+      "o": [
+        "Glomerulonefritis membranosa.",
+        "Tumor renal.",
+        "Infección urinaria.",
+        "Tumor vesical"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.337,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 7,
+          "sim": 0.337,
+          "shared": 0,
+          "q": "Una mujer de 50 años con diabetes tipo 2 acude con letargo, poliuria y polidipsia de varios días. En los análisis de laboratorio glucosa 70 mg/dL, osmolaridad sérica 340 mOsm/L, sodio corregido 135 mEq/L, cetonas en orina negativas, bicarbonato 24 mE"
+        },
+        {
+          "id": "pdf-novas-10",
+          "n": 2,
+          "sim": 0.295,
+          "shared": 0,
+          "q": "mujer de 68 años, que es diagnosticada de una tbc pulmonar. se instauro tto con isoniacida, rifampsina y etambutol. a los 12 días de iniciado el tratamiento consulta por fiebre de 38ºc, exantema cutâneo, adenopatias, artralgia, dolor lumbar, oliguria"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 19,
+          "sim": 0.264,
+          "shared": 0,
+          "q": "Un hombre de 56 años con antecedente de carcinoma pulmonar de células pequeñas acude con confusión, debilidad generalizada y náuseas. En los análisis: sodio 118 mEq/L, osmolaridad sérica 20 mOsm/kg, osmolaridad urinaria 500 mOsm/kg. ¿Cuál es el diagn"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 5,
+      "pagina": 480,
+      "q": "pregunta 41 (UAI AGOSTO 2025) varón de 22 años, previamente sano, consulta por disnea progresiva de esfuerzo, tos seca persistente y pérdida de peso no intencionada en los últimos 3 meses. niega fiebre, fuma habitualmente cigarrillo electrónicos y marihuana. al examen físico presenta hipocratismo digital y crepitantes secos bibasales, sato2 92% en reposo. la espirometría muestra un patrón restrictivo, y la tc de tórax evidencia opacidades en vidrio esmerilado y reticulación subpleural compatible con fibrosis pulmonar incipiente. ¿cuál de los siguientes factores es el más probable desencadenante de la enfermedad pulmonar?",
+      "o": [
+        "vapes",
+        "cigarrillo convencional",
+        "inhalación de marihuana",
+        "genética"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.3,
+      "comparacoes": [
+        {
+          "id": "area-3",
+          "n": 5,
+          "sim": 0.3,
+          "shared": 0,
+          "q": "Valores de espirometría con patrón restrictivo:"
+        },
+        {
+          "id": "area-3",
+          "n": 11,
+          "sim": 0.24,
+          "shared": 0,
+          "q": "Hombre de 68 años con EPOC, disnea progresiva, tos productiva y fiebre. Sibilancias y crepitantes bibasales. GSA: pH 7.32, PaCO2 65, PaO2 55, HCO3 30. ¿Diagnóstico más probable?"
+        },
+        {
+          "id": "febrero-2025",
+          "n": 145,
+          "sim": 0.211,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con tos persistente?"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 44,
+      "pagina": 487,
+      "q": "¿Cuál es el tratamiento antibiótico empírico adecuado para un paciente masculino de 28 años, alérgico a la penicilina, que consulta por odinofagia de 48hs de evolución, sin tos, con temperatura axilar de 38,8°C, exudado amigdalino bilateral y adenopatías cervicales anteriores?",
+      "o": [
+        "Eritromicina 500 mg cada 8 hs durante 10 días.",
+        "Amoxicilina 500 mg cada 8 hs por 10 días.",
+        "Claritromicina 250 mg cada 12 hs por 3 días.",
+        "Penicilina benzatínica IM dosis única 1.200.000 UI y control estricto"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.36,
+      "comparacoes": [
+        {
+          "id": "area-9",
+          "n": 9,
+          "sim": 0.36,
+          "shared": 0,
+          "q": "¿Tratamiento antibiótico empírico para uretritis?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 68,
+          "sim": 0.316,
+          "shared": 0,
+          "q": "Un paciente donde se descartó COVID19 y tiene 22 años, temperatura de 38,5 C, Exudado amigdalino, ausencia de tos, Adenopatías cervicales anteriores, que conducta tomaría. ¿De acuerdo al Score de CENTOR que conducta tomaría?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 63,
+          "sim": 0.303,
+          "shared": 0,
+          "q": "¿Qué tratamiento antibiótico empírico elegiría para un paciente con uretritis?"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 47,
+      "pagina": 488,
+      "q": "Un paciente de 80 años con antecedentes de insuficiencia renal crónica y diabetes tipo 2, presenta desde hace 3 días tos con expectoración purulenta, fiebre, dificultad respiratoria y dolor torácico derecho en puntada de costado. En la exploración presenta una presión arterial de 120-60mmHg FC :80 lpm y FR:20rpm. La SO2 es de 94% al aire ambiente. Esta febril y algo somnoliento. Se auscultan crepitantes en base pulmonar derecha y la rx de tórax muestra condensación con broncograma aéreo en dicha localización. ¿Cuál de las siguientes considera la conducta más apropiada?",
+      "o": [
+        "Le prescribe levofloxacina 500mg VO cada 24 horas, reposo, hidratación y cita a control en 48 horas",
+        "Indica amoxicilina – clavulánico VO 1 gr cada 12 horas, reposo y cita a control en 48 horas",
+        "Decide internación en clínica médica y luego tomarle hemocultivos, inicia ceftriaxona 2 gr IV día",
+        "Decide internación en clínica médica y luego tomarle hemocultivos, inicia imipenem 250mg IV cada 6 horas"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.254,
+      "comparacoes": [
+        {
+          "id": "pdf-novas-11",
+          "n": 1,
+          "sim": 0.254,
+          "shared": 0,
+          "q": "pregunta 43 (UAI AGOSTO 2025) una mujer de 68 años consulta por fiebre de 38,7°c, los con expectoración amarilla y disnea progresiva desde hace tres días. es hipertensa y diabética, controlada con metformina. saturación de o2 al ingreso: 95% en aire "
+        },
+        {
+          "id": "area-3",
+          "n": 7,
+          "sim": 0.253,
+          "shared": 0,
+          "q": "Hombre de 69 años con tos mucopurulenta de 3 días, temperatura 37.8°C, FR 18, sin condensación. ¿Conducta?"
+        },
+        {
+          "id": "julio-2024",
+          "n": 86,
+          "sim": 0.238,
+          "shared": 0,
+          "q": "Paciente de 65 años, EPOC, sexo femenino, que consulta por fiebre, tos y expectoración purulenta de 2 días de evolución. Examen físico: paciente confusa, TA 90/60 mmHg, TO axilar 39°C, frecuencia respiratoria 36 por min, frecuencia cardíaca 130 por m"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 50,
+      "pagina": 488,
+      "q": "Una paciente de 22 años con diagnóstico de asma bronquial hace 6 meses concurre al consultorio para control. Se encuentra en tratamiento con agonistas b2 a demanda. Refiere síntomas asmáticos frecuentes, 4 veces en el último mes y sin episodios de exacerbaciones. ¿Cuál es el tratamiento más adecuado? (CABA 2017, 82)",
+      "o": [
+        "Budesonide.",
+        "Combinación budesonide/formoterol.",
+        "Combinación formoterol/ tiotropio.",
+        "Formoterol."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.288,
+      "comparacoes": [
+        {
+          "id": "area-9",
+          "n": 7,
+          "sim": 0.288,
+          "shared": 0,
+          "q": "¿Qué hace con un paciente con síntomas de COVID?"
+        },
+        {
+          "id": "area-10",
+          "n": 4,
+          "sim": 0.227,
+          "shared": 0,
+          "q": "La maniobra de Epley es tratamiento adecuado para:"
+        },
+        {
+          "id": "area-3",
+          "n": 1,
+          "sim": 0.222,
+          "shared": 0,
+          "q": "¿Cuál es el tratamiento más adecuado de una bronquitis aguda en el adulto sin comorbilidades?"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 51,
+      "pagina": 489,
+      "q": "¿Cuál es la conducta más adecuada con un paciente de 35 años, sin antecedentes patológicos, que fue tratado por una bronquitis aguda con amoxicilina 500 mg cada 8 horas durante 10 días y consulta por la persistencia de tos no productiva una semana después de haber finalizado el tratamiento? (ÚNICO 2017, 99)",
+      "o": [
+        "Indicar loratadina 10 mg día por 3 días.",
+        "Explicar que la tos se resolverá espontáneamente.",
+        "Solicitar radiografía de tórax.",
+        "Indicar levofloaxacina 700 mg día por 5 días."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.304,
+      "comparacoes": [
+        {
+          "id": "area-3",
+          "n": 7,
+          "sim": 0.304,
+          "shared": 0,
+          "q": "Hombre de 69 años con tos mucopurulenta de 3 días, temperatura 37.8°C, FR 18, sin condensación. ¿Conducta?"
+        },
+        {
+          "id": "area-3",
+          "n": 1,
+          "sim": 0.304,
+          "shared": 0,
+          "q": "¿Cuál es el tratamiento más adecuado de una bronquitis aguda en el adulto sin comorbilidades?"
+        },
+        {
+          "id": "febrero-2024",
+          "n": 30,
+          "sim": 0.234,
+          "shared": 0,
+          "q": "Un paciente de 72 años lo consulta por haber presentado un episodio de rectorragia hace 5 días. No tiene antecedentes patológicos relevantes. Se realiza una videocolonoscopía que informa: presencia de un pólipo único pediculado en el sigmoides, de un"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 59,
+      "pagina": 490,
+      "q": "paciente 60 anos, antecedentes de epoc, consulta por disnea, tos y aumento de la expectoración de 48h de evolución. examen físico: lucido, pa: 150/90mmhg, fc: 120 irregular, broncoespasmo con roncos y simbilancia disseminado, fr:28, tiraje supraclavicular, gases en sangre: ph 7,6, po2: 55, pco2: 50, hco3: 30, sat o2: 88%. rx de tórax sin infiltrados, signos de atrapamiento aéreo. cual es el mecanismo de hipoxemia en este paciente",
+      "o": [
+        "Transtorno en la difusión",
+        "Caida de la pao2",
+        "Alteración v/q",
+        "Disminuicion de espacio muerto"
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.25,
+      "comparacoes": [
+        {
+          "id": "julio-2024",
+          "n": 86,
+          "sim": 0.25,
+          "shared": 0,
+          "q": "Paciente de 65 años, EPOC, sexo femenino, que consulta por fiebre, tos y expectoración purulenta de 2 días de evolución. Examen físico: paciente confusa, TA 90/60 mmHg, TO axilar 39°C, frecuencia respiratoria 36 por min, frecuencia cardíaca 130 por m"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 41,
+          "sim": 0.204,
+          "shared": 0,
+          "q": "Paciente de 65 años con antecedentes de EPOC de larga data. Ingresa a la guardia con disnea severa y confusión. Refiere aumento de la tos y producción de esputo purulento en los últimos días. No ha utilizado su inhalador de rescate con regularidad. E"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 82,
+          "sim": 0.19,
+          "shared": 0,
+          "q": "Un paciente con EPOC crónico severo se halla obnubilado con 40 de FR y signos de hipoperfusión. Los gases en sangre muestran pH de 7,30, pCO2 de 45, PaO2 de 50, bicarbonato de 21 y saturación de 77% respirando con mascara al 35% ¿Cuál considera usted"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 65,
+      "pagina": 491,
+      "q": "Cuál de las siguientes afirmaciones con respecto a las características clínicas de la neumonía que presenta un anciano frágil comparada con un adulto con mismo diagnostico?",
+      "o": [
+        "Puede presentar clínicamente en forma de delirium",
+        "Tienen el mismo riesgo de sufrir perdida de sus capacidades de autocuidado",
+        "En el anciano frágil requiere mayor grado de reposo o permanencia en cama para evitar complicaciones",
+        "La edad modifica la antibioticoterapia empírica de la neumonía adquirida en la comunidad."
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.272,
+      "comparacoes": [
+        {
+          "id": "febrero-2025",
+          "n": 153,
+          "sim": 0.272,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es el método de diagnóstico de primera línea para la neumonía en niños?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 97,
+          "sim": 0.198,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes es un criterio mayor de diagnóstico de Anorexia nerviosa?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 27,
+          "sim": 0.198,
+          "shared": 0,
+          "q": "¿Cuáles de las siguientes características indican la presencia de un síndrome metabólico?"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 67,
+      "pagina": 492,
+      "q": "Una mujer de 74 años, sin antecedentes patológicos, refiere durante la consulta que su esposo continuamente le está diciendo que ella no oye bien, especialmente en las reuniones familiares. ¿Cuál es la conducta inicial más adecuada?",
+      "o": [
+        "Solicitar audiometría.",
+        "Solicitar interconsulta con fonoaudiología.",
+        "Conducta expectante y evaluar evolución.",
+        "Realizar otoscopía"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.305,
+      "comparacoes": [
+        {
+          "id": "area-7",
+          "n": 29,
+          "sim": 0.305,
+          "shared": 0,
+          "q": "Paciente G2P1, 10 semanas, glucemia en ayunas 105 mg/dl. Sin antecedentes de diabetes. ¿Conducta inicial?"
+        },
+        {
+          "id": "area-8",
+          "n": 20,
+          "sim": 0.208,
+          "shared": 0,
+          "q": "Santino de 3 años con vómitos y diarrea de 48hs. ¿Conducta inicial?"
+        },
+        {
+          "id": "abril-2022",
+          "n": 50,
+          "sim": 0.205,
+          "shared": 0,
+          "q": "¿Cuál es la conducta más adecuada con un señor de 34 años, tabaquista de 10 cigarrillos diarios, que consulta por acidez y dolor epigástrico de un mes de evolución, que en ocasiones cede con la ingesta y que empeoró en los últimos días? No tiene ante"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 69,
+      "pagina": 492,
+      "q": "Una mujer de 52 años consulta porque presenta tos en la mayoría de los días desde hace 3 meses aproximadamente. Refiere antecedentes de tabaquismo de 40 paquetes/año. Solicita una espirometria que informa los siguientes valores pré broncodilatador: CVF 3L (representa 96% del valor teórico), VEF1: 1,54L (representa 62% del valor teórico), VEF1/CVF de 50%. Los valores post broncodilatador que informa la espirometria es que el porcentaje de cambio del VEF1 es de 1%. ¿Cómo interpreta los resultados?",
+      "o": [
+        "Patrón obstructivo moderado y no reversible a broncodilatadores",
+        "Patrón obstructivo grave, no reversible a broncodilatadores",
+        "Patrón obstructivo grave reversible a broncodilatadores",
+        "Patrón restrictivo moderado, no reversible a broncodilatadores"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.488,
+      "comparacoes": [
+        {
+          "id": "area-3",
+          "n": 6,
+          "sim": 0.488,
+          "shared": 1,
+          "q": "Mujer de 52 años, tabaquismo de 40 paquetes/año, tos crónica. Espirometría: CVF 96%, VEF1 62%, VEF1/CVF 50%, cambio post broncodilatador 1%. ¿Interpretación?"
+        },
+        {
+          "id": "diciembre-2022",
+          "n": 53,
+          "sim": 0.373,
+          "shared": 0,
+          "q": "Cuál es su interpretación de la espirometría de un paciente, que informa: VEF1 78% - CVF 65% - VEF1/CVF: 104%"
+        },
+        {
+          "id": "area-3",
+          "n": 5,
+          "sim": 0.22,
+          "shared": 0,
+          "q": "Valores de espirometría con patrón restrictivo:"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 75,
+      "pagina": 493,
+      "q": "Una persona que estuvo con un contacto estrecho con COVID - 19, y presenta síntomas de gripe, aunque leves, ¿Cuál es la conducta correcta a seguir según el protocolo de CABA?",
+      "o": [
+        "Asistir inmediatamente a una unidad febril y realizarse el test de diagnóstico.",
+        "Si los síntomas son leves, utilizar paracetamol y permanecer aislado, considerándose positivo para COVID, dado el contacto estrecho. (hoy en día no es necesario)",
+        "Esperar 7 días y luego hacerse el test de diagnóstico. Aislarle inmediatamente.",
+        "Esperar 48 h y realizarse el test de diagnóstico y aislarse inmediatamente"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.392,
+      "comparacoes": [
+        {
+          "id": "area-9",
+          "n": 5,
+          "sim": 0.392,
+          "shared": 0,
+          "q": "Definición de contacto estrecho COVID:"
+        },
+        {
+          "id": "area-9",
+          "n": 7,
+          "sim": 0.32,
+          "shared": 0,
+          "q": "¿Qué hace con un paciente con síntomas de COVID?"
+        },
+        {
+          "id": "area-5",
+          "n": 2,
+          "sim": 0.216,
+          "shared": 0,
+          "q": "Paciente asintomático con glucemia en ayunas de 118 mg/dl. ¿Conducta a seguir?"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 78,
+      "pagina": 494,
+      "q": "Paciente con neumonía por COVID – 19, que ingresa a la terapia intensiva con requerimiento de asistencia respiratoria mecánica, sin inotrópicos, estable. Los primeros análisis de sangre muestran lo siguiente: Hto 45%, Bcos: 15200, Glu 120 – Urea 65 – creat 0.9 – Na 145 – K 4.6 - Ferritina de 288 – fibrinógeno de 372 – Dinero D: 850, ProbNp: 200. Con PaFiO2: 112 – FIO2 de 0.8 y 15 peep. Responda la conducta terapéutica correcta:",
+      "o": [
+        "Se prona inmediatamente al paciente",
+        "Se aumenta la Fio2 al 100% y la peep a 20, y si no mejora se prona",
+        "Se inicia anticoagulación con HBPM (heparina de bajo PM).",
+        "Se inicia dosis altas de corticoides"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.273,
+      "comparacoes": [
+        {
+          "id": "area-3",
+          "n": 2,
+          "sim": 0.273,
+          "shared": 0,
+          "q": "Patrón de la neumonía por COVID:"
+        },
+        {
+          "id": "area-3",
+          "n": 8,
+          "sim": 0.153,
+          "shared": 0,
+          "q": "Paciente COVID, dímero-D de 750 y PaFi en 112 con ARM. ¿Conducta adecuada?"
+        },
+        {
+          "id": "area-3",
+          "n": 7,
+          "sim": 0.135,
+          "shared": 0,
+          "q": "Hombre de 69 años con tos mucopurulenta de 3 días, temperatura 37.8°C, FR 18, sin condensación. ¿Conducta?"
+        }
+      ]
+    },
+    {
+      "block": 11,
+      "especialidad": "Respiratorio",
+      "n": 79,
+      "pagina": 494,
+      "q": "Respecto a las bronquiectasias, indique la opción correcta:",
+      "o": [
+        "Es un proceso fibrotico que mejora con corticoides rápidamente.",
+        "Es un proceso fibro-inflamatorio crónico con alteración de las paredes bronquiales.",
+        "Es un proceso donde hay aumento de la vasculatura bronquial principalmente distal.",
+        "Es un proceso inflamatorio agudo con alteración de la estructura alveolar."
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.427,
+      "comparacoes": [
+        {
+          "id": "abril-2022",
+          "n": 11,
+          "sim": 0.427,
+          "shared": 0,
+          "q": "Respecto a las características de una prueba diagnóstica, indique la respuesta correcta:"
+        },
+        {
+          "id": "julio-2024",
+          "n": 59,
+          "sim": 0.284,
+          "shared": 0,
+          "q": "Con respecto a la Enfermedad de Crohn. Señale la opción incorrecta:"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 66,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes consideraciones con respecto a la ligadura del cordón umbilical es correcta?"
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "especialidad": "Toxicología",
+      "n": 1,
+      "pagina": 555,
+      "q": "Pregunta 01 (UAI AGOSTO 2025). Un paciente de 28 años es traído a la guardia tras ser hallado inconsciente en su domicilio. Pupilas mioticos, bradicardia, y respuesta parcial al estímulo doloroso. Se administró naloxona IV con recuperación inmediata. A los 25 minutos vuelve a deprimirse el sensorio. ¿Cuál es la conducta más adecuada?",
+      "o": [
+        "Iniciar infusión continua de naloxona",
+        "Intubación y UTI",
+        "Administrar una nueva dosis de naloxona por vía intramuscular",
+        "Observación en la guardia por 1 hora"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.325,
+      "comparacoes": [
+        {
+          "id": "area-11",
+          "n": 10,
+          "sim": 0.325,
+          "shared": 2,
+          "q": "Paciente de 28 años hallado inconsciente, pupilas mióticas, bradicardia. Responde a naloxona pero recae a los 25 min. ¿Conducta?"
+        },
+        {
+          "id": "area-11",
+          "n": 7,
+          "sim": 0.163,
+          "shared": 0,
+          "q": "Agricultor inconsciente con bradicardia, miosis y sialorrea. ¿Antídoto?"
+        },
+        {
+          "id": "area-3",
+          "n": 8,
+          "sim": 0.163,
+          "shared": 0,
+          "q": "Paciente COVID, dímero-D de 750 y PaFi en 112 con ARM. ¿Conducta adecuada?"
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "especialidad": "Toxicología",
+      "n": 33,
+      "pagina": 560,
+      "q": "¿Se detecta engrosamiento pleural, con que se relaciona?",
+      "o": [
+        "Exposición al asbesto",
+        "Tabaquismo crónico",
+        "Infecciones por virus de la gripe",
+        "Dieta rica en grasas"
+      ],
+      "key": "A",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.275,
+      "comparacoes": [
+        {
+          "id": "area-3",
+          "n": 10,
+          "sim": 0.275,
+          "shared": 0,
+          "q": "Hombre de 64 años con dolor torácico severo de 3 semanas. Rx: engrosamiento pleural derecho. ¿Antecedente laboral de mayor relevancia?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 20,
+          "sim": 0.229,
+          "shared": 0,
+          "q": "Paciente masculino de 62 años, trabajador durante más de 30 años en la industria de la construcción naval, consulta por disnea progresiva y dolor torácico sordo. En la radiografía de tórax se evidencia engrosamiento pleural difuso. ¿Con qué anteceden"
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "especialidad": "Toxicología",
+      "n": 36,
+      "pagina": 561,
+      "q": "En una paciente de 35 años de edad, que se encuentra en coma, con sospecha de intoxicación con benzodiazepinas ¿Cuál de las siguientes sustancias usaría como antídoto?",
+      "o": [
+        "Anticolinérgicos.",
+        "Fluconazol.",
+        "Flumazenil.",
+        "Naloxona."
+      ],
+      "key": "C",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.516,
+      "comparacoes": [
+        {
+          "id": "area-11",
+          "n": 1,
+          "sim": 0.516,
+          "shared": 2,
+          "q": "Paciente en coma con sospecha de intoxicación por benzodiacepinas. ¿Antídoto?"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 93,
+          "sim": 0.283,
+          "shared": 1,
+          "q": "¿Qué antídoto se utiliza en caso de sobredosis de benzodiazepinas?"
+        },
+        {
+          "id": "diciembre-2024",
+          "n": 57,
+          "sim": 0.24,
+          "shared": 0,
+          "q": "¿Cuál de los siguientes signos es característico de la intoxicación por salicilatos?"
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "especialidad": "Toxicología",
+      "n": 38,
+      "pagina": 561,
+      "q": "consulta a la guardia un grupo familiar, los tres integrantes presentan taquicardia y estado nauseo. la madre presenta además cefalea y vómitos alimenticios y el niño convulsiones. su impresión diagnostica es intoxicación por",
+      "o": [
+        "Estafilococo",
+        "Monóxido de carbono",
+        "Botulismo",
+        "Anticolinergicos"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.374,
+      "comparacoes": [
+        {
+          "id": "area-11",
+          "n": 2,
+          "sim": 0.374,
+          "shared": 1,
+          "q": "Familia con taquicardia, náuseas, cefalea, vómitos y convulsiones en la niña. ¿Intoxicación por?"
+        },
+        {
+          "id": "diciembre-2025",
+          "n": 96,
+          "sim": 0.183,
+          "shared": 0,
+          "q": "Paciente de 30 años llega a la guardia luego de inhalar monóxido de carbono accidentalmente en su cochera. Presenta cefalea, vómitos y confusión. SatO₂ por oximetría: 98%. ¿Cuál es la medida diagnóstica más útil?"
+        },
+        {
+          "id": "area-11",
+          "n": 14,
+          "sim": 0.17,
+          "shared": 0,
+          "q": "Paciente de 30 años inhala monóxido de carbono. Cefalea, vómitos, confusión. SatO2 por oximetría 98%. ¿Medida diagnóstica más útil?"
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "especialidad": "Toxicología",
+      "n": 39,
+      "pagina": 561,
+      "q": "además de la hemorragia, un efecto adverso grave de la heparina es:",
+      "o": [
+        "Hipopotasemia",
+        "Alcalosis metabólica",
+        "Diarrea",
+        "Trombocitopenia"
+      ],
+      "key": "D",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.338,
+      "comparacoes": [
+        {
+          "id": "febrero-2023",
+          "n": 1,
+          "sim": 0.338,
+          "shared": 1,
+          "q": "¿Cuál es el efecto adverso más frecuente del bupropión?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 2,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "¿Cuál es el efecto adverso más frecuente del etambutol?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 3,
+          "sim": 0.338,
+          "shared": 0,
+          "q": "¿Cuál es el efecto adverso más frecuente de la rifampicina?"
+        }
+      ]
+    },
+    {
+      "block": 13,
+      "especialidad": "Toxicología",
+      "n": 41,
+      "pagina": 562,
+      "q": "En el caso de una intoxicación aguda por arsénico, plomo o mercurio usted utilizaría como antídoto:",
+      "o": [
+        "Flumazenilo",
+        "Dimercaprol",
+        "Calcio",
+        "Fisostigmina"
+      ],
+      "key": "B",
+      "classe": "REVISAR SEMELHANÇA MÉDIA",
+      "score": 0.396,
+      "comparacoes": [
+        {
+          "id": "area-11",
+          "n": 3,
+          "sim": 0.396,
+          "shared": 1,
+          "q": "¿Tratamiento de intoxicación por arsénico?"
+        },
+        {
+          "id": "area-11",
+          "n": 1,
+          "sim": 0.27,
+          "shared": 0,
+          "q": "Paciente en coma con sospecha de intoxicación por benzodiacepinas. ¿Antídoto?"
+        },
+        {
+          "id": "febrero-2023",
+          "n": 53,
+          "sim": 0.2,
+          "shared": 0,
+          "q": "¿Cuál de las siguientes puede ser una manifestación clínica de la intoxicación aguda por cocaína?"
+        }
+      ]
+    }
+  ],
+  "reviewNote": "Métrica lexical não valida equivalência semântica. Revisar caso e alternativas antes de publicar. Respostas são do PDF não validadas."
+}
