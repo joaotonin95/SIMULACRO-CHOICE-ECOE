@@ -1,70 +1,70 @@
 {
   "data": "2026-11-23",
   "totalPDF": 1056,
-  "totalSite": 1388,
-  "publicadas": 235,
-  "pendentes": 821,
-  "nota": "Auditoria conciliada com os 4 lotes após deduplicação entre os próprios lotes. Itens provisórios não recebem pontuação, e os rótulos de similaridade não representam necessariamente duplicação semântica. Os dados do PDF não validam automaticamente seu gabarito.",
+  "totalSite": 1364,
+  "publicadas": 211,
+  "pendentes": 845,
+  "nota": "Auditoria de 1056 entradas conciliada com os arquivos ativos. Resumos de similaridade textual são triagem, não confirmação de duplicata. Repetição sobre sucralfato (PDF Dig. 83 vs diciembre-2022 70) excluída. Gabaritos provisórios não pontuam. Alguns itens abertos precisam de reformulação antes da importação.",
   "porEspecialidade": {
     "Cirugía": {
       "total": 75,
-      "publicadas": 14,
-      "pendentes": 61
+      "publicadas": 12,
+      "pendentes": 63
     },
     "Digestivo": {
       "total": 124,
-      "publicadas": 23,
-      "pendentes": 101
+      "publicadas": 19,
+      "pendentes": 105
     },
     "Emergentología": {
       "total": 37,
-      "publicadas": 11,
-      "pendentes": 26
+      "publicadas": 10,
+      "pendentes": 27
     },
     "Ginecología y Obstetricia": {
       "total": 179,
-      "publicadas": 48,
-      "pendentes": 131
+      "publicadas": 46,
+      "pendentes": 133
     },
     "Hematología": {
       "total": 45,
-      "publicadas": 13,
-      "pendentes": 32
+      "publicadas": 11,
+      "pendentes": 34
     },
     "Infectología": {
       "total": 139,
-      "publicadas": 21,
-      "pendentes": 118
+      "publicadas": 20,
+      "pendentes": 119
     },
     "Neurología": {
       "total": 57,
-      "publicadas": 17,
-      "pendentes": 40
+      "publicadas": 16,
+      "pendentes": 41
     },
     "Oftalmología": {
       "total": 11,
-      "publicadas": 3,
-      "pendentes": 8
+      "publicadas": 2,
+      "pendentes": 9
     },
     "Pediatría": {
       "total": 162,
-      "publicadas": 31,
-      "pendentes": 131
+      "publicadas": 29,
+      "pendentes": 133
     },
     "Renal": {
       "total": 42,
-      "publicadas": 9,
-      "pendentes": 33
+      "publicadas": 8,
+      "pendentes": 34
     },
     "Respiratorio": {
       "total": 109,
-      "publicadas": 34,
-      "pendentes": 75
+      "publicadas": 28,
+      "pendentes": 81
     },
     "Reumatología": {
       "total": 29,
-      "publicadas": 6,
-      "pendentes": 23
+      "publicadas": 5,
+      "pendentes": 24
     },
     "Toxicología": {
       "total": 47,
@@ -74,15 +74,18 @@
   },
   "porSituacao": {
     "ALTERNATIVAS COINCIDENTES — REVISAR": 432,
-    "PUBLICADA LOTE 1": 143,
+    "PUBLICADA 1": 143,
     "CANDIDATA À REVISÃO MANUAL": 63,
     "SEMELHANÇA TEXTUAL ALTA — REVISAR": 139,
     "SEMELHANÇA INTERMEDIÁRIA — REVISAR": 43,
     "PREGUNTA ABERTA SEM OPÇÕES": 116,
     "OPÇÕES INCOMPLETAS": 19,
-    "PUBLICADA LOTE 2": 35,
-    "PUBLICADA LOTE 4": 22,
-    "PUBLICADA LOTE 3": 35,
+    "PUBLICADA 2": 35,
+    "ANALISAR MANUALMENTE": 23,
+    "DUPLICATA CONFIRMADA NO SITE (diciembre-2022#70)": 1,
+    "PUBLICADA 4": 13,
+    "PUBLICADA 3": 10,
+    "PUBLICADA VALIDADO": 10,
     "CHAVE INCOMPLETA": 9
   },
   "questoes": [
@@ -112,14 +115,12 @@
       "enunciado": "Pregunta 35 (UAI AGOSTO 2025) Una mujer de 68 años con antecedentes de diabetes tipo 2 y enfermedad vascular periférica se presenta con dolor abdominal súbito de intensidad 10/10. Niega diarrea o fiebre. El abdomen se palpa blando, sin signos peritoneales. Los ruidos hidroaéreos están presentes. Refiere que el dolor comenzó hace 4 horas, ",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1025,14 +1026,12 @@
       "enunciado": "Un paciente colecistectomizado hace 10 años ingresa con un síndrome coledociano. La ecografía muestra vía biliar intrahepática levemente dilatada con imagen hiperecogénica en colédoco distal. ¿Cuál es el tratamiento más adecuado?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 2,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1050,14 +1049,12 @@
       "enunciado": "Respecto a la cirugía de resección del adenocarcinoma de cabeza de páncreas señale cuál es la técnica más empleada: *",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 3,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1129,14 +1126,12 @@
       "enunciado": "Se opera a un paciente de 65 años con diverticulitis colica perforada, practicándose una hemicolectomia izquierda más esplenectomía por desgarro capsular al 6º día postoperatorio presenta fiebre mantenida de 38°C, ligero enrojecimiento facial y oligura a pesar de sueroterapia correcta el día anterior tuvo tres deposiciones escasas y diarr",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 4,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1208,14 +1203,12 @@
       "enunciado": "cuál de las siguientes afirmaciones respecto a la valoración del dolor abdominal en un anciano es cierta:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-1",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-1",
+        "n": 1,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-1",
@@ -1251,14 +1244,12 @@
       "enunciado": "cuál es el fundamento para infiltrar las heridas con anestesia local antes de la incisión quirúrgica aun cuando el paciente se encuentre con anestesia general? cirurgia general 2016,76",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 5,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1276,14 +1267,12 @@
       "enunciado": "una mujer de 76 acude a urgencia refiriendo dolor en ingle derecha y vomito desde hace unas 6 horas. a la exploración se palpa una tumoración de consistencia dura justo por debajo de la línea que une la espina ilíaca anterosuperior y el pubis (ligamento inguinal. ¿lo, más probable es que se trate de una?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 6,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1301,14 +1290,12 @@
       "enunciado": "un paciente fue operado hace 20 dias por apendicitis flemonosa. egreso del hospital al tercer dia de um posoperatorio sin complicaciones aparentes. se le retiro al drenaje peritoneal instalado al terminar. regresa en el hospital (4 dia del alta) debido a que hace 3 dias presenta hipertermia en picos, con registro de 39 grados. el abdomen ",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 7,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1326,14 +1313,12 @@
       "enunciado": "un paciente de 58 años que ingreso a guardia por dolor en hipocondrio derecho y epigastrio que irradia a dorso, fiebre con escalofríos e ictericia de 24 hs de evolución, deterioro progresivamente su estado general por lo cual es internado en terapia intensiva. laboratorio: leucocitosis aumento de fosfatasa alcalina y bilirrubina. en la ec",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-1",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-lote2-1",
+        "n": 2,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-1",
@@ -1351,14 +1336,12 @@
       "enunciado": "al leer el resultado de una ecografía abdominal que usted ordeno por una infección urinaria a repetición comprueba que la mujer de 67 años tiene cálculos en la vesícula biliar. la paciente niega haber presentado cólicos o ninguna otra complicación relacionada con la colelitiasis. su única queja es la distención abdominal postprandial. ¿cu",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 8,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1376,14 +1359,12 @@
       "enunciado": "Si a un paciente en su valoración anestésica prequirúrgica le informan un asa tipo V:",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-1",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-1",
+        "n": 9,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1419,14 +1400,12 @@
       "enunciado": "La colecistectomía laparoscópica tiene como ventaja sobre la colecistectomía por laparotomía:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-1",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-1",
+        "n": 3,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-1",
@@ -1444,15 +1423,8 @@
       "enunciado": "Una mujer de 45 años concurre al departamento de urgencias por dolor en hipocondrio derecho de 36 horas de evolución. Gb: 13.000/mm3 gpt: 80, amilasemia: dentro de parámetros normales. La ecografía abdominal informa: quiste de 3 cm de diámetro en segmento III del hígado, pared vesicular de 5 mm, con un diámetro vesicular transverso de 46 ",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-1",
-        "site_n": 1,
-        "status": "validado",
-        "answer": "E",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "diciembre-2025",
         "n": 27,
@@ -1469,15 +1441,8 @@
       "enunciado": "Un paciente de 70 años de edad, en tratamiento con esteroides por artrosis, acude a urgencias por un cuadro de dolor abdominal de instauración brusca en epigastrio irradiado a fosa iliaca derecha a íleo paralítico, presentando a la exploración clínica abdomen en ¨tabla¨. El examen de la sangre muestra leucocitosis y las pruebas de imagen ",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-1",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-1",
         "n": 1,
@@ -1692,14 +1657,12 @@
       "enunciado": "pregunta 74 pct. femenina de 20 años consulta a la guardia por dolor abdominal en fosa iliaca derecha de 48 horas de evolución, fiebre y nauseas. blumberg negativo, dolor a la palpación en fosa iliaca y flanco derechos, sin defensa. laboratorio gb 11.500/mm3. pcr 35mg/l, su normal. bhcg negativa. tac de abdomen sin contraste informa, engr",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-2",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-2",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2473,14 +2436,12 @@
       "enunciado": "¿Cuál es el diagnóstico más probable de un paciente que tiene la siguiente serología: HBsAg (+) / HBsAC (-) / HBcAg (+)?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 1,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2516,14 +2477,12 @@
       "enunciado": "¿Cuáles de estos marcadores clínicos en el momento del ingreso del paciente, predicen el desarrollo de pancreatitis aguda grave?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 2,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2541,14 +2500,12 @@
       "enunciado": "Un hombre de 43 años consulta por presentar dolor muy intenso de pocas horas de evolución, de instalación brusca, localizado en epigastrio e irradiado a la fosa ilíaca derecha. Tiene antecedentes de cirugía de rodilla reciente por lo que se encuentra medicado con DAINEs. El examen físico revela palidez, sudoración, taquicardia, discreta h",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 3,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2656,14 +2613,12 @@
       "enunciado": "Un hombre de 73 años consulta a la guardia por distensión abdominal y vómitos sin eliminación de gases ni materia fecal. El estudio radiológico de abdomen muestra asas de intestino delgado distendidas con niveles hidroaéreos y aire en la vía biliar intrahepática (aerobilia). ¿Cuál es el diagnóstico más probable?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-2",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-2",
+        "n": 2,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2699,14 +2654,12 @@
       "enunciado": "Ramón, maestro de escuela primaria, lo consulta por cuadro de astenia, decaimiento y dolor abdominal en hipocondrio derecho de 4/10, acompañado de nauseas de un mes de evolución. Como antecedentes colecistectomia y dislipemia. Nos Cuenta muy avergonzado que toma vino, 1.5 litros por día y cerveza los fines de semana. Usted lo revisa y obs",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 4,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2778,14 +2731,12 @@
       "enunciado": "Un hombre de 57 años lo consulta por presentar episodios de epigastralgia, eructos, plenitud gástrica precoz con predominio postprandial y vómitos ocasionales de 3 meses de evolución, No presenta antecedentes de intolerancia gástrica ni dolor abdominal. En el Interrogatorio surge una disfagia leve para sólidos y perdida de 4-5 kg de peso ",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-2",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-2",
+        "n": 3,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2875,14 +2826,12 @@
       "enunciado": "un paciente de 78 años se encuentra en el séptimo día de internación por un acv isquémico, presenta distención abdominal marcada y desde hace 3 días catarsis negativa. al examen físico se constata que el abdomen se encuentra doloroso de manera difusa, sin reacción peritoneal y los rha son negativos. no elimina gases. se realiza radiografí",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 5,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2900,14 +2849,12 @@
       "enunciado": "mujer de 88 años, diagnosticada de un adenocarcinoma de Colón con metástasis hepática. acude a la consulta 3 semanas después del diagnóstico con estreñimiento de 3 días de evolución, sin náuseas ni vómitos. a las exploraciones clínicas es blando, depresible y ruidos presentes. la paciente toma 20 mg/día de cloruro de mórfico. desde el dia",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 6,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2925,14 +2872,12 @@
       "enunciado": "en el diagnóstico de carcinoma hepatocelular, señale la respuesta correcta:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-2",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-2",
+        "n": 4,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2950,14 +2895,12 @@
       "enunciado": "ante la sospecha clínica de sobrecrecimiento bacteriano intestinal. todas las siguientes afirmaciones son correctas, excepto:",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 7,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2993,14 +2936,12 @@
       "enunciado": "joven de 18 años, con antecedentes de asma, alergia a pólenes, ácaros y pelo de gato, acude a urgencia e refiriendo sensación de detención de alimento a nivel retroexternal con practica incapacidad para deglutir su propia saliva. refiere episodios similares en otras ocasiones, que han cedido de forma espontanea en pocos min. cual de los s",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 8,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3036,14 +2977,12 @@
       "enunciado": "un paciente ingresa con dx hda, en situación hemodinámica estable. se realiza una veda que informa: lesión ulcerada en cara posterior del bulbo duodenal con hemorragia activa no pulsátil, Forrest: ib. se practica esclerosis endoscopia con adrenalina consiguiéndose hemostasia. señala la afirmación correcta:",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 9,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3061,14 +3000,12 @@
       "enunciado": "cuál de los siguientes rasgos morfológicos no esperamos encontrar en una biopsia de cuerpo gástrico de un paciente con deficiencia de vitamina B12?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 10,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 10,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3086,14 +3023,12 @@
       "enunciado": "Una mujer de 60 años, postmenopáusica, consulta por astenia y disnea de esfuerzo asociada a pirosis ocasional. En la videoendoscopía digestiva alta se observa una pequeña hernia hiatal por deslizamiento sin signos de esofagitis y tiene los siguientes estudios hematológicos: hemoglobina 8 gr%, VCM 69 fl (80-100 fl), ferremia 13 mcg/dl, fer",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 11,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 11,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3111,15 +3046,8 @@
       "enunciado": "Fármaco que tiene efecto inespecífico:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-2",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
-      },
+      "situacao": "DUPLICATA CONFIRMADA NO SITE (diciembre-2022#70)",
+      "publicada": null,
       "comparacao": {
         "exam": "area-19",
         "n": 9,
@@ -3208,14 +3136,12 @@
       "enunciado": "La causa más frecuente de cirrosis hepática es alcoholismo, ¿Cuál de las siguientes opciones también es una causa muy frecuente de cirrosis hepática?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-2",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote4-2",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -3269,14 +3195,12 @@
       "enunciado": "¿Cuál es la etiología más frecuente de la dispepsia?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 12,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 12,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3294,14 +3218,12 @@
       "enunciado": "¿Cuál es el mecanismo de acción del laxante PEG (polietilenglicol)?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-2",
-        "site_n": 13,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-2",
+        "n": 13,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3319,14 +3241,12 @@
       "enunciado": "Un paciente de 25 años lo consulta por disfagia a sólidos, pero fundamentalmente para líquidos progresiva que se acompaña de regurgitación y pérdida de peso. Su diagnóstico presuntivo es:",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-2",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
+        "id": "pdf-lote3b-2",
+        "n": 1,
+        "key": "D",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-2",
@@ -3344,15 +3264,8 @@
       "enunciado": "¿cuál de las siguientes enfermedades hereditarias que cursan con hiperbilirrubinemia, tiene curso benigno, la bilirrubina rara vez excede los 5 mg/dl y este aumento se produce frente al ayuno prolongado?",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-2",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-2",
         "n": 2,
@@ -3369,15 +3282,8 @@
       "enunciado": "Consulta un paciente de 60 años con antecedentes de apendicetomía en la infancia, resección parcial de colon izquierdo por diverticulosis colónica con anastomosis términoterminal, que refiere comenzar en forma brusca con dolor abdominal tipo cólico en fosa iliaca y flanco izquierdo, vómitos y falta de eliminación de gases hace 10 horas. E",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-2",
-        "site_n": 3,
-        "status": "validado",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "julio-2024",
         "n": 49,
@@ -3430,15 +3336,8 @@
       "enunciado": "El síndrome de asa ciega es un trastorno del intestino que se caracteriza por:",
       "opcoes": 5,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-2",
-        "site_n": 3,
-        "status": "validado",
-        "answer": "C",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-2",
         "n": 3,
@@ -4223,14 +4122,12 @@
       "enunciado": "En un traumatismo cráneo facial, cuando está contraindicado la colocación de sonda nasogástrica?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4248,14 +4145,12 @@
       "enunciado": "Ante la sospecha de deglución de un cuerpo extraño, debe realizarse inmediatamente, además de la anamnesis y la rinoscopia",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 2,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4291,14 +4186,12 @@
       "enunciado": "las intervenciones que contribuyen al éxito tras una parada cardiaca ocurrida en la calle se denominan “cadena de supervivencia”. ¿cuáles de las siguientes opciones conforman el orden adecuado de sus estabones?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 3,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4334,14 +4227,12 @@
       "enunciado": "una joven de 24 años sufre una caída de la bicicleta con traumatismo en la zona abdominal con el manillar. a las pocas horas del traumatismo, comienza con dolor intenso en hipocondrio izq, por lo que acude a consultar a un servicio de urgencias. a su llegada, el paciente se encuentra pálida y sudorosa, la ta: 82/54 mmhg, fc: 120. qué tipo",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 4,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4359,14 +4250,12 @@
       "enunciado": "con respecto de las quemaduras que manifestaciones clínicas presentan las quemaduras de segundo grado?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 5,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4384,14 +4273,12 @@
       "enunciado": "Ud. está realizando compresiones torácicas a una víctima adulta de paro cardíaco. ¿Cuál de las siguientes es la frecuencia correcta a la que debe realizar las compresiones durante el RCP de un adulto?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 6,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4445,14 +4332,12 @@
       "enunciado": "De acuerdo al orden establecido basado en el riesgo de muerte del paciente, ¿Cuál es la correcta valoración inicial de un paciente politraumatizado? (único 2019)",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-3",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-3",
+        "n": 7,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4488,14 +4373,12 @@
       "enunciado": "Ingresa a la guardia un hombre de 32 años de edad, conductor de moto sin casco, luego de haber presentado una colisión contra un auto. Se encuentra inconsciente y sus signos vitales son: tensión arterial de 80-60, frecuencia cardiaca de 120 latidos por minuto, frecuencia respiratoria de 34 por minuto. No tiene heridas abiertas ni fractura",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-3",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-lote4-3",
+        "n": 1,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "abril-2022",
@@ -4513,14 +4396,12 @@
       "enunciado": "En un accidente con múltiples víctimas el socorrista lo que debe hacer inicialmente es:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-3",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-validado-3",
+        "n": 1,
+        "key": "C",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-3",
@@ -4538,15 +4419,8 @@
       "enunciado": "La máscara equimótica, que es frecuente en la asfixia traumática, está causada por:",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-3",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-3",
         "n": 2,
@@ -4563,14 +4437,12 @@
       "enunciado": "Ingresa a la guardia un paciente de 26 años con herida de arma de fuego en cuarto espacio intercostal derecho sin orificio de salida. Esta en shock, y usted realiza una reanimación adecuada sin respuesta. ¿Cual es la conducta apropiada a seguir en este paciente?",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-3",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-lote4-3",
+        "n": 2,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "febrero-2024",
@@ -4696,14 +4568,12 @@
       "enunciado": "pregunta 90 que signo es considerado de severidad, ante diagnóstico de preeclampsia?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -4721,14 +4591,12 @@
       "enunciado": "pregunta 91 paciente de 22 años, estudiante universitaria, acude por a un médico generalista por presentar irregularidades menstruales de 3 años de evolución. refiere ciclos menstruales cada 45-60 dias, con escaso sangrado. imc 29, acné moderado en cara y espalda. ¿cuál de los siguientes estudios complementarios considera que tendrá mayor",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -4764,14 +4632,12 @@
       "enunciado": "pregunta 94 gestante de 34 semanas con rotura de membrana de 16 horas de evolución. presenta fiebre 38.5, taquicardia materna, dolor ¿intestinal? y mal olor en el flujo vaginal. ¿cuál es la conducta indicada?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 3,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -4789,14 +4655,12 @@
       "enunciado": "pregunta 95 paciente de 22 años con amenorrea de 9 semanas, nauseas intensas y sangrado vaginal. al examen: útero aumentado a tamaño compatible con 14 semanas. eco transvaginal: imagen en ¨conos de nieve¨, sin embrión visible. beta hcg 180.000 ui/ml. cual es el diagnóstico más probable?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -4814,14 +4678,12 @@
       "enunciado": "pregunta 96 mujer de 38 años, nulípara, consulta por sangrado uterino abundante e irregular. ecografía útero aumentado de tamaño con múltiples miomas intramurales. el mayor de 5 cm. desea conservar fertilidad. ¿cuál es el tratamiento más adecuado?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 4,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6081,14 +5943,12 @@
       "enunciado": "Una paciente de 62 años, postmenopáusica, consulta por metrorragia. Como antecedente relevante la paciente refiere cáncer de mama, por el que realizó tratamiento conservador hace 2 años y actualmente está tomando tamoxifeno. La paciente se encuentra libre de enfermedad. La ecografía transvaginal informa útero AVF 45x40x38 mm (DLxDAPxDT), ",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 5,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6106,14 +5966,12 @@
       "enunciado": "A una mujer de 23 años se le realiza diagnóstico de epilepsisa. Se encuentra en tratamiento con anticonceptivos orales para regular los ciclos menstruales. ¿Cuál es el fármaco antiepiléptico recomendado en este caso? *municipalidad 2016/30",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 6,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6149,14 +6007,12 @@
       "enunciado": "Usted asiste una embarazada de 34 semanas internada por preeclampsia grave y recibe los resultados de laboratorio de control: hematocrito 32%, hemoglobina 10,8 gr/dl, TGO 115 UI/L, TGP 145 UI/L, Uricemia 4,8 mg/dl, Uremia 35 mg/dl, 0.8 mg/dl, Plaquetas 85000/mm3, LDH 650 ui/l, Proteinuria 1500 mg/24 horas. En función de estos resultados, ",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 7,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6174,14 +6030,12 @@
       "enunciado": "Cuál es la causa patológica más frecuente de hemorragia de la segunda mitad del embarazo?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 8,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6199,14 +6053,12 @@
       "enunciado": "Qué estudios serológicos solicita en la rutina del primer control prenatal? *",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 9,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6242,14 +6094,12 @@
       "enunciado": "Cuál de los siguientes MACs es el de menor efectividad?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 2,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6267,14 +6117,12 @@
       "enunciado": "Concurre a la guardia una mujer de 26 años cursando su primer embarazo de 38 semanas por presentar contracciones. Se trata de una gestacion gemelar doble, bicorial biamniótico con ambos fetos en presentacion cefálica y buena vitalidad. Al examen obstétrico se encuentra en trabajo de parto, con el cuello uterino borrado y 7 cm de dilatació",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 3,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6292,14 +6140,12 @@
       "enunciado": "Cuál es el valor normal de la frecuencia cardiaca fetal? *",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 4,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6317,14 +6163,12 @@
       "enunciado": "Qué maniobra semiológica se utiliza para el diagnóstico de situación fetal?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 10,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 10,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6396,14 +6240,12 @@
       "enunciado": "Usted se encuentra asistiendo el trabajo de parto de una mujer embarazada de término con antecedente de 1 cesárea previa. Al examen la paciente presenta 1 contracción cada 3 minutos de 45 segundo de duración, tono uterino normal, frecuencia cardiaca fetal 135 latidos por minuto, con 6 cm de dilatación. Súbitamente, la paciente refiere int",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 11,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 11,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6421,14 +6263,12 @@
       "enunciado": "Ingresa por guardia una mujer cursando embarazo de 30 semanas, refiriendo que está perdiendo líquido claro por sus genitales desde el día de ayer. Al examen se constata feto vivo, salida de líquido amniótico con fetidez, temperatura axilar de 39 grados, frecuencia cardiaca materna 110 latidos por minuto. El examen de laboratorio informa l",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 5,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6446,14 +6286,12 @@
       "enunciado": "Usted se encuentra evaluando la maduración pulmonar del producto de la concepción de una mujer que cursa un embarazo de riesgo. Al realizar la amniocentesis, se observa que el líquido obtenido está contaminado con sangre materna. ¿Qué prueba debe realizarse?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 12,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 12,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6471,14 +6309,12 @@
       "enunciado": "Una paciente de 50 años consulta porque quiere hacerse un control periódico de salud. ¿Cuál de los siguientes métodos complementarios de diagnóstico NO forma parte del Screening recomendado para este paciente?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 13,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 13,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6496,14 +6332,12 @@
       "enunciado": "Cuales de los siguientes son los motivos de consulta más frecuentes de una paciente que padece endometriosis?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 14,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 14,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6521,14 +6355,12 @@
       "enunciado": "Cuál de las siguientes condiciones NO es categoría 4 de los criterios de elegibilidad de la OMS para los anticonceptivos combinados? (ACO)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 15,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 15,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6582,14 +6414,12 @@
       "enunciado": "Se presenta a la guardia una mujer joven con dolor en fosa ilíaca derecha y fiebre. ¿Cuál debe ser el primer método diagnóstico de elección a solicitar?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 6,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6625,14 +6455,12 @@
       "enunciado": "Una paciente de 65 años concurre a control ginecológico adjuntando ecografía que informa: útero en anteversoflexión de 60x42x38 mm, endometrio 3 mm homogéneo, ovario derecho 15x16 mm, ovario izquierdo reemplazado por formación quística de 60x55 mm con presencia de una proyección papilar de 5mm. En base a su diagnóstico más probable, ¿cuál",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 16,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 16,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6704,14 +6532,12 @@
       "enunciado": "Un embarazo que presenta muerte fetal en la segunda mitad del embarazo, cuál es la complicación materna más grave:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 17,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 17,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6747,14 +6573,12 @@
       "enunciado": "¿Cuál de los siguientes tipos del virus papiloma humano (VPH) es responsable de la mayor porción de carcinoma de cuello uterino?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 18,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 18,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6808,14 +6632,12 @@
       "enunciado": "Lo consulta una mujer de 40 años que presenta derrame por el pezón. Luego de realizarle el examen usted determina que es unilateral, uniporo, sanguinolento y espontaneo. Tiene como antecedente, una lactancia durante un corto periodo, debido a alteraciones emocionales postparto y que fue inhibida farmacológicamente. No tiene antecedentes f",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 19,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 19,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6833,14 +6655,12 @@
       "enunciado": "Una mujer de 28 años de edad lo consulta como médico clínico. Es hipertensa, tratada con enalapril, y ante la sospecha de un embarazo le solicitaron un dosaje de subunidad beta de la gonadotrofina coriónica que fue positivo. ¿Cuál es la conducta a seguir con respecto a su medicación antihipertensiva?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 20,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 20,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6858,14 +6678,12 @@
       "enunciado": "Una paciente de 25 años concurre a la consulta ginecológica porque desea comenzar a utilizar Anticonceptivos Orales (ACO). Según la Guía “Métodos anticonceptivos guía práctica para profesionales de la salud” Ministerio de Salud de la Nación. Agosto 2014. ¿Cuáles son las prácticas mínimas para iniciar tratamiento con ACO? (MUNI 2017/46)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 21,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 21,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6883,14 +6701,12 @@
       "enunciado": "Una paciente de 57 años, con diagnóstico de carcinoma de mama, presenta en cuadrante superoexterno de mama izquierda nódulo de 2 cm de diámetro, consistencia duro pétrea, mama derecha sin particularidades, axilas libres. No se evidencian metástasis a distancia. ¿Cuál es la conducta inicial más adecuada?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 7,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6944,14 +6760,12 @@
       "enunciado": "cuál es la conducta más adecuada con una mujer de 25 años que consulta por aumento del flujo vaginal en las últimas semanas y su pareja presenta secreción ureteral, pero no quiere consultar? utiliza anticonceptivos orales combinados. en el examen físico el abdomen es blando no doloroso en el examen ginecológico no tiene dolor y presenta a",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 22,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 22,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7005,14 +6819,12 @@
       "enunciado": "cuál de los siguientes estudios solicitaría una paciente de 40 años, obesa, sin antecedentes patológicos, que fue tratada hace un mes por candidiasis vaginal y que ahora nuevamente presenta el mismo cuadro? la paciente realizó tratamiento con óvulos vaginales con antimicóticos en forma adecuada y no recibió ningún otro tratamiento. unico ",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 23,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 23,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7066,14 +6878,12 @@
       "enunciado": "mujer de 16 años que consulta por amenorrea primaria. presenta un desarrollo femenino o normal de los caracteres sexuales secundarios. los niveles de estradiol y testosterona son normales. en la exploración ginecológica se aprecia agenesia de vagina. se realiza ecografía y se aprecia ausencia de útero. los ovarios son normales ecográficam",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 24,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 24,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7109,14 +6919,12 @@
       "enunciado": "Los efectos anticonceptivos secundarias del componente progestacional em los anticonceptivos orales de combinacion incluyen.",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 25,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 25,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7134,14 +6942,12 @@
       "enunciado": "una paciente de 23 años consulta por dolor pelviano, flujo genital y fiebre. tiene colocado un dispositivo intrauterino (diu) como método anticonceptivo. presenta 38 de temp axilar y en el examen ginecológico se tacta el útero y anexo derechos dolorosos. ¿cuál es la conducta más adecuada en esta paciente?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 26,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 26,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7159,14 +6965,12 @@
       "enunciado": "una paciente de 29 años com esterilidad primaria de 7 meses de evolución consulta por dismenorrea que comenzó 2 años atrás y se intensifico en los meses. adjunta en ecografía transvaginal que informa imagen quística com contenido finamente particulado en ovario derecho de 7 cm de diámetro y ca 125 de 50 u/ml. en base al diagnóstico presun",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 27,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 27,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7184,14 +6988,12 @@
       "enunciado": "una paciente de 45 años consulta porque en una mamografía se le informa que presenta múltiples calcificaciones agrupadas menores a 2 mm de diámetro, irregulares distribuidas en el cuadrante superior externo de la mama. ¿cuál es la conducta inicial más adecuada ¿",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-4",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-lote2-4",
+        "n": 8,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -7227,14 +7029,12 @@
       "enunciado": "mujer de 40 semanas de gestación en trabajo de parto con 6 cm de dilatación. presenta patrón fetal decelerativo registro cardiotocografico por lo que se decide realizar microtoma de sangre fetal para valorar bienestar fetal. resulta ph 7,22. la conducta correcta es?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 28,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 28,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7252,14 +7052,12 @@
       "enunciado": "recién nascido de 2 horas de vida inicia rechazo de alimento, llanto constante y febrícula por lo que es llevado a la sala de terapia de neonatología del hospital. al ingreso se constata leve ictericia, hepatoesplenomegalia y lesiones en periorificios. la madre dice que le administraron tratamiento para sífilis por boca en el embarazo, po",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 29,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 29,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7277,14 +7075,12 @@
       "enunciado": "una mujer de 26 años acude a la guardia por dolor abdominal y escasa perdida hemática por vagina. refiere amenorrea de 7 semanas. le realiza un teste de embarazo con resultado positivo. ¿cual es el siguiente paso?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 30,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 30,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7626,14 +7422,12 @@
       "enunciado": "¿qué fármaco, entre los enumerados, se considera idóneo en el tratamiento de la infección vulvovaginal producida por cándida albicans?:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-4",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
+        "id": "pdf-lote3b-4",
+        "n": 1,
+        "key": "B",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7663,15 +7457,8 @@
       "enunciado": "¿qué examen debe indicarse siempre en el abdomen agudo pelviano en mujeres en edad fértil?",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-4",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-4",
         "n": 2,
@@ -7688,14 +7475,12 @@
       "enunciado": "Gestante de 26 semanas de amenorrea que presenta desde hace 5 días malestar general, astenia, náuseas, cefalea, edemas y ligero dolor en hipocondrio derecho. En la analítica practicada presenta: hb 8 g/dl, bilirrubina 1.4 mg/dl, ldh 670 ui/l, ast182 ui/l, plaquetas 80000/mm3. Lo más probable es que se trate de un embarazo complicado por:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-4",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-lote4-4",
+        "n": 1,
+        "key": "E",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "area-4",
@@ -7713,15 +7498,8 @@
       "enunciado": "¿En cuál de las siguientes situaciones obstétricas está indicado el parto mediante cesárea?:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-4",
-        "site_n": 2,
-        "status": "validado",
-        "answer": "C",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "julio-2024",
         "n": 83,
@@ -7738,14 +7516,12 @@
       "enunciado": "Se hospitaliza a una gestante de 35 semanas por presentar presión arterial de 165/ 100 mmhg. En repetidas tomas, edemas progresivos y proteinuria significativa. Se instaura tratamiento con hidralacina y sulfato de magnesio. Seis horas después, la paciente refiere cefalea intensa, epigastrálgia y fotofobia. Se objetiva oliguria, presión ar",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-4",
-        "site_n": 3,
-        "status": "validado",
-        "answer": "D",
-        "alternativas": 5
+        "id": "pdf-lote4-4",
+        "n": 3,
+        "key": "D",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "area-2",
@@ -7781,14 +7557,12 @@
       "enunciado": "Una paciente de 35 años ha sido sometida a mastectomía por cáncer de mama. En la pieza quirúrgica se encuentra un carcinomaductal infiltrante de 2 cm y existe invasión de 3 de los ganglios axilares aislados. Los receptores de estrógenos y progestágenos son negativos. ¿ cual es la conducta a seguir mas apropiada tras la mastectomía?",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-4",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-lote3b-4",
+        "n": 2,
+        "key": "C",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7806,14 +7580,12 @@
       "enunciado": "Una paciente primigesta sin antecedentes de interés y con controles analíticos previos normales, presenta glucemias basales de 148 y 152 mg/dl en dos determinaciones realizadas en la 22 semana de gestación. ¿cuál es la actitud más correcta en este caso?:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-4",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-lote3b-4",
+        "n": 3,
+        "key": "E",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7867,14 +7639,12 @@
       "enunciado": "Señale la correcta con respecto al siguiente enunciado: La vagina esta irrigada por la arteria…",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 31,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 31,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7928,14 +7698,12 @@
       "enunciado": "Cual de las siguientes es categoría 4 para indicación de un ACO?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-4",
-        "site_n": 4,
-        "status": "validado",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote4-4",
+        "n": 4,
+        "key": "B",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "diciembre-2025",
@@ -8187,14 +7955,12 @@
       "enunciado": "Marta de 60 años le consulta por flujo vaginal blanquecino como leche cortada de 4 dias de evolucion, acompañado de disuria y prurito vaginal, esta es la cuarta vez en el año que presenta este flujo. Es obesa y dbt. ¿Cual es la conducta a seguir?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-4",
-        "site_n": 32,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-4",
+        "n": 32,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -8548,14 +8314,12 @@
       "enunciado": "¿Cuál de las siguientes anemias es habitualmente macrocítica?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 1,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8573,14 +8337,12 @@
       "enunciado": "Las características morfológicas de la anemia ferropénica son:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-5",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-5",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-5",
@@ -8616,14 +8378,12 @@
       "enunciado": "En un hemograma la anisocitosis aparece cuando aumenta?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8659,14 +8419,12 @@
       "enunciado": "Paciente gue lo consulta luego de varias visitas a diferentes médicos. Le cuenta su sintomatología, tú lo examina y le pide laboratorio. Llega al diagnóstico de vasculitis, en cuanto a las vasculitis marque la afirmación correcta:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 3,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8720,14 +8478,12 @@
       "enunciado": "La localización más frecuente de la trombosis venosa profunda es:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-5",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-5",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-5",
@@ -8745,14 +8501,12 @@
       "enunciado": "Acude a la consulta un hombre de 67 años que refiere ligera astenia desde hace 2 meses y una pérdida de peso de 6kg en el mismo plazo. No refiere fiebre, cambios en el habito deposiciones ni síndrome miccional. En la exploración física únicamente destacan: soplo sistólico panfocal 2/4 y hepatomegalia no dolorosa a través de dedo en línea ",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 4,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8824,14 +8578,12 @@
       "enunciado": "paciente de 35 años que debido a hematemesis por ulcera duodenal sangrando recebe una transfusión de concentrado de glóbulos rojos, a los 5-10 min de iniciarse la transfusión comienza con fiebre, escalofrío, hipotensión, dolor en región lumbar. cuál sería el dx más probable.",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 5,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8849,14 +8601,12 @@
       "enunciado": "paciente de 45 anõs que acude a urgencia por malestar general, cefalea e cansancio progresivo en las últimas semanas. a la exploración física se detecta un ligero tinte ictérico de piel y mucosas y se palpa esplenomegalia 2 cm bajo el reborde costal. la analítica presenta hemoglobina de 8,6 vcm: 100. la cifra de reticulocitos esta elevada",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 6,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8874,14 +8624,12 @@
       "enunciado": "el prurito es una manifestación típica de todas las enfermedades salvo:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-5",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-5",
+        "n": 7,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8947,14 +8695,12 @@
       "enunciado": "¿Un paciente consulta a su clínico por anemia, éste lo estudia y le informa que padece una anemia por déficit de hierro qué hallazgos permitieron ese diagnóstico?",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-5",
-        "site_n": 1,
-        "status": "validado",
-        "answer": "B",
-        "alternativas": 5
+        "id": "pdf-lote4-5",
+        "n": 1,
+        "key": "B",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "diciembre-2025",
@@ -8972,14 +8718,12 @@
       "enunciado": "Las lesiones cutáneas purpúricas se diferencian del eritema por qué:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-5",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
+        "id": "pdf-validado-5",
+        "n": 1,
+        "key": "B",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-5",
@@ -8997,15 +8741,8 @@
       "enunciado": "Mujer joven presenta hipertensión arterial en brazo izquierdo, tensión baja en el derecho y soplo en carótida derecha, su diagnóstico seria:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-5",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-5",
         "n": 2,
@@ -9040,15 +8777,8 @@
       "enunciado": "¿cuál es la complicación más frecuente en los aneurismas arterioscleróticos de aorta abdominal mayores de 6 cm de diámetro?:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-5",
-        "site_n": 3,
-        "status": "validado",
-        "answer": "E",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-5",
         "n": 3,
@@ -9245,14 +8975,12 @@
       "enunciado": "pregunta 40 (UAI AGOSTO 2025) paciente en tratamiento antibiótico por infección grave presenta enrojecimiento, prurito, hipotensión y broncoespasmo, síndrome de hombre rojo. ¿cuál de los siguientes antibióticos produce este síndrome?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-6",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-6",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-6",
@@ -10350,14 +10078,12 @@
       "enunciado": "Un varón de 45 años se encuentra en lista de programación de cirugía electiva abdominal. Tiene carnet con vacunación antitetánica completa y un refuerzo a los 27 años. No recuerda si luego se aplicó otro refuerzo. ¿Cuál es la indicación de profilaxis prequirúrgica que debe indicar?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10447,14 +10173,12 @@
       "enunciado": "Señale cuál es el efecto postvacunal más frecuente de la vacuna BCG. *",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-6",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-6",
+        "n": 2,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-6",
@@ -10472,14 +10196,12 @@
       "enunciado": "En un paciente con varicela, ¿cuál de estas medidas es más adecuada para evitar la sobreinfección bacteriana? *",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 2,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10659,14 +10381,12 @@
       "enunciado": "Un hombre de 38 años consulta por presentar, cuatro horas después de la ingesta de un helado, un cuadro de vómitos y deposiciones diarreicas sin sangre ni fiebre, Mientras que el paciente es Visitado por el medico de emergencias, su esposa inicia un cuadro similar. ¿Cuál de los siguientes microorganismos es probablemente el responsable de",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 3,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10756,14 +10476,12 @@
       "enunciado": "Usted está realizando el control prenatal de una mujer de 25 años, primigesta, que se scree 18 de embarazo y no presenta antecedentes patológicos de importancia. La mujer refiere que hace una semana almorzó con la familia y hoy le avisaron que su sobrino tiene varicela. Al interrogatorio la paciente no está segura de haber tenido la enfer",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 4,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10811,14 +10529,12 @@
       "enunciado": "cual es el reservorio, de salmonella typhi a en una persona portadora?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 5,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10836,14 +10552,12 @@
       "enunciado": "ante un paciente con sepse por catéter por hemocultivo, positivo para estafilococos aureus meticelino resistente. cual antibiótico elige para el tto",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 6,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10861,14 +10575,12 @@
       "enunciado": "un paciente acude su médico por presentar una secreción matinal uretral de aspecto purulento desde hace unas dos semanas. en el momento que lo atienden, no tiene secreción y el paciente si niega a que se le tome ninguna amuestra intrauretral. cuál de los siguientes tto considera el más adecuado?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 7,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10886,14 +10598,12 @@
       "enunciado": "entre los siguientes fluidos corporales sin contenido hemoptoico, ¿cuál de ellos no se considera potencial infeccioso para la transmisión del VIH?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 8,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10911,14 +10621,12 @@
       "enunciado": "Paciente de 48 años que consulta por un cuadro de fiebre, cefalea frontal intensa y sensación nauseosa de 48 horas de evolución. A la exploración física presenta un estado general conservado. No tiene lesiones cutáneas. Se aprecia una discreta rigidez de nuca con signo de Kenig positivo. Ante la sospecha de meningitis se practica una punc",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 9,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10936,14 +10644,12 @@
       "enunciado": "¿Cuál de las siguientes vacunas es de aplicación intradérmica?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-6",
-        "site_n": 3,
-        "status": "validado",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-6",
+        "n": 3,
+        "key": "D",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote2-6",
@@ -10961,14 +10667,12 @@
       "enunciado": "Una paciente de 22 años consulta por presentar una lesión genital. Al examen físico se evidencia una úlcera indurada no dolorosa en región vulvar. Ante la sospecha de sífilis, respecto de la notificación de este caso, ¿cuál es la conducta más adecuada?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 10,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 10,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10986,14 +10690,12 @@
       "enunciado": "¿Cuál de las siguientes entidades no es responsable de meningitis a líquido claro?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 11,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 11,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -11101,14 +10803,12 @@
       "enunciado": "Cuál es la diferencia más significativa entre la vacuna conjugada 13-valente contra neumococo en comparación con la vacuna conjugada 23-valente? (UBA 2018)",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 12,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 12,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -11144,14 +10844,12 @@
       "enunciado": "¿Cuál es la lesión elemental que mejor caracteriza a la erisipela?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 13,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 13,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -11169,14 +10867,12 @@
       "enunciado": "¿Cuál de las siguientes es la tríada clásica de presentación clínica del síndrome mononucleosiforme?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 14,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 14,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -11194,14 +10890,12 @@
       "enunciado": "En un paciente que consulta por adenopatías, ¿Qué región ganglionar consideras patológica si hallas adenomegalias en el examen físico?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-6",
-        "site_n": 15,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-6",
+        "n": 15,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -11219,14 +10913,12 @@
       "enunciado": "Paciente de 42 años, sin antecedentes de interés, que acude al servicio de urgencias por presentar un cuadro de disfagia y dolor faríngeo de 8 días de evolución, con fiebre elevada y afectación del estado general. En la exploración se objetivan unas amígdalas hiperémicas, adenopatías subángulo mandibulares bilaterales e induración y dolor",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-6",
-        "site_n": 1,
-        "status": "validado",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-lote4-6",
+        "n": 1,
+        "key": "E",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "julio-2024",
@@ -11262,15 +10954,8 @@
       "enunciado": "¿cuál de los siguientes enunciados acerca de la asociación trimetoprimasulfometoxazol es falso:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-6",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-6",
         "n": 1,
@@ -11287,14 +10972,12 @@
       "enunciado": "Un joven de baja condición socioeconómica consulta por diarrea ¿cuál de los siguientes parásitos puede ser el causante?:",
       "opcoes": 5,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-6",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 5
+        "id": "pdf-lote3b-6",
+        "n": 1,
+        "key": "A",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-6",
@@ -12044,14 +11727,12 @@
       "enunciado": "Concurre a la guardia un paciente de 40 anos derivado de otro nosocomio para estudio por presentar debilidad y impotencia funcional de ambos miembros inferiores de varios meses de evolución. Al examen físico usted constata: atrofia muscular marcada, fasciculaciones, hipotonía muscular y hiporreflexia. Cuál es su diagnóstico presuntivo¿(ún",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 1,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12213,14 +11894,12 @@
       "enunciado": "Un varón de 52 años es traído a la guardia por su esposa porque lo encontró en estado de estupor en la casa. Refiere que hace 30 minutos estaba bien y que comenzó a dolerle la cabeza y que tenía debilidad en la mitad derecha del cuerpo. Tiene antecedentes de hipertensión arterial en tratamiento con 25 mg/día de hidroclorotiazida. Al exame",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-7",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-7",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-7",
@@ -12274,14 +11953,12 @@
       "enunciado": "Una paciente de 54 años es traída a la consulta por su marido, quien nos refiere que hace un mes ha comenzado a hablar incesantemente perdiendo a veces la idea directriz. Duerme 4 horas en total al día, muestra una intolerancia importante a las críticas y tiene conductas de riesgo físico que antes no tenía. Usted hace salir al marido y el",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 2,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12371,14 +12048,12 @@
       "enunciado": "en el diagnóstico diferencial entre paranoia y esquizofrenia es falso que:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 3,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12396,14 +12071,12 @@
       "enunciado": "¿Cuál es la conducta más adecuada con un varón de 60 años que consulta por cefalea intensa, visión borrosa y mareos de 6 horas de evolución, que se encuentra lúcido, sin signos de foco motor, sensitivo o meníngeo y tiene una tensión arterial de 220/110 mmHg?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 4,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12421,14 +12094,12 @@
       "enunciado": "Los núcleos parasimpáticos del facial son: (UBA 2019)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 5,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12464,14 +12135,12 @@
       "enunciado": "Un paciente con diagnóstico de polineuropatía alcohólica, lo consulta debido a dolor en pies de 9/10, bilateral, urente. Dosaje normal de Vitamina B12. Se encuentra en tratamiento con AINE y pregabalina 75 mg cada 12hs y no cede. Usted decide agregar en primera medida.",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 6,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12489,14 +12158,12 @@
       "enunciado": "Un paciente en tratamiento con gabapentin y con antecedente de etilismo hay que evaluar y estar alerta de:",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 7,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12532,14 +12199,12 @@
       "enunciado": "Consulta una paciente de 25 años por episodios de cefalea unilateral que describe como pulsátil. Refiere que se acompaña de náuseas y el dolor mejora si está en una habitación oscura. Refiere intensidad de 8 en 10. Niega síntomas neurológicos como destellos visuales asociados a la cefalea. Al examen físico, control de signos vitales dentr",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 8,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12557,14 +12222,12 @@
       "enunciado": "Elija qué tipo de vértigo de los a continuación es de origen CENTRAL:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-7",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-7",
+        "n": 9,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12600,14 +12263,12 @@
       "enunciado": "Lo consulta un paciente de 80 años que refiere vértigo desde hace 15 días. En el examen físico usted le encuentra: que el enfermo oscila para no perder el equilibrio por lo que aumento de la base de sustentación cuando está de pie, que no se exagera al cerrar los ojos. Además, presenta temblor quinético, hipotonía del hemicuerpo izquierdo",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-lote3b-7",
+        "n": 1,
+        "key": "C",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12643,14 +12304,12 @@
       "enunciado": "Una mujer de 60 años diagnosticada de fibrilación auricular, acude al servicio de urgencias por cefalea y dificultad para leer de inicio brusco. La exploración neurológica demuestra la existencia de hemianopsia homónima derecha. La paciente es capaz de escribir correctamente una frase que se le dicta, pero no puede leer lo que ha escrito.",
       "opcoes": 5,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 5
+        "id": "pdf-validado-7",
+        "n": 1,
+        "key": "A",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12668,14 +12327,12 @@
       "enunciado": "Es traído a la guardia un paciente de 41 años de edad, luego de recibir un golpe en la cabeza con un objeto contundente. Usted le realiza la evaluación neurológica y observa las siguientes respuestas: motora: flexión; verbal: ninguna; ocular: apertura ocular al dolor. ¿cuál es el puntaje que le corresponde en la escala de coma de glasgow ",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
+        "id": "pdf-lote3b-7",
+        "n": 2,
+        "key": "D",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12693,14 +12350,12 @@
       "enunciado": "Usted recibe un paciente con dolor y síntomas a nivel medular bajo, que tiene antecedentes de carcinoma de próstata no controlado. ¿cuál es la conducta correcta?",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
+        "id": "pdf-lote3b-7",
+        "n": 3,
+        "key": "D",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12718,14 +12373,12 @@
       "enunciado": "Paciente de 45 años con antecedentes familiares de enfermedad renal poliquística. Acude a urgencias por cefalea, diplopía y ptosis del ojo derecho. ¿cuál es el diagnóstico a descartar en primer lugar de los siguientes?:",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
+        "id": "pdf-validado-7",
+        "n": 2,
+        "key": "D",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12743,14 +12396,12 @@
       "enunciado": "Un joven de 27 años llega a urgencias con protrusión de lengua y espasmo de torsión de cuello. Un familiar que le acompaña sólo sabe decir que recientemente tuvo un breve ingreso psiquiátrico y le han puesto un tratamiento inyectable. En esta situación el diagnóstico más probable es:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
+        "id": "pdf-validado-7",
+        "n": 3,
+        "key": "B",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12768,15 +12419,8 @@
       "enunciado": "Ante un paciente que bruscamente ha comenzado con un conjunto de síntomas constituido por: sensación de dificultad respiratoria, de ahogo (disnea) o de paro respiratorio, mareo, sensación de inestabilidad o desfallecimiento, palpitaciones o taquicardia y nauseas o malestar abdominal. ¿cuál es el diagnóstico más probable?",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-7",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-7",
         "n": 7,
@@ -12901,14 +12545,12 @@
       "enunciado": "Pregunta 29 (UAI AGOSTO 2025) Ante un traumatismo, si la pupila esta midriática, que características tiene?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-8",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-8",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-8",
@@ -13052,14 +12694,12 @@
       "enunciado": "Un oftalmólogo verifica en una campimetría la presencia de hemianopsia bitemporal. ¿Cuál es el sitio probable de la lesión?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-8",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-8",
+        "n": 2,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-8",
@@ -13077,15 +12717,8 @@
       "enunciado": "En un paciente con un glaucoma agudo de ángulo estrecho, ¿cuál de los siguientes tratamientos no es adecuado?:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-8",
-        "site_n": 1,
-        "status": "validado",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "abril-2022",
         "n": 96,
@@ -13102,14 +12735,12 @@
       "enunciado": "pregunta 78 ¿cuál es el incremento de peso esperado diario adecuado según la edad en el primer mes de vida?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -13235,14 +12866,12 @@
       "enunciado": "pregunta 87 en neonatología, una de las complicaciones prevenibles son las torch. la tétrada de sabin corresponde a:",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 2,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14514,14 +14143,12 @@
       "enunciado": "Bebé de 8 meses que llora mucho cuando la madre se va a trabajar, recomendación?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 3,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14773,14 +14400,12 @@
       "enunciado": "Recibe en la guardia a un bebe de 5 meses que la madre lo trae porque lo nota agitado. Usted evalúa al paciente: Temperatura axilar 37.3°C, tiraje subcostal e intercostal marcado, sibilancias espiratorias, FR 50, FC 140, saturación de oxigeno a aire ambiente 89. ¿Cuál es la conducta para seguir?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 4,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14816,14 +14441,12 @@
       "enunciado": "Un niño de 8 años tiene diagnóstico de faringitis estreptocócica por streptest y cultivo de fauces. Teniendo en cuenta la prevención de Fiebre Reumática, ¿cuántos días como máximo, se puede demorar la administración del antibiótico desde el inicio del cuadro?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 5,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14859,14 +14482,12 @@
       "enunciado": "Julieta, de 5 años de edad, es traída a su consultorio para control de salud. Su madre le comenta que está preocupada porque durante el sueño la niña presenta ronquidos, pausas respiratorias y despertares por atragantamiento. Durante el día, presenta cefalea matutina, y se la nota somnolienta durante la jornada escolar. Al examen físico u",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 6,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14920,14 +14541,12 @@
       "enunciado": "Una niña de 7 años es hospitalizada para tratar una neumonía con deshidratación. Ha recibido ceftriaxona EV durante 48 hs. La curva febril ha ido mejorando, pero su estado respiratorio no ha mejorado. El examen físico revela matidez a la percusión en la base del pulmón derecho. ¿Cuáles la complicación más frecuente? *",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 7,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14945,14 +14564,12 @@
       "enunciado": "Marcos de 5 meses, se alimenta a pecho exclusivo, presenta deposiciones líquidas y más frecuentes, de 2 días de evolución. Al examen físico el niño se encuentra vigil y reactivo, con mucosas húmedas, frecuencia cardíaca de 120 x min, frecuencia respiratoria de 30 x min, pulsos periféricos positivos y relleno capilar de 1 segundo. La madre",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-9",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-9",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -14988,14 +14605,12 @@
       "enunciado": "Un niño de 18 meses, tratado con amoxicilina por una faringitis, vuelve a la consulta por fiebre persistente de seis días de evolución de 39,8 °C. Presenta exantema maculopapular en tronco, inyección conjuntival, labios secos y agrietados. Las palmas de las manos eritematosas. ¿Cuál es el diagnóstico más probable? *",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-9",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-9",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15013,14 +14628,12 @@
       "enunciado": "Respecto a la secuencia de actuación frente a una convulsión activa en un niño de 4 años: *",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 8,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15038,14 +14651,12 @@
       "enunciado": "Niño de 9 años que acude a consulta por fatigabilidad y disnea de esfuerzo progresiva. Al nacer se le había descubierto un soplo cardiaco, pero no acudió a revisiones. En la exploración física la cara y las manos están rosadas, mientras que las extremidades inferiores están cianóticas. ¿Qué anomalía explicaría estos hallazgos? *",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 9,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15063,14 +14674,12 @@
       "enunciado": "Jacinta tiene 2 meses y su abuela está muy preocupada porque vomita luego de cada toma de biberón. Ud. examina a la niña y el examen físico, el neuromadurativo y la curva pondoestatural son normales para la edad. Ud tranquiliza a la familia y les explica que se trata de un proceso fisiológico normal. La abuela le consulta, ¿hasta cuándo e",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 10,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 10,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15088,14 +14697,12 @@
       "enunciado": "Señale cuál de las siguientes es la causa más frecuente de trasplante hepático en la infancia:",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-9",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-9",
+        "n": 3,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15113,14 +14720,12 @@
       "enunciado": "Consulta a la guardia una paciente de 15 años, primigesta, cursando un embarazo de 28 semanas de edad gestacional, adjuntando una ecografía obstétrica que informa Hidrops Faetalis. Se solicita un Doppler Fetal que resulta compatible con anemia fetal severa. Al interrogatorio la joven refiere no tener antecedentes de importancia, pero come",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 11,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 11,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15156,14 +14761,12 @@
       "enunciado": "nino de 4 anos presenta um TEC leve asintomatico com cefalohematoma frontal, cual es la conducta inicial a seguir?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-9",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-9",
+        "n": 4,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15271,14 +14874,12 @@
       "enunciado": "Un niño de 7 años sufre una caída sobre el brazo izquierdo produciéndose una fractura en tercer medio de da clavícula desplazada. ¿Cuál sería el tratamiento a seguir?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 12,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 12,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15296,14 +14897,12 @@
       "enunciado": "Ignacio de 1 mes de vida es hijo de madre HIV positiva, trae un resultado negativo de ADN proviral reacción en cadena de polimerasa (PCR). Según el manual de Atención Integral de niños, niñas y adolescentes con HIV (2012) ¿En qué momento se debe realizar el próximo estudio de HIV en este paciente?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 13,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 13,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15321,14 +14920,12 @@
       "enunciado": "Ud atiende un paciente pediátrico con NAC que pesa 12kg, Le indica amoxicilina 100mg/kg/día (3 tomas), Si receta amoxicilina en suspensión de 500mg/5ml, ¿Que volumen le indica a la madre que le administre?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 14,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 14,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15400,14 +14997,12 @@
       "enunciado": "María de 10 años es traída a control de salud. su mamá está preocupada porque “es muy bajita”. usted constata baja talla para la edad, cuello corto, aumento de la distancia intermamilar, nevos hiperpigmentados. no inició aún su desarrollo puberal. ¿cuál es el diagnóstico más probable?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 15,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 15,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15425,14 +15020,12 @@
       "enunciado": "cuál de los siguientes cuadros clínicos es la causa más común de discapacidad intelectual en la infancia? único 2017- 88",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-9",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote4-9",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "febrero-2025",
@@ -15450,14 +15043,12 @@
       "enunciado": "cuál es la complicación evolutiva más frecuente en la meningitis bacteriana en la edad pediátrica?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-9",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-9",
+        "n": 5,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15475,14 +15066,12 @@
       "enunciado": "niño de 4 años de edad que consulta por aparición a lo largo de los últimos tres días de lesiones cutáneas en las piernas y glúteos. sus padres refieran que su pediatra le había diagnosticado una infección de vía respiratoria superiores 10 días antes. en las últimas 12 horas presenta dolor abdominal intenso tipo cólico y ha realizado dos ",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-9",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-lote2-9",
+        "n": 6,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15500,14 +15089,12 @@
       "enunciado": "un adolecente en apariencia sano consulta para control. el examen de los genitales revela estadio 5 de desarrollo puberal y un tumor no doloroso en el escroto izquierdo que se extiende desde el canal inguinal hasta el polo superior del testículo. el tumor disminuye de tamaño cuando el joven se acuesta. ¿cuál es el diagnóstico, más probabl",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 16,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 16,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15543,14 +15130,12 @@
       "enunciado": "Senale la opción correcta",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-9",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-lote4-9",
+        "n": 2,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -15586,14 +15171,12 @@
       "enunciado": "carmen y pedro tienen 3 hijos, enrique de 5 anos, isabel de 4 y raquel de 1. recientemente han notado que enrique tiene ciertos problemas para subir las escaleras y se cansa mucho cuando corre. despues de unas pruebas médicas, le han diagnosticado una enfermedad genética llamada, distrófica muscular de Duchennne. señale la alternativa cor",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 17,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 17,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15611,14 +15194,12 @@
       "enunciado": "¿Cuándo se aconseja intervenir quirúrgicamente la hernia umbilical infantil?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 18,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 18,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15780,14 +15361,12 @@
       "enunciado": "Cuál es el diagnóstico más probable de un lactante de 6 meses que presenta eritema en regiones glútea, genital y superficies convexas de los muslos, dejando libre el fondo de los pliegues? (único 2020)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 19,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 19,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15841,15 +15420,8 @@
       "enunciado": "¿cuál es la fórmula láctea que considera más adecuada para un lactante de tres meses que no toma pecho?",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-9",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-9",
         "n": 1,
@@ -15866,14 +15438,12 @@
       "enunciado": "Martín es un lactante de 10 meses de vida, que es traído a la guardia por presentar convulsión tónica- clónica generalizad, de 5 minutos de duración, que cedió espontáneamente y con plena recuperación. La mama refiere que está cursando catarro de 24 horas de evolución con hipertermia no cuantificada. Al examen físico beg, rinitis serosa, ",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-9",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-validado-9",
+        "n": 1,
+        "key": "C",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-9",
@@ -15891,15 +15461,8 @@
       "enunciado": "Llega a la consulta un lactante cianótico, con soplo sistólico, y mal progreso de peso desde el nacimiento. ¿cuál de los siguientes diagnósticos es el más probable?",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-9",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-9",
         "n": 3,
@@ -16042,14 +15605,12 @@
       "enunciado": "Usted recibe a un niño de 8 meses que consulta por 4 vez en el servicio durante este mes. Lo evalúa y se encuentra con una enfermedad recurrente que no puede explicar, los resultados de sus investigaciones no concuerdan con la salud general del niño, los síntomas no se presentan cuando el progenitor no está, su cuidador principal no quier",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-9",
-        "site_n": 20,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-9",
+        "n": 20,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -16553,14 +16114,12 @@
       "enunciado": "Una mujer de 68 años presenta desde hace 3 meses una alteración en la función renal detectada por índice urinario proteína/creatinina. se atiende en el centro de salud de forma irregular desde hace 5 años por hipertensión arterial. no fuma, no tiene diabetes y no realiza actividad física. En la consulta se constata: ta 145-90 mm/hg, imc 2",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-10",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-10",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-10",
@@ -16596,14 +16155,12 @@
       "enunciado": "en una nefrona, el 60% del cloruro de sódio es reabsorvido en?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-10",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-10",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16621,14 +16178,12 @@
       "enunciado": "mujer de 68 años, que es diagnosticada de una tbc pulmonar. se instauro tto con isoniacida, rifampsina y etambutol. a los 12 días de iniciado el tratamiento consulta por fiebre de 38ºc, exantema cutâneo, adenopatias, artralgia, dolor lumbar, oliguria y eosinofilia con deterioro agudo de la función renal. en el examen de orina se identific",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-10",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-10",
+        "n": 2,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16646,14 +16201,12 @@
       "enunciado": "hombre de 60 años que acude a urgencia por presentar hematuria macroscópica asintomática. en que patología deberíamos pensar en primero lugar.",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-10",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-10",
+        "n": 3,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16671,14 +16224,12 @@
       "enunciado": "hombre de 78 años, al que se realizó un cateterismo cardíaco con revascularización de arteria coronaria derecha hace 3 semanas y que consulta por náuseas y vómitos por 3 días de evolución. presenta ta: 185/85 mmhg y lesiones purpúreas en los dedos de ambos los pies. en la analítica se observa: urea: 230, creatinina: 5,8. cuál es el dx más",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-10",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-10",
+        "n": 4,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16750,14 +16301,12 @@
       "enunciado": "Un paciente de 18 años con antecedentes de faringitis eritematoso exudativa 15 días antes, lo consulta por emisión de orinas color rojizo. Presenta edema facial, TA: 170/100, diuresis 400ml/ 24 hs y orina completa con 10 hematíes dismórficos/campo. Urea y creatinina normales.",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-10",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-10",
+        "n": 5,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16829,14 +16378,12 @@
       "enunciado": "Consulta un paciente de 25 años, sexo femenino que refiere orina oscura (hematuria) hace 48 horas. Refiere además disminución del ritmo diurético. Al examen físico usted objetiva tensión arterial: 190/110 tax: 36ºc y en su laboratorio valores elevados de urea y creatinina, con cilindros hemáticos en la orina. Usted piensa que se trata de:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-10",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
+        "id": "pdf-lote3b-10",
+        "n": 1,
+        "key": "B",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-10",
@@ -16854,14 +16401,12 @@
       "enunciado": "El patrón urinario característico del fracaso renal agudo pre-renal es:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-10",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-validado-10",
+        "n": 1,
+        "key": "C",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-10",
@@ -16879,15 +16424,8 @@
       "enunciado": "¿qué número de bacterias/ml se considera indicativo de infección en muestras de orina obtenidas por punción- aspiración suprapúbica?:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-10",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "E",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-10",
         "n": 3,
@@ -17138,14 +16676,12 @@
       "enunciado": "pregunta 43 (UAI AGOSTO 2025) una mujer de 68 años consulta por fiebre de 38,7°c, los con expectoración amarilla y disnea progresiva desde hace tres días. es hipertensa y diabética, controlada con metformina. saturación de o2 al ingreso: 95% en aire ambiente. al examen se auscultan crepitantes en base pulmonar derecha. re de tórax: consol",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 1,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17883,14 +17419,12 @@
       "enunciado": "Un paciente de 80 años con antecedentes de insuficiencia renal crónica y diabetes tipo 2, presenta desde hace 3 días tos con expectoración purulenta, fiebre, dificultad respiratoria y dolor torácico derecho en puntada de costado. En la exploración presenta una presión arterial de 120-60mmHg FC :80 lpm y FR:20rpm. La SO2 es de 94% al aire ",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-11",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-lote2-11",
+        "n": 1,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -17908,14 +17442,12 @@
       "enunciado": "¿Cuál de las siguientes opciones permite realizar un diagnóstico de sinusitis aguda bacteriana?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17951,14 +17483,12 @@
       "enunciado": "Una paciente de 22 años con diagnóstico de asma bronquial hace 6 meses concurre al consultorio para control. Se encuentra en tratamiento con agonistas b2 a demanda. Refiere síntomas asmáticos frecuentes, 4 veces en el último mes y sin episodios de exacerbaciones. ¿Cuál es el tratamiento más adecuado? (CABA 2017, 82)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-11",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-11",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -17976,14 +17506,12 @@
       "enunciado": "¿Cuál es la conducta más adecuada con un paciente de 35 años, sin antecedentes patológicos, que fue tratado por una bronquitis aguda con amoxicilina 500 mg cada 8 horas durante 10 días y consulta por la persistencia de tos no productiva una semana después de haber finalizado el tratamiento? (ÚNICO 2017, 99)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-11",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-11",
+        "n": 3,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18001,14 +17529,12 @@
       "enunciado": "Una paciente de 23 años consulta por presentar tos de dos meses de evolución, sudoración nocturna y fiebre no cuantificada. Desde la última semana presenta falta de aire que la obliga a detenerse al caminar 200 metros. Al examen físico se encuentra adelgazada y a la auscultación pulmonar presenta hipoventilación global. Refiere vivir con ",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 3,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18044,14 +17570,12 @@
       "enunciado": "una paciente intervenida hace 2 años de un tumor epidermoide del pulmón derecho y diag. de metástasis ósea y hepática hace 2 meses acude a la guardia por notar hinchazón de la cara y del cuello, tos seca y disnea progresiva a mínimos esfuerzos. en la exploración se evidencia edema en esclavina y en la radiología de tórax ensanchamiento de",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 4,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18087,14 +17611,12 @@
       "enunciado": "recibe en la guardia un paciente con diagnóstico prévio de epoc. refiere aumento de la disnea habitual, aumento de la expectoración y cambio en las características del esputo. usted piensa en una reagudización de su enfermedad de base. cual de las seguientes no corresponde a una opción terapéutica apropiada.",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 5,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18112,14 +17634,12 @@
       "enunciado": "en la evaluación de tep se utilizan los seguientes estúdios complementários. excepto:",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 6,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18137,14 +17657,12 @@
       "enunciado": "una mujer de 63 años, ingressa en el hospital para tto de un ca de cuello. presenta un dolor pleurítico en hemitórax izquierdo y disnea de comienzo brusco. a la exploración la enferma esta taquipineica, con signos de mala perfusión periférica, ta sistólica de 70mmgh.un ecg muestra la inversión de la onda t, de v1-v4. cuál es la conducta c",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 7,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 7,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18180,14 +17698,12 @@
       "enunciado": "en un paciente neutropenico con déficit de la inmunidad celular (cd4 bajos ppd hipo o enérgicas) y un infiltrado pulmonar difuso en la rx de tórax. cual sería tu primer dx.",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 8,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 8,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18205,14 +17721,12 @@
       "enunciado": "una mujer de 21 años, ingresa la guardia traída en ambulancia por crisis asmática, luego de haber estado disneica, casi toda la noche. fue tto agonistas b2 durante el traslado. al ingreso se coloca vía periférica, o2 e monitor. esta diaforética, excitada e se quita la máscara de 02 repetidamente. no puede hablar. presenta tórax silente a ",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 9,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 9,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18230,14 +17744,12 @@
       "enunciado": "una mujer 58 años acude a la consulta por disnea de medianos esfuerzos, debilidad muscular en extremidades superiores y disfagia a sólidos de 3 meses de evolución. a la exploración física, se objetiva pérdida de fuerza en extremidades superiores con sensibilidad conservada. la auscultación pulmonar muestra hipofonesis generalizada. se rea",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 10,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 10,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18255,14 +17767,12 @@
       "enunciado": "la primera alteración respiratoria demostrable en fumadores, reversible a suspender el habito de fumar es?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 11,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 11,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18280,14 +17790,12 @@
       "enunciado": "ante un paciente con una otitis externa difusa, cual tratamiento inicial?",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 12,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 12,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18305,14 +17813,12 @@
       "enunciado": "Cuál de las siguientes afirmaciones con respecto a las características clínicas de la neumonía que presenta un anciano frágil comparada con un adulto con mismo diagnostico?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-11",
-        "site_n": 4,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-lote2-11",
+        "n": 4,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18330,14 +17836,12 @@
       "enunciado": "La práctica de una radiografía posteroanterior de tórax en espiración forzada es de gran utilidad para el diagnóstico de:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 13,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 13,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18355,14 +17859,12 @@
       "enunciado": "Una mujer de 74 años, sin antecedentes patológicos, refiere durante la consulta que su esposo continuamente le está diciendo que ella no oye bien, especialmente en las reuniones familiares. ¿Cuál es la conducta inicial más adecuada?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-11",
-        "site_n": 5,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-11",
+        "n": 5,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18380,14 +17882,12 @@
       "enunciado": "Un paciente tiene un volumen espiratorio en el 1er segundo VEF1= 76%, después de broncodilatadores y el volumen espiratorio/capacidad vital inspiratoria = 104%. El patrón espirométrico corresponde a:",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 14,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 14,
+        "key": "C",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18477,14 +17977,12 @@
       "enunciado": "A un paciente asmático se le realiza una espirometria durante una crisis de espasmo bronquial leve. ¿Qué elementos de este estudio Ud jerarquizaría para evaluar la vía aérea superior?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 15,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 15,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18592,14 +18090,12 @@
       "enunciado": "Respecto a las bronquiectasias, indique la opción correcta:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-11",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-lote2-11",
+        "n": 6,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18617,14 +18113,12 @@
       "enunciado": "Paciente de 72 años, con antecedente de HTA e ICC, medicado con furosemida, enalapril y carvedilol, lo consulta por disnea súbita. Sin dolor precordial ni fiebre. Usted lo ausculta y presenta rales crepitantes en marea ascendente, y el MV se encuentra disminuido. A nivel cardiovascular los ruidos están hipofonéticos sin soplos. No hay hep",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 16,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 16,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18678,14 +18172,12 @@
       "enunciado": "Se encuentra con un paciente de 18 años sin antecedentes de relevancia ni alergias medicamentosas referidas, que por presentar un cuadro de faringitis aguda se cultivó, ya que se había descartado previamente COVID19 y dicho cultivo dió positivo para Estreptococo Beta Hemolítico grupo A (EBHGA). ¿Cuál es su primera elección de antibiótico?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 17,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 17,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18703,14 +18195,12 @@
       "enunciado": "¿Qué parámetros se tienen en cuenta en el Score CRB-65 para definir la conducta de un paciente con Neumonía aguda de la comunidad?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-11",
-        "site_n": 18,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-11",
+        "n": 18,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18728,14 +18218,12 @@
       "enunciado": "Paciente de 72 años consulta por disnea y tos de 7 días de evolución. En el examen físico presenta vibraciones vocales abolidas, matidez en base pulmonar derecha con matidez en columna. Su diagnóstico sindromático es:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-11",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-validado-11",
+        "n": 1,
+        "key": "C",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-11",
@@ -18753,14 +18241,12 @@
       "enunciado": "Paciente de 35 años consulta por fiebre, tos, expectoración mucopurulenta. En su examen físico y rx tórax impresiona condensación pulmonar izquierda con derrame homolateral. Se realiza punción pleural que muestra: líquido amarillo, ph 7,30, ldh 400 indice ldh 0,8 índice de proteínas 0,7. Usted interpreta según el análisis del líquido:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 1,
-        "status": "validado",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-lote4-11",
+        "n": 1,
+        "key": "E",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "febrero-2024",
@@ -18778,15 +18264,8 @@
       "enunciado": "En un examen funcional respiratorio la disminución del vef 1 con capacidad vital forzada normal es característico de:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-novas-11",
         "n": 14,
@@ -18803,15 +18282,8 @@
       "enunciado": "Lo consulta un paciente que presenta un neumotórax: en la semiología usted espera encontrar:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-11",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-11",
         "n": 2,
@@ -18828,15 +18300,8 @@
       "enunciado": "Paciente de 32 años, malnutrido, consulta por presentar expectoración con sangre con espuma. Estable hemodinamicamente, disnea clase funcional ii. Usted piensa en:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-novas-11",
         "n": 1,
@@ -18871,14 +18336,12 @@
       "enunciado": "Hombre de 70 años con antecedentes de epoc grave y cor pulmonale crónico que presenta una gasometría arterial con ph 7.45 po2 57 mm de hg., pco2 35 mm de hg. Hco3 25 meq/l ¿cree que estaría indicado iniciar oxigenoterapia domiciliaria?:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 4,
-        "status": "validado",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-lote4-11",
+        "n": 4,
+        "key": "E",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "diciembre-2024",
@@ -18914,15 +18377,8 @@
       "enunciado": "Un paciente de 35 años acude a urgencias por disnea. Refiere una historia de asma bronquial, pero nunca ha requerido asistencia ventilatoria. En los últimos días ha presentado disnea sibilante y en las últimas 12 horas ha utilizado al menos 12 veces su inhalador de salbutamol. A la exploración, está bien perfundida y coloreada, con una fc",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 5,
-        "status": "validado",
-        "answer": "D",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "abril-2022",
         "n": 22,
@@ -18939,15 +18395,8 @@
       "enunciado": "Consulta un paciente de 70 años por presentar en su domicilio en forma súbita dolor en la base del hemitórax izquierdo que aumenta al inspirar profundamente y con la tos, que desaparece si contiene la respiración que irradia al hombro unilateral. Al examen físico se objetiva frote en esa base pulmonar. Usted piensa que se trata de:",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 4",
-      "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 6,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-11",
         "n": 1,
@@ -18964,15 +18413,8 @@
       "enunciado": "¿Cuál es el mecanismo fisiopatológico más frecuente de hipoxemia con hipercapnia en la insuficiencia respiratoria aguda?",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-11",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "C",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-11",
         "n": 3,
@@ -19025,14 +18467,12 @@
       "enunciado": "Paciente de 53 años que presenta en la radiografía de tórax una masa pulmonar de 5 cm de diámetro localizada en región parahiliar de lóbulo superior derecho (l.s.d.). En el tac se aprecian adenopatías subcarinales y traqueobroquiales bilaterales. La broncofibroscopía visualiza una lesión endobronquial en el bronquio del lsd. Tras realizar",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "PUBLICADA LOTE 4",
+      "situacao": "PUBLICADA 4",
       "publicada": {
-        "lot": 4,
-        "site_id": "pdf-lote4-11",
-        "site_n": 7,
-        "status": "validado",
-        "answer": "C",
-        "alternativas": 5
+        "id": "pdf-lote4-11",
+        "n": 7,
+        "key": "C",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "febrero-2024",
@@ -19548,14 +18988,12 @@
       "enunciado": "Una mujer de 36 años, con diagnóstico de Artritis Reumatoide, consulta al médico por dolor y tumefacción en manos, muñecas y rodillas. ¿Cuál de los siguientes tratamientos retardará la progresión de la enfermedad?",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-12",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-12",
+        "n": 1,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-12",
@@ -19573,14 +19011,12 @@
       "enunciado": "una enferma de 55 años presenta dolor intenso en columna torácica sin trauma o esfuerzo violento previo. al practicar radiografías se observan aplastamientos a nivel t5 y t9. ¿cuál será la causa más frecuente de esta lesión?:",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-12",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-12",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-12",
@@ -19598,14 +19034,12 @@
       "enunciado": "la claudicación intermitente de los gemelos está causada más frecuentemente por enfermedades oclusivas en la arteria?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-12",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-12",
+        "n": 3,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-12",
@@ -19677,14 +19111,12 @@
       "enunciado": "Un hombre de 30 años sufre en un accidente de tránsito fractura del tercio medio del fémur izquierdo, con rotura de la arteria femoral. Una vez ingresado en el hospital, se procede a hacer la reducción y fijación de la fractura junto con la reparación arterial. Horas después se instaura un edema en el miembro lesionado, dolor intenso de c",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-12",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
+        "id": "pdf-validado-12",
+        "n": 1,
+        "key": "B",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-12",
@@ -19720,14 +19152,12 @@
       "enunciado": "Una anciana de 80 años ingresa en el servicio de urgencias después de haber sufrido una caída casual. En la exploración se aprecia dolor de impotencia funcional en la cadera derecha, con acortamiento de 2 cm. Y en posición de abducción y rotación externa marcada, contactando el borde externo del pie con la cama. Igualmente es visible unas",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA 3",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-12",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-lote3b-12",
+        "n": 1,
+        "key": "E",
+        "status": "discutible"
       },
       "comparacao": {
         "exam": "pdf-lote3-12",
@@ -19745,15 +19175,8 @@
       "enunciado": "Usted observa un paciente con una mano caída y los dedos en ligera flexión. La rx. Del miembro superior correspondiente muestra una fractura supracondilea del humero. ¿en que lesión nerviosa piensa ?",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 3",
-      "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-12",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 5
-      },
+      "situacao": "ANALISAR MANUALMENTE",
+      "publicada": null,
       "comparacao": {
         "exam": "pdf-lote3-12",
         "n": 3,
@@ -20490,14 +19913,12 @@
       "enunciado": "además de la hemorragia, un efecto adverso grave de la heparina es:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 2",
+      "situacao": "PUBLICADA 2",
       "publicada": {
-        "lot": 2,
-        "site_id": "pdf-lote2-13",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-lote2-13",
+        "n": 1,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-lote2-13",
@@ -20515,14 +19936,12 @@
       "enunciado": "Se sospecha que un adolescente de 15 años consume drogas. Cuál de las siguientes sustancias es la que no sería detectada en una pesquisa toxicológica en orina de rutina por su escasa persistencia. (UBA 2016)",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-13",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "D",
-        "alternativas": 4
+        "id": "pdf-novas-13",
+        "n": 1,
+        "key": "D",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-13",
@@ -20558,14 +19977,12 @@
       "enunciado": "¿Cuáles son las medidas a implementar en un paciente que presenta un envenenamiento ofídico por Yarará?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-13",
-        "site_n": 2,
-        "status": "provisional",
-        "answer": "B",
-        "alternativas": 4
+        "id": "pdf-novas-13",
+        "n": 2,
+        "key": "B",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-13",
@@ -20601,14 +20018,12 @@
       "enunciado": "La ingestión de alguno de los siguientes nutrientes, en cantidades muy superiores a las recomendaciones dietéticas diarias, no se ha asociado con enfermedad. Señálelo:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "PUBLICADA LOTE 3",
+      "situacao": "PUBLICADA VALIDADO",
       "publicada": {
-        "lot": 3,
-        "site_id": "pdf-lote3-13",
-        "site_n": 1,
-        "status": "provisional",
-        "answer": "E",
-        "alternativas": 5
+        "id": "pdf-validado-13",
+        "n": 1,
+        "key": "E",
+        "status": "validado"
       },
       "comparacao": {
         "exam": "pdf-lote3-13",
@@ -20644,14 +20059,12 @@
       "enunciado": "Cual de estos medicamentos abajo salió del mercado",
       "opcoes": 4,
       "gabaritoPDF": "A",
-      "situacao": "PUBLICADA LOTE 1",
+      "situacao": "PUBLICADA 1",
       "publicada": {
-        "lot": 1,
-        "site_id": "pdf-novas-13",
-        "site_n": 3,
-        "status": "provisional",
-        "answer": "A",
-        "alternativas": 4
+        "id": "pdf-novas-13",
+        "n": 3,
+        "key": "A",
+        "status": "provisional"
       },
       "comparacao": {
         "exam": "pdf-novas-13",
