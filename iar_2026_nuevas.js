@@ -313,3 +313,17 @@ src:"ACC/AHA/ACCP/HRS 2023 Guideline for Diagnosis and Management of Atrial Fibr
 src_url:"https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017"
 });
 })();
+
+/* Rectificaciones finales de consistencia entre el texto mostrado y la explicación. */
+(function(){
+const e=EX.find(x=>x.id==="iar-2026-completo"),k=KEY["iar-2026-completo"];if(!e||!k)return;
+Object.assign(k[8],{
+ why:"En la versión mostrada del simulacro, la opción B dice explícitamente leucovorina (ácido folínico), por lo que el régimen pirimetamina+sulfadiazina+leucovorina es correcto. Sin embargo, la fuente original dice ácido fólico y existe la alternativa TMP-SMX, también recomendada por NIH; se mantiene sin puntuación para respetar el examen original.",
+ o:{A:"Anfotericina B y flucitosina son tratamiento de inducción de meningitis criptocócica, no toxoplasmosis cerebral.",B:"En la pantalla aparece leucovorina, correctamente; el PDF original usa ácido fólico, un error clínico. No debe confundirse ácido fólico con folínico.",C:"Trimetoprima-sulfametoxazol también es un régimen aceptado para toxoplasmosis cerebral según guías NIH; por ello el examen original no ofrece una respuesta exclusivamente correcta.",D:"Ganciclovir trata enfermedad por citomegalovirus, no toxoplasmosis."}
+});
+Object.assign(k[54],{o:{
+A:"La TC de abdomen y pelvis con contraste es usualmente apropiada en adultos no gestantes con sospecha de apendicitis, según ACR.",
+C:"La ecografía transvaginal ayuda cuando hay sospecha de patología anexial o embarazo; faltan esos datos en el enunciado.",
+D:"La TC sin contraste no es la elección habitual inicial para sospecha de apendicitis en un adulto cuando puede administrarse contraste; puede usarse en circunstancias especiales."
+}});
+})();
