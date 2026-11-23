@@ -22,7 +22,7 @@ function home(){
   ys.forEach(y=>h+='<button class="chip'+(String(y)===String(S.year)?' on':'')+'" data-y="'+y+'">'+y+'</button>');
   h+='</div><div class="exams">';
   EX.filter(e=>String(e.year)===String(S.year)).forEach(e=>{const st=load(e.id),n=Object.keys(st).length,k=Object.values(st).filter(v=>v.c).length;
-    h+='<button class="ex" data-e="'+e.id+'"><b>'+e.name+'</b><span>'+e.qs.length+' preguntas · '+k+' respondidas</span><div class="bar"><i style="width:'+(100*k/e.qs.length)+'%"></i></div></button>'});
+    const excluded=e.qs.filter(q=>needsReview((KEY[e.id]||{})[q.n])).length;h+='<button class="ex" data-e="'+e.id+'"><b>'+e.name+'</b><span>'+e.qs.length+' preguntas · '+k+' respondidas'+(excluded?' · '+excluded+' sin puntuación definitiva':'')+'</span><div class="bar"><i style="width:'+(100*k/e.qs.length)+'%"></i></div></button>'});
   app.innerHTML=h+'</div>';
   app.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>{S.year=ys.find(y=>String(y)===b.dataset.y);home()});
   app.querySelectorAll('[data-e]').forEach(b=>b.onclick=()=>{S.ex=EX.find(e=>e.id==b.dataset.e);S.st=load(S.ex.id);S.i=0;S.review=false;S.timer=timerLoad(S.ex.id);timerResume();quiz()});
