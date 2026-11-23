@@ -204,3 +204,13 @@ const fixes={"8":{"status":"discutible","why":"El cuadro es altamente compatible
 for(const [n,v] of Object.entries(fixes)){if(key[n])Object.assign(key[n],v);}
 for(const [n,k] of Object.entries(key)){if(k.status==="validado" && (String(k.src||"").includes("Revisión clínica 2026; verificar") || Object.values(k.o||{}).some(t=>/No es la (opción más apropiada|mejor respuesta)/.test(t)))){k.status="provisional";k.why=(k.why||"")+" [AUDITORÍA: aún no se ha contrastado individualmente cada alternativa con una fuente específica; no se puntúa.]";}}
 })();
+
+/* Questão 6: transcrição parcial do PDF original, sem alternativas — sem nota. */
+(function(){
+ const ex=EX.find(e=>e.id==="iar-2026-completo");
+ if(ex&&!ex.qs.some(q=>q.n===6)){
+   ex.qs.push({n:6,q:"Un operario de 35 años que trabaja en una estación de servicio sufre quemaduras por agua hirviendo al abrir la tapa del radiador. El PDF indica quemaduras en cara, región anterior del tórax y abdomen y cara anterior de un miembro inferior, pero la descripción está truncada. Se solicita estimar la superficie corporal quemada. [ENUNCIADO INCOMPLETO EN EL ORIGINAL: no hay alternativas legibles.]",o:[]});
+   ex.qs.sort((a,b)=>a.n-b.n);
+   KEY[ex.id][6]={status:"provisional",why:"Pregunta original truncada: faltan alternativas y descripción anatómica precisa. No se puede estimar con seguridad la superficie corporal quemada ni calificar.",src:"Archivo original: Últimas IAR 2026, pregunta 6."};
+ }
+})();
