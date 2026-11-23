@@ -296,3 +296,20 @@ Object.assign(k[54],{
  src_url:"https://acsearch.acr.org/docs/69357/Narrative/"
 });
 })();
+
+/* ECGs originales publicados: mostrar la imagen antes de responder. */
+(function(){
+const e=EX.find(x=>x.id==="iar-2026-completo"),k=KEY["iar-2026-completo"];if(!e||!k)return;
+const q3=e.qs.find(q=>q.n===3);
+if(q3){q3.image="assets/ecg-iar-2026-03.webp";q3.q="Hombre de 34 años deportista: dolor torácico continuo de cuatro días, irradiado a espalda, que empeora con inspiración profunda. ECG original reproducido debajo. ¿Diagnóstico más probable?";}
+const q80=e.qs.find(q=>q.n===80);
+if(q80){q80.image="assets/ecg-iar-2026-80.png";q80.q="Mujer de 32 años previamente sana con palpitaciones de aparición reciente. Observe el ECG original reproducido debajo. ¿Cuál es el diagnóstico más probable?";}
+k[3].status="discutible";k[3].calificable=false;
+Object.assign(k[80],{
+a:"B",status:"validado",calificable:true,
+why:"El ECG original muestra ondas auriculares organizadas y repetitivas en dientes de sierra, visibles en derivaciones inferiores, con QRS estrechos; hallazgo característico de flutter (aleteo) auricular. El trazado se reproduce en el enunciado.",
+o:{A:"La taquicardia supraventricular por reentrada suele mostrar actividad auricular oculta o retrógrada, sin ondas F organizadas en dientes de sierra.",C:"Taquicardia ventricular suele presentar complejos QRS anchos y no la actividad auricular típica de este trazado.",D:"Fibrilación auricular muestra actividad auricular desorganizada y frecuentemente RR irregular, a diferencia de las ondas F organizadas del flutter."},
+src:"ACC/AHA/ACCP/HRS 2023 Guideline for Diagnosis and Management of Atrial Fibrillation, sección atrial flutter; ECG original del PDF, página 20.",
+src_url:"https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017"
+});
+})();
