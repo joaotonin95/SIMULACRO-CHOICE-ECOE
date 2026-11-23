@@ -1,0 +1,20 @@
+name: Validar simulado IAR 2026
+on:
+  push:
+    paths:
+      - 'index.html'
+      - '*.js'
+      - 'tests/**'
+      - '.github/workflows/validar-iar-2026.yml'
+  pull_request:
+  workflow_dispatch:
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar integridade e inicialização do simulado
+        run: node tests/iar-2026.test.cjs
