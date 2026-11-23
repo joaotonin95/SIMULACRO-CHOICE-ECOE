@@ -3,12 +3,12 @@
 ## Situação consolidada em 23/11/2026 (substitui os totais históricos abaixo)
 
 - PDF analisado: **1.056** entradas, 13 blocos; site original: **1.153** questões.
-- Arquivos de importação ativos: `novas_pdf.js`: **143**; `novas_pdf_lote2.js`: **35**; `novas_pdf_lote3.js`: **10**; `novas_pdf_lote4.js`: **13**; `novas_pdf_validadas.js`: **10**.
-- **211 entradas do PDF carregadas**, resultando em **1364 questões no site**. Outras **845 entradas do PDF não estão incorporadas**, incluindo duplicatas, questões incompletas e candidatos que ainda exigem análise clínica individual. Isso **não** significa que as 845 sejam todas inéditas.
+- Arquivos de importação ativos: `novas_pdf.js`: **143**; `novas_pdf_lote2.js`: **35**; `novas_pdf_lote3.js`: **10**; `novas_pdf_lote4.js`: **13**; `novas_pdf_validadas.js`: **11**.
+- **212 entradas do PDF carregadas**, resultando em **1365 questões no site**. Outras **844 entradas do PDF não estão incorporadas**, incluindo duplicatas, questões incompletas e candidatos que ainda exigem análise clínica individual. Isso **não** significa que as 845 sejam todas inéditas.
 - Uma revisão detectou colisão de identificadores entre dois arquivos de cinco alternativas. O arquivo `novas_pdf_lote3.js` foi reduzido a 10 questões exclusivas e recebeu IDs independentes; 25 repetições entre arquivos foram eliminadas. Outras 8 duplicatas exatas foram retiradas do lote 4 e uma revisão adicional ajustou seu conteúdo.
 - A revisão científica está parcialmente registrada em `novas_pdf_validadas.js`, `validacao_lotes_pdf.js` e `validacion_pdf_2026.js`. Algumas questões permanecem marcadas provisórias/discutíveis.
 - **Correção do simulador:** `app.js` agora trata `status: "provisional"` como não pontuável e exclui notas salvas anteriormente dessa categoria da estatística de acertos.
-- **Erro científico identificado no PDF:** síndrome de asa ciega, alternativa correta **C** (sobrecrecimiento bacteriano por estasis), e não A. Fonte: NLM MeSH e Merck Manual. A correção foi registrada na revisão científica, mas deve ser conferida em qualquer cópia ativa da questão.
+- **Erro científico identificado no PDF:** síndrome de asa ciega, alternativa correta **C** (sobrecrecimiento bacteriano por estasis), e não A. Fonte: NLM MeSH e Merck Manual. A correção está publicada em `novas_pdf_validadas.js` no simulacro `PDF VALIDADO · DIGESTIVO`, com alternativa C e referência verificável.
 - As duplicatas textuais herdadas do banco original por ano/especialidade não foram removidas, para preservar históricos de simulados; deduplicação da importação não altera os exames já existentes.
 - **Pendente:** revisão semântica e de gabarito individual das entradas não incorporadas e das respostas ainda provisórias. Filtro automático não substitui auditoria médica.
 
