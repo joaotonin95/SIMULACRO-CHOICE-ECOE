@@ -1,40 +1,40 @@
 {
   "data": "2026-11-23",
   "totalPDF": 1056,
-  "totalSite": 1366,
-  "publicadas": 210,
-  "pendentes": 846,
-  "nota": "Esta é uma auditoria de correspondência lexical: rótulos de semelhança NÃO são decisão de equivalência semântica nem validação clínica. Questões importadas, exceto correções pontuais documentadas, permanecem sem pontuação.",
+  "totalSite": 1388,
+  "publicadas": 235,
+  "pendentes": 821,
+  "nota": "Auditoria conciliada com os 4 lotes após deduplicação entre os próprios lotes. Itens provisórios não recebem pontuação, e os rótulos de similaridade não representam necessariamente duplicação semântica. Os dados do PDF não validam automaticamente seu gabarito.",
   "porEspecialidade": {
     "Cirugía": {
       "total": 75,
-      "publicadas": 13,
-      "pendentes": 62
+      "publicadas": 14,
+      "pendentes": 61
     },
     "Digestivo": {
       "total": 124,
-      "publicadas": 19,
-      "pendentes": 105
+      "publicadas": 23,
+      "pendentes": 101
     },
     "Emergentología": {
       "total": 37,
-      "publicadas": 9,
-      "pendentes": 28
+      "publicadas": 11,
+      "pendentes": 26
     },
     "Ginecología y Obstetricia": {
       "total": 179,
-      "publicadas": 44,
-      "pendentes": 135
+      "publicadas": 48,
+      "pendentes": 131
     },
     "Hematología": {
       "total": 45,
-      "publicadas": 12,
-      "pendentes": 33
+      "publicadas": 13,
+      "pendentes": 32
     },
     "Infectología": {
       "total": 139,
-      "publicadas": 19,
-      "pendentes": 120
+      "publicadas": 21,
+      "pendentes": 118
     },
     "Neurología": {
       "total": 57,
@@ -43,13 +43,13 @@
     },
     "Oftalmología": {
       "total": 11,
-      "publicadas": 2,
-      "pendentes": 9
+      "publicadas": 3,
+      "pendentes": 8
     },
     "Pediatría": {
       "total": 162,
-      "publicadas": 29,
-      "pendentes": 133
+      "publicadas": 31,
+      "pendentes": 131
     },
     "Renal": {
       "total": 42,
@@ -58,8 +58,8 @@
     },
     "Respiratorio": {
       "total": 109,
-      "publicadas": 26,
-      "pendentes": 83
+      "publicadas": 34,
+      "pendentes": 75
     },
     "Reumatología": {
       "total": 29,
@@ -73,15 +73,16 @@
     }
   },
   "porSituacao": {
-    "ALTERNATIVAS COINCIDENTES — REVISAR": 435,
+    "ALTERNATIVAS COINCIDENTES — REVISAR": 432,
     "PUBLICADA LOTE 1": 143,
-    "CANDIDATA À REVISÃO MANUAL": 83,
+    "CANDIDATA À REVISÃO MANUAL": 63,
     "SEMELHANÇA TEXTUAL ALTA — REVISAR": 139,
-    "SEMELHANÇA INTERMEDIÁRIA — REVISAR": 45,
+    "SEMELHANÇA INTERMEDIÁRIA — REVISAR": 43,
     "PREGUNTA ABERTA SEM OPÇÕES": 116,
     "OPÇÕES INCOMPLETAS": 19,
-    "PUBLICADA LOTE 2": 33,
-    "PUBLICADA LOTE 3": 34,
+    "PUBLICADA LOTE 2": 35,
+    "PUBLICADA LOTE 4": 22,
+    "PUBLICADA LOTE 3": 35,
     "CHAVE INCOMPLETA": 9
   },
   "questoes": [
@@ -113,11 +114,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1025,11 +1027,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 2,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1049,11 +1052,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 3,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1127,11 +1131,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 4,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1205,11 +1210,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-1",
-        "siteN": 1,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-1",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-1",
@@ -1247,11 +1253,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 5,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1271,11 +1278,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 6,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1295,11 +1303,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 7,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1319,11 +1328,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-1",
-        "siteN": 2,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-1",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-1",
@@ -1343,11 +1353,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 8,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1367,11 +1378,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-1",
-        "siteN": 9,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-1",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-1",
@@ -1409,11 +1421,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-1",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-1",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-1",
@@ -1431,8 +1444,15 @@
       "enunciado": "Una mujer de 45 años concurre al departamento de urgencias por dolor en hipocondrio derecho de 36 horas de evolución. Gb: 13.000/mm3 gpt: 80, amilasemia: dentro de parámetros normales. La ecografía abdominal informa: quiste de 3 cm de diámetro en segmento III del hígado, pared vesicular de 5 mm, con un diámetro vesicular transverso de 46 ",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-1",
+        "site_n": 1,
+        "status": "validado",
+        "answer": "E",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "diciembre-2025",
         "n": 27,
@@ -1451,11 +1471,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-1",
-        "siteN": 1,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-1",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-1",
@@ -1673,11 +1694,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-2",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-2",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2453,11 +2475,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 1,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2495,11 +2518,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2519,11 +2543,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 3,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2633,11 +2658,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-2",
-        "siteN": 2,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-2",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2675,11 +2701,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 4,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2753,11 +2780,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-2",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-2",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2849,11 +2877,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 5,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2873,11 +2902,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 6,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2897,11 +2927,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-2",
-        "siteN": 4,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-2",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-2",
@@ -2921,11 +2952,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 7,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -2963,11 +2995,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 8,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3005,11 +3038,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 9,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3029,11 +3063,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 10,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 10,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3053,11 +3088,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 11,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 11,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3075,8 +3111,15 @@
       "enunciado": "Fármaco que tiene efecto inespecífico:",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-2",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "area-19",
         "n": 9,
@@ -3165,8 +3208,15 @@
       "enunciado": "La causa más frecuente de cirrosis hepática es alcoholismo, ¿Cuál de las siguientes opciones también es una causa muy frecuente de cirrosis hepática?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-2",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "pdf-lote2-9",
         "n": 3,
@@ -3221,11 +3271,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 12,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 12,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3245,11 +3296,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-2",
-        "siteN": 13,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-2",
+        "site_n": 13,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-2",
@@ -3269,11 +3321,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-2",
-        "siteN": 1,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-2",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-2",
@@ -3293,11 +3346,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-2",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-2",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-2",
@@ -3315,8 +3369,15 @@
       "enunciado": "Consulta un paciente de 60 años con antecedentes de apendicetomía en la infancia, resección parcial de colon izquierdo por diverticulosis colónica con anastomosis términoterminal, que refiere comenzar en forma brusca con dolor abdominal tipo cólico en fosa iliaca y flanco izquierdo, vómitos y falta de eliminación de gases hace 10 horas. E",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-2",
+        "site_n": 3,
+        "status": "validado",
+        "answer": "B",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "julio-2024",
         "n": 49,
@@ -3369,8 +3430,15 @@
       "enunciado": "El síndrome de asa ciega es un trastorno del intestino que se caracteriza por:",
       "opcoes": 5,
       "gabaritoPDF": "A",
-      "situacao": "ALTERNATIVAS COINCIDENTES — REVISAR",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 3",
+      "publicada": {
+        "lot": 3,
+        "site_id": "pdf-lote3-2",
+        "site_n": 3,
+        "status": "validado",
+        "answer": "C",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "pdf-lote3-2",
         "n": 3,
@@ -4157,11 +4225,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4181,11 +4250,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4223,11 +4293,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 3,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4265,11 +4336,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 4,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4289,11 +4361,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 5,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4313,11 +4386,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 6,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4373,11 +4447,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-3",
-        "siteN": 7,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-3",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-3",
@@ -4413,8 +4488,15 @@
       "enunciado": "Ingresa a la guardia un hombre de 32 años de edad, conductor de moto sin casco, luego de haber presentado una colisión contra un auto. Se encuentra inconsciente y sus signos vitales son: tensión arterial de 80-60, frecuencia cardiaca de 120 latidos por minuto, frecuencia respiratoria de 34 por minuto. No tiene heridas abiertas ni fractura",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-3",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "abril-2022",
         "n": 99,
@@ -4433,11 +4515,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-3",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-3",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-3",
@@ -4457,11 +4540,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-3",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-3",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-3",
@@ -4479,8 +4563,15 @@
       "enunciado": "Ingresa a la guardia un paciente de 26 años con herida de arma de fuego en cuarto espacio intercostal derecho sin orificio de salida. Esta en shock, y usted realiza una reanimación adecuada sin respuesta. ¿Cual es la conducta apropiada a seguir en este paciente?",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-3",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "febrero-2024",
         "n": 60,
@@ -4607,11 +4698,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -4631,11 +4723,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -4673,11 +4766,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 3,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -4697,11 +4791,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -4721,11 +4816,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 4,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -5987,11 +6083,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 5,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6011,11 +6108,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 6,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6053,11 +6151,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 7,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6077,11 +6176,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 8,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6101,11 +6201,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 9,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6143,11 +6244,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6167,11 +6269,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 3,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6191,11 +6294,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 4,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6215,11 +6319,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 10,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 10,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6293,11 +6398,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 11,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 11,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6317,11 +6423,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 5,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6341,11 +6448,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 12,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 12,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6365,11 +6473,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 13,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 13,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6389,11 +6498,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 14,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 14,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6413,11 +6523,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 15,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 15,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6473,11 +6584,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 6,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6515,11 +6627,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 16,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 16,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6593,11 +6706,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 17,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 17,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6635,11 +6749,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 18,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 18,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6695,11 +6810,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 19,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 19,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6719,11 +6835,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 20,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 20,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6743,11 +6860,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 21,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 21,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6767,11 +6885,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 7,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -6827,11 +6946,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 22,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 22,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6887,11 +7007,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 23,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 23,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6947,11 +7068,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 24,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 24,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -6989,11 +7111,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 25,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 25,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7013,11 +7136,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 26,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 26,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7037,11 +7161,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 27,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 27,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7061,11 +7186,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-4",
-        "siteN": 8,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-4",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-4",
@@ -7103,11 +7229,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 28,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 28,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7127,11 +7254,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 29,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 29,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7151,11 +7279,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 30,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 30,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7499,11 +7628,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-4",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-4",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7535,11 +7665,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-4",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-4",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7557,8 +7688,15 @@
       "enunciado": "Gestante de 26 semanas de amenorrea que presenta desde hace 5 días malestar general, astenia, náuseas, cefalea, edemas y ligero dolor en hipocondrio derecho. En la analítica practicada presenta: hb 8 g/dl, bilirrubina 1.4 mg/dl, ldh 670 ui/l, ast182 ui/l, plaquetas 80000/mm3. Lo más probable es que se trate de un embarazo complicado por:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-4",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "E",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "area-4",
         "n": 18,
@@ -7575,8 +7713,15 @@
       "enunciado": "¿En cuál de las siguientes situaciones obstétricas está indicado el parto mediante cesárea?:",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-4",
+        "site_n": 2,
+        "status": "validado",
+        "answer": "C",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "julio-2024",
         "n": 83,
@@ -7593,8 +7738,15 @@
       "enunciado": "Se hospitaliza a una gestante de 35 semanas por presentar presión arterial de 165/ 100 mmhg. En repetidas tomas, edemas progresivos y proteinuria significativa. Se instaura tratamiento con hidralacina y sulfato de magnesio. Seis horas después, la paciente refiere cefalea intensa, epigastrálgia y fotofobia. Se objetiva oliguria, presión ar",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-4",
+        "site_n": 3,
+        "status": "validado",
+        "answer": "D",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "area-2",
         "n": 6,
@@ -7631,11 +7783,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-4",
-        "siteN": 3,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-4",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7655,11 +7808,12 @@
       "gabaritoPDF": "E",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-4",
-        "siteN": 4,
-        "selectedKey": "E",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-4",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "E",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-4",
@@ -7715,11 +7869,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 31,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 31,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -7773,8 +7928,15 @@
       "enunciado": "Cual de las siguientes es categoría 4 para indicación de un ACO?",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "SEMELHANÇA INTERMEDIÁRIA — REVISAR",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-4",
+        "site_n": 4,
+        "status": "validado",
+        "answer": "B",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "diciembre-2025",
         "n": 13,
@@ -8027,11 +8189,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-4",
-        "siteN": 32,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-4",
+        "site_n": 32,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-4",
@@ -8387,11 +8550,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8411,11 +8575,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-5",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-5",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-5",
@@ -8453,11 +8618,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8495,11 +8661,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8555,11 +8722,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-5",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-5",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-5",
@@ -8579,11 +8747,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 4,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8657,11 +8826,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 5,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8681,11 +8851,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 6,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8705,11 +8876,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-5",
-        "siteN": 7,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-5",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-5",
@@ -8775,8 +8947,15 @@
       "enunciado": "¿Un paciente consulta a su clínico por anemia, éste lo estudia y le informa que padece una anemia por déficit de hierro qué hallazgos permitieron ese diagnóstico?",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-5",
+        "site_n": 1,
+        "status": "validado",
+        "answer": "B",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "diciembre-2025",
         "n": 86,
@@ -8795,11 +8974,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-5",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-5",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-5",
@@ -8819,11 +8999,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-5",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-5",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-5",
@@ -8861,11 +9042,12 @@
       "gabaritoPDF": "E",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-5",
-        "siteN": 3,
-        "selectedKey": "E",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-5",
+        "site_n": 3,
+        "status": "validado",
+        "answer": "E",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-5",
@@ -9065,11 +9247,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-6",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-6",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-6",
@@ -10169,11 +10352,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10265,11 +10449,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-6",
-        "siteN": 2,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-6",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-6",
@@ -10289,11 +10474,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 2,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10475,11 +10661,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10571,11 +10758,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 4,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10625,11 +10813,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 5,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10649,11 +10838,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 6,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10673,11 +10863,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 7,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10697,11 +10888,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 8,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10721,11 +10913,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 9,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10743,8 +10936,15 @@
       "enunciado": "¿Cuál de las siguientes vacunas es de aplicación intradérmica?",
       "opcoes": 4,
       "gabaritoPDF": "D",
-      "situacao": "ALTERNATIVAS COINCIDENTES — REVISAR",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 2",
+      "publicada": {
+        "lot": 2,
+        "site_id": "pdf-lote2-6",
+        "site_n": 3,
+        "status": "validado",
+        "answer": "D",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "pdf-lote2-6",
         "n": 3,
@@ -10763,11 +10963,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 10,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 10,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10787,11 +10988,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 11,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 11,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10901,11 +11103,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 12,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 12,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10943,11 +11146,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 13,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 13,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10967,11 +11171,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 14,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 14,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -10991,11 +11196,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-6",
-        "siteN": 15,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-6",
+        "site_n": 15,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-6",
@@ -11013,8 +11219,15 @@
       "enunciado": "Paciente de 42 años, sin antecedentes de interés, que acude al servicio de urgencias por presentar un cuadro de disfagia y dolor faríngeo de 8 días de evolución, con fiebre elevada y afectación del estado general. En la exploración se objetivan unas amígdalas hiperémicas, adenopatías subángulo mandibulares bilaterales e induración y dolor",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-6",
+        "site_n": 1,
+        "status": "validado",
+        "answer": "E",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "julio-2024",
         "n": 8,
@@ -11051,11 +11264,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-6",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-6",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-6",
@@ -11075,11 +11289,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-6",
-        "siteN": 2,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-6",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-6",
@@ -11831,11 +12046,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -11999,11 +12215,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-7",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-7",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-7",
@@ -12059,11 +12276,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12155,11 +12373,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 3,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12179,11 +12398,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 4,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12203,11 +12423,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 5,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12245,11 +12466,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 6,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12269,11 +12491,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 7,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12311,11 +12534,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 8,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12335,11 +12559,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-7",
-        "siteN": 9,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-7",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-7",
@@ -12377,11 +12602,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12419,11 +12645,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 2,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12443,11 +12670,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 3,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12467,11 +12695,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 4,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12491,11 +12720,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 5,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12515,11 +12745,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 6,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12539,11 +12770,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-7",
-        "siteN": 7,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-7",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-7",
@@ -12671,11 +12903,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-8",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-8",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-8",
@@ -12821,11 +13054,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-8",
-        "siteN": 2,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-8",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-8",
@@ -12843,8 +13077,15 @@
       "enunciado": "En un paciente con un glaucoma agudo de ángulo estrecho, ¿cuál de los siguientes tratamientos no es adecuado?:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-8",
+        "site_n": 1,
+        "status": "validado",
+        "answer": "B",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "abril-2022",
         "n": 96,
@@ -12863,11 +13104,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -12995,11 +13237,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 2,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14273,11 +14516,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 3,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14531,11 +14775,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 4,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14573,11 +14818,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 5,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14615,11 +14861,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 6,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14675,11 +14922,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 7,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14699,11 +14947,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-9",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-9",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -14741,11 +14990,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-9",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-9",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -14765,11 +15015,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 8,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14789,11 +15040,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 9,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14813,11 +15065,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 10,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 10,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14837,11 +15090,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-9",
-        "siteN": 3,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-9",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -14861,11 +15115,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 11,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 11,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -14903,11 +15158,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-9",
-        "siteN": 4,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-9",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15017,11 +15273,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 12,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 12,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15041,11 +15298,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 13,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 13,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15065,11 +15323,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 14,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 14,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15143,11 +15402,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 15,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 15,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15165,8 +15425,15 @@
       "enunciado": "cuál de los siguientes cuadros clínicos es la causa más común de discapacidad intelectual en la infancia? único 2017- 88",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-9",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "febrero-2025",
         "n": 109,
@@ -15185,11 +15452,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-9",
-        "siteN": 5,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-9",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15209,11 +15477,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-9",
-        "siteN": 6,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-9",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-9",
@@ -15233,11 +15502,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 16,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 16,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15273,8 +15543,15 @@
       "enunciado": "Senale la opción correcta",
       "opcoes": 4,
       "gabaritoPDF": "C",
-      "situacao": "SEMELHANÇA INTERMEDIÁRIA — REVISAR",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-9",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "pdf-lote2-11",
         "n": 6,
@@ -15311,11 +15588,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 17,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 17,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15335,11 +15613,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 18,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 18,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15503,11 +15782,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 19,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 19,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -15563,11 +15843,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-9",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-9",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-9",
@@ -15587,11 +15868,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-9",
-        "siteN": 2,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-9",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-9",
@@ -15611,11 +15893,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-9",
-        "siteN": 3,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-9",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-9",
@@ -15761,11 +16044,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-9",
-        "siteN": 20,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-9",
+        "site_n": 20,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-9",
@@ -16271,11 +16555,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-10",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-10",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-10",
@@ -16313,11 +16598,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-10",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-10",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16337,11 +16623,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-10",
-        "siteN": 2,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-10",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16361,11 +16648,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-10",
-        "siteN": 3,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-10",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16385,11 +16673,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-10",
-        "siteN": 4,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-10",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16463,11 +16752,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-10",
-        "siteN": 5,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-10",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-10",
@@ -16541,11 +16831,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-10",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-10",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-10",
@@ -16565,11 +16856,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-10",
-        "siteN": 2,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-10",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-10",
@@ -16589,11 +16881,12 @@
       "gabaritoPDF": "E",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-10",
-        "siteN": 3,
-        "selectedKey": "E",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-10",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "E",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-10",
@@ -16847,11 +17140,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17591,11 +17885,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-11",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-11",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -17615,11 +17910,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17655,8 +17951,15 @@
       "enunciado": "Una paciente de 22 años con diagnóstico de asma bronquial hace 6 meses concurre al consultorio para control. Se encuentra en tratamiento con agonistas b2 a demanda. Refiere síntomas asmáticos frecuentes, 4 veces en el último mes y sin episodios de exacerbaciones. ¿Cuál es el tratamiento más adecuado? (CABA 2017, 82)",
       "opcoes": 4,
       "gabaritoPDF": "B",
-      "situacao": "ALTERNATIVAS COINCIDENTES — REVISAR",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 2",
+      "publicada": {
+        "lot": 2,
+        "site_id": "pdf-lote2-11",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
+      },
       "comparacao": {
         "exam": "pdf-lote2-11",
         "n": 2,
@@ -17675,11 +17978,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-11",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-11",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -17699,11 +18003,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 3,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17741,11 +18046,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 4,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17783,11 +18089,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 5,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17807,11 +18114,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 6,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17831,11 +18139,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 7,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 7,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17873,11 +18182,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 8,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 8,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17897,11 +18207,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 9,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 9,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17921,11 +18232,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 10,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 10,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17945,11 +18257,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 11,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 11,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17969,11 +18282,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 12,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 12,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -17993,11 +18307,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-11",
-        "siteN": 4,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-11",
+        "site_n": 4,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18017,11 +18332,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 13,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 13,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18041,11 +18357,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-11",
-        "siteN": 5,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-11",
+        "site_n": 5,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18065,11 +18382,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 14,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 14,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18161,11 +18479,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 15,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 15,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18275,11 +18594,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-11",
-        "siteN": 6,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-11",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-11",
@@ -18299,11 +18619,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 16,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 16,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18359,11 +18680,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 17,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 17,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18383,11 +18705,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-11",
-        "siteN": 18,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-11",
+        "site_n": 18,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-11",
@@ -18407,11 +18730,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-11",
-        "siteN": 1,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-11",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-11",
@@ -18429,8 +18753,15 @@
       "enunciado": "Paciente de 35 años consulta por fiebre, tos, expectoración mucopurulenta. En su examen físico y rx tórax impresiona condensación pulmonar izquierda con derrame homolateral. Se realiza punción pleural que muestra: líquido amarillo, ph 7,30, ldh 400 indice ldh 0,8 índice de proteínas 0,7. Usted interpreta según el análisis del líquido:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 1,
+        "status": "validado",
+        "answer": "E",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "febrero-2024",
         "n": 39,
@@ -18447,8 +18778,15 @@
       "enunciado": "En un examen funcional respiratorio la disminución del vef 1 con capacidad vital forzada normal es característico de:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "pdf-novas-11",
         "n": 14,
@@ -18467,11 +18805,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-11",
-        "siteN": 2,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-11",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-11",
@@ -18489,8 +18828,15 @@
       "enunciado": "Paciente de 32 años, malnutrido, consulta por presentar expectoración con sangre con espuma. Estable hemodinamicamente, disnea clase funcional ii. Usted piensa en:",
       "opcoes": 5,
       "gabaritoPDF": "B",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "pdf-novas-11",
         "n": 1,
@@ -18525,8 +18871,15 @@
       "enunciado": "Hombre de 70 años con antecedentes de epoc grave y cor pulmonale crónico que presenta una gasometría arterial con ph 7.45 po2 57 mm de hg., pco2 35 mm de hg. Hco3 25 meq/l ¿cree que estaría indicado iniciar oxigenoterapia domiciliaria?:",
       "opcoes": 5,
       "gabaritoPDF": "E",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 4,
+        "status": "validado",
+        "answer": "E",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "diciembre-2024",
         "n": 87,
@@ -18561,8 +18914,15 @@
       "enunciado": "Un paciente de 35 años acude a urgencias por disnea. Refiere una historia de asma bronquial, pero nunca ha requerido asistencia ventilatoria. En los últimos días ha presentado disnea sibilante y en las últimas 12 horas ha utilizado al menos 12 veces su inhalador de salbutamol. A la exploración, está bien perfundida y coloreada, con una fc",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 5,
+        "status": "validado",
+        "answer": "D",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "abril-2022",
         "n": 22,
@@ -18579,8 +18939,15 @@
       "enunciado": "Consulta un paciente de 70 años por presentar en su domicilio en forma súbita dolor en la base del hemitórax izquierdo que aumenta al inspirar profundamente y con la tos, que desaparece si contiene la respiración que irradia al hombro unilateral. Al examen físico se objetiva frote en esa base pulmonar. Usted piensa que se trata de:",
       "opcoes": 5,
       "gabaritoPDF": "D",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 6,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "pdf-lote3-11",
         "n": 1,
@@ -18599,11 +18966,12 @@
       "gabaritoPDF": "C",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-11",
-        "siteN": 3,
-        "selectedKey": "C",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-11",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "C",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-11",
@@ -18657,8 +19025,15 @@
       "enunciado": "Paciente de 53 años que presenta en la radiografía de tórax una masa pulmonar de 5 cm de diámetro localizada en región parahiliar de lóbulo superior derecho (l.s.d.). En el tac se aprecian adenopatías subcarinales y traqueobroquiales bilaterales. La broncofibroscopía visualiza una lesión endobronquial en el bronquio del lsd. Tras realizar",
       "opcoes": 5,
       "gabaritoPDF": "C",
-      "situacao": "CANDIDATA À REVISÃO MANUAL",
-      "publicada": null,
+      "situacao": "PUBLICADA LOTE 4",
+      "publicada": {
+        "lot": 4,
+        "site_id": "pdf-lote4-11",
+        "site_n": 7,
+        "status": "validado",
+        "answer": "C",
+        "alternativas": 5
+      },
       "comparacao": {
         "exam": "febrero-2024",
         "n": 26,
@@ -19175,11 +19550,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-12",
-        "siteN": 1,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-12",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-12",
@@ -19199,11 +19575,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-12",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-12",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-12",
@@ -19223,11 +19600,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-12",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-12",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-12",
@@ -19301,11 +19679,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-12",
-        "siteN": 1,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-12",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-12",
@@ -19343,11 +19722,12 @@
       "gabaritoPDF": "E",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-12",
-        "siteN": 2,
-        "selectedKey": "E",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-12",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "E",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-12",
@@ -19367,11 +19747,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-12",
-        "siteN": 3,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-12",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-12",
@@ -20111,11 +20492,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 2",
       "publicada": {
-        "batch": 2,
-        "siteId": "pdf-lote2-13",
-        "siteN": 1,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 2,
+        "site_id": "pdf-lote2-13",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-lote2-13",
@@ -20135,11 +20517,12 @@
       "gabaritoPDF": "D",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-13",
-        "siteN": 1,
-        "selectedKey": "D",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-13",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "D",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-13",
@@ -20177,11 +20560,12 @@
       "gabaritoPDF": "B",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-13",
-        "siteN": 2,
-        "selectedKey": "B",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-13",
+        "site_n": 2,
+        "status": "provisional",
+        "answer": "B",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-13",
@@ -20219,11 +20603,12 @@
       "gabaritoPDF": "E",
       "situacao": "PUBLICADA LOTE 3",
       "publicada": {
-        "batch": 3,
-        "siteId": "pdf-lote3-13",
-        "siteN": 1,
-        "selectedKey": "E",
-        "status": "discutible"
+        "lot": 3,
+        "site_id": "pdf-lote3-13",
+        "site_n": 1,
+        "status": "provisional",
+        "answer": "E",
+        "alternativas": 5
       },
       "comparacao": {
         "exam": "pdf-lote3-13",
@@ -20261,11 +20646,12 @@
       "gabaritoPDF": "A",
       "situacao": "PUBLICADA LOTE 1",
       "publicada": {
-        "batch": 1,
-        "siteId": "pdf-novas-13",
-        "siteN": 3,
-        "selectedKey": "A",
-        "status": "discutible"
+        "lot": 1,
+        "site_id": "pdf-novas-13",
+        "site_n": 3,
+        "status": "provisional",
+        "answer": "A",
+        "alternativas": 4
       },
       "comparacao": {
         "exam": "pdf-novas-13",
