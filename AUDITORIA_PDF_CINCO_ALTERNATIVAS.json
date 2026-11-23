@@ -1,0 +1,2333 @@
+{
+  "date": "2026-11-23",
+  "source": "Choices_Final_UAI.pdf",
+  "totalFive": 83,
+  "canRevisar": 69,
+  "analise": "Candidatas de 5 alternativas com correspondência lexical não óbvia; muitas ainda repetem casos resumidos no site ou têm gabaritos discutíveis. Nenhuma é importada automaticamente.",
+  "candidatas": [
+    {
+      "b": 1,
+      "especialidad": "Cirugía",
+      "n": 72,
+      "pagina": 17,
+      "q": "Una mujer de 45 años concurre al departamento de urgencias por dolor en hipocondrio derecho de 36 horas de evolución. Gb: 13.000/mm3 gpt: 80, amilasemia: dentro de parámetros normales. La ecografía abdominal informa: quiste de 3 cm de diámetro en segmento III del hígado, pared vesicular de 5 mm, con un diámetro vesicular transverso de 46 mm y un cálculo en el bacinete. El tratamiento más apropiado es:",
+      "o": [
+        "Alta, antiespasmódicos, dieta y control por consultorios externos de cirugía general",
+        "Internación 12hs, hidratación, analgésicos, atb y derivación por consultorios externos para cirugía programada",
+        "Internación, hidratación, analgésicos, atb y laparotomía de urgencia",
+        "Internación, hidratación, analgésicos, atb y laparoscopía después del 10º dia de internación",
+        "Internación, hidratación, analgésicos, atb y laparoscopía antes de las 72 hs de internación"
+      ],
+      "key": "E",
+      "score": 0.206,
+      "comparacoes": [
+        {
+          "score": 0.206,
+          "id": "diciembre-2025",
+          "n": 27,
+          "q": "Un hombre de 55 años acude a la guardia con, dolor en hipocondrio derecho y fiebre. Ecografía: vesícula con pared de 1.5 mm, con cálculos múltiples el mayor de 4mm y colección sobre el hígado de 2 mm. ¿Cuál es el diagnós"
+        },
+        {
+          "score": 0.189,
+          "id": "area-1",
+          "n": 9,
+          "q": "Mujer de 73 años consulta por dolor abdominal en FII, fiebre y vómitos de 3 días. TAC informa absceso intraperitoneal en FII. ¿Cuál es el tratamiento de elección?"
+        },
+        {
+          "score": 0.182,
+          "id": "area-4",
+          "n": 15,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        }
+      ]
+    },
+    {
+      "b": 1,
+      "especialidad": "Cirugía",
+      "n": 73,
+      "pagina": 17,
+      "q": "Un paciente de 70 años de edad, en tratamiento con esteroides por artrosis, acude a urgencias por un cuadro de dolor abdominal de instauración brusca en epigastrio irradiado a fosa iliaca derecha a íleo paralítico, presentando a la exploración clínica abdomen en ¨tabla¨. El examen de la sangre muestra leucocitosis y las pruebas de imagen no son concluyentes. ¿cuál sería la actitud terapéutica más adecuada?:",
+      "o": [
+        "Colocación de sonda nasogástrica, sueros y antibióticos.",
+        "Alimentación parenteral, omeprazol i.v., antibióticos.",
+        "Cirugía abdominal accediendo por incisión de mc burney.",
+        "Cirugía abdominal accediendo por laparotomía media.",
+        "Apendicetomía laparoscópica."
+      ],
+      "key": "D",
+      "score": 0.248,
+      "comparacoes": [
+        {
+          "score": 0.248,
+          "id": "diciembre-2022",
+          "n": 22,
+          "q": "Un hombre de 35 años acude a urgencias con dolor perianal intenso y fiebre de 38 ºC de dos días de evolución. En la exploración presenta una masa dolorosa en fosa isquiorectal izquierda. ¿Cuál es la actitud más adecuada?"
+        },
+        {
+          "score": 0.248,
+          "id": "febrero-2024",
+          "n": 5,
+          "q": "Un hombre de 35 años acude a urgencias con dolor perianal intenso y fiebre de 38°C de dos días de evolución. En la exploración presenta una masa dolorosa en fosa isquiorectal izquierda. ¿Cuál es la actitud más adecuada?"
+        },
+        {
+          "score": 0.211,
+          "id": "diciembre-2024",
+          "n": 11,
+          "q": "Un adolescente de 17 años es llevado a urgencias por dolor abdominal en el cuadrante inferior derecho. A la exploración presente fiebre, dolor a la palpación profunde en la fosa iliaca derecha, y signo de rebote positivo"
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "especialidad": "Digestivo",
+      "n": 93,
+      "pagina": 62,
+      "q": "Un paciente de 25 años lo consulta por disfagia a sólidos, pero fundamentalmente para líquidos progresiva que se acompaña de regurgitación y pérdida de peso. Su diagnóstico presuntivo es:",
+      "o": [
+        "Espasmo difuso del esófago",
+        "Enfermedad psicosomática",
+        "Estenosis péptica del esófago",
+        "Acalasia",
+        "Carcinoma de esófago"
+      ],
+      "key": "D",
+      "score": 0.225,
+      "comparacoes": [
+        {
+          "score": 0.225,
+          "id": "area-5",
+          "n": 10,
+          "q": "Mujer de 45 años con fatiga, pérdida de peso, hiperpigmentación en mucosas, mareos ortostáticos. Na 128. ¿Diagnóstico más probable?"
+        },
+        {
+          "score": 0.225,
+          "id": "area-5",
+          "n": 12,
+          "q": "Mujer de 28 años con palpitaciones, pérdida de peso, temblores, exoftalmos. ¿Examen más útil para confirmar diagnóstico?"
+        },
+        {
+          "score": 0.208,
+          "id": "area-5",
+          "n": 8,
+          "q": "Mujer de 22 años con poliuria, polidipsia, pérdida de peso, delgada, deshidratada, hiperglucemia. ¿Diagnóstico, método y tratamiento?"
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "especialidad": "Digestivo",
+      "n": 94,
+      "pagina": 62,
+      "q": "¿cuál de las siguientes enfermedades hereditarias que cursan con hiperbilirrubinemia, tiene curso benigno, la bilirrubina rara vez excede los 5 mg/dl y este aumento se produce frente al ayuno prolongado?",
+      "o": [
+        "Sindrome de crigler-najjar tipo I",
+        "Sindrome de dubin johnson",
+        "Sindrome de rotor",
+        "Sindrome de gilbert",
+        "Síndrome de baungardnert"
+      ],
+      "key": "D",
+      "score": 0.179,
+      "comparacoes": [
+        {
+          "score": 0.179,
+          "id": "febrero-2023",
+          "n": 55,
+          "q": "¿Cuál de las siguientes enfermedades cutáneas está relacionada con la enfermedad celiaca?"
+        },
+        {
+          "score": 0.159,
+          "id": "febrero-2025",
+          "n": 151,
+          "q": "¿Cuál de los siguientes es el tratamiento de primera línea para la hiperbilirrubinemia neonatal severa?"
+        },
+        {
+          "score": 0.145,
+          "id": "pdf-lote2-6",
+          "n": 1,
+          "q": "paciente en tratamiento antibiótico por infección grave presenta enrojecimiento, prurito, hipotensión y broncoespasmo, síndrome de hombre rojo. ¿cuál de los siguientes antibióticos produce este síndrome?"
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "especialidad": "Digestivo",
+      "n": 95,
+      "pagina": 63,
+      "q": "Consulta un paciente de 60 años con antecedentes de apendicetomía en la infancia, resección parcial de colon izquierdo por diverticulosis colónica con anastomosis términoterminal, que refiere comenzar en forma brusca con dolor abdominal tipo cólico en fosa iliaca y flanco izquierdo, vómitos y falta de eliminación de gases hace 10 horas. En el examen físico se aprecia distensión abdominal, a la palpación el abdomen es blando con dolorimiento en flanco izquierdo, la auscultación revela ruidos hidroaéreos aumentada hasta flanco izquierdo y ausenta en fosa iliaca izquierda. Su diagnóstico presuntivo es:",
+      "o": [
+        "Íleo paralítico",
+        "Íleo mecánico",
+        "Íleo por saturnismo",
+        "Enterocolitis aguda",
+        "Dolor por somatización"
+      ],
+      "key": "B",
+      "score": 0.258,
+      "comparacoes": [
+        {
+          "score": 0.258,
+          "id": "julio-2024",
+          "n": 49,
+          "q": "Juan López, de 60 años, con antecedentes de diverticulosis colónica, presenta dolor abdominal localizado en el cuadrante inferior izquierdo desde hace 48 horas, fiebre de 39 °C y escalofríos. Al examen físico, abdomen do"
+        },
+        {
+          "score": 0.211,
+          "id": "diciembre-2022",
+          "n": 18,
+          "q": "Un paciente de 25 años consulta por un cuadro de fiebre con dolor abdominal a predominio de flanco y fosa iliaca derecha y diarrea sanguinolenta de 15 días de evolución. Refiere debilidad generalizada y artralgias en amb"
+        },
+        {
+          "score": 0.21,
+          "id": "area-1",
+          "n": 19,
+          "q": "Mujer de 60 años con cirugía abdominal previa consulta por vómitos fecaloides, dolor abdominal difuso y ausencia de evacuaciones desde hace 48 horas. Abdomen distendido, ruidos peristálticos metálicos. ¿Cuál es el manejo"
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "especialidad": "Digestivo",
+      "n": 96,
+      "pagina": 63,
+      "q": "Ante un cuadro de fiebre elevada en agujas, con escalofríos, ictericia intensa y dolor en hipocondrio derecho, en un paciente colecistectomizado 6 meses antes, ¿en cuál de las siguientes posibilidades pensarla en primer lugar?:",
+      "o": [
+        "Estenosis tumoral de la vía biliar.",
+        "Coledocolitiasis residual.",
+        "Lesión yatrógena de la vía biliar.",
+        "Colangitis esclerosante.",
+        "Odditis."
+      ],
+      "key": "B",
+      "score": 0.279,
+      "comparacoes": [
+        {
+          "score": 0.279,
+          "id": "area-4",
+          "n": 9,
+          "q": "Hombre de 65 años, HTA y DM-2, dolor en hipocondrio derecho, fiebre 38.5°C. Ictericia, Murphy positivo, leucocitosis, bilirrubina elevada, dilatación biliar. ¿Diagnóstico más probable?"
+        },
+        {
+          "score": 0.271,
+          "id": "abril-2022",
+          "n": 7,
+          "q": "Mujer de 67 años, obesa, que acude a urgencias por dolor abdominal en cuadrante superior derecho del abdomen. fiebre de 39,5 °C y orinas muy oscuras. Ante este cuadro se debería sospechar en primer lugar:"
+        },
+        {
+          "score": 0.241,
+          "id": "area-1",
+          "n": 27,
+          "q": "Paciente de 63 años con EPOC intervenido por colecistectomía laparoscópica. En el postoperatorio presenta ictericia, dolor en hipocondrio derecho y bilirrubina directa elevada. ¿Causa más probable?"
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "especialidad": "Digestivo",
+      "n": 97,
+      "pagina": 63,
+      "q": "Con relación a la prevención primaria y detección precoz de cáncer de colon en pacientes asintomático, señale la respuesta incorrecta:",
+      "o": [
+        "El uso regular de aspirina reduce el riesgo de padecer cáncer de colon.",
+        "La detección de un adenoma de colon obliga a la extirpación endoscópica.",
+        "No se ha demostrado que la dieta rica en fibra y los antioxidantes reduzcan el riesgo de padecer cáncer de colon.",
+        "Mas del 80% de pacientes asintomáticos con prueba positiva para sangre oculta en heces padecen cáncer de colon",
+        "Se aconseja una colonoscopia cada 3-5 años en pacientes mayores de 50 años, como método de detección precoz."
+      ],
+      "key": "D",
+      "score": 0.305,
+      "comparacoes": [
+        {
+          "score": 0.305,
+          "id": "area-7",
+          "n": 5,
+          "q": "¿Cuál es una medida de prevención primaria del cáncer de cuello uterino?"
+        },
+        {
+          "score": 0.198,
+          "id": "julio-2024",
+          "n": 55,
+          "q": "En un ensayo clínico aleatorizado, controlado y con diseño doble-ciego se han administrado dosis crecientes de 10 mg, 20 mg, 50 mg y 100 mg de un nuevo fármaco en un total de 60 pacientes (15 pacientes por cada grupo de "
+        },
+        {
+          "score": 0.198,
+          "id": "julio-2024",
+          "n": 59,
+          "q": "Con respecto a la Enfermedad de Crohn. Señale la opción incorrecta:"
+        }
+      ]
+    },
+    {
+      "b": 2,
+      "especialidad": "Digestivo",
+      "n": 98,
+      "pagina": 63,
+      "q": "El síndrome de asa ciega es un trastorno del intestino que se caracteriza por:",
+      "o": [
+        "Ser degenerativo y cronico, que lesiona el borde en cepillo del intestino.",
+        "Ser una comunicación anormal entre dos porciones internas del intestino delgado.",
+        "Crecimiento bacteriano excesivo debido a estasis intestinal.",
+        "Que siempre es secundario a la reparacion quirurgica del intestino grueso.",
+        "Caracterizarse por fistulizarse al exterior."
+      ],
+      "key": "A",
+      "score": 0.235,
+      "comparacoes": [
+        {
+          "score": 0.235,
+          "id": "diciembre-2022",
+          "n": 25,
+          "q": "¿Cuál de los siguientes son signos de alarma en un paciente con síndrome de intestino irritable (SII)?"
+        }
+      ]
+    },
+    {
+      "b": 3,
+      "especialidad": "Emergentología",
+      "n": 30,
+      "pagina": 120,
+      "q": "Ingresa a la guardia un hombre de 32 años de edad, conductor de moto sin casco, luego de haber presentado una colisión contra un auto. Se encuentra inconsciente y sus signos vitales son: tensión arterial de 80-60, frecuencia cardiaca de 120 latidos por minuto, frecuencia respiratoria de 34 por minuto. No tiene heridas abiertas ni fracturas evidentes. ¿cuál es la causa más probable de shock en este paciente?",
+      "o": [
+        "Hematoma epidural",
+        "Lesión medular",
+        "Hemorragia en tórax o abdomen",
+        "Dolor",
+        "Hemorragia externa"
+      ],
+      "key": "C",
+      "score": 0.214,
+      "comparacoes": [
+        {
+          "score": 0.214,
+          "id": "abril-2022",
+          "n": 99,
+          "q": "¿Cuál de las siguientes NO es causa probable de vértigo?"
+        },
+        {
+          "score": 0.194,
+          "id": "diciembre-2022",
+          "n": 80,
+          "q": "Llega a la guardia Andrés de 65 años consultando por dolor precordial opresivo de 4 horas de evolución que se irradia a la espalda, acompañado de mareos y sudoración. No hace referencia a ningún episodio similar a este, "
+        },
+        {
+          "score": 0.194,
+          "id": "febrero-2025",
+          "n": 24,
+          "q": "Llega a la guardia Andrés de 65 años consultando por dolor precordial opresivo de 4 horas de evolución que se irradia a la espalda, acompañado de mareos y sudoración. No hace referencia a ningún episodio similar a este, "
+        }
+      ]
+    },
+    {
+      "b": 3,
+      "especialidad": "Emergentología",
+      "n": 31,
+      "pagina": 120,
+      "q": "En un accidente con múltiples víctimas el socorrista lo que debe hacer inicialmente es:",
+      "o": [
+        "Rescatar mujeres embarazadas",
+        "Asistir pacientes con crisis de nervios",
+        "Asegurar el escenario del hecho e iniciar el triage",
+        "Realizar el tratamiento definitivo en el lugar del hecho de todas las víctimas",
+        "Llamar a los servicios de emergencias y aguardar sin acercarse a las víctimas hasta el arribo de la primera unidad de terapia móvil"
+      ],
+      "key": "C",
+      "score": 0.165,
+      "comparacoes": [
+        {
+          "score": 0.165,
+          "id": "diciembre-2024",
+          "n": 55,
+          "q": "Según la Ley Nacional Nº 27.447/18 de Trasplante de Órganos, Tejidos y Células, ante el supuesto de una muerte violenta, ¿qué se debe hacer antes proceder a la ablación de órganos y tejidos?"
+        },
+        {
+          "score": 0.139,
+          "id": "abril-2022",
+          "n": 19,
+          "q": "Al Servicio de Urgencias traen un paciente politraumatizado inconsciente por un accidente de tráfico. Su cara esta aplastada y su boca y nariz llenas de sangre. Presenta obvia deformidad y crepitación de dos extremidades"
+        }
+      ]
+    },
+    {
+      "b": 3,
+      "especialidad": "Emergentología",
+      "n": 32,
+      "pagina": 120,
+      "q": "La máscara equimótica, que es frecuente en la asfixia traumática, está causada por:",
+      "o": [
+        "Ruptura bronquial.",
+        "Contusión del pulmón.",
+        "Neumotórax a tensión.",
+        "Compresión aguda de la vena cava superior.",
+        "Enfisema mediastínico."
+      ],
+      "key": "D",
+      "score": 0,
+      "comparacoes": []
+    },
+    {
+      "b": 3,
+      "especialidad": "Emergentología",
+      "n": 33,
+      "pagina": 121,
+      "q": "Ingresa a la guardia un paciente de 26 años con herida de arma de fuego en cuarto espacio intercostal derecho sin orificio de salida. Esta en shock, y usted realiza una reanimación adecuada sin respuesta. ¿Cual es la conducta apropiada a seguir en este paciente?",
+      "o": [
+        "Avenamiento pleural bilateral y continuar reanimacion",
+        "Radiografia de torax",
+        "Toracotomia de urgencia",
+        "Pericardiocentesis diagnostica",
+        "Completar la revision primaria y secundaria mientras continua la reanimación."
+      ],
+      "key": "C",
+      "score": 0.225,
+      "comparacoes": [
+        {
+          "score": 0.225,
+          "id": "febrero-2024",
+          "n": 60,
+          "q": "Paciente de 25 años, sin antecedentes de importancia, ingresa a la guardia del hospital con una herida de arma blanca en el hemitórax derecho. Usted le realiza una radiografía de tórax y constata que tiene un hemoneumotó"
+        },
+        {
+          "score": 0.194,
+          "id": "area-5",
+          "n": 2,
+          "q": "Paciente asintomático con glucemia en ayunas de 118 mg/dl. ¿Conducta a seguir?"
+        },
+        {
+          "score": 0.181,
+          "id": "febrero-2023",
+          "n": 85,
+          "q": "Paciente varón de 67 años ingresa por guardia. Presenta un cuadro de tos etalidad. húmeda no productiva, fiebre de 48hs y disnea clase funcional IV. En el examen físico se encuentra parcialmente orientado en tiempo y esp"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 150,
+      "pagina": 166,
+      "q": "El síndrome del ovario poliquístico (s.o.p.) Se caracteriza hormonalmente por:",
+      "o": [
+        "Aumento de lh con niveles de fsh bajos o subnormales.",
+        "Aumento del cociente fsh/lh.",
+        "Aumento de fsh y lh.",
+        "Lh y fsh normales.",
+        "Aumento de fsh con niveles normales o bajos de lh."
+      ],
+      "key": "A",
+      "score": 0.427,
+      "comparacoes": [
+        {
+          "score": 0.427,
+          "id": "abril-2022",
+          "n": 70,
+          "q": "¿Cuál de los siguientes hallazgos están presentes en el síndrome de ovario poliquistico?"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 151,
+      "pagina": 166,
+      "q": "¿qué fármaco, entre los enumerados, se considera idóneo en el tratamiento de la infección vulvovaginal producida por cándida albicans?:",
+      "o": [
+        "Imipenem.",
+        "Clotrimazol.",
+        "Metronidazol.",
+        "Ampicilina.",
+        "Fenamatos."
+      ],
+      "key": "B",
+      "score": 0.21,
+      "comparacoes": [
+        {
+          "score": 0.21,
+          "id": "diciembre-2022",
+          "n": 73,
+          "q": "Una vez producida la infección herpética, el virus se acantona en:"
+        },
+        {
+          "score": 0.187,
+          "id": "diciembre-2022",
+          "n": 26,
+          "q": "El fármaco de elección para el tratamiento empírico de la dispepsia tipo dismotilidad es:"
+        },
+        {
+          "score": 0.154,
+          "id": "area-9",
+          "n": 11,
+          "q": "Paciente en tratamiento por TBC con dificultad para distinguir colores rojo y verde. ¿Fármaco responsable?"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 153,
+      "pagina": 166,
+      "q": "¿qué examen debe indicarse siempre en el abdomen agudo pelviano en mujeres en edad fértil?",
+      "o": [
+        "Fosfatasa alcalina",
+        "Subunidad beta de gonadotrofina coriónica",
+        "Tgp y tgo",
+        "Cea",
+        "Amilasemia"
+      ],
+      "key": "B",
+      "score": 0.469,
+      "comparacoes": [
+        {
+          "score": 0.469,
+          "id": "area-1",
+          "n": 5,
+          "q": "¿Cuál es la causa más frecuente de abdomen agudo quirúrgico en mujeres en edad fértil?"
+        },
+        {
+          "score": 0.17,
+          "id": "abril-2022",
+          "n": 90,
+          "q": "Paciente mujer de 30 años consulta por dolor abdominal de iniciación brusca, en hemiabdomen inferior, fiebre y dos episodios de vómitos alimentarios. Es la primera vez que presenta este cuadro. ¿Qué hallazgo del examen f"
+        },
+        {
+          "score": 0.17,
+          "id": "febrero-2023",
+          "n": 49,
+          "q": "Paciente mujer de 30 años consulta por dolor abdominal de inicio brusco en hemiabdomen inferior, fiebre y dos episodios de vómitos alimentarios. Es la primera vez que presenta este cuadro. ¿Qué hallazgo del examen físico"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 154,
+      "pagina": 167,
+      "q": "Gestante de 26 semanas de amenorrea que presenta desde hace 5 días malestar general, astenia, náuseas, cefalea, edemas y ligero dolor en hipocondrio derecho. En la analítica practicada presenta: hb 8 g/dl, bilirrubina 1.4 mg/dl, ldh 670 ui/l, ast182 ui/l, plaquetas 80000/mm3. Lo más probable es que se trate de un embarazo complicado por:",
+      "o": [
+        "Embolismo de líquido amniótico",
+        "Muerte fetal con paso de sustancias tromboplasticas a la circulación materna",
+        "Desprendimiento prematuro de placenta superior al 50%",
+        "Isoinmunizacion eritrocitaria con transfusión feto-materna",
+        "Preeclampsia severa"
+      ],
+      "key": "E",
+      "score": 0.255,
+      "comparacoes": [
+        {
+          "score": 0.255,
+          "id": "area-4",
+          "n": 18,
+          "q": "Paciente con antecedente de colecistectomía hace 3 semanas, fiebre, ictericia y dolor en hipocondrio derecho. TAC: dilatación de la vía biliar. ¿Diagnóstico más probable?"
+        },
+        {
+          "score": 0.221,
+          "id": "area-1",
+          "n": 27,
+          "q": "Paciente de 63 años con EPOC intervenido por colecistectomía laparoscópica. En el postoperatorio presenta ictericia, dolor en hipocondrio derecho y bilirrubina directa elevada. ¿Causa más probable?"
+        },
+        {
+          "score": 0.21,
+          "id": "area-4",
+          "n": 9,
+          "q": "Hombre de 65 años, HTA y DM-2, dolor en hipocondrio derecho, fiebre 38.5°C. Ictericia, Murphy positivo, leucocitosis, bilirrubina elevada, dilatación biliar. ¿Diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 155,
+      "pagina": 167,
+      "q": "¿En cuál de las siguientes situaciones obstétricas está indicado el parto mediante cesárea?:",
+      "o": [
+        "Presentación de vértice",
+        "Presentación de occipucio",
+        "Presentación de frente",
+        "Presentación de cara",
+        "Circulares de cordón (asas de cordón umbilical alrededor del cuello fetal)"
+      ],
+      "key": "C",
+      "score": 0.15,
+      "comparacoes": [
+        {
+          "score": 0.15,
+          "id": "julio-2024",
+          "n": 83,
+          "q": "Varón de 50 años pendiente de cirugía de hernia inguinal. En el preoperatorio, la gasometría basal muestra los siguientes resultados: pH 7.37, PO2 41 mmHg, PCO2 46 mmHg, saturación de O2 74%. La radiografía de tórax es n"
+        },
+        {
+          "score": 0.131,
+          "id": "diciembre-2025",
+          "n": 21,
+          "q": "Mujer de 67 años, posmenopáusica desde los 50, acude para control. No tiene antecedentes de enfermedades previas, niega alcohol y TBQ. IMC 22. Laboratorio calcio, vitamina d y función renal normal. Densitometría ósea: co"
+        },
+        {
+          "score": 0.128,
+          "id": "febrero-2025",
+          "n": 23,
+          "q": "Paciente masculino de 40 años que consulta por lesiones cutáneas de larga data desde la infancia. Refiere que las mismas han cambiado de localización y que ahora afectan cualquier parte de la superficie cutánea, en espec"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 156,
+      "pagina": 167,
+      "q": "Se hospitaliza a una gestante de 35 semanas por presentar presión arterial de 165/ 100 mmhg. En repetidas tomas, edemas progresivos y proteinuria significativa. Se instaura tratamiento con hidralacina y sulfato de magnesio. Seis horas después, la paciente refiere cefalea intensa, epigastrálgia y fotofobia. Se objetiva oliguria, presión arterial de 180/120 mmhg., aumento de los edemas, feto en presentación cefálica con cérvix formado y cerrado. La monitorización fetal no estresante presenta una línea de base de 140 latidos / minuto, ritmo silente, ausencia de aceleraciones de la frecuencia cardíaca fetal y desaceleraciones tardías con cada contracción. ¿cuál es la conducta correcta?",
+      "o": [
+        "Realizar un perfil biofísico fetal.",
+        "Aumentar las dosis de antihipertensivos y anticonvulsivante hasta controlar el cuadro y realizar una inducción del parto.",
+        "Determinar la madurez pulmonar fetal mediante estudio del líquido amniótico.",
+        "Finalizar la gestación mediante cesárea.",
+        "Aplicar tratamiento con nitritos y diacepam, manteniendo una con-ducta expectante si cede la hipertensión."
+      ],
+      "key": "D",
+      "score": 0.257,
+      "comparacoes": [
+        {
+          "score": 0.257,
+          "id": "area-2",
+          "n": 6,
+          "q": "Tratamiento del paciente con insuficiencia cardíaca:"
+        },
+        {
+          "score": 0.245,
+          "id": "pdf-lote2-4",
+          "n": 4,
+          "q": "Cuál es el valor normal de la frecuencia cardiaca fetal? *"
+        },
+        {
+          "score": 0.241,
+          "id": "area-7",
+          "n": 31,
+          "q": "Gestante de 36 semanas con cefalea intensa, fosfenos, epigastralgia. TA 160/110, proteinuria 3+, transaminasas elevadas, plaquetas bajas. ¿Diagnóstico?"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 157,
+      "pagina": 167,
+      "q": "Paciente de 58 años que ha sido diagnosticada de adenocarcinoma de endometrio. En el informe anatomopatológico se refiere una invasión mayor del 50% del miometrio y afectación del estroma endocervical por el tumor. El grado de diferenciación es moderado. ¿cual es el estadio del tumor?",
+      "o": [
+        "Ib g2",
+        "Ic g2",
+        "Il g2",
+        "Iib g2",
+        "Iii g2"
+      ],
+      "key": "D",
+      "score": 0.122,
+      "comparacoes": [
+        {
+          "score": 0.122,
+          "id": "area-4",
+          "n": 19,
+          "q": "Paciente de 60 años con adenocarcinoma de colon estadio IV. Febrícula, diarrea crónica. Test de Toxina A/B positivo. ¿Diagnóstico?"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 158,
+      "pagina": 168,
+      "q": "Una paciente de 35 años ha sido sometida a mastectomía por cáncer de mama. En la pieza quirúrgica se encuentra un carcinomaductal infiltrante de 2 cm y existe invasión de 3 de los ganglios axilares aislados. Los receptores de estrógenos y progestágenos son negativos. ¿ cual es la conducta a seguir mas apropiada tras la mastectomía?",
+      "o": [
+        "Observación y controles periodicos",
+        "Radioterapia sobre lecho mamario",
+        "Quimioterapia adyuvante",
+        "Hormonoterapia adyuvante",
+        "Castración quirúrgica"
+      ],
+      "key": "C",
+      "score": 0.192,
+      "comparacoes": [
+        {
+          "score": 0.192,
+          "id": "area-5",
+          "n": 2,
+          "q": "Paciente asintomático con glucemia en ayunas de 118 mg/dl. ¿Conducta a seguir?"
+        }
+      ]
+    },
+    {
+      "b": 4,
+      "especialidad": "Ginecología y Obstetricia",
+      "n": 159,
+      "pagina": 168,
+      "q": "Una paciente primigesta sin antecedentes de interés y con controles analíticos previos normales, presenta glucemias basales de 148 y 152 mg/dl en dos determinaciones realizadas en la 22 semana de gestación. ¿cuál es la actitud más correcta en este caso?:",
+      "o": [
+        "Realizar una prueba de tolerancia a la glucosa con sobrecarga oral de 100 g.",
+        "Realizar una prueba con sobrecarga oral de glucosa de 75 g y, en caso de normalidad, repetirla con 100 g.",
+        "Realizar una prueba de o'sullivan entre la 24 y la 28 semanas de gestación.",
+        "Repetir la glucemia basal entre la 24 y 28 semanas de gestación.",
+        "Instaurar tratamiento dietético y controlar el perfil glucémico."
+      ],
+      "key": "E",
+      "score": 0.324,
+      "comparacoes": [
+        {
+          "score": 0.324,
+          "id": "area-7",
+          "n": 12,
+          "q": "Paula de 25 años, 16 semanas, TA 140/90 en dos controles. Sin antecedentes. ¿Diagnóstico?"
+        },
+        {
+          "score": 0.183,
+          "id": "diciembre-2022",
+          "n": 84,
+          "q": "que practicas preventivas corresponden a una paciente mujer de 70 años no fumadora sin antecedentes de importancia con controles de salud al día."
+        },
+        {
+          "score": 0.146,
+          "id": "abril-2022",
+          "n": 13,
+          "q": "Varón de 58 años, obeso, asintomático, bebedor moderado. Que presenta una primera glucemia basal de 153 mg/d con glucosuria negativa. En las semanas siguientes ha tenido otras dos cifras de glucemias basales de 118 y 136"
+        }
+      ]
+    },
+    {
+      "b": 5,
+      "especialidad": "Hematología",
+      "n": 39,
+      "pagina": 235,
+      "q": "¿Un paciente consulta a su clínico por anemia, éste lo estudia y le informa que padece una anemia por déficit de hierro qué hallazgos permitieron ese diagnóstico?",
+      "o": [
+        "Microcitosis y descenso de la transferrina y de la ferritina",
+        "Microcitosis, aumento de la transferrina y descenso de la ferritina",
+        "Normocitosis, ferremia baja y aumento de la saturación de la transferrina",
+        "Microcitosis, ferremia baja y ferritina alta",
+        "Normocitosis, ferremia normal"
+      ],
+      "key": "B",
+      "score": 0.284,
+      "comparacoes": [
+        {
+          "score": 0.284,
+          "id": "diciembre-2025",
+          "n": 86,
+          "q": "En el diagnóstico de anemia ferropénica, ¿cuál de los siguientes parámetros es más sensible y específico para confirmar déficit de hierro?"
+        },
+        {
+          "score": 0.268,
+          "id": "area-12",
+          "n": 2,
+          "q": "Mujer de 25 años con LES, anemia hemolítica. ¿Hallazgos de laboratorio?"
+        },
+        {
+          "score": 0.176,
+          "id": "abril-2022",
+          "n": 29,
+          "q": "¿Cuál de los siguientes hallazgos en una densitometría ósea constituye un diagnóstico de osteoporosis?"
+        }
+      ]
+    },
+    {
+      "b": 5,
+      "especialidad": "Hematología",
+      "n": 40,
+      "pagina": 235,
+      "q": "Las lesiones cutáneas purpúricas se diferencian del eritema por qué:",
+      "o": [
+        "Desaparecen a la vitropresión",
+        "No desaparecen a la vitropresión",
+        "Algunas veces desaparecen y otras veces no a la vitropresión",
+        "Aparecen a la vitropresión",
+        "Aparecen nuevas lesiones a la vitropresión"
+      ],
+      "key": "B",
+      "score": 0.241,
+      "comparacoes": [
+        {
+          "score": 0.241,
+          "id": "pdf-lote2-9",
+          "n": 6,
+          "q": "niño de 4 años de edad que consulta por aparición a lo largo de los últimos tres días de lesiones cutáneas en las piernas y glúteos. sus padres refieran que su pediatra le había diagnosticado una infección de vía respira"
+        },
+        {
+          "score": 0.19,
+          "id": "febrero-2023",
+          "n": 74,
+          "q": "Usted evalúa en internación a un paciente de 2 días de vida, se trata de un RN de termino, con retraso del crecimiento intrauterino y producto de un embarazo no controlado. El examen físico presenta microcefalia, icteric"
+        },
+        {
+          "score": 0.179,
+          "id": "febrero-2025",
+          "n": 73,
+          "q": "Una mujer de 42 años presenta múltiples lesiones purpúricas distribuidas en la mucosa oral y tronco. Tres semanas antes presentó un episodio de infección respiratoria para la cual recibió tratamiento con éxito parcial. T"
+        }
+      ]
+    },
+    {
+      "b": 5,
+      "especialidad": "Hematología",
+      "n": 41,
+      "pagina": 235,
+      "q": "Mujer joven presenta hipertensión arterial en brazo izquierdo, tensión baja en el derecho y soplo en carótida derecha, su diagnóstico seria:",
+      "o": [
+        "Poliarteritis nodosa",
+        "Enfermedad de takayasu",
+        "Síndrome de Kawasaki",
+        "Coartación de aorta",
+        "Enfermedad de buerger"
+      ],
+      "key": "B",
+      "score": 0.326,
+      "comparacoes": [
+        {
+          "score": 0.326,
+          "id": "febrero-2024",
+          "n": 96,
+          "q": "¿Cuál es la prevalencia de Hipertensión Arterial en Argentina?"
+        },
+        {
+          "score": 0.227,
+          "id": "pdf-lote2-7",
+          "n": 1,
+          "q": "Un varón de 52 años es traído a la guardia por su esposa porque lo encontró en estado de estupor en la casa. Refiere que hace 30 minutos estaba bien y que comenzó a dolerle la cabeza y que tenía debilidad en la mitad der"
+        },
+        {
+          "score": 0.226,
+          "id": "diciembre-2024",
+          "n": 47,
+          "q": "Un hombre de 60 años con antecedentes de hipertensión y dislipidemia presenta un episodio de pérdida de fuerza en el brazo y pierna derecha que resolvió en una hora ¿Cuál es el diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "b": 5,
+      "especialidad": "Hematología",
+      "n": 42,
+      "pagina": 235,
+      "q": "Ante un cuadro clínico de edema global del miembro inferior desde la raíz del muslo, en una paciente que cursa un postoperatorio traumatológico en cama, ¿qué prueba, de las siguientes, solicitaría en primer lugar?:",
+      "o": [
+        "Angioresonancia.",
+        "Flebografía ascendente y/o cavografía retrógrada.",
+        "Eco-doppler venoso.",
+        "Eco doppler arterial",
+        "Pletismografía venosa por aire o anillos de mercurio."
+      ],
+      "key": "C",
+      "score": 0.176,
+      "comparacoes": [
+        {
+          "score": 0.176,
+          "id": "abril-2022",
+          "n": 96,
+          "q": "¿Cuál de los siguientes tratamientos es más efectivo ante una crisis hemorroidal?"
+        },
+        {
+          "score": 0.176,
+          "id": "julio-2024",
+          "n": 24,
+          "q": "¿Cuándo solicitaría una prueba de tuberculina (reacción de Mantoux)?"
+        },
+        {
+          "score": 0.157,
+          "id": "febrero-2023",
+          "n": 10,
+          "q": "Ante un paciente con escabiosis, ¿Cuál de las siguientes recomendaciones es la más efectiva para evitar la recidiva?"
+        }
+      ]
+    },
+    {
+      "b": 5,
+      "especialidad": "Hematología",
+      "n": 43,
+      "pagina": 236,
+      "q": "¿cuál es la complicación más frecuente en los aneurismas arterioscleróticos de aorta abdominal mayores de 6 cm de diámetro?:",
+      "o": [
+        "La oclusión de arterias mesentéricas.",
+        "La embolización distal.",
+        "La compresión ureteral con hidronefrosis secundaria.",
+        "La fístula aorto-cava.",
+        "La ruptura."
+      ],
+      "key": "E",
+      "score": 0.258,
+      "comparacoes": [
+        {
+          "score": 0.258,
+          "id": "abril-2022",
+          "n": 14,
+          "q": "¿Cuál de las siguientes es la complicación metabólica más frecuente en el cancer?:"
+        },
+        {
+          "score": 0.2,
+          "id": "pdf-lote2-9",
+          "n": 5,
+          "q": "cuál es la complicación evolutiva más frecuente en la meningitis bacteriana en la edad pediátrica?"
+        },
+        {
+          "score": 0.184,
+          "id": "diciembre-2024",
+          "n": 10,
+          "q": "Alberto de 65 años, se realiza una ecografía abdominal por haber presentado un cólico biliar. El resultado muestra vesícula de paredes delgadas, sin cas en su interior. Ambos riñones de forma y estructura conservada. Se "
+        }
+      ]
+    },
+    {
+      "b": 6,
+      "especialidad": "Infectología",
+      "n": 112,
+      "pagina": 274,
+      "q": "Paciente de 42 años, sin antecedentes de interés, que acude al servicio de urgencias por presentar un cuadro de disfagia y dolor faríngeo de 8 días de evolución, con fiebre elevada y afectación del estado general. En la exploración se objetivan unas amígdalas hiperémicas, adenopatías subángulo mandibulares bilaterales e induración y dolor por debajo y a lo largo del músculo esternocleidomastoideo, palpándose un cordón fibroso. La analítica muestra una leucocitosis con marcada desviación izquierda. Indique cuál es el diagnóstico más probable dentro de los enunciados:",
+      "o": [
+        "Flemón periamigdalino.",
+        "Mononucleosis infecciosa.",
+        "Angina de vincent.",
+        "Angina de ludwig.",
+        "Sepsis postanginosa."
+      ],
+      "key": "E",
+      "score": 0.295,
+      "comparacoes": [
+        {
+          "score": 0.295,
+          "id": "julio-2024",
+          "n": 8,
+          "q": "Un paciente de 30 años sin antecedentes consulta por presentar ictericia y astenia de 5 días de evolución. En la exploración se evidencia hepatomegalia. ¿Cuál será el diagnóstico?"
+        },
+        {
+          "score": 0.261,
+          "id": "diciembre-2022",
+          "n": 22,
+          "q": "Un hombre de 35 años acude a urgencias con dolor perianal intenso y fiebre de 38 ºC de dos días de evolución. En la exploración presenta una masa dolorosa en fosa isquiorectal izquierda. ¿Cuál es la actitud más adecuada?"
+        },
+        {
+          "score": 0.261,
+          "id": "febrero-2024",
+          "n": 5,
+          "q": "Un hombre de 35 años acude a urgencias con dolor perianal intenso y fiebre de 38°C de dos días de evolución. En la exploración presenta una masa dolorosa en fosa isquiorectal izquierda. ¿Cuál es la actitud más adecuada?"
+        }
+      ]
+    },
+    {
+      "b": 6,
+      "especialidad": "Infectología",
+      "n": 113,
+      "pagina": 274,
+      "q": "Señale cuál de los siguientes microorganismos produce típicamente infecciones nosocomiales (intrahospitalaria):",
+      "o": [
+        "Neumococo resistente a penicilina.",
+        "Escherichia coli resistente a ciprofloxacino.",
+        "Staphylococcus aureus resistente a meticilina.",
+        "Estreptococo del grupo a productor de endotoxina.",
+        "Estreptococo beta-hemolítico."
+      ],
+      "key": "C",
+      "score": 0.2,
+      "comparacoes": [
+        {
+          "score": 0.2,
+          "id": "pdf-lote2-9",
+          "n": 3,
+          "q": "Señale cuál de las siguientes es la causa más frecuente de trasplante hepático en la infancia:"
+        },
+        {
+          "score": 0.156,
+          "id": "abril-2022",
+          "n": 16,
+          "q": "Un paciente presenta arritmia intensa que cesa en forma brusca al aplicar maniobras vagales. Señale cuál de las siguientes es la más probable de las arritmias que presentaba ese paciente:"
+        },
+        {
+          "score": 0.152,
+          "id": "pdf-lote2-6",
+          "n": 1,
+          "q": "paciente en tratamiento antibiótico por infección grave presenta enrojecimiento, prurito, hipotensión y broncoespasmo, síndrome de hombre rojo. ¿cuál de los siguientes antibióticos produce este síndrome?"
+        }
+      ]
+    },
+    {
+      "b": 6,
+      "especialidad": "Infectología",
+      "n": 114,
+      "pagina": 274,
+      "q": "¿cuál de los siguientes enunciados acerca de la asociación trimetoprimasulfometoxazol es falso:",
+      "o": [
+        "Es efectiva para el tratamiento de infecciones provocadas por el pneumocistis carinii",
+        "Administrada en pacientes afectados de sida provoca frecuentemente fiebre y pancitopenia",
+        "Es una asociación útil para el tratamiento de la faringitis estreptocócica",
+        "Se utiliza para el tratamiento de la nocardiosis",
+        "Es efectiva en el manejo de las exacerbaciones agudas de bronquitis crónica"
+      ],
+      "key": "C",
+      "score": 0.203,
+      "comparacoes": [
+        {
+          "score": 0.203,
+          "id": "diciembre-2022",
+          "n": 29,
+          "q": "Una prueba diagnóstica tiene una sensibilidad del 90 % para la detección de una colagenopatía. ¿Cuál de los siguientes enunciados es correcto en referencia a este estudio?"
+        },
+        {
+          "score": 0.153,
+          "id": "diciembre-2022",
+          "n": 10,
+          "q": "Los padres traen a la consulta a su hijo para el control de salud. La madre lo coloca con suavidad sobre la camilla y el lactante ríe a carcajadas, silabea, se sienta y lo mira fijamente. Cuando usted se acerca al niño, "
+        },
+        {
+          "score": 0.153,
+          "id": "febrero-2024",
+          "n": 4,
+          "q": "Los padres traen a la consulta a su hijo para el control en salud. La madre lo coloca con suavidad sobre la camilla y el lactante ríe a carcajadas, silabea, se sienta y lo mira fijamente. Cuando usted se acerca al niño, "
+        }
+      ]
+    },
+    {
+      "b": 6,
+      "especialidad": "Infectología",
+      "n": 115,
+      "pagina": 274,
+      "q": "Un joven de baja condición socioeconómica consulta por diarrea ¿cuál de los siguientes parásitos puede ser el causante?:",
+      "o": [
+        "Giardia lamblia.",
+        "Ascaris lumbricoides.",
+        "Oxiuros.",
+        "Taenia saginata.",
+        "Toxocara canis."
+      ],
+      "key": "A",
+      "score": 0.289,
+      "comparacoes": [
+        {
+          "score": 0.289,
+          "id": "julio-2024",
+          "n": 93,
+          "q": "¿Cuál de las siguientes vacunas puede ser indicada con seguridad en el paciente inmunocomprometido?"
+        },
+        {
+          "score": 0.261,
+          "id": "febrero-2023",
+          "n": 53,
+          "q": "¿Cuál de las siguientes puede ser una manifestación clínica de la intoxicación aguda por cocaína?"
+        },
+        {
+          "score": 0.239,
+          "id": "abril-2022",
+          "n": 74,
+          "q": "¿Cuál de los siguientes marcadores tumorales puede ser útil para el seguimiento del cancer de páncreas?:"
+        }
+      ]
+    },
+    {
+      "b": 6,
+      "especialidad": "Infectología",
+      "n": 116,
+      "pagina": 275,
+      "q": "La mayoría de las neumonías producidas por gérmenes gram negativos son:",
+      "o": [
+        "Comunitarias.",
+        "Producidas tras accidentes de tráfico.",
+        "Habituales de ambientes ganaderos.",
+        "Típicas de pacientes usuarios de drogas intravenosas.",
+        "Adquiridas en el hospital."
+      ],
+      "key": "E",
+      "score": 0,
+      "comparacoes": []
+    },
+    {
+      "b": 6,
+      "especialidad": "Infectología",
+      "n": 117,
+      "pagina": 275,
+      "q": "¿cuál de estas patologías merece la indicación de vacuna antigripal?",
+      "o": [
+        "Insuficiencia renal crónica",
+        "Cardiopatía congénita",
+        "Glomerulonefritis posestreptococcica",
+        "Anemia ferropenica",
+        "Todas ellas tienen indicación"
+      ],
+      "key": "B",
+      "score": 0.203,
+      "comparacoes": [
+        {
+          "score": 0.203,
+          "id": "febrero-2024",
+          "n": 98,
+          "q": "Consulta una madre en el consultorio porque desea aplicarle la vacuna antigripal a un niño de 4 meses. Seleccione la correcta:"
+        },
+        {
+          "score": 0.159,
+          "id": "abril-2022",
+          "n": 48,
+          "q": "Un niño de 12 meses concurre al vacunatorio en el mes de mayo. Tiene las siguientes vacunas completas: hepatitis B al nacer, BCG, antipoliomielítica, pentavalente a los 2, 4 y 6 meses, vacuna antineumocócica conjugada 13"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 45,
+      "pagina": 331,
+      "q": "Lo consulta un paciente de 80 años que refiere vértigo desde hace 15 días. En el examen físico usted le encuentra: que el enfermo oscila para no perder el equilibrio por lo que aumento de la base de sustentación cuando está de pie, que no se exagera al cerrar los ojos. Además, presenta temblor quinético, hipotonía del hemicuerpo izquierdo. Al hacerlo caminar se aprecia que es imposible que mantenga la línea recta y lo hace en zig-zag. Presenta dismetría de la maniobra ínice nariz y talón rodilla izquierda. Usted piensa que esta ante un paciente que presenta el siguiente síndrome:",
+      "o": [
+        "Piramidal",
+        "Meníngeo",
+        "Cerebeloso",
+        "Vertiginoso periférico",
+        "Parkinsoniano"
+      ],
+      "key": "C",
+      "score": 0.217,
+      "comparacoes": [
+        {
+          "score": 0.217,
+          "id": "diciembre-2022",
+          "n": 69,
+          "q": "¿Cuál de los siguientes NO forma parte del examen físico en la evaluación del paciente con vértigo?"
+        },
+        {
+          "score": 0.144,
+          "id": "diciembre-2022",
+          "n": 52,
+          "q": "Lo consulta un varón de 42 años por hematuria con coágulos, edemas en MMII y le constata al examen físico TA 150/95 mmHg. Usted piensa en:"
+        },
+        {
+          "score": 0.134,
+          "id": "febrero-2025",
+          "n": 87,
+          "q": "Un hombre de 65 años refiere claudicación intermitente en la pierna izquierda al caminar distancias cortas. ¿Qué hallazgo físico esperaría encontrar?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 46,
+      "pagina": 332,
+      "q": "La lesión de la neurona motriz cerebral produce parálisis córtico-espinal, que se caracteriza por:",
+      "o": [
+        "Abarcar muchos músculos",
+        "Puede haber hipertonía de los músculos paralizados",
+        "Hay signo de babisnski en el miembro afectado",
+        "Desviación de la mirada hacia el lado contrario a la lesión",
+        "Todas son correctas"
+      ],
+      "key": "E",
+      "score": 0.248,
+      "comparacoes": [
+        {
+          "score": 0.248,
+          "id": "pdf-novas-6",
+          "n": 13,
+          "q": "¿Cuál es la lesión elemental que mejor caracteriza a la erisipela?"
+        },
+        {
+          "score": 0.193,
+          "id": "febrero-2025",
+          "n": 134,
+          "q": "¿Cuál de los siguientes es el objetivo principal del tratamiento de la parálisis cerebral en niños?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 47,
+      "pagina": 332,
+      "q": "Una mujer de 60 años diagnosticada de fibrilación auricular, acude al servicio de urgencias por cefalea y dificultad para leer de inicio brusco. La exploración neurológica demuestra la existencia de hemianopsia homónima derecha. La paciente es capaz de escribir correctamente una frase que se le dicta, pero no puede leer lo que ha escrito. No tiene otros hallazgos en la exploración. ¿en qué arteria se localiza la obstrucción?",
+      "o": [
+        "Arteria cerebral posterior izquierda",
+        "Arteria cerebral media izquierda",
+        "Arteria coroidea anterior derecha",
+        "Arteria cerebral media derecha",
+        "Arteria cerebral posterior derecha"
+      ],
+      "key": "A",
+      "score": 0,
+      "comparacoes": []
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 48,
+      "pagina": 332,
+      "q": "Es traído a la guardia un paciente de 41 años de edad, luego de recibir un golpe en la cabeza con un objeto contundente. Usted le realiza la evaluación neurológica y observa las siguientes respuestas: motora: flexión; verbal: ninguna; ocular: apertura ocular al dolor. ¿cuál es el puntaje que le corresponde en la escala de coma de glasgow a este paciente?",
+      "o": [
+        "3/15",
+        "4/15",
+        "5/15",
+        "6/15",
+        "7/15"
+      ],
+      "key": "D",
+      "score": 0.246,
+      "comparacoes": [
+        {
+          "score": 0.246,
+          "id": "febrero-2023",
+          "n": 16,
+          "q": "Paciente masculino de 28 años es traído a la guardia tras un choque automotor. Al arribo presenta apertura ocular al dolor, emite sonidos incomprensibles y localiza el dolor. Se encuentra hemodinámicamente estable, con r"
+        },
+        {
+          "score": 0.213,
+          "id": "febrero-2025",
+          "n": 143,
+          "q": "¿Cuál de las siguientes es una causa común de dolor de cabeza en niños y adolescentes?"
+        },
+        {
+          "score": 0.159,
+          "id": "diciembre-2022",
+          "n": 69,
+          "q": "¿Cuál de los siguientes NO forma parte del examen físico en la evaluación del paciente con vértigo?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 49,
+      "pagina": 332,
+      "q": "Usted recibe un paciente con dolor y síntomas a nivel medular bajo, que tiene antecedentes de carcinoma de próstata no controlado. ¿cuál es la conducta correcta?",
+      "o": [
+        "Con examen neurológico normal y rx de columna anormal rmn dentro de 24hs.",
+        "Con examen neurológico normal y rx de columna normal: tc inmediata",
+        "Con examen neurológico anormal y rx anormal: rmn dentro de las 24hs",
+        "Con examen neurológico anormal: corticoides, rmn y considerar terapia definitiva",
+        "Con examen neurológico anormal: corticoides y observar 24 a 48 hs."
+      ],
+      "key": "D",
+      "score": 0.227,
+      "comparacoes": [
+        {
+          "score": 0.227,
+          "id": "area-4",
+          "n": 15,
+          "q": "Varón de 45 años alcohólico con dolor abdominal. ¿Conducta?"
+        },
+        {
+          "score": 0.227,
+          "id": "area-12",
+          "n": 9,
+          "q": "Mujer de 48 años con dolor y rigidez matinal en articulaciones. ¿Conducta?"
+        },
+        {
+          "score": 0.227,
+          "id": "julio-2024",
+          "n": 96,
+          "q": "¿Cuál es el marcador tumoral más específico para el carcinoma de próstata?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 50,
+      "pagina": 332,
+      "q": "Paciente de 45 años con antecedentes familiares de enfermedad renal poliquística. Acude a urgencias por cefalea, diplopía y ptosis del ojo derecho. ¿cuál es el diagnóstico a descartar en primer lugar de los siguientes?:",
+      "o": [
+        "Migraña oftalmopléjica.",
+        "Arteritis de la arteria temporal.",
+        "Cefalea en racimos.",
+        "Aneurisma de la arteria comunicante posterior.",
+        "Tumor a nivel de la glándula pineal."
+      ],
+      "key": "D",
+      "score": 0.272,
+      "comparacoes": [
+        {
+          "score": 0.272,
+          "id": "febrero-2025",
+          "n": 156,
+          "q": "¿Cuál de los siguientes estudios confirmaría el diagnóstico de carcinoma renal?"
+        },
+        {
+          "score": 0.205,
+          "id": "abril-2022",
+          "n": 7,
+          "q": "Mujer de 67 años, obesa, que acude a urgencias por dolor abdominal en cuadrante superior derecho del abdomen. fiebre de 39,5 °C y orinas muy oscuras. Ante este cuadro se debería sospechar en primer lugar:"
+        },
+        {
+          "score": 0.179,
+          "id": "febrero-2023",
+          "n": 55,
+          "q": "¿Cuál de las siguientes enfermedades cutáneas está relacionada con la enfermedad celiaca?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 51,
+      "pagina": 333,
+      "q": "Un joven de 27 años llega a urgencias con protrusión de lengua y espasmo de torsión de cuello. Un familiar que le acompaña sólo sabe decir que recientemente tuvo un breve ingreso psiquiátrico y le han puesto un tratamiento inyectable. En esta situación el diagnóstico más probable es:",
+      "o": [
+        "Tetania.",
+        "Distonía aguda inducida por neurolépticos.",
+        "Trastorno por ansiedad aguda.",
+        "Corea de Huntington.",
+        "Trastorno por simulación."
+      ],
+      "key": "B",
+      "score": 0.182,
+      "comparacoes": [
+        {
+          "score": 0.182,
+          "id": "julio-2024",
+          "n": 68,
+          "q": "Una persona llega a urgencias con síntomas de envenenamiento por cianuro. ¿Cuál es el antídoto recomendado en esta situación?"
+        },
+        {
+          "score": 0.163,
+          "id": "pdf-novas-4",
+          "n": 10,
+          "q": "Qué maniobra semiológica se utiliza para el diagnóstico de situación fetal?"
+        },
+        {
+          "score": 0.163,
+          "id": "area-8",
+          "n": 31,
+          "q": "Joaquín de 2 años con palidez. Hb 8.5, Hto 25%, VCM 65. ¿Diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 52,
+      "pagina": 333,
+      "q": "Ante un paciente que bruscamente ha comenzado con un conjunto de síntomas constituido por: sensación de dificultad respiratoria, de ahogo (disnea) o de paro respiratorio, mareo, sensación de inestabilidad o desfallecimiento, palpitaciones o taquicardia y nauseas o malestar abdominal. ¿cuál es el diagnóstico más probable?",
+      "o": [
+        "Trastornos de ansiedad generalizada.",
+        "Trastorno de pánico.",
+        "Trastorno mixto ansioso-depresivo.",
+        "Trastorno fóbico.",
+        "Trastorno de adaptación."
+      ],
+      "key": "B",
+      "score": 0.201,
+      "comparacoes": [
+        {
+          "score": 0.201,
+          "id": "area-2",
+          "n": 12,
+          "q": "Paciente de 90 años con malestar general, náuseas, pulso lento, bigeminismo. Tratamiento con furosemida, digoxina, bisoprolol. ¿Diagnóstico más probable?"
+        },
+        {
+          "score": 0.189,
+          "id": "area-8",
+          "n": 23,
+          "q": "Malena de 8 años con dificultad respiratoria, tos, sibilancias bilaterales, tiraje subcostal. Antecedente de mejoría con salbutamol. ¿Diagnóstico más probable?"
+        },
+        {
+          "score": 0.165,
+          "id": "pdf-novas-4",
+          "n": 1,
+          "q": "pregunta 90 que signo es considerado de severidad, ante diagnóstico de preeclampsia?"
+        }
+      ]
+    },
+    {
+      "b": 7,
+      "especialidad": "Neurología",
+      "n": 53,
+      "pagina": 333,
+      "q": "¿cuál de estas afirmaciones sobre el sueño es falsa?",
+      "o": [
+        "El sueño rem ocupa un 20-25% del tiempo del sueño total en adultos.",
+        "En ancianos sanos puede estar muy reducida la fase 4 de sueño no – rem",
+        "El sueño rem y no – rem se alternan en ciclos de 90 – 110 minutos",
+        "El sueño de ondas lentas corresponde a las fases 3 y 4 del sueño no-rem",
+        "El sueño rem ocupa menos de un 10% del tiempo de sueño total en lactantes."
+      ],
+      "key": "E",
+      "score": 0.284,
+      "comparacoes": [
+        {
+          "score": 0.284,
+          "id": "julio-2024",
+          "n": 95,
+          "q": "¿Cuál de las siguientes afirmaciones sobre la fisiopatología de la sepsis es correcta?"
+        },
+        {
+          "score": 0.194,
+          "id": "julio-2024",
+          "n": 82,
+          "q": "La probabilidad de padecer estenosis coronaria en hombres de más de 65 años, con angina de pecho de esfuerzo típica, es mayor del 90%. A un paciente de estas características se le practica un ECG de esfuerzo que se infor"
+        }
+      ]
+    },
+    {
+      "b": 8,
+      "especialidad": "Oftalmología",
+      "n": 11,
+      "pagina": 360,
+      "q": "En un paciente con un glaucoma agudo de ángulo estrecho, ¿cuál de los siguientes tratamientos no es adecuado?:",
+      "o": [
+        "Pilocarpina al 1%.",
+        "Atropina.",
+        "Manitol al 20%.",
+        "Acetazolamida.",
+        "Iridectomía periférica. 360"
+      ],
+      "key": "B",
+      "score": 0.235,
+      "comparacoes": [
+        {
+          "score": 0.235,
+          "id": "abril-2022",
+          "n": 96,
+          "q": "¿Cuál de los siguientes tratamientos es más efectivo ante una crisis hemorroidal?"
+        },
+        {
+          "score": 0.168,
+          "id": "pdf-novas-12",
+          "n": 1,
+          "q": "Una mujer de 36 años, con diagnóstico de Artritis Reumatoide, consulta al médico por dolor y tumefacción en manos, muñecas y rodillas. ¿Cuál de los siguientes tratamientos retardará la progresión de la enfermedad?"
+        },
+        {
+          "score": 0.162,
+          "id": "pdf-novas-3",
+          "n": 3,
+          "q": "las intervenciones que contribuyen al éxito tras una parada cardiaca ocurrida en la calle se denominan “cadena de supervivencia”. ¿cuáles de las siguientes opciones conforman el orden adecuado de sus estabones?"
+        }
+      ]
+    },
+    {
+      "b": 9,
+      "especialidad": "Pediatría",
+      "n": 143,
+      "pagina": 395,
+      "q": "¿cuál es la fórmula láctea que considera más adecuada para un lactante de tres meses que no toma pecho?",
+      "o": [
+        "Leche de vaca diluida 2/3 + sacarosa",
+        "Leche maternizada de continuación",
+        "Leche maternizada de inicio",
+        "Leche de vaca entera diluida al ½",
+        "Cualquier opción antes mencionada es válida"
+      ],
+      "key": "C",
+      "score": 0.265,
+      "comparacoes": [
+        {
+          "score": 0.265,
+          "id": "julio-2024",
+          "n": 71,
+          "q": "Lucas, un lactante de 2 meses de edad previamente sano, es traído al servicio de urgencias por su madre debido a fiebre de 37.8 °C, retracción costal, abundantes secreciones nasales y dificultad para alimentarse (toma pe"
+        },
+        {
+          "score": 0.217,
+          "id": "abril-2022",
+          "n": 67,
+          "q": "Una paciente de 14 meses es traída a la guardia por fiebre de 38,5 ℃ de 24 horas de evolución. Se trata de una niña previamente sana, con vacunas completas. que tuvo un episodio de otitis media aguda (OMA) a los 10 meses"
+        },
+        {
+          "score": 0.192,
+          "id": "febrero-2023",
+          "n": 19,
+          "q": "Lactante de 8 meses que presenta llanto intenso y ansiedad cada vez que la madre se ausenta por trabajo. El cuadro es interpretado como ansiedad por separación propia de la edad. ¿Cuál es la recomendación más adecuada pa"
+        }
+      ]
+    },
+    {
+      "b": 9,
+      "especialidad": "Pediatría",
+      "n": 144,
+      "pagina": 395,
+      "q": "Martín es un lactante de 10 meses de vida, que es traído a la guardia por presentar convulsión tónica- clónica generalizad, de 5 minutos de duración, que cedió espontáneamente y con plena recuperación. La mama refiere que está cursando catarro de 24 horas de evolución con hipertermia no cuantificada. Al examen físico beg, rinitis serosa, 39,2ºcsin signos de foco neurológico resto del examen sin particularidades. Ante este cuadro clínico. ¿cuál de los siguientes diagnósticos es el más probable?",
+      "o": [
+        "Debut epiléptico",
+        "Meningitis",
+        "Convulsión febril típica",
+        "Encefalitis",
+        "Síndrome de west"
+      ],
+      "key": "C",
+      "score": 0.217,
+      "comparacoes": [
+        {
+          "score": 0.217,
+          "id": "diciembre-2022",
+          "n": 69,
+          "q": "¿Cuál de los siguientes NO forma parte del examen físico en la evaluación del paciente con vértigo?"
+        },
+        {
+          "score": 0.204,
+          "id": "abril-2022",
+          "n": 99,
+          "q": "¿Cuál de las siguientes NO es causa probable de vértigo?"
+        },
+        {
+          "score": 0.204,
+          "id": "abril-2022",
+          "n": 88,
+          "q": "Ud. atiende en su consultorio a Pedro de 2 años quien presenta un cuadro de catarro de vías aéreas y fiebre de 12 hs de evolución. Al momento del examen físico presenta una convulsión tónico clónico generalizado. ¿Cuál e"
+        }
+      ]
+    },
+    {
+      "b": 9,
+      "especialidad": "Pediatría",
+      "n": 145,
+      "pagina": 395,
+      "q": "Llega a la consulta un lactante cianótico, con soplo sistólico, y mal progreso de peso desde el nacimiento. ¿cuál de los siguientes diagnósticos es el más probable?",
+      "o": [
+        "Comunicación interventricular",
+        "Ductus arterioso persistente",
+        "Comunicación interauricular",
+        "Tetralogía de fallot",
+        "Miocardiopatía dilatada"
+      ],
+      "key": "D",
+      "score": 0.268,
+      "comparacoes": [
+        {
+          "score": 0.268,
+          "id": "abril-2022",
+          "n": 99,
+          "q": "¿Cuál de las siguientes NO es causa probable de vértigo?"
+        },
+        {
+          "score": 0.198,
+          "id": "febrero-2025",
+          "n": 104,
+          "q": "¿Cuál de los siguientes hallazgos es característico de la estenosis pilórica en un lactante?"
+        },
+        {
+          "score": 0.193,
+          "id": "abril-2022",
+          "n": 22,
+          "q": "Anginosas con pequeños esfuerzos. En la exploración destaca presión arterial de 110/80 mmHg, frecuencia cardiaca de 85 lpm y auscultación con un soplo sistólico áspero en segundo espacio intercostal derecho y crepitantes"
+        }
+      ]
+    },
+    {
+      "b": 10,
+      "especialidad": "Nefrología",
+      "n": 32,
+      "pagina": 461,
+      "q": "Consulta un paciente de 25 años, sexo femenino que refiere orina oscura (hematuria) hace 48 horas. Refiere además disminución del ritmo diurético. Al examen físico usted objetiva tensión arterial: 190/110 tax: 36ºc y en su laboratorio valores elevados de urea y creatinina, con cilindros hemáticos en la orina. Usted piensa que se trata de:",
+      "o": [
+        "Síndrome nefrótico",
+        "Síndrome nefrítico",
+        "Hematuria traumática",
+        "Infección urinaria baja",
+        "Pielonefritis aguda"
+      ],
+      "key": "B",
+      "score": 0.221,
+      "comparacoes": [
+        {
+          "score": 0.221,
+          "id": "diciembre-2022",
+          "n": 52,
+          "q": "Lo consulta un varón de 42 años por hematuria con coágulos, edemas en MMII y le constata al examen físico TA 150/95 mmHg. Usted piensa en:"
+        },
+        {
+          "score": 0.16,
+          "id": "area-11",
+          "n": 6,
+          "q": "Paciente ingirió 10 gramos de paracetamol hace 6 horas. ¿Conducta?"
+        },
+        {
+          "score": 0.16,
+          "id": "diciembre-2022",
+          "n": 69,
+          "q": "¿Cuál de los siguientes NO forma parte del examen físico en la evaluación del paciente con vértigo?"
+        }
+      ]
+    },
+    {
+      "b": 10,
+      "especialidad": "Nefrología",
+      "n": 33,
+      "pagina": 462,
+      "q": "El patrón urinario característico del fracaso renal agudo pre-renal es:",
+      "o": [
+        "Oliguria, sodio alto y osmolaridad alta en orina",
+        "Oliguria o no, sodio bajo y osmolaridad baja en orina",
+        "Oliguria, sodio bajo y osmolaridad alta en orina",
+        "Oliguria o no, sodio alto y osmolaridad alta en orina",
+        "Oliguria con excreción fraccional de sodio alta"
+      ],
+      "key": "C",
+      "score": 0.27,
+      "comparacoes": [
+        {
+          "score": 0.27,
+          "id": "julio-2024",
+          "n": 26,
+          "q": "¿Cuál es el patrón electrocardiográfico MÁS característico en un paciente con enfermedad de Chagas?"
+        },
+        {
+          "score": 0.129,
+          "id": "pdf-novas-10",
+          "n": 2,
+          "q": "mujer de 68 años, que es diagnosticada de una tbc pulmonar. se instauro tto con isoniacida, rifampsina y etambutol. a los 12 días de iniciado el tratamiento consulta por fiebre de 38ºc, exantema cutâneo, adenopatias, art"
+        },
+        {
+          "score": 0.125,
+          "id": "pdf-lote2-10",
+          "n": 1,
+          "q": "Una mujer de 68 años presenta desde hace 3 meses una alteración en la función renal detectada por índice urinario proteína/creatinina. se atiende en el centro de salud de forma irregular desde hace 5 años por hipertensió"
+        }
+      ]
+    },
+    {
+      "b": 10,
+      "especialidad": "Nefrología",
+      "n": 34,
+      "pagina": 462,
+      "q": "¿qué número de bacterias/ml se considera indicativo de infección en muestras de orina obtenidas por punción- aspiración suprapúbica?:",
+      "o": [
+        "100.000.",
+        "10.000.",
+        "1.000.",
+        "100.",
+        "cualquier número encontrado"
+      ],
+      "key": "E",
+      "score": 0,
+      "comparacoes": []
+    },
+    {
+      "b": 10,
+      "especialidad": "Nefrología",
+      "n": 35,
+      "pagina": 462,
+      "q": "Concurre a la consulta paciente de tres años con clínica y laboratorio compatible con infección urinaria, segundo episodio. ¿cuál considera la conducta más adecuada en su seguimiento?",
+      "o": [
+        "Ecografía renal y cistouretrografía",
+        "Cefalexina a mitad de dosis profiláctica hasta los 6 años",
+        "Urocultivos seriados",
+        "Quimioprofilaxis hasta descartar patología urológica por especialista",
+        "A+c son correctas"
+      ],
+      "key": "C",
+      "score": 0.216,
+      "comparacoes": [
+        {
+          "score": 0.216,
+          "id": "febrero-2023",
+          "n": 38,
+          "q": "Paciente femenino con diagnóstico de infección urinaria baja no complicada. Se indica tratamiento antibiótico empírico. En un paciente masculino con infección urinaria no complicada, ¿cuál sería la conducta terapéutica m"
+        },
+        {
+          "score": 0.197,
+          "id": "diciembre-2024",
+          "n": 78,
+          "q": "Una paciente de 36 años, G2P1 que cursa embarazo de 10 semanas, concurre a su primer control obstétrico. Se solicita laboratorio constatándose glucemia en ayunas de 105 mg/dl. Al interrogatorio no presenta antecedentes d"
+        },
+        {
+          "score": 0.193,
+          "id": "area-3",
+          "n": 8,
+          "q": "Paciente COVID, dímero-D de 750 y PaFi en 112 con ARM. ¿Conducta adecuada?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 85,
+      "pagina": 495,
+      "q": "Paciente de 72 años consulta por disnea y tos de 7 días de evolución. En el examen físico presenta vibraciones vocales abolidas, matidez en base pulmonar derecha con matidez en columna. Su diagnóstico sindromático es:",
+      "o": [
+        "Neumotórax",
+        "Síndrome de condensación",
+        "Derrame pleural",
+        "Atelectasia",
+        "Neumomediastino"
+      ],
+      "key": "C",
+      "score": 0.299,
+      "comparacoes": [
+        {
+          "score": 0.299,
+          "id": "julio-2024",
+          "n": 86,
+          "q": "Paciente de 65 años, EPOC, sexo femenino, que consulta por fiebre, tos y expectoración purulenta de 2 días de evolución. Examen físico: paciente confusa, TA 90/60 mmHg, TO axilar 39°C, frecuencia respiratoria 36 por min,"
+        },
+        {
+          "score": 0.268,
+          "id": "febrero-2024",
+          "n": 39,
+          "q": "Un paciente de 32 años consulta a la guardia por fiebre y disnea progresiva CF II-III de 20 días de evolución, asociada a tos seca. Tiene diagnóstico de HIV positivo hace 2 años sin tratamiento actualmente por intoleranc"
+        },
+        {
+          "score": 0.245,
+          "id": "febrero-2023",
+          "n": 52,
+          "q": "Un varón previamente sano de 35 años, trabajador rural de la provincia de Entre Ríos es internado por fiebre, mialgias, cefalea, tos seca y vómitos alimentarios de 4 días de evolución. En el examen físico presenta escaso"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 86,
+      "pagina": 496,
+      "q": "Paciente de 35 años consulta por fiebre, tos, expectoración mucopurulenta. En su examen físico y rx tórax impresiona condensación pulmonar izquierda con derrame homolateral. Se realiza punción pleural que muestra: líquido amarillo, ph 7,30, ldh 400 indice ldh 0,8 índice de proteínas 0,7. Usted interpreta según el análisis del líquido:",
+      "o": [
+        "Empiema",
+        "Quilotórax",
+        "Hidroneumotórax",
+        "Trasudado",
+        "Exudado"
+      ],
+      "key": "E",
+      "score": 0.224,
+      "comparacoes": [
+        {
+          "score": 0.224,
+          "id": "febrero-2024",
+          "n": 39,
+          "q": "Un paciente de 32 años consulta a la guardia por fiebre y disnea progresiva CF II-III de 20 días de evolución, asociada a tos seca. Tiene diagnóstico de HIV positivo hace 2 años sin tratamiento actualmente por intoleranc"
+        },
+        {
+          "score": 0.22,
+          "id": "area-3",
+          "n": 7,
+          "q": "Hombre de 69 años con tos mucopurulenta de 3 días, temperatura 37.8°C, FR 18, sin condensación. ¿Conducta?"
+        },
+        {
+          "score": 0.215,
+          "id": "diciembre-2024",
+          "n": 9,
+          "q": "Varón de 75 años, HTA, DBT, consulta por fiebre, dolor torácico, tos y expectoración. En la radiografía de tórax consolidación en base derecha. Se comienza esquema antibiótico con Amoxicilina/Ac. Clavulanico. Evoluciona "
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 87,
+      "pagina": 496,
+      "q": "En un examen funcional respiratorio la disminución del vef 1 con capacidad vital forzada normal es característico de:",
+      "o": [
+        "Síndromes restrictivos",
+        "Síndromes obstructivos",
+        "Enfermedades instersticiales del pulmón",
+        "Neumonía aguda de la comunidad",
+        "Enfermedades de la pleura"
+      ],
+      "key": "B",
+      "score": 0.208,
+      "comparacoes": [
+        {
+          "score": 0.208,
+          "id": "pdf-novas-11",
+          "n": 14,
+          "q": "Un paciente tiene un volumen espiratorio en el 1er segundo VEF1= 76%, después de broncodilatadores y el volumen espiratorio/capacidad vital inspiratoria = 104%. El patrón espirométrico corresponde a:"
+        },
+        {
+          "score": 0.154,
+          "id": "area-8",
+          "n": 22,
+          "q": "Benicio de 4 años, conviviente de tío con tuberculosis. Examen físico normal, asintomático. ¿Recomendación?"
+        },
+        {
+          "score": 0.133,
+          "id": "diciembre-2025",
+          "n": 11,
+          "q": "Varón de 34 años, medico de emergencias, sin comorbilidades. Consulta por tos persistente de 18 días. Comenzó con un cuadro catarral leve (odinofagia, rinorrea escasa, febrícula) que duró 3-4 días; que evolucionó a tos i"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 88,
+      "pagina": 496,
+      "q": "Lo consulta un paciente que presenta un neumotórax: en la semiología usted espera encontrar:",
+      "o": [
+        "Inspección normal, aumento de las vibraciones vocales, aumento de la sonoridad pulmonar con murmullo vesicular aumentado",
+        "Inspección con movimientos aumentados en el pulmón afectado, disminución de la sonoridad pulmonar con columna mate, murmullo vesicular abolido",
+        "Inspección con movimientos disminuidos en el pulmón afectado, percusión con aumento de la sonoridad pulmonar con columna sonora, murmullo vesicular disminuido, vibraciones vocales ausentes.",
+        "Inspección con movimientos disminuidos en el pulmón afectado, aumento de la sonoridad pulmonar con columna mate, murmullo vesicular abolido",
+        "Inspección con movimientos aumentados en el pulmón afectado, aumento de la sonoridad pulmonar con columna mate, murmullo vesicular abolido."
+      ],
+      "key": "C",
+      "score": 0.392,
+      "comparacoes": [
+        {
+          "score": 0.392,
+          "id": "julio-2024",
+          "n": 20,
+          "q": "¿Qué espera encontrar en un síndrome nefrítico?"
+        },
+        {
+          "score": 0.305,
+          "id": "abril-2022",
+          "n": 20,
+          "q": "A un paciente asmático moderado se le realiza una espirometría. ¿Qué hallazgos espirométricos espera encontrar?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 89,
+      "pagina": 496,
+      "q": "Paciente de 32 años, malnutrido, consulta por presentar expectoración con sangre con espuma. Estable hemodinamicamente, disnea clase funcional ii. Usted piensa en:",
+      "o": [
+        "Hemorragia dental",
+        "Hemoptisis",
+        "Hematemesis",
+        "Vómica purulenta",
+        "Tos irritativa"
+      ],
+      "key": "B",
+      "score": 0.189,
+      "comparacoes": [
+        {
+          "score": 0.189,
+          "id": "pdf-novas-11",
+          "n": 1,
+          "q": "pregunta 43 (UAI AGOSTO 2025) una mujer de 68 años consulta por fiebre de 38,7°c, los con expectoración amarilla y disnea progresiva desde hace tres días. es hipertensa y diabética, controlada con metformina. saturación "
+        },
+        {
+          "score": 0.17,
+          "id": "julio-2024",
+          "n": 21,
+          "q": "Varón, 65 años, tabaquista, obeso. Consulta por disnea clase funcional III, edema de miembros inferiores bilateral y disnea paroxística nocturna, de 6 días de evolución. ¿Qué patología tendría que descartar?"
+        },
+        {
+          "score": 0.163,
+          "id": "pdf-novas-11",
+          "n": 5,
+          "q": "recibe en la guardia un paciente con diagnóstico prévio de epoc. refiere aumento de la disnea habitual, aumento de la expectoración y cambio en las características del esputo. usted piensa en una reagudización de su enfe"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 90,
+      "pagina": 497,
+      "q": "Hombre de 62 años de edad, de profesión taxista con diagnóstico previo de bronquitis crónica sin tratamiento alguno, que consulta por esputo hemoptoico. La exploración física es normal. La radiografía simple de tórax muestra una masa en lóbulo superior derecho que no existía un año antes. La broncoscopía objetiva mucosa de aspecto tumoral en bronquio lobar superior derecho que se biopsia y es informada como carcinoma epidermoide. El cálculo de vef1 postoperatorio predecible es de 900 cc para una lobectomía superior derecha con test de broncodilatación positivo. La resonancia magnética del cerebro es normal. La tomografía computarizada (tc) muestra una masa de 5cm en lóbulo superior derecho con adenopatías paratraqueales derechas de 15 mm de diámetro, ¿cuál es el siguiente procedimiento a realizar?",
+      "o": [
+        "lobectomía superior derecha y linfadenectomía mediastínica radical",
+        "Tratamiento quimioterápico combinado definitivo",
+        "Mediastinoscopia de estadificación",
+        "Realización de tomografía por emisión de positrones (pet)",
+        "Marcadores tumorales (enolasa neuroespecifica)"
+      ],
+      "key": "C",
+      "score": 0.197,
+      "comparacoes": [
+        {
+          "score": 0.197,
+          "id": "diciembre-2025",
+          "n": 25,
+          "q": "Un paciente de 45 años con fiebre, escalofríos, disnea y esputo purulento de 48 h. Radiografía de tórax: infiltrado lobar derecho. ¿Cuál es la conducta más adecuada?"
+        },
+        {
+          "score": 0.182,
+          "id": "area-3",
+          "n": 1,
+          "q": "¿Cuál es el tratamiento más adecuado de una bronquitis aguda en el adulto sin comorbilidades?"
+        },
+        {
+          "score": 0.182,
+          "id": "area-4",
+          "n": 19,
+          "q": "Paciente de 60 años con adenocarcinoma de colon estadio IV. Febrícula, diarrea crónica. Test de Toxina A/B positivo. ¿Diagnóstico?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 91,
+      "pagina": 497,
+      "q": "Hombre de 70 años con antecedentes de epoc grave y cor pulmonale crónico que presenta una gasometría arterial con ph 7.45 po2 57 mm de hg., pco2 35 mm de hg. Hco3 25 meq/l ¿cree que estaría indicado iniciar oxigenoterapia domiciliaria?:",
+      "o": [
+        "No, porque todavía la po2 se mantiene por encima de 55 mmhg",
+        "No, porque empeoraría la insuficiencia respiratoria hipercapnica que presenta.",
+        "No, porque empeoraría la insuficiencia cardiaca que probablemente presenta",
+        "Si, pero unicamente en las exacerbaciones.",
+        "Si, porque aumentaria su esperanza de vida."
+      ],
+      "key": "E",
+      "score": 0.236,
+      "comparacoes": [
+        {
+          "score": 0.236,
+          "id": "diciembre-2024",
+          "n": 87,
+          "q": "En un paciente con enfermedad pulmonar obstructiva crónica (EPOC) ¿Qué hallazgos en la gasometría arterial indicaría una exacerbación grave?"
+        },
+        {
+          "score": 0.199,
+          "id": "febrero-2025",
+          "n": 8,
+          "q": "Un hombre de 68 años con antecedente de EPOC consulta por disnea progresiva, tos productiva y fiebre. En la exploración, se auscultan sibilancias y crepitantes en ambas bases. Gasometría arterial: pH 7.32, PaCO2 5 mmHg, "
+        },
+        {
+          "score": 0.144,
+          "id": "julio-2024",
+          "n": 2,
+          "q": "Un hombre de 50 años con antecedentes de alcoholismo crónico presenta confusión, ataxia y nistagmo. ¿Cuál es el diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 92,
+      "pagina": 497,
+      "q": "En un paciente con crisis asmática, el mejor parámetro para valorar el grado de obstrucción bronquial y severidad de la enfermedad es:",
+      "o": [
+        "Taquipnea",
+        "Taquicardia",
+        "Sibilancias",
+        "Gasometría",
+        "Rx de tórax"
+      ],
+      "key": "D",
+      "score": 0.21,
+      "comparacoes": [
+        {
+          "score": 0.21,
+          "id": "area-8",
+          "n": 39,
+          "q": "¿Tratamiento de primera línea para crisis asmática en niño?"
+        },
+        {
+          "score": 0.187,
+          "id": "febrero-2025",
+          "n": 115,
+          "q": "¿Cuál de los siguientes es el tratamiento de primera línea para la crisis asmática en un niño?"
+        },
+        {
+          "score": 0.187,
+          "id": "area-3",
+          "n": 15,
+          "q": "Paciente de 50 años con crisis asmática severa. ¿Vía y dosis recomendada para el corticoide?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 93,
+      "pagina": 498,
+      "q": "Un paciente de 35 años acude a urgencias por disnea. Refiere una historia de asma bronquial, pero nunca ha requerido asistencia ventilatoria. En los últimos días ha presentado disnea sibilante y en las últimas 12 horas ha utilizado al menos 12 veces su inhalador de salbutamol. A la exploración, está bien perfundida y coloreada, con una fc de 110 lpm y una fr de 35 rpm, con tiraje supraclavicular e intercostal. Su TA es de 140/80 mmhg y se objetiva un pulso paradójico de 20 mmhg. A la auscultación pulmonar hay una disminución global del murmullo vesicular y prácticamente no se escuchan sibilancias. La auscultación cardíaca es rítmica, sin soplos. El resto de la exploración es anodina. La gasometría arterial basal muestra un ph 7,46, pco2 44 mmhg, po2 58 mmhg y bicarbonato 16 mmol/l. ¿cuál, de los siguientes planteamientos, es el más adecuado?:",
+      "o": [
+        "Es una crisis asmática leve y hay que añadir esteroides inhalados, remitiéndola para su control médico.",
+        "Se trata de un abuso de betamiméticos. Hay que desaconsejar su uso de esa forma y asociar una xantina o ipratropio.",
+        "Es un cuadro de ansiedad por abuso de betamiméticos. Hay que ajustar la dosis a las recomendadas y añadir un benzodiacepina.",
+        "Es una crisis asmática severa que puede requerir asistencia ventilatoria de forma inmediata.",
+        "Es un cuadro de somatización, por lo que hay que recomendar una interconsulta psiquiátrica."
+      ],
+      "key": "D",
+      "score": 0.174,
+      "comparacoes": [
+        {
+          "score": 0.174,
+          "id": "abril-2022",
+          "n": 22,
+          "q": "Anginosas con pequeños esfuerzos. En la exploración destaca presión arterial de 110/80 mmHg, frecuencia cardiaca de 85 lpm y auscultación con un soplo sistólico áspero en segundo espacio intercostal derecho y crepitantes"
+        },
+        {
+          "score": 0.155,
+          "id": "area-3",
+          "n": 14,
+          "q": "Varón de 45 años con asma leve, empeoramiento de disnea en 12hs, sin respuesta al salbutamol, SatO2 94%. ¿Tratamiento de rescate recomendado?"
+        },
+        {
+          "score": 0.152,
+          "id": "julio-2024",
+          "n": 83,
+          "q": "Varón de 50 años pendiente de cirugía de hernia inguinal. En el preoperatorio, la gasometría basal muestra los siguientes resultados: pH 7.37, PO2 41 mmHg, PCO2 46 mmHg, saturación de O2 74%. La radiografía de tórax es n"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 94,
+      "pagina": 498,
+      "q": "Consulta un paciente de 70 años por presentar en su domicilio en forma súbita dolor en la base del hemitórax izquierdo que aumenta al inspirar profundamente y con la tos, que desaparece si contiene la respiración que irradia al hombro unilateral. Al examen físico se objetiva frote en esa base pulmonar. Usted piensa que se trata de:",
+      "o": [
+        "Precordialgia típica",
+        "Precordialgia atípica",
+        "Dolor de vísceras torácicas",
+        "Dolor pleurítico",
+        "Dolor esplénico"
+      ],
+      "key": "D",
+      "score": 0.166,
+      "comparacoes": [
+        {
+          "score": 0.166,
+          "id": "diciembre-2022",
+          "n": 52,
+          "q": "Lo consulta un varón de 42 años por hematuria con coágulos, edemas en MMII y le constata al examen físico TA 150/95 mmHg. Usted piensa en:"
+        },
+        {
+          "score": 0.161,
+          "id": "diciembre-2022",
+          "n": 69,
+          "q": "¿Cuál de los siguientes NO forma parte del examen físico en la evaluación del paciente con vértigo?"
+        },
+        {
+          "score": 0.136,
+          "id": "febrero-2025",
+          "n": 85,
+          "q": "Una mujer de 35 años acude a la consulta con fiebre alta, dolor en el flanco derecho, disuria y náuseas. ¿Qué hallazgo esperaría encontrar en el examen físico?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 95,
+      "pagina": 498,
+      "q": "¿Cuál es el mecanismo fisiopatológico más frecuente de hipoxemia con hipercapnia en la insuficiencia respiratoria aguda?",
+      "o": [
+        "Alteración ventilación/ perfusión",
+        "Alteración del transporte de oxigeno",
+        "Hipoventilación alveolar",
+        "Shunt",
+        "Trastornos de la difusión"
+      ],
+      "key": "C",
+      "score": 0.174,
+      "comparacoes": [
+        {
+          "score": 0.174,
+          "id": "diciembre-2025",
+          "n": 94,
+          "q": "En la intoxicación aguda por cocaína, ¿cuál de las siguientes complicaciones cardiovasculares que amenazan la vida es más frecuente?"
+        },
+        {
+          "score": 0.152,
+          "id": "febrero-2025",
+          "n": 51,
+          "q": "Un paciente con fibrilación auricular es tratado con amiodarona. Seis meses después consulta por fatiga, intolerancia al frío y bradicardia. ¿Cuál es el mecanismo fisiopatológico responsable?"
+        },
+        {
+          "score": 0.132,
+          "id": "febrero-2023",
+          "n": 9,
+          "q": "Joaquin de 2 años es traído a la guardia por presentar fiebre de 39,5 °C. Al examen físico observa como datos positivos una conjuntivitis purulenta bilateral asociada a otitis media aguda. ¿Cuál es el agente etiológico m"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 96,
+      "pagina": 498,
+      "q": "Hombre de 62 años diagnosticado de enfermedad pulmonar obstructiva crónica desde hace 4 años, que presenta un cuadro agudo febril (38.5°c), dolor de costado, esputo purulento y una radiografía de tórax donde existe una imagen de condensación con broncograma aéreo en lóbulo inferior derecho. ¿cuál es el tratamiento antibiótico, de entre los siguientes, que debe utilizarse inicialmente de forma empírica?:",
+      "o": [
+        "Amoxicilina",
+        "Penicilina endovenosa",
+        "Amoxicilina-clavulánico",
+        "Ciprofloxacina",
+        "Eritromicina asociada a amoxicilina"
+      ],
+      "key": "C",
+      "score": 0.264,
+      "comparacoes": [
+        {
+          "score": 0.264,
+          "id": "area-3",
+          "n": 17,
+          "q": "Paciente de 70 años con cuadro febril, tos productiva y dolor pleurítico. Rx: consolidación del lóbulo inferior derecho. EPOC, DM-2. CURB-65: 2. ¿Conducta?"
+        },
+        {
+          "score": 0.255,
+          "id": "pdf-lote2-11",
+          "n": 1,
+          "q": "Un paciente de 80 años con antecedentes de insuficiencia renal crónica y diabetes tipo 2, presenta desde hace 3 días tos con expectoración purulenta, fiebre, dificultad respiratoria y dolor torácico derecho en puntada de"
+        },
+        {
+          "score": 0.231,
+          "id": "diciembre-2025",
+          "n": 25,
+          "q": "Un paciente de 45 años con fiebre, escalofríos, disnea y esputo purulento de 48 h. Radiografía de tórax: infiltrado lobar derecho. ¿Cuál es la conducta más adecuada?"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 98,
+      "pagina": 499,
+      "q": "Paciente de 53 años que presenta en la radiografía de tórax una masa pulmonar de 5 cm de diámetro localizada en región parahiliar de lóbulo superior derecho (l.s.d.). En el tac se aprecian adenopatías subcarinales y traqueobroquiales bilaterales. La broncofibroscopía visualiza una lesión endobronquial en el bronquio del lsd. Tras realizar mediastinoscopía se confirma afectación tumoral de los territorios subcarinico y paratraqueal izquierdo. Descartada por estudios de extensión la existencia de metástasis a distancia, ¿ cual seria su clasificación de acuerdo con tnm?.",
+      "o": [
+        "T1 n2 mo.",
+        "T3 n2 mo",
+        "T2 n3 mo",
+        "T2 n2 mo.",
+        "T3 n3 mo."
+      ],
+      "key": "C",
+      "score": 0.266,
+      "comparacoes": [
+        {
+          "score": 0.266,
+          "id": "febrero-2024",
+          "n": 26,
+          "q": "Lo consulta un paciente con diagnóstico reciente de carcinoma de pulmón de células pequeñas. El tumor está localizado en el lóbulo superior izquierdo y tiene un diámetro de 2 cm. En la tomografía de tórax se informan ade"
+        },
+        {
+          "score": 0.15,
+          "id": "diciembre-2025",
+          "n": 38,
+          "q": "Mujer de 68 años con antecedente de fumar 30 paquetes-año acude por tos persistente y pérdida de peso de 7 kg en 4 meses. TAC torácica muestra nódulo pulmonar de 2 cm en lóbulo superior derecho. ¿Cuál es el siguiente pas"
+        },
+        {
+          "score": 0.135,
+          "id": "julio-2024",
+          "n": 14,
+          "q": "Varón 75 años, ATA, DBT, consulta por fiebre, dolor torácico, tos y expectoración. En la radiografía de tórax consolidación en el lóbulo superior izquierdo. Se comienza antibiótico empírico con Amoxicilina/Ácido clavulán"
+        }
+      ]
+    },
+    {
+      "b": 11,
+      "especialidad": "Neumonología",
+      "n": 99,
+      "pagina": 499,
+      "q": "Todos estos factores de riesgo son predisponentes para el desarrollo de infección respiratoria grave excepto:",
+      "o": [
+        "Cardiopatía congénita",
+        "Desnutrición severa",
+        "Menor de tres meses",
+        "Hacinamiento",
+        "Todos son factores predisponentes."
+      ],
+      "key": "D",
+      "score": 0.22,
+      "comparacoes": [
+        {
+          "score": 0.22,
+          "id": "pdf-novas-2",
+          "n": 2,
+          "q": "¿Cuáles de estos marcadores clínicos en el momento del ingreso del paciente, predicen el desarrollo de pancreatitis aguda grave?"
+        },
+        {
+          "score": 0.21,
+          "id": "febrero-2025",
+          "n": 124,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo de la meningitis en niños?"
+        },
+        {
+          "score": 0.21,
+          "id": "febrero-2025",
+          "n": 127,
+          "q": "¿Cuál de los siguientes es un factor de riesgo para el desarrollo de la depresión en adolescentes?"
+        }
+      ]
+    },
+    {
+      "b": 12,
+      "especialidad": "Reumatología",
+      "n": 24,
+      "pagina": 542,
+      "q": "Un hombre de 30 años sufre en un accidente de tránsito fractura del tercio medio del fémur izquierdo, con rotura de la arteria femoral. Una vez ingresado en el hospital, se procede a hacer la reducción y fijación de la fractura junto con la reparación arterial. Horas después se instaura un edema en el miembro lesionado, dolor intenso de carácter pulsátil y parestesias a nivel del pie. El pulso periférico es débil. ¿cuál de los siguientes diagnósticos debe plantearse en primer lugar:",
+      "o": [
+        "Gangrena isquémica.",
+        "Síndrome compartimental.",
+        "Neuroapraxia del nervio ciático.",
+        "Distrofia simpático-refleja.",
+        "Embolismo graso."
+      ],
+      "key": "B",
+      "score": 0.144,
+      "comparacoes": [
+        {
+          "score": 0.144,
+          "id": "febrero-2025",
+          "n": 118,
+          "q": "¿Cuál de los siguientes es un signo de alarma en un niño con dolor abdominal?"
+        },
+        {
+          "score": 0.141,
+          "id": "pdf-novas-9",
+          "n": 12,
+          "q": "Un niño de 7 años sufre una caída sobre el brazo izquierdo produciéndose una fractura en tercer medio de da clavícula desplazada. ¿Cuál sería el tratamiento a seguir?"
+        },
+        {
+          "score": 0.134,
+          "id": "febrero-2024",
+          "n": 62,
+          "q": "Paciente de 32 años sin antecedentes relevantes que ingresa a la guardia del hospital por un cuadro de 12 horas de evolución, caracterizado por dolor en la fosa ilíaca derecha de intensidad 8/10. ¿Cuál de los siguientes "
+        }
+      ]
+    },
+    {
+      "b": 12,
+      "especialidad": "Reumatología",
+      "n": 25,
+      "pagina": 543,
+      "q": "Un hombre de 58 años diagnosticado de artritis gotosa tofácea y litiasis ureteral por cálculos de ácido úrico no tratado previamente, consulta por monoartritis aguda de rodilla. El análisis del liquido sinovial obtenido por artrocentesis muestra abundantes microcristales de urato intraleucocitarios. El ácido úrico sérico es de 9.4 mg/dl (valor normal <7mg/dl) y la creatinina está en rango normal. ¿ cuál de las siguientes estrategias terapéuticas le parece más adecuada?:",
+      "o": [
+        "Antiinflamatorios no esteroideos o colchicina durante el episodio de artritis aguda, profilaxis de nuevos episodios de artritis con colchicina 1 mg diario oral, y dieta con restricción de purina y alopurinol 300 mg diarios como tratamiento hipouricemiante.",
+        "Colchicina intravenosa como tratamiento del episodio de artritis aguda, y dieta con restricción de purina y alopurinol 300 mg como tratamiento hipouricemiante.",
+        "Colchicina oral 3 mg diarios hasta la resolución del episodio agudo de artritis y dieta con restricción de purina y fármacos uricosuricos como benzobromarona 100 mg diarios como tratamiento hipouricemiante.",
+        "Antiinflamatorios no esteroideos o colchicina durante el episodio de artritis aguda, y colchicina oral 1 mg diario de forma ininterrumpida como profilaxis de nuevos episodios de artritis.",
+        "Metilprednisolona intrarticular como tratamiento de la artritis aguda, y alopurinol 300 mg diarios como tratamiento hipouricemiante."
+      ],
+      "key": "A",
+      "score": 0.175,
+      "comparacoes": [
+        {
+          "score": 0.175,
+          "id": "pdf-lote2-4",
+          "n": 4,
+          "q": "Cuál es el valor normal de la frecuencia cardiaca fetal? *"
+        },
+        {
+          "score": 0.151,
+          "id": "area-7",
+          "n": 14,
+          "q": "¿Cómo se clasifica la muerte de una embarazada por un linfoma diagnosticado previamente?"
+        },
+        {
+          "score": 0.151,
+          "id": "pdf-novas-6",
+          "n": 11,
+          "q": "¿Cuál de las siguientes entidades no es responsable de meningitis a líquido claro?"
+        }
+      ]
+    },
+    {
+      "b": 12,
+      "especialidad": "Reumatología",
+      "n": 26,
+      "pagina": 543,
+      "q": "Una anciana de 80 años ingresa en el servicio de urgencias después de haber sufrido una caída casual. En la exploración se aprecia dolor de impotencia funcional en la cadera derecha, con acortamiento de 2 cm. Y en posición de abducción y rotación externa marcada, contactando el borde externo del pie con la cama. Igualmente es visible unas horas después una equimosis en la cara externa de la región de la cadera. El diagnóstico más probable es:",
+      "o": [
+        "Fractura del reborde acetabular",
+        "Fractura de la región cervical de la cadera",
+        "Luxación anterior de la cadera",
+        "Fractura de las ramas ilio e isquiopubiana derechas",
+        "Fractura de la región trocantérica"
+      ],
+      "key": "E",
+      "score": 0.31,
+      "comparacoes": [
+        {
+          "score": 0.31,
+          "id": "area-8",
+          "n": 26,
+          "q": "Jonás de 5 años con dolor al caminar. Antecedente de cuadro gripal previo. Limitación en rotación externa y abducción de cadera derecha. ¿Diagnóstico probable?"
+        },
+        {
+          "score": 0.269,
+          "id": "julio-2024",
+          "n": 30,
+          "q": "Paciente de 80 años traído a la guardia por servicio de emergencia por caída desde su propia altura, se constata dolor, rotación externa y acortamiento del miembro inferior ¿Cuál es el diagnóstico?"
+        },
+        {
+          "score": 0.221,
+          "id": "area-8",
+          "n": 18,
+          "q": "Niño de 7 años con renguera, limitación de rotación interna y abducción de cadera. Rx normal. ¿Diagnóstico?"
+        }
+      ]
+    },
+    {
+      "b": 12,
+      "especialidad": "Reumatología",
+      "n": 27,
+      "pagina": 543,
+      "q": "Usted observa un paciente con una mano caída y los dedos en ligera flexión. La rx. Del miembro superior correspondiente muestra una fractura supracondilea del humero. ¿en que lesión nerviosa piensa ?",
+      "o": [
+        "Nervio cubital",
+        "Nervio radial",
+        "Nervio humeral",
+        "Nervio mediano",
+        "Nervio circunflejo"
+      ],
+      "key": "B",
+      "score": 0.133,
+      "comparacoes": [
+        {
+          "score": 0.133,
+          "id": "diciembre-2025",
+          "n": 28,
+          "q": "Una mujer de 72 años con osteoporosis conocida presenta una caída de su propia altura y dolor lumbar intenso, sin traumatismo mayor. Se observa fractura vertebral por compresión en L2. ¿Qué es lo más adecuado?"
+        },
+        {
+          "score": 0.131,
+          "id": "febrero-2025",
+          "n": 61,
+          "q": "Un hombre de 55 años presenta dolor de pecho de inicio súbito con irradiación al miembro superior izquierdo. El ECG muestra elevación del segmento ST en DII, DIII y aVF. ¿Cuál es el diagnóstico más probable?"
+        }
+      ]
+    },
+    {
+      "b": 13,
+      "especialidad": "Toxicología",
+      "n": 43,
+      "pagina": 562,
+      "q": "En una paciente de 35 años de edad, que se encuentra en coma, con sospecha de intoxicación con benzodiazepinas ¿cuál de las siguientes sustancias usaría como antídoto?",
+      "o": [
+        "Aminotriptilina",
+        "Flumazenil",
+        "Clorpromazina",
+        "Naloxona",
+        "Anticolinérgicos"
+      ],
+      "key": "B",
+      "score": 0.516,
+      "comparacoes": [
+        {
+          "score": 0.516,
+          "id": "area-11",
+          "n": 1,
+          "q": "Paciente en coma con sospecha de intoxicación por benzodiacepinas. ¿Antídoto?"
+        },
+        {
+          "score": 0.283,
+          "id": "diciembre-2024",
+          "n": 93,
+          "q": "¿Qué antídoto se utiliza en caso de sobredosis de benzodiazepinas?"
+        },
+        {
+          "score": 0.24,
+          "id": "diciembre-2024",
+          "n": 57,
+          "q": "¿Cuál de los siguientes signos es característico de la intoxicación por salicilatos?"
+        }
+      ]
+    },
+    {
+      "b": 13,
+      "especialidad": "Toxicología",
+      "n": 44,
+      "pagina": 562,
+      "q": "La ingestión de alguno de los siguientes nutrientes, en cantidades muy superiores a las recomendaciones dietéticas diarias, no se ha asociado con enfermedad. Señálelo:",
+      "o": [
+        "Vitamina a.",
+        "Energía (calorías aportadas por carbohidratos, grasas o proteínas).",
+        "Vitamina d.",
+        "Flúor.",
+        "Vitamina b1 (tiamina)."
+      ],
+      "key": "E",
+      "score": 0.193,
+      "comparacoes": [
+        {
+          "score": 0.193,
+          "id": "febrero-2023",
+          "n": 55,
+          "q": "¿Cuál de las siguientes enfermedades cutáneas está relacionada con la enfermedad celiaca?"
+        },
+        {
+          "score": 0.193,
+          "id": "febrero-2025",
+          "n": 136,
+          "q": "¿Cuál de los siguientes es un hallazgo característico de la enfermedad de Kawasaki en niños?"
+        },
+        {
+          "score": 0.172,
+          "id": "febrero-2023",
+          "n": 10,
+          "q": "Ante un paciente con escabiosis, ¿Cuál de las siguientes recomendaciones es la más efectiva para evitar la recidiva?"
+        }
+      ]
+    }
+  ]
+}
