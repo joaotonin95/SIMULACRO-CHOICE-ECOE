@@ -242,3 +242,16 @@ for(const [n,x] of Object.entries(k)){
  }else if(x.status==="validado"&&x.a){x.calificable=true;}
 }
 })();
+
+/* Correcciones de rigor científico y nomenclatura — no alterar el texto del PDF. */
+(function(){
+const k=KEY["iar-2026-completo"],e=EX.find(x=>x.id==="iar-2026-completo");
+if(!k||!e)return;
+k[79]={a:"B",status:"validado",calificable:true,why:"El denominador de la RAZÓN de mortalidad materna es el número de nacidos vivos en el período, y se expresa por 100.000 nacidos vivos. El PDF la denomina 'tasa', pero técnicamente se trata de una razón; una tasa de mortalidad materna en sentido epidemiológico utiliza mujeres en edad reproductiva como denominador.",o:{A:"Número de embarazadas no es el denominador estándar de la razón de mortalidad materna.",C:"Nacidos vivos y muertos no constituyen el denominador estándar de este indicador.",D:"Mujeres en edad reproductiva se utiliza en la tasa de mortalidad materna estricta, no en la razón por nacidos vivos que se pregunta habitualmente."},src:"OMS: Maternal mortality ratio (MMR), por 100.000 nacidos vivos.",src_url:"https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/maternal-mortality"};
+k[64].status="discutible";k[64].calificable=false;k[64].why="El líquido serohemático tras tos indica posible dehiscencia fascial; la ausencia de vísceras exteriorizadas NO demuestra que sea incompleta. No se puede diferenciar dehiscencia completa contenida por piel sin exploración de la herida. Pregunta no puntuable.";
+k[67].status="discutible";k[67].calificable=false;k[67].why="La asistencia inicial debe priorizar seguridad, consentimiento, urgencias clínicas, profilaxis indicada y documentación objetiva, sin condicionar atención a denuncia. La alternativa C presupone una conclusión pericial ('compatible con violación') que no debe inferirse solo de lesiones y relato; no hay opción plenamente correcta.";
+k[59].status="discutible";k[59].calificable=false;k[59].why="El original dice que el niño 'no se encuentra consciente' después de convulsión de 2 minutos, pero simultáneamente declara examen normal. Si persiste alteración del sensorio no puede asumirse convulsión febril simple ni indicarse solo observación. Contradicción que impide calificación.";
+k[63].status="discutible";k[63].calificable=false;k[63].why="La bronquiolitis se trata con sostén e hidratación; oxígeno solo si hipoxemia conforme umbral. El PDF omite el valor de saturación y temperatura, por lo que no puede justificarse la indicación de oxígeno de la opción C sin suponer datos.";
+k[75].status="discutible";k[75].calificable=false;k[75].why="Cefalea temporal nueva, claudicación mandibular y VSG 100 requieren iniciar glucocorticoides de inmediato ante sospecha de arteritis de células gigantes; la opción D solo solicita estudios y omite tratamiento urgente. Es la mejor de las ofrecidas pero no es conducta completa.";
+k[84].status="discutible";k[84].calificable=false;k[84].why="Colestasis con transaminasas discretas es compatible con hepatotoxicidad por esteroides anabólicos orales, pero ser asiduo al gimnasio no demuestra su consumo. La hepatotoxicidad por amoxicilina-clavulánico es alternativa plausible sin historia de exposiciones. No se debe calificar como diagnóstico confirmado.";
+})();
