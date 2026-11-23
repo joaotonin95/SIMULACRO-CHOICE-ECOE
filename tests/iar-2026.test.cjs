@@ -35,6 +35,7 @@ for(const q of exam.qs){
  if(k.a)assert.ok(q.o.length>'ABCD'.indexOf(k.a),'Key outside options: '+q.n);
  if(!k.a||k.status!=='validado'||k.calificable===false)pending.push(q.n);
 }
+for(const q of exam.qs){const k=key[q.n];if(k.status==='validado'&&k.a&&k.calificable!==false){assert.ok(k.why&&k.src&&k.src_url,'Qualified item without explanation/reference: '+q.n);assert.ok(/^https:\/\//.test(k.src_url),'Invalid source URL: '+q.n);assert.equal(Object.keys(k.o||{}).length,3,'Expected 3 distractor explanations for '+q.n);assert.ok(!Object.values(k.o).some(v=>/No corresponde al mecanismo|No es la mejor respuesta en el escenario descrito/.test(v)),'Generic explanation in '+q.n);}}
 assert.equal(pending.length,22,'Review exclusions changed: audit before changing expected count');
 assert.ok(pending.includes(6)&&pending.includes(80));
 assert.ok(html.includes('src="app.js"'));
