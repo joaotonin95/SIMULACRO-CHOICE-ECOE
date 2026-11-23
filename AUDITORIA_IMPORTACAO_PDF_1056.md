@@ -113,3 +113,22 @@ O site foi rechecado a partir de `index.html` e de todos os arquivos JavaScript 
 - Uma repetição confirmada, **Digestivo nº 83 (sucralfato/ação inespecífica)**, já constava no simulado de **diciembre-2022 nº 70** e foi retirada do lote 4.
 - Itens de cinco alternativas foram considerados, não apenas questões A–D. Os arquivos do site estão ordenados para carregar a base, lotes e correções antes de `app.js`.
 - A auditoria linha a linha de todas as entradas foi atualizada em [`AUDITORIA_COMPLETA_PDF_1056.json`](./AUDITORIA_COMPLETA_PDF_1056.json). **O relatório registra triagem automatizada; as 845 entradas restantes ainda exigem decisões semânticas e científicas, não estão todas validadas.**
+
+## Validação científica do Lote 2 — 23/11/2026
+
+O arquivo `novas_pdf_lote2.js` já estava carregado pelo site (35 questões por especialidade, adicionadas em etapa anterior). Nesta revisão, **todas as 35 questões receberam análise científica, justificativa da resposta, comentários individuais para alternativas erradas e fontes com URL**, registradas como sobrescritas individuais da chave no próprio JS.
+
+- **29 itens validados** com chave cientificamente defensável e pontuação liberada no simulador.
+- **6 itens discutíveis**, sem pontuação até correção do enunciado ou complementação clínica:
+  - `pdf-lote2-2#1`: adenite mesentérica versus ileocolite; apêndice não descrito.
+  - `pdf-lote2-4#3`: parto gemelar em trabalho de parto ativo — condução versus expectativa sem especificar intervenções.
+  - `pdf-lote2-4#6`: dor em FID de mulher jovem — ecografias abdominal/pélvica e transvaginal complementares.
+  - `pdf-lote2-4#7`: câncer de mama de 2 cm — subtipo molecular e decisão de neoadjuvância ausentes.
+  - `pdf-lote2-9#5`: 'sequela mais frequente' de meningite bacteriana — déficit cognitivo versus hipoacusia, depende de definição e seguimento.
+  - `pdf-lote2-11#1`: pneumonia no idoso — necessidade de internação correta, mas ceftriaxona monoterapia não representa esquema empírico completo conforme ATS/IDSA.
+
+Atualização importante: a vacina BCG intradérmica do Lote 2 recebeu revisão complementar; a reação da vancomicina com broncoespasmo recebeu alerta de possível anafilaxia; o manejo da infecção intraamniótica ressalta que o parto não implica cesárea obrigatória.
+
+Com `novas_pdf.js` (143 questões, chaves ainda provisórias) e `novas_pdf_lote2.js` (35 questões), o total de questões **efetivamente carregadas pelo site** é **1.331** = 1.153 originais + 143 primeiro lote + 35 segundo lote. Isso retifica o total anterior de 1.296, que não incluía o segundo lote já ativo no HTML. A validação final das 143 questões do primeiro lote permanece pendente.
+
+Commits de validação: `9252b1b96a05b2a57768a663bac0c1447abd3463` e `9fc9fa23943ca3f71d7e16bd5aa32997097e8ab2`.
