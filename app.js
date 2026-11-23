@@ -30,11 +30,11 @@ function home(){
 function quiz(){
   S.cf=0;
   const e=S.ex;
-  const wrong=e.qs.map((x,j)=>({x,j,s:S.st[x.n]})).filter(v=>v.s&&v.s.c&&v.s.ok===false&&!needsReview((KEY[e.id]||{})[v.x.n]));
+  const wrong=e.qs.map((x,j)=>({x,j,s:S.st[x.n]})).filter(v=>v.s&&v.s.c&&!needsReview((KEY[e.id]||{})[v.x.n])&&v.s.a!==(KEY[e.id]||{})[v.x.n].a);
   if(S.review&&wrong.length&&!wrong.some(v=>v.j===S.i))S.i=wrong[0].j;
   const q=e.qs[S.i],st=S.st[q.n]||{},k=(KEY[e.id]||{})[q.n];
   const done=e.qs.filter(x=>S.st[x.n]?.c).length;
-  const graded=e.qs.filter(x=>!needsReview((KEY[e.id]||{})[x.n])).map(x=>S.st[x.n]).filter(v=>v&&v.c&&v.ok!==undefined);
+  const graded=e.qs.filter(x=>!needsReview((KEY[e.id]||{})[x.n])&&S.st[x.n]?.c).map(x=>({ok:S.st[x.n].a===(KEY[e.id]||{})[x.n].a}));
   let h='<div class="top"><button class="link" id="back">← Simulacros</button><span class="stats">'+done+' / '+e.qs.length+' respondidas'+(graded.length?' · '+graded.filter(v=>v.ok).length+' correctas':'')+'</span></div>';
   h+='<div class="progress-line" role="progressbar" aria-label="Progreso del examen" aria-valuenow="'+done+'" aria-valuemin="0" aria-valuemax="'+e.qs.length+'"><span style="width:'+(100*done/e.qs.length)+'%"></span></div>';
   h+='<div class="timer"><span>⏱ Tiempo: <span class="timer-time" id="clock">'+timerFmt(timerMs())+'</span></span><button class="btn" id="timer-toggle">'+(S.timer?.running?'Pausar':'Retomar')+'</button><span class="timer-note">Tiempo efectivo de resolución</span></div>';
@@ -52,7 +52,7 @@ function quiz(){
   h+='<p class="kbd">Atajos: teclas 1–5 para responder · ← / → para navegar. Las respuestas quedan bloqueadas después de elegir.</p>';
   h+='<div class="btns"><button class="btn" id="prev"'+(S.i?'':' disabled')+'>← Anterior</button>'+
    '<button class="btn" id="next"'+(S.i<e.qs.length-1?'':' disabled')+'>Siguiente →</button></div></div><div class="grid">';
-  e.qs.forEach((x,j)=>{const s=S.st[x.n]||{},kk=(KEY[e.id]||{})[x.n];if(S.review&&!(s.c&&s.ok===false&&!needsReview(kk)))return;let c='g';
+  e.qs.forEach((x,j)=>{const s=S.st[x.n]||{},kk=(KEY[e.id]||{})[x.n];if(S.review&&!(s.c&&!needsReview(kk)&&s.a!==kk.a))return;let c='g';
     if(s.c&&kk&&kk.a&&!needsReview(kk))c+=s.a===kk.a?' ok':' ko';else if(s.a)c+=' a';if(j==S.i)c+=' cur';
     h+='<button class="'+c+'" data-j="'+j+'">'+x.n+'</button>'});
   if(S.review&&!wrong.length)h+='<p class="note">Todavía no hay respuestas incorrectas para revisar.</p>';
