@@ -175,3 +175,24 @@ EX.push({"id":"iar-2026-extra-87","name":"IAR 2026 · ONCOLOGÍA","year":"IAR 20
 KEY["iar-2026-extra-87"]={"87":{"a":"D","status":"discutible","why":"TC torácica contrastada evalúa obstrucción; tratamiento urgente según gravedad puede incluir stent, radioterapia o terapia sistémica. Las opciones no reflejan bien manejo individualizado.","o":{"A":"No es la mejor respuesta en el escenario descrito; consultar la justificación y las limitaciones del caso.","B":"No es la mejor respuesta en el escenario descrito; consultar la justificación y las limitaciones del caso.","C":"No es la mejor respuesta en el escenario descrito; consultar la justificación y las limitaciones del caso."},"src":"Revisión clínica 2026; verificar guía específica de la especialidad."}};
 EX.push({"id":"iar-2026-extra-88","name":"IAR 2026 · CIRUGÍA","year":"IAR 2026 · prueba 88 preguntas","qs":[{"n":88,"q":"Colelitiasis incidental sin cólicos ni complicaciones, solo distensión posprandial. Conducta.","o":["Colecistectomía urgente","No operar por colelitiasis asintomática","Colecistectomía abierta preventiva","Colecistectomía profiláctica por ser mujer"]}]});
 KEY["iar-2026-extra-88"]={"88":{"a":"B","status":"validado","why":"Colelitiasis asintomática generalmente se observa; distensión inespecífica no justifica colecistectomía.","o":{"A":"No es la mejor respuesta en el escenario descrito; consultar la justificación y las limitaciones del caso.","C":"No es la mejor respuesta en el escenario descrito; consultar la justificación y las limitaciones del caso.","D":"No es la mejor respuesta en el escenario descrito; consultar la justificación y las limitaciones del caso."},"src":"Revisión clínica 2026; verificar guía específica de la especialidad."}};
+
+/* Agrupar todas las preguntas de Últimas IAR 2026 en UN simulacro de 88 posiciones.
+   Mantener el número original; la pregunta 6 no está disponible en el PDF. */
+(function(){
+  const partes=EX.filter(e=>String(e.year)==="IAR 2026 · prueba 88 preguntas");
+  const items=new Map(),claves={};
+  for(const e of partes){
+    for(const q of e.qs){if(!items.has(q.n))items.set(q.n,q);}
+    Object.assign(claves,KEY[e.id]||{});
+  }
+  const nuevaClave={};
+  for(const e of partes){
+    for(const q of e.qs){
+      const k=(KEY[e.id]||{})[q.n];
+      if(k)nuevaClave[q.n]=k;
+    }
+  }
+  for(const e of partes){const idx=EX.indexOf(e);if(idx!==-1)EX.splice(idx,1);}
+  EX.push({id:"iar-2026-completo",name:"Últimas IAR 2026 · examen integrado",year:"IAR 2026 · prueba 88 preguntas",qs:[...items.values()].sort((a,b)=>a.n-b.n)});
+  KEY["iar-2026-completo"]=nuevaClave;
+})();
