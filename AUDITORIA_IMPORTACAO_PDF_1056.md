@@ -64,3 +64,26 @@ Também foram removidos 11 cabeçalhos de página que haviam contaminado alterna
 **Pendência importante:** ainda não foi feita auditoria semântica individual de todos os 911 itens restantes (816 excluídos por similaridade, 87 por alternativas incompletas, 4 por repetição interna, 1 por chave e 4 por comprimento, menos 1 já recuperado como duplicata na revisão). O filtro textual conservador inicial não é prova de repetição; não se deve declarar que todos são duplicados nem importar sem revisão. A validade científica das 143 chaves do PDF continua pendente.
 
 Commits: `2904b193d895e52a86c41384f12cfd0c3d58638a` e `ab13eb7a325be19d8e00c1ade88f5f70b13e59a8`.
+
+## Auditoria de integridade e duplicidade — 23/11/2026 (estado verificado)
+
+O site foi rechecado a partir de `index.html` e de todos os arquivos JavaScript de questões efetivamente carregados. O arquivo redundante de 34 itens foi retirado do índice, porque quase todos coincidiam com lotes já publicados. Além disso, identificadores de simulados foram verificados para evitar colisões entre bancos.
+
+- Banco anterior ao PDF: **1153 questões**.
+- Importadas do PDF e ainda carregadas: **212**, distribuídas em `novas_pdf.js` (143); `novas_pdf_lote2.js` (35); `novas_pdf_lote3.js` (10); `novas_pdf_lote4.js` (14); `novas_pdf_validadas.js` (10).
+- Total carregado no simulador: **1365 questões** neste instantâneo.
+- Duplicatas de enunciado normalizado dentro do conjunto importado, frente a todos os blocos carregados: **0**.
+- Novas questões com explicações científicas por alternativa em `novas_pdf_validadas.js`: **10**.
+- Validações adicionais que ainda encontram questão correspondente no banco canônico em `validacao_lotes_pdf.js`: **0** (de 0 regras condicionais, protegidas contra referência ausente).
+- Total de validações novas efetivamente aplicáveis a questões importadas nesta etapa: **10**.
+- Os restantes gabaritos transcritos do PDF continuam sem pontuação até checagem independente; semelhança de tema não é, por si só, duplicidade nem garantia de questão inédita.
+
+### Correções realizadas
+
+1. Remoção do carregamento redundante de `novas_pdf_lote3_5opcoes.js` e exclusão do arquivo de duplicatas.
+2. Remoção de quatro perguntas literalmente duplicadas durante a reconciliação do lote 4, além das exclusões efetuadas em outros lotes.
+3. Migração de validações para o banco que realmente contém as questões, com verificação de existência de chave antes da atribuição.
+4. Revisão de perguntas de cinco alternativas. Uma aparente quinta opção gerada pela quebra de linha de *E. coli* foi descartada como artefato de extração.
+5. Referências consultadas incluem WSES, OMS, AAO EyeWiki, Merck, NIH/NCBI e AAP/HealthyChildren. Os links foram incorporados em cada justificativa validada.
+
+**Limite desta auditoria:** ainda não se pode garantir exclusão semântica de todos os possíveis casos equivalentes com redação totalmente diferente, nem declarar que as 1.056 questões foram individualmente validadas cientificamente. Os números acima descrevem o banco efetivamente publicado no momento da leitura.
