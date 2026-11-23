@@ -1,8 +1,17 @@
-# Auditoría científica — Últimas IAR 2026
+# Auditoría del banco — Últimas IAR 2026
 
-Estado del banco de 88 preguntas. «Validado» indica la clasificación actual en el sitio, no una auditoría clínica independiente de todas las fuentes.
+**88 preguntas en el simulado; 67 con gabarito puntuable; 21 excluidas por ambigüedad, defectos del PDF o falta de evidencia suficiente.**
 
-| Número | Estado | Clave | Puntuable | Referencia |
+> «Validado» indica el estado de la corrección integrada en el sitio; no implica revisión externa independiente de cada fuente. Las exclusiones no significan respuestas correctas o incorrectas.
+
+## Imágenes electrocardiográficas incluidas
+
+- [Pregunta 3: ECG del PDF](assets/ecg-iar-2026-03.webp) — no puntuable por interpretación no inequívoca.
+- [Pregunta 80: ECG del PDF](assets/ecg-iar-2026-80.png) — flutter auricular, opción B; comparación con recomendaciones ACC/AHA.
+
+## Inventario y referencias
+
+| N.º | Estado | Clave | Puntuable | Referencia |
 |---:|---|:---:|:---:|---|
 | 1 | validado | B | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/NBK555955/) |
 | 2 | validado | B | Sí | [Fuente](https://www.niddk.nih.gov/health-information/digestive-diseases/dermatitis-herpetiformis) |
@@ -83,7 +92,7 @@ Estado del banco de 88 preguntas. «Validado» indica la clasificación actual e
 | 77 | validado | B | Sí | [Fuente](https://www.cancer.gov/about-cancer/diagnosis-staging/staging) |
 | 78 | validado | D | Sí | [Fuente](https://www.cdc.gov/traumatic-brain-injury/hcp/clinical-guidance/index.html) |
 | 79 | validado | B | Sí | [Fuente](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/maternal-mortality) |
-| 80 | discutible | B | No | Sin enlace |
+| 80 | validado | B | Sí | [Fuente](https://www.jacc.org/doi/10.1016/j.jacc.2023.08.017) |
 | 81 | validado | A | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/NBK560779/) |
 | 82 | validado | C | Sí | [Fuente](https://www.ncbi.nlm.nih.gov/books/NBK538163/) |
 | 83 | discutible | D | No | Sin enlace |
@@ -93,13 +102,13 @@ Estado del banco de 88 preguntas. «Validado» indica la clasificación actual e
 | 87 | discutible | — | No | Sin enlace |
 | 88 | validado | B | Sí | [Fuente](https://www.nice.org.uk/guidance/cg188) |
 
-## Limitaciones documentadas
+## Restricciones de origen
 
-- Pregunta 6: sin opciones en el PDF fuente; no se inventan alternativas.
-- Pregunta 3: ECG de legibilidad insuficiente para adjudicar una clave con seguridad.
-- Pregunta 80: patrón que sugiere flutter auricular; pendiente de mostrar el ECG en el simulacro.
-- Algunos enlaces bibliográficos requieren validación individual de vigencia y pertinencia.
+- Pregunta 6: no contiene opciones legibles en el PDF proporcionado; no se inventa una clave.
+- Pregunta 3: aunque se reproduce el ECG, la calidad del original es limitada; continúa excluida de la puntuación.
+- Para preguntas ambiguas, las explicaciones científicas no deben confundirse con un gabarito oficial.
+- Los enlaces bibliográficos no sustituyen una evaluación individual del texto clínico de cada referencia.
 
-## Ítems sin puntuación
+## Preguntas sin puntuación
 
-3, 6, 8, 20, 21, 22, 31, 36, 37, 38, 54, 55, 59, 63, 64, 67, 71, 75, 80, 83, 84, 87
+3, 6, 8, 20, 21, 22, 31, 36, 37, 38, 54, 55, 59, 63, 64, 67, 71, 75, 83, 84, 87
