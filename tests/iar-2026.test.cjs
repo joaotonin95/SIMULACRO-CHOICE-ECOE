@@ -36,7 +36,7 @@ for(const q of exam.qs){
  if(!k.a||k.status!=='validado'||k.calificable===false)pending.push(q.n);
 }
 for(const q of exam.qs){const k=key[q.n];if(k.status==='validado'&&k.a&&k.calificable!==false){assert.ok(k.why&&k.src&&k.src_url,'Qualified item without explanation/reference: '+q.n);assert.ok(/^https:\/\//.test(k.src_url),'Invalid source URL: '+q.n);assert.equal(Object.keys(k.o||{}).length,3,'Expected 3 distractor explanations for '+q.n);assert.ok(!Object.values(k.o).some(v=>/No corresponde al mecanismo|No es la mejor respuesta en el escenario descrito/.test(v)),'Generic explanation in '+q.n);}}
-assert.equal(pending.length,21,'Review exclusions changed: audit before changing expected count');
+assert.equal(pending.length,18,'Review exclusions changed: audit before changing expected count');
 assert.ok(pending.includes(6)&&pending.includes(3)&&!pending.includes(80));
 assert.ok(html.includes('src="app.js"'));
 assert.ok(initialExams.length>0);
@@ -44,7 +44,7 @@ const shown=vm.runInContext('typeof home==="function"',context);
 assert.equal(shown,true);
 vm.runInContext('S.year="IAR 2026 · prueba 88 preguntas";home()',context);
 assert.ok(appElement.innerHTML.includes('Últimas IAR 2026'));
-assert.ok(appElement.innerHTML.includes('21 sin puntuación definitiva'));
+assert.ok(appElement.innerHTML.includes('18 sin puntuación definitiva'));
 
 assert.equal(vm.runInContext('needsReview(KEY["iar-2026-completo"][80])',context),false,'ECG 80 with source image should be scored');
 assert.equal(vm.runInContext('needsReview(KEY["iar-2026-completo"][6])',context),true,'Incomplete question must not score');
@@ -63,4 +63,4 @@ vm.runInContext('S.st={3:{a:"C",c:1,ok:true}}; S.i=2; quiz()',context);
 assert.ok(!appElement.innerHTML.includes('1 correctas'),'Ambiguous ECG 3 must remain unscored');
 assert.ok(appElement.innerHTML.includes('assets/ecg-iar-2026-03.webp'),'ECG image must display in question 3');
 
-console.log('PASS: full script initialization; 88 questions; 21 non-scored; home UI; key integrity.');
+console.log('PASS: full script initialization; 88 questions; 18 non-scored; home UI; key integrity.');
