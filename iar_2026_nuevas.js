@@ -279,3 +279,20 @@ const refs={
 };
 for(const [n,[src,url]] of Object.entries(refs)){if(k[n]?.status==="validado"){k[n].src=src;k[n].src_url=url;}}
 })();
+
+/* Referencias clínicas cotejadas con guías vigentes y advertencias de lectura. */
+(function(){
+const k=KEY["iar-2026-completo"];if(!k)return;
+Object.assign(k[8],{
+ status:"discutible",calificable:false,
+ why:"La opción B contiene un error farmacológico: pirimetamina+sulfadiazina se administra con ácido FOLÍNICO (leucovorina), no ácido fólico. Las guías NIH de infecciones oportunistas en VIH también admiten TMP-SMX como régimen preferido cuando pirimetamina no está disponible; el enunciado no permite clave única fiel a guías vigentes.",
+ src:"NIH ClinicalInfo, Toxoplasma gondii Encephalitis; revisión de 18/11/2026.",
+ src_url:"https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/toxoplasmosis"
+});
+Object.assign(k[54],{
+ status:"discutible",calificable:false,
+ why:"El PDF pregunta por modalidad inicial sin precisar embarazo, sospecha ginecológica ni estratificación. ACR califica TC abdomen-pelvis con contraste como usualmente apropiada para dolor en fosa ilíaca derecha del adulto; CAR/CETARS/CSAR contempla ecografía en menores de 30 años y sospecha ginecológica. Por eso las opciones A, B y C pueden variar según el escenario y no debe imponerse una única clave.",
+ src:"ACR Appropriateness Criteria: Right Lower Quadrant Pain; CAR/CETARS/CSAR 2024.",
+ src_url:"https://acsearch.acr.org/docs/69357/Narrative/"
+});
+})();
