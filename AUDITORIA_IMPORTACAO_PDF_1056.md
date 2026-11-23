@@ -132,3 +132,51 @@ Atualização importante: a vacina BCG intradérmica do Lote 2 recebeu revisão 
 Com `novas_pdf.js` (143 questões, chaves ainda provisórias) e `novas_pdf_lote2.js` (35 questões), o total de questões **efetivamente carregadas pelo site** é **1.331** = 1.153 originais + 143 primeiro lote + 35 segundo lote. Isso retifica o total anterior de 1.296, que não incluía o segundo lote já ativo no HTML. A validação final das 143 questões do primeiro lote permanece pendente.
 
 Commits de validação: `9252b1b96a05b2a57768a663bac0c1447abd3463` e `9fc9fa23943ca3f71d7e16bd5aa32997097e8ab2`.
+
+## FINAL — Revisão científica integral das questões importadas (23/11/2026)
+
+**Estado vigente — substitui as pendências históricas das seções anteriores.** Todos os **178 itens efetivamente importados do PDF** foram examinados individualmente quanto à plausibilidade do gabarito, justificativa e alternativas. O repositório contém 143 questões do 1º lote e 35 do 2º lote. As marcações abaixo representam revisão bibliográfica feita neste projeto, **não validação formal por comissão médica externa**.
+
+| Conjunto | Analisadas | `validado` (pontua) | `discutible` (não pontua) |
+| --- | ---: | ---: | ---: |
+| 1º lote — Cirugía | 9 | 7 | 2 |
+| 1º lote — Digestivo | 13 | 9 | 4 |
+| 1º lote — Emergentología | 7 | 6 | 1 |
+| 1º lote — Ginecología y Obstetricia | 32 | 24 | 8 |
+| 1º lote — Hematología | 7 | 6 | 1 |
+| 1º lote — Infectología | 15 | 12 | 3 |
+| 1º lote — Neurología | 9 | 6 | 3 |
+| 1º lote — Oftalmología | 2 | 2 | 0 |
+| 1º lote — Pediatría | 20 | 16 | 4 |
+| 1º lote — Nefrología | 5 | 5 | 0 |
+| 1º lote — Neumonología | 18 | 9 | 9 |
+| 1º lote — Reumatología | 3 | 2 | 1 |
+| 1º lote — Toxicología | 3 | 2 | 1 |
+| **Total primeiro lote** | **143** | **106** | **37** |
+| **Segundo lote** | **35** | **29** | **6** |
+| **TOTAL IMPORTADO** | **178** | **135** | **43** |
+
+Verificação automatizada de consistência realizada após os commits:
+- **178/178** possuem status final definido e explicação individualizada; nenhum item dos lotes importados permanece sem tratamento.
+- **178/178** têm justificativa da correta, comentários de alternativas, citação de fonte e campo de URL. O fato de um link estar registrado não significa que cada URL tenha sido submetida a um teste automatizado externo de disponibilidade.
+- **0** gabaritos efetivos fora das letras A–D, **0** questões sem quatro alternativas, **0** perguntas sem fonte registrada.
+- **0** itens com status `validado` foram sinalizados indevidamente como pendentes pelo padrão de palavras atual da função `needsReview`.
+- Questões `discutible` continuam exibidas para treinamento, mas o site não atribui nota à resposta enquanto não houver enunciado/opções corrigidos.
+- Total atual carregado: **1.331 questões** (1.153 anteriores + 178 importadas). **Não confundir** essa auditoria das importadas com a validação científica ainda separada do banco antigo de 326 perguntas por especialidade.
+
+### Correções de gabarito / segurança particularmente relevantes
+
+1. Pediatría 1: ganho de peso neonatal corrigido da letra A para **B** (20–30 g/dia no 1º mês, após perda inicial).
+2. Neurología 7: o PDF indicava hepatotoxicidade da gabapentina; a eliminação é **renal**. Questão ficou `discutible` pela redação inadequada ('toxicidade renal' em vez de risco de acumulação).
+3. Toxicología 3: ranitidina, retirada por NDMA em 2020, teve formulação reapro-vada pela FDA em 2025, tornando a pergunta dependente de país/data; anulada.
+4. Pediatría 4: bronquiolite com SpO₂ 89% exige oxigênio/suporte, sem salbutamol/corticoides rotineiros; anulada por ausência de opção correta.
+5. Ginecología 22/26/29: atualizar esquemas de gonorreia/cervicite, doença inflamatória pélvica com DIU e sífilis congênita; questões sem gabarito único seguro/anuladas.
+6. Neumonología 7: TEP com choque não deve aguardar angio-TC se deslocamento inseguro/reperfusão urgente indicada; anulada.
+7. Neumonología 17: penicilina V oral por 10 dias **e** penicilina benzatina IM dose única são ambas opções de primeira linha para faringite por estreptococo; anulada.
+
+### Arquivos e commits
+
+- `novas_pdf.js` — todos os 143 itens do primeiro lote revisados; commits finais desta etapa: `434b9475038fb3ded06ed1a5c4f7e9305b7d65de`, `279816683e90f0cecc81f50304c3285c4bf2a9ca`, `93ad781eeed90b1f3106f3b0e88d0653e8ac345b`, `415e6c97bcbe54e5a2f77ecfe2ba200ac17e603a`, `718a2414733b6b6f96a65d315f103f615c15929b`, `2069435ca4614e0f4f8ef2646736093822896b85`, `18668a0db88fdb218c8fe369129a573f5b71672c`, `9399fe46bd389e2523461b732a0a3d11154d989f`, `65b9ec547f4c037918a4fb0544c79c09165e9b1f`, `35140084e7e41368f04f418c31617f3433815f6a`.
+- `novas_pdf_lote2.js` — segundo lote: commits `9252b1b96a05b2a57768a663bac0c1447abd3463`, `9fc9fa23943ca3f71d7e16bd5aa32997097e8ab2`.
+
+**Próxima revisão distinta desta tarefa:** consolidar/reescrever as **43** perguntas anuladas antes de liberá-las com pontuação; manter a auditoria do banco pré-existente em separado.
