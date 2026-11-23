@@ -15,7 +15,7 @@ setInterval(timerRefresh,500);
 
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function isProvisional(k){return !!(k&&(k.status==='provisional'||/Revisar con bibliografía actualizada|todavía no se ha validado individualmente/i.test(k.why||'')))}
-function needsReview(k){return !!(k&&((k.status==='discutible'||k.status==='provisional')||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
+function needsReview(k){return !!(k&&((k.status==='discutible'||k.status==='provisional'||k.status==='provisional')||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
 function home(){
   timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year='Por especialidad';
   let h='<h1>CHOICES Final de Carrera – UAI</h1><p class="sub">Simulacros por año y por especialidad · '+EX.reduce((a,e)=>a+e.qs.length,0)+' preguntas · tu avance se guarda en este navegador</p><div class="years">';
@@ -34,7 +34,7 @@ function quiz(){
   if(S.review&&wrong.length&&!wrong.some(v=>v.j===S.i))S.i=wrong[0].j;
   const q=e.qs[S.i],st=S.st[q.n]||{},k=(KEY[e.id]||{})[q.n];
   const done=e.qs.filter(x=>S.st[x.n]?.c).length;
-  const graded=e.qs.map(x=>S.st[x.n]).filter(v=>v&&v.c&&v.ok!==undefined);
+  const graded=e.qs.filter(x=>!needsReview((KEY[e.id]||{})[x.n])).map(x=>S.st[x.n]).filter(v=>v&&v.c&&v.ok!==undefined);
   let h='<div class="top"><button class="link" id="back">← Simulacros</button><span class="stats">'+done+' / '+e.qs.length+' respondidas'+(graded.length?' · '+graded.filter(v=>v.ok).length+' correctas':'')+'</span></div>';
   h+='<div class="progress-line" role="progressbar" aria-label="Progreso del examen" aria-valuenow="'+done+'" aria-valuemin="0" aria-valuemax="'+e.qs.length+'"><span style="width:'+(100*done/e.qs.length)+'%"></span></div>';
   h+='<div class="timer"><span>⏱ Tiempo: <span class="timer-time" id="clock">'+timerFmt(timerMs())+'</span></span><button class="btn" id="timer-toggle">'+(S.timer?.running?'Pausar':'Retomar')+'</button><span class="timer-note">Tiempo efectivo de resolución</span></div>';
