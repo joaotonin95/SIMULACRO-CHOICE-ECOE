@@ -14,8 +14,8 @@ function timerRefresh(){const clock=document.getElementById('clock'),btn=documen
 setInterval(timerRefresh,500);
 
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function isProvisional(k){return !!(k&&/Revisar con bibliografía actualizada|todavía no se ha validado individualmente/i.test(k.why||''))}
-function needsReview(k){return !!(k&&(k.status==='discutible'||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
+function isProvisional(k){return !!(k&&(k.status==='provisional'||/Revisar con bibliografía actualizada|todavía no se ha validado individualmente/i.test(k.why||'')))}
+function needsReview(k){return !!(k&&((k.status==='discutible'||k.status==='provisional')||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
 function home(){
   timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year='Por especialidad';
   let h='<h1>CHOICES Final de Carrera – UAI</h1><p class="sub">Simulacros por año y por especialidad · '+EX.reduce((a,e)=>a+e.qs.length,0)+' preguntas · tu avance se guarda en este navegador</p><div class="years">';
