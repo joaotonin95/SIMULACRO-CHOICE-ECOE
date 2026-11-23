@@ -268,3 +268,14 @@ k[36].status="discutible";k[36].calificable=false;k[36].why="Prevención cuatern
 k[31].status="discutible";k[31].calificable=false;k[31].why="Muerte por arma de fuego es muerte violenta de investigación judicial; se requiere constatar fallecimiento, preservar escena y comunicar a autoridad competente, sin certificado ordinario de muerte natural. El orden exacto de llamadas/constatación depende de protocolo local y seguridad; no debe imponerse una secuencia universal.";
 k[83].status="discutible";k[83].calificable=false;k[83].why="El ABCDE clásico comienza con vía aérea y protección cervical, pero la hemorragia arterial externa exanguinante debe controlarse inmediatamente (xABCDE/C-ABC) en paralelo o antes de intervenciones prolongadas de vía aérea. Las opciones B y D fuerzan secuencia rígida en paciente con ambas amenazas; requiere actuación simultánea.";
 })();
+
+/* Auditoría de trazabilidad: completar referencias faltantes en claves calificables. */
+(function(){
+const k=KEY["iar-2026-completo"];if(!k)return;
+const refs={
+26:["ENETS: guía de tumores neuroendocrinos apendiculares (consulta bibliográfica).","https://pubmed.ncbi.nlm.nih.gov/?term=ENETS+appendiceal+neuroendocrine+tumors+guidance"],
+40:["NCBI Bookshelf: alveolar epithelial type I and II cells (consulta bibliográfica).","https://www.ncbi.nlm.nih.gov/books/?term=alveolar+type+I+type+II+pneumocytes"],
+42:["IDSA: diagnóstico de infección del torrente sanguíneo relacionada con catéter; tiempo diferencial de positividad.","https://www.idsociety.org/practice-guideline/intravascular-catheter-related-infection/"]
+};
+for(const [n,[src,url]] of Object.entries(refs)){if(k[n]?.status==="validado"){k[n].src=src;k[n].src_url=url;}}
+})();
