@@ -44,4 +44,19 @@ assert.equal(shown,true);
 vm.runInContext('S.year="IAR 2026 · prueba 88 preguntas";home()',context);
 assert.ok(appElement.innerHTML.includes('Últimas IAR 2026'));
 assert.ok(appElement.innerHTML.includes('22 sin puntuación definitiva'));
+
+assert.equal(vm.runInContext('needsReview(KEY["iar-2026-completo"][80])',context),true,'ECG without image must not score');
+assert.equal(vm.runInContext('needsReview(KEY["iar-2026-completo"][6])',context),true,'Incomplete question must not score');
+assert.equal(vm.runInContext('needsReview(KEY["iar-2026-completo"][49])',context),false,'Verified Swan-Ganz item should score');
+// Reproduce an outdated saved answer and ensure scoring uses the CURRENT key rather than stored ok.
+vm.runInContext('S.ex=EX.find(e=>e.id==="iar-2026-completo"); S.year=S.ex.year; S.i=0; S.st={1:{a:"A",c:1,ok:true}}; quiz()',context);
+assert.ok(appElement.innerHTML.includes('0 correctas'),'Stored ok=true must not override current wrong answer');
+assert.ok(appElement.innerHTML.includes('Revisar errores (1)'),'Wrong-answer review must use current key');
+vm.runInContext('S.st={1:{a:"B",c:1,ok:false}}; quiz()',context);
+assert.ok(appElement.innerHTML.includes('1 correctas'),'Stored ok=false must not override current correct answer');
+assert.ok(appElement.innerHTML.includes('Revisar errores (0)'),'Correct answers must not be shown as errors');
+vm.runInContext('S.st={80:{a:"B",c:1,ok:true}}; S.i=79; quiz()',context);
+assert.ok(!appElement.innerHTML.includes('1 correctas'),'Non-scorable ECG must not be counted');
+assert.ok(appElement.innerHTML.includes('no se califica'),'Non-scorable ECG must show warning');
+
 console.log('PASS: full script initialization; 88 questions; 22 non-scored; home UI; key integrity.');
