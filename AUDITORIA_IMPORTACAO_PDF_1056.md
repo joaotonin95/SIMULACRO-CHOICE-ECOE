@@ -100,3 +100,16 @@ O site foi rechecado a partir de `index.html` e de todos os arquivos JavaScript 
 5. Referências consultadas incluem WSES, OMS, AAO EyeWiki, Merck, NIH/NCBI e AAP/HealthyChildren. Os links foram incorporados em cada justificativa validada.
 
 **Limite desta auditoria:** ainda não se pode garantir exclusão semântica de todos os possíveis casos equivalentes com redação totalmente diferente, nem declarar que as 1.056 questões foram individualmente validadas cientificamente. Os números acima descrevem o banco efetivamente publicado no momento da leitura.
+
+
+## Estado conciliado após deduplicação cruzada — 23/11/2026
+
+- **PDF:** 1.056 perguntas, 13 blocos, 577 páginas.
+- **Base original no SITE CHOICES UAI:** 1.153 perguntas.
+- **Importações efetivamente presentes nos arquivos ativos:** **211** questões do PDF com origem distinta.
+- **Total configurado no site:** **1.364** perguntas.
+- **Entre as importadas:** 18 marcadas como validadas, 183 provisórias e 10 discutíveis; questões provisórias e discutíveis não devem ser pontuadas.
+- **Entradas do PDF ainda não incorporadas:** **845** (isso NÃO significa 845 perguntas novas: a maioria requer distinguir repetição, estrutura incompleta e diferenças clínicas).
+- Uma repetição confirmada, **Digestivo nº 83 (sucralfato/ação inespecífica)**, já constava no simulado de **diciembre-2022 nº 70** e foi retirada do lote 4.
+- Itens de cinco alternativas foram considerados, não apenas questões A–D. Os arquivos do site estão ordenados para carregar a base, lotes e correções antes de `app.js`.
+- A auditoria linha a linha de todas as entradas foi atualizada em [`AUDITORIA_COMPLETA_PDF_1056.json`](./AUDITORIA_COMPLETA_PDF_1056.json). **O relatório registra triagem automatizada; as 845 entradas restantes ainda exigem decisões semânticas e científicas, não estão todas validadas.**
