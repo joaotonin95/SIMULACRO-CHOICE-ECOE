@@ -321,6 +321,10 @@ for (const exam of [...EX]) {
   EX.splice(EX.indexOf(exam), 1);
 }
 
+for (const exam of EX) {
+  if (['iar-2026-completo', 'iar-agosto-2026'].includes(exam.id)) exam.year = '2026';
+}
+
 const L='ABCDE';
 let S={year:null,ex:null,i:0,st:{},review:false,timer:null};
 const app=document.getElementById('app');
