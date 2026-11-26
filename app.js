@@ -14,11 +14,125 @@ for(const [id,n,j,stem,opt,why,o,src,src_url] of [["iar-2026-completo",3,2,"Homb
 
 for(const [id,n,j,stem,opt,why,wrong,src,src_url] of [["area-2",5,1,"Taquicardia regular de QRS ancho de origen incierto en adulto. ¿Qué diagnóstico debe presumirse para orientar el manejo inicial?","Taquicardia ventricular","Una taquicardia de complejo ancho de origen incierto debe manejarse como TV hasta aclarar su mecanismo.",["La TSV con aberrancia es posible pero no debe presumirse.","Flutter con aberrancia es posible pero requiere confirmación.","FA suele ser irregular."],"AHA ALS","https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-advanced-life-support"],["area-2",9,1,"Varón de 72 años con dolor isquémico e infradesnivel ST V1–V3. ¿Qué conducta permite detectar y tratar una posible oclusión posterior?","Registrar V7–V9 y activar evaluación urgente para reperfusión si se confirma o persiste sospecha de oclusión.","El descenso anterior puede representar elevación posterior recíproca. No esperar troponinas para evaluar una oclusión aguda.",["Troponina elevada sola no indica fibrinólisis.","No se indica fibrinólisis indiscriminadamente.","No debe clasificarse automáticamente como infarto no Q."],"ESC ACS 2023","https://academic.oup.com/eurheartj/article/44/38/3720/7243210"],["area-3",12,1,"Paciente con EPOC, exacerbaciones persistentes pese a LABA/LAMA y eosinófilos 350/µL. ¿Escalamiento inhalatorio preferido?","Agregar corticoide inhalado (triple terapia).","Los eosinófilos elevados predicen mayor beneficio del corticoide inhalado en prevención de exacerbaciones.",["Aumentar dosis no es la estrategia habitual.","Teofilina tiene beneficio limitado y toxicidad.","Oxígeno domiciliario requiere hipoxemia crónica documentada."],"GOLD","https://goldcopd.org/"],["area-3",13,1,null,"Salbutamol inhalado repetido, oxígeno titulado, ipratropio y corticoide sistémico precoz.","La dificultad para hablar y la hipoxemia requieren tratamiento urgente combinado.",["Budesonida-formoterol sola no basta en este cuadro.","Corticoide aislado no produce broncodilatación inmediata.","Adrenalina no se indica de rutina sin anafilaxia."],"GINA","https://ginasthma.org/"],["area-4",12,1,"Paciente cirrótico con hemorragia varicosa esofágica confirmada, tras reanimación inicial e inicio de vasoactivo y antibiótico. ¿Tratamiento endoscópico de elección?","Ligadura endoscópica de várices esofágicas.","La ligadura es el tratamiento endoscópico de elección para sangrado varicoso esofágico; endoscopia dentro de 12 horas tras reanimación.",["Vitamina K no controla directamente la hemorragia.","Plaquetas no sustituyen hemostasia endoscópica.","Antibióticos son coadyuvantes ya iniciados."],"Baveno VII","https://doi.org/10.1016/j.jhep.2021.12.022"],["area-5",17,0,"Mujer de 42 años con aumento de peso, cansancio, constipación, TSH elevada, T4 libre baja y anti-TPO positivos. ¿Diagnóstico más probable?","Hipotiroidismo primario por tiroiditis de Hashimoto.","El perfil hormonal indica hipotiroidismo primario y los anti-TPO apoyan etiología autoinmune.",["Cushing no explica este perfil tiroideo.","Anemia no explica el patrón hormonal.","Hipogonadismo no explica el patrón hormonal."],"NICE NG145","https://www.nice.org.uk/guidance/ng145"],["area-5",20,1,null,"Anticuerpos anti-TPO.","Anti-TPO es el marcador serológico habitual de autoinmunidad tiroidea en hipotiroidismo primario.",["Anti-tiroglobulina puede ser positivo, pero anti-TPO es el marcador preferido.","TRAb se asocia principalmente a Graves.","Anti-transglutaminasa se utiliza en celiaquía."],"NICE NG145","https://www.nice.org.uk/guidance/ng145"],["area-7",9,0,"Según OMS, ¿cuál es la recomendación mínima de ecografía prenatal de rutina para datación y evaluación fetal?","Al menos una ecografía antes de las 24 semanas.","La OMS recomienda una ecografía antes de 24 semanas; estudios adicionales dependen del protocolo y la indicación.",["Dos no es el mínimo universal OMS.","No exige una ecografía al final en todas las gestaciones.","Cuatro no es el mínimo universal."],"OMS atención prenatal","https://www.who.int/publications/i/item/9789240046009"],["area-7",17,3,"Mujer de 30 años con ASC-US y VPH de alto riesgo positivo, antecedentes de cribado desconocidos. Según ASCCP, ¿conducta?","Colposcopia.","ASC-US con VPH positivo e historia desconocida alcanza el umbral de riesgo para colposcopia.",["Biopsia se dirige según hallazgos colposcópicos.","Legrado no es la primera intervención universal.","Repetición aislada no es la conducta indicada en este escenario."],"ASCCP 2019","https://doi.org/10.1097/LGT.0000000000000525"],["area-7",24,1,"Embarazada de 16 semanas asintomática con urocultivo de E. coli ≥100.000 UFC/mL sensible a cefalexina. ¿Conducta?","Cefalexina 500 mg cada 6 horas durante 5–7 días; considerar urocultivo de control.","La bacteriuria asintomática significativa en gestación requiere tratamiento dirigido para reducir pielonefritis.",["Fluoroquinolonas no son primera elección en gestación.","No es necesario demorar tratamiento para repetir un cultivo válido.","La ausencia de síntomas no elimina la indicación."],"ACOG 2023","https://www.acog.org/clinical/clinical-guidance/clinical-consensus/articles/2023/08/urinary-tract-infections-in-pregnant-individuals"],["area-8",17,0,"Niño de 2 años con fiebre y convulsión generalizada que continúa tras cinco minutos, sin acceso IV. ¿Rescate entre estas opciones?","Diazepam rectal.","Una convulsión activa de cinco minutos requiere benzodiacepina de rescate; vía rectal es una opción sin acceso IV.",["Diazepam IM tiene absorción poco fiable.","Lorazepam IM no es la vía habitual de rescate.","Fenitoína es segunda línea en escenarios seleccionados."],"NICE NG217","https://www.nice.org.uk/guidance/ng217"],["area-8",18,0,"Niño de 7 años con claudicación progresiva durante dos meses, afebril, limitación de rotación interna y abducción de cadera. RM muestra osteonecrosis epifisaria femoral. ¿Diagnóstico?","Legg-Calvé-Perthes.","La osteonecrosis de la epífisis femoral infantil define Perthes.",["Artritis séptica suele ser aguda y no explica el patrón típico.","Luxación congénita no es osteonecrosis epifisaria.","Sinovitis transitoria suele ser autolimitada."],"AAOS OrthoInfo","https://orthoinfo.aaos.org/en/diseases--conditions/perthes-disease/"],["area-8",22,1,"Niño de 4 años conviviente de adulto con TB pulmonar bacteriológicamente confirmada y sensible. Se descartó TB activa en el niño. ¿Conducta?","Iniciar tratamiento preventivo de tuberculosis según esquema apropiado.","OMS recomienda tratamiento preventivo a contactos domiciliarios menores de cinco años tras excluir enfermedad activa.",["La evaluación ya se completó.","Esperar síntomas pierde oportunidad preventiva.","Cultivo de esputo no sustituye prevención."],"OMS TB preventive treatment 2024","https://www.who.int/publications/i/item/9789240096196"],["area-8",38,0,"Según calendario argentino, ¿qué vacuna corresponde dentro de las primeras 12 horas de vida?","Hepatitis B.","Hepatitis B se administra dentro de las primeras 12 horas; BCG antes del egreso de maternidad.",["Triple viral corresponde a edades posteriores.","Pentavalente se inicia posteriormente.","Rotavirus se inicia posteriormente."],"Calendario Nacional Argentina","https://www.argentina.gob.ar/salud/vacunas"],["area-8",44,0,"Niño con síndrome nefrótico presenta fiebre y dolor abdominal difuso con ascitis. ¿Qué complicación infecciosa debe sospecharse?","Peritonitis bacteriana espontánea.","La pérdida de proteínas inmunitarias y ascitis favorecen infecciones invasivas, incluida peritonitis.",["Trombosis es una complicación no infecciosa.","IRA no es diagnóstico infeccioso.","HTA no explica fiebre y dolor abdominal."],"KDIGO nefrosis pediátrica 2025","https://kdigo.org/guidelines/nephrotic-syndrome-in-children/"]]){const q=EX.find(e=>e.id===id).qs.find(q=>q.n===n);q.q=(stem||q.q)+' [Adaptada para estudio.]';q.o[j]=opt;if(id==='area-5'&&n===20)q.o[3]='Anticuerpos anti-transglutaminasa';const o={};q.o.forEach((_,i)=>{if(i!==j)o['ABCDE'[i]]=wrong.shift()});KEY[id][n]={a:'ABCDE'[j],why,o,src,src_url,status:'fundamentada',calificable:true};}
 
+const clinicalRevisions = [
+  {
+    ids: [['area-10',11]],
+    stem: 'Adulto con FA sin anticoagulación, hemiparesia incapacitante de dos horas, glucemia normal y TA 160/90. La TC excluye hemorragia y la angio-TC no muestra oclusión de gran vaso. Es elegible para reperfusión. ¿Qué tratamiento corresponde ahora?',
+    options: ['Heparina intravenosa inmediata','Trombólisis intravenosa','Aspirina como único tratamiento inicial','Esperar una RM cerebral antes de tratar'],
+    a: 'B', why: 'El déficit incapacitante, la ventana de dos horas y la exclusión de hemorragia permiten indicar trombólisis IV sin demora.',
+    o: {A:'La heparina no reperfunde el tejido isquémico y aumenta el riesgo hemorrágico.',C:'La aspirina sola pierde la oportunidad de reperfusión.',D:'La TC ya permitió decidir la elegibilidad.'},
+    src: 'AHA/ASA 2026, manejo inicial del ACV isquémico', src_url:'https://doi.org/10.1161/STR.0000000000000513'
+  },
+  {
+    ids: [['area-16',1]],
+    stem:'Adolescente con escroto agudo. La evaluación clínica deja dudas sobre torsión y se dispone de imagen inmediata sin demorar la evaluación quirúrgica. ¿Qué estudio permite valorar la perfusión testicular?',
+    options:['Ecografía Doppler','Radiografía simple','TC sin contraste','RM sin contraste'],a:'A',
+    why:'El Doppler compara el flujo de ambos testículos. Puede persistir flujo en una torsión parcial. Si la sospecha clínica es alta, se indica exploración quirúrgica urgente.',
+    o:{B:'La radiografía no muestra flujo intratesticular.',C:'La TC no es el estudio inicial del escroto agudo.',D:'La RM demora la evaluación y no es la primera elección.'},
+    src:'EAU, Paediatric Urology 2026, Acute scrotum',src_url:'https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Paediatric-Urology-2026.pdf'
+  },
+  {
+    ids:[['area-16',3]],stem:'Varón de 22 años con dolor epididimario progresivo, secreción uretral y nueva pareja sexual. Se descartó torsión. Sin alergias ni factores de riesgo para enterobacterias. Se toman muestras para gonococo y clamidia. ¿Qué tratamiento iniciar?',
+    options:['Exploración quirúrgica','Ceftriaxona IM más doxiciclina oral y analgesia','Orquiectomía','Drenaje de absceso'],a:'B',
+    why:'La epididimitis probablemente gonocócica o clamidial requiere cobertura empírica para ambos microorganismos mientras se esperan los resultados.',
+    o:{A:'Se descartó torsión y la presentación es infecciosa.',C:'La epididimitis no complicada se trata con antibióticos.',D:'No se describe una colección.'},
+    src:'Guía europea de epididimoorquitis 2024, publicada en 2025',src_url:'https://doi.org/10.1111/jdv.20865'
+  },
+  {
+    ids:[['area-17',1]],stem:'Una paciente con panuveítis, exantema palmoplantar y pruebas treponémica y no treponémica reactivas sin tratamiento previo presenta pérdida visual. ¿Qué infección explica el cuadro y requiere tratamiento específico urgente?',
+    options:['Tuberculosis','Sarcoidosis','Sífilis ocular','Toxoplasmosis ocular'],a:'C',
+    why:'La panuveítis puede ser manifestación de sífilis. El exantema y ambas pruebas reactivas orientan el diagnóstico. Requiere evaluación oftalmológica y tratamiento según el esquema de neurosífilis.',
+    o:{A:'La tuberculosis puede causar uveítis, pero no explica esta combinación de exantema y serología.',B:'Es una enfermedad inflamatoria granulomatosa.',D:'Es otra causa de uveítis posterior, pero el cuadro sistémico y la serología orientan a sífilis.'},
+    src:'CDC, Neurosyphilis, Ocular Syphilis, & Otosyphilis, 2026',src_url:'https://www.cdc.gov/syphilis/hcp/neurosyphilis-ocular-syphilis-otosyphilis/'
+  },
+  {
+    ids:[['area-17',2],['febrero-2025',22]],stem:'En un adolescente con queratocono, ¿qué hábito conviene identificar y desalentar por su asociación con la progresión de la ectasia?',
+    options:['Usar anteojos para leer','Frotarse los ojos con frecuencia','Leer con luz artificial','Usar lentes con filtro ultravioleta'],a:'B',
+    why:'El frotamiento ocular repetido se asocia con progresión del queratocono. Conviene preguntar por prurito y tratar la causa que favorece el frotamiento.',
+    o:{A:'La corrección óptica no provoca la ectasia.',C:'La iluminación de lectura no es el factor mecánico asociado.',D:'El uso de filtro ultravioleta no se considera un factor de progresión.'},
+    src:'American Academy of Ophthalmology, Corneal Ectasia Preferred Practice Pattern, 2024',src_url:'https://www.aaojournal.org/article/S0161-6420(24)00010-1/fulltext'
+  },
+  {
+    ids:[['area-9',6]],stem:'Un trabajador rural del norte bonaerense presenta fiebre, petequias, leucopenia y plaquetopenia tras exposición a roedores. Se detecta ARN del virus Junín. ¿Cuál es el diagnóstico?',
+    options:['Fiebre hemorrágica argentina','Hantavirosis','Leptospirosis','Dengue'],a:'A',
+    why:'El virus Junín causa fiebre hemorrágica argentina. La exposición rural en la zona endémica orienta la sospecha y la identificación del agente distingue esta infección de otras zoonosis.',
+    o:{B:'Los hantavirus son agentes distintos del virus Junín.',C:'La leptospirosis es bacteriana.',D:'El dengue es una arbovirosis transmitida principalmente por mosquitos Aedes.'},
+    src:'Ministerio de Salud de la Nación, Boletín Epidemiológico Nacional, SE 39 de 2026',src_url:'https://www.argentina.gob.ar/node/517597'
+  },
+  {
+    ids:[['area-20',4]],stem:'Se prescribe vancomicina IV 1 g, diluida hasta un volumen final de 200 mL, a pasar en 2 horas. ¿A qué velocidad se programa la bomba?',
+    options:['200 mL/h','50 mL/h','100 mL/h','150 mL/h'],a:'C',
+    why:'200 mL divididos por 2 horas dan 100 mL/h. La concentración es 5 mg/mL y se administran aproximadamente 8,3 mg/min.',
+    o:{A:'Completaría la infusión en una hora.',B:'Demoraría cuatro horas.',D:'Demoraría 80 minutos.'},
+    src:'FDA, Vancomycin Injection, sección 2',src_url:'https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/050671s032lbl.pdf'
+  },
+  {
+    ids:[['area-20',8]],stem:'Varón de 62 años con diabetes tipo 2, hipertensión confirmada y cociente albúmina/creatinina urinario persistentemente en 410 mg/g. Potasio normal. ¿Qué clase debe integrar el tratamiento inicial por su beneficio renal?',
+    options:['Betabloqueante','IECA o ARA II','Tiazida como única medida de protección renal','Solo cambios del estilo de vida'],a:'B',
+    why:'En diabetes con hipertensión y albuminuria grave, la ADA recomienda un IECA o un ARA II a la máxima dosis tolerada, con control de creatinina y potasio.',
+    o:{A:'Puede tener una indicación cardíaca, pero no aporta la protección renal específica solicitada.',C:'Sirve para controlar la presión y puede combinarse, pero no sustituye el bloqueo del sistema renina-angiotensina en este caso.',D:'Los cambios de hábitos acompañan al tratamiento farmacológico.'},
+    src:'ADA Standards of Care in Diabetes 2026, recomendación 10.10',src_url:'https://doi.org/10.2337/dc26-S010'
+  }
+];
+for (const {ids, stem, options, ...key} of clinicalRevisions) {
+  for (const [id, number] of ids) {
+    const question = EX.find(exam => exam.id === id).qs.find(q => q.n === number);
+    question.q = stem + ' [Adaptada para estudio.]';
+    question.o = options;
+    KEY[id][number] = {...key, status:'fundamentada', calificable:true};
+  }
+}
+
+// Reúne las importaciones sin cambiar la identidad de las respuestas guardadas.
+const pdfArea = [null, 1, 4, 11, 7, 14, 9, 10, 17, 8, 6, 3, 12, 11];
+const specialtySources = new Map();
+for (const exam of [...EX]) {
+  if (!exam.id.startsWith('pdf-')) continue;
+  const importedArea = Number(exam.id.split('-').pop());
+  for (const question of exam.qs) {
+    const trauma = (exam.id === 'pdf-lote3b-12' || exam.id === 'pdf-validado-12') && question.n === 1;
+    const target = EX.find(e => e.id === 'area-' + (trauma ? 15 : pdfArea[importedArea]));
+    const sources = specialtySources.get(target.id) || new Map();
+    specialtySources.set(target.id, sources);
+    const number = Math.max(...target.qs.map(q => q.n)) + 1;
+    target.qs.push({...question, n: number});
+    KEY[target.id][number] = KEY[exam.id][question.n];
+    sources.set(number, {exam: exam.id, number: question.n});
+  }
+  EX.splice(EX.indexOf(exam), 1);
+}
+
 const L='ABCDE';
 let S={year:null,ex:null,i:0,st:{},review:false,timer:null};
 const app=document.getElementById('app');
-function load(id){try{return JSON.parse(localStorage.getItem('sim:'+id))||{}}catch(e){return {}}}
-function save(){try{localStorage.setItem('sim:'+S.ex.id,JSON.stringify(S.st))}catch(e){}}
+function readAnswers(id) {
+  try { return JSON.parse(localStorage.getItem('sim:' + id)) || {}; }
+  catch { return {}; }
+}
+function load(id) {
+  const answers = readAnswers(id);
+  const cache = new Map();
+  for (const [number, source] of specialtySources.get(id) || []) {
+    if (!cache.has(source.exam)) cache.set(source.exam, readAnswers(source.exam));
+    const answer = cache.get(source.exam)[source.number];
+    if (answer) answers[number] = answer;
+  }
+  return answers;
+}
+function save() {
+  const parts = new Map([[S.ex.id, {}]]);
+  for (const q of S.ex.qs) {
+    const source = specialtySources.get(S.ex.id)?.get(q.n);
+    const id = source?.exam || S.ex.id;
+    if (!parts.has(id)) parts.set(id, readAnswers(id));
+    const part = parts.get(id), number = source?.number ?? q.n;
+    if (S.st[q.n]) part[number] = S.st[q.n];
+    else delete part[number];
+  }
+  try {
+    for (const [id, answers] of parts) localStorage.setItem('sim:' + id, JSON.stringify(answers));
+  } catch {}
+}
 function timerKey(id){return 'sim:timer:'+id}
 function timerLoad(id){let t;try{t=JSON.parse(localStorage.getItem(timerKey(id)))}catch(e){};return {elapsed:Math.max(0,Number(t?.elapsed)||0),running:false,started:Date.now()}}
 function timerSave(){if(S.ex&&S.timer)try{localStorage.setItem(timerKey(S.ex.id),JSON.stringify(S.timer))}catch(e){}}
@@ -31,10 +145,10 @@ setInterval(timerRefresh,500);
 
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function isProvisional(k){return !k||!!(k&&(k.status==='provisional'||/Revisar con bibliografía actualizada|todavía no se ha validado individualmente/i.test(k.why||'')))}
-function needsReview(k){return !k||!k.a||k.calificable===false||!!(k&&((k.status==='discutible'||k.status==='provisional'||k.status==='provisional')||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
+function needsReview(k){if(k?.status==='fundamentada' && k.calificable===true && k.a && k.src_url)return false;return !k||!k.a||k.calificable===false||!!(k&&((k.status==='discutible'||k.status==='provisional'||k.status==='provisional')||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
 function home(){
   timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year=ys.includes('Por especialidad')?'Por especialidad':ys[0];
-  const total=EX.reduce((a,e)=>a+e.qs.length,0),answered=EX.reduce((a,e)=>a+e.qs.filter(q=>load(e.id)[q.n]?.c).length,0);
+  const total=EX.reduce((a,e)=>a+e.qs.length,0),answered=EX.reduce((a,e)=>a+Object.values(load(e.id)).filter(answer=>answer?.c).length,0);
   let h='<header class="hero"><div class="eyebrow">Medicina · UAI</div><h1>CHOICES Final de Carrera – UAI</h1><p class="sub">Prepará tu examen final con simulacros y correcciones fundamentadas.</p></header><div class="metrics"><div class="metric"><strong>'+total+'</strong><span>Preguntas disponibles</span></div><div class="metric"><strong>'+EX.length+'</strong><span>Simulacros</span></div><div class="metric"><strong>'+answered+'</strong><span>Respondidas</span></div></div><h2 class="section-heading">Elegí tu simulacro</h2><div class="years">';
   ys.forEach(y=>h+='<button class="chip'+(String(y)===String(S.year)?' on':'')+'" data-y="'+y+'">'+y+'</button>');
   h+='</div><input class="search-exams" id="search-exams" type="search" placeholder="Buscar simulacros en esta categoría…" aria-label="Buscar simulacros"><div class="exams">';
@@ -89,3 +203,4 @@ document.addEventListener('keydown',ev=>{if(!S.ex||ev.altKey||ev.ctrlKey||ev.met
 window.addEventListener('pagehide',timerPause);
 document.addEventListener('visibilitychange',()=>{if(document.hidden)timerPause();else timerRefresh()});
 home();
+
