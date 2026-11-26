@@ -77,7 +77,7 @@ const clinicalRevisions = [
 for (const {ids, stem, options, ...key} of clinicalRevisions) {
   for (const [id, number] of ids) {
     const question = EX.find(exam => exam.id === id).qs.find(q => q.n === number);
-    question.q = stem + ' [Adaptada para estudio.]';
+    question.q = stem + ' [Adaptada para estudio.]';    question.reviewVersion = 'nov26';
     question.o = options;
     KEY[id][number] = {...key, status:'fundamentada', calificable:true};
   }
@@ -107,7 +107,7 @@ const additionalRevisions = [
 ];
 for (const {id, n, stem, options, ...key} of additionalRevisions) {
   const question = EX.find(exam => exam.id === id).qs.find(q => q.n === n);
-  question.q = stem + ' [Adaptada para estudio.]';
+  question.q = stem + ' [Adaptada para estudio.]';  question.reviewVersion = 'nov26';
   if (options) question.o = options;
   KEY[id][n] = {...key, calificable:true, status:'fundamentada'};
 }
@@ -153,7 +153,7 @@ const specialtyRevisions = [
 ];
 for (const {id, n, stem, options, ...key} of specialtyRevisions) {
   const question = EX.find(exam => exam.id === id).qs.find(q => q.n === n);
-  question.q = stem + ' [Adaptada para estudio.]';
+  question.q = stem + ' [Adaptada para estudio.]';  question.reviewVersion = 'nov26';
   if (options) question.o = options;
   KEY[id][n] = {...key, calificable:true, status:'fundamentada'};
 }
@@ -163,9 +163,8 @@ function applyDatedReviews(reviews) {
     for (const identifier of ids) {
       const [examId, n] = identifier.split(':');
       const question = EX.find(exam => exam.id === examId).qs.find(q => q.n === Number(n));
-      question.q = stem + ' [Adaptada para estudio.]';
+      question.q = stem + ' [Adaptada para estudio.]';      question.reviewVersion = 'nov26';
       if (options) question.o = options;
-      question.reviewVersion = 'nov26';
       KEY[examId][n] = {...key, status:'fundamentada', calificable:true};
     }
   }
@@ -302,8 +301,12 @@ for (const exam of [...EX]) {
   if (!exam.id.startsWith('pdf-')) continue;
   const importedArea = Number(exam.id.split('-').pop());
   for (const question of exam.qs) {
-    const trauma = (exam.id === 'pdf-lote3b-12' || exam.id === 'pdf-validado-12') && question.n === 1;
-    const target = EX.find(e => e.id === 'area-' + (trauma ? 15 : pdfArea[importedArea]));
+    const assignedArea = {
+      'pdf-novas-7:3': 18, 'pdf-novas-11:2': 9, 'pdf-novas-11:12': 9,
+      'pdf-novas-11:17': 9, 'pdf-novas-12:3': 22, 'pdf-lote2-5:2': 22,
+      'pdf-lote3b-12:1': 15, 'pdf-validado-12:1': 15
+    };
+    const target = EX.find(e => e.id === 'area-' + (assignedArea[exam.id + ':' + question.n] || pdfArea[importedArea]));
     const sources = specialtySources.get(target.id) || new Map();
     specialtySources.set(target.id, sources);
     const number = Math.max(...target.qs.map(q => q.n)) + 1;
@@ -328,6 +331,9 @@ function load(id) {
     if (!cache.has(source.exam)) cache.set(source.exam, readAnswers(source.exam));
     const answer = cache.get(source.exam)[source.number];
     if (answer) answers[number] = answer;
+  }
+  for (const q of EX.find(exam => exam.id === id)?.qs || []) {
+    if (q.reviewVersion && answers[q.n]?.revision !== q.reviewVersion) delete answers[q.n];
   }
   return answers;
 }
@@ -408,7 +414,7 @@ function quiz(){
   document.getElementById('prev').onclick=()=>{if(S.review){const ids=wrong.map(v=>v.j),pos=ids.indexOf(S.i);S.i=ids[Math.max(0,pos-1)]??S.i}else S.i--;quiz()};
   document.getElementById('next').onclick=()=>{if(S.review){const ids=wrong.map(v=>v.j),pos=ids.indexOf(S.i);S.i=ids[Math.min(ids.length-1,pos+1)]??S.i}else S.i++;quiz()};
   document.getElementById('reset').onclick=function(){if(!S.cf){S.cf=1;this.textContent='¿Seguro? Tocá de nuevo para borrar tus respuestas';return}S.cf=0;S.st={};save();S.i=0;S.review=false;S.timer={elapsed:0,running:true,started:Date.now()};timerSave();quiz()};
-  app.querySelectorAll('[data-o]').forEach(b=>b.onclick=()=>{const a=b.dataset.o;S.st[q.n]={a,c:1};if(k&&k.a&&!needsReview(k))S.st[q.n].ok=a===k.a;save();quiz()});
+  app.querySelectorAll('[data-o]').forEach(b=>b.onclick=()=>{const a=b.dataset.o;S.st[q.n]={a,c:1,revision:q.reviewVersion};if(k&&k.a&&!needsReview(k))S.st[q.n].ok=a===k.a;save();quiz()});
   app.querySelectorAll('[data-j]').forEach(b=>b.onclick=()=>{S.i=+b.dataset.j;quiz()});
 }
 document.addEventListener('keydown',ev=>{if(!S.ex||ev.altKey||ev.ctrlKey||ev.metaKey||ev.repeat||/INPUT|TEXTAREA|SELECT/.test(document.activeElement?.tagName||''))return;const q=S.ex.qs[S.i];if(/^[1-5]$/.test(ev.key)){const b=app.querySelector('[data-o="'+L[Number(ev.key)-1]+'"]');if(b&&!b.disabled){ev.preventDefault();b.click()}}else if(ev.key==='ArrowRight'){const b=document.getElementById('next');if(b&&!b.disabled){ev.preventDefault();b.click()}}else if(ev.key==='ArrowLeft'){const b=document.getElementById('prev');if(b&&!b.disabled){ev.preventDefault();b.click()}}});
