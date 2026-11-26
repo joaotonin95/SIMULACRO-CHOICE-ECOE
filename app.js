@@ -17,13 +17,14 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 function isProvisional(k){return !k||!!(k&&(k.status==='provisional'||/Revisar con bibliografía actualizada|todavía no se ha validado individualmente/i.test(k.why||'')))}
 function needsReview(k){return !k||!k.a||k.calificable===false||!!(k&&((k.status==='discutible'||k.status==='provisional'||k.status==='provisional')||/\brevisar\b|\bpregunta con error\b|\bninguna (?:opci[oó]n|fecha)\b|\bno pude acceder\b|\bcontradic\b|\banulable\b|\bpuede estar desactualizada\b|QUESTÃO (?:AMBÍGUA|SEM|INCOMPLETA|DESATUALIZADA)|PREGUNTA (?:AMBIGUA|AMBÍGUA|CON ERROR)/i.test(k.why||'')||/\brevisar\b/i.test(JSON.stringify(k.o||{}))))}
 function home(){
-  timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year='Por especialidad';
-  let h='<h1>CHOICES Final de Carrera – UAI</h1><p class="sub">Simulacros por año y por especialidad · '+EX.reduce((a,e)=>a+e.qs.length,0)+' preguntas · tu avance se guarda en este navegador</p><div class="years">';
+  timerPause();S.ex=null;const ys=[...new Set(EX.map(e=>e.year))];if(!S.year||!ys.some(y=>String(y)===String(S.year)))S.year=ys.includes('Por especialidad')?'Por especialidad':ys[0];
+  const total=EX.reduce((a,e)=>a+e.qs.length,0),answered=EX.reduce((a,e)=>a+e.qs.filter(q=>load(e.id)[q.n]?.c).length,0);
+  let h='<header class="hero"><div class="eyebrow">Medicina · UAI</div><h1>CHOICES Final de Carrera – UAI</h1><p class="sub">Prepará tu examen final con simulacros y correcciones fundamentadas.</p></header><div class="metrics"><div class="metric"><strong>'+total+'</strong><span>Preguntas disponibles</span></div><div class="metric"><strong>'+EX.length+'</strong><span>Simulacros</span></div><div class="metric"><strong>'+answered+'</strong><span>Respondidas</span></div></div><h2 class="section-heading">Elegí tu simulacro</h2><div class="years">';
   ys.forEach(y=>h+='<button class="chip'+(String(y)===String(S.year)?' on':'')+'" data-y="'+y+'">'+y+'</button>');
-  h+='</div><div class="exams">';
+  h+='</div><input class="search-exams" id="search-exams" type="search" placeholder="Buscar simulacros en esta categoría…" aria-label="Buscar simulacros"><div class="exams">';
   EX.filter(e=>String(e.year)===String(S.year)).forEach(e=>{const st=load(e.id),n=Object.keys(st).length,k=Object.values(st).filter(v=>v.c).length;
     const excluded=e.qs.filter(q=>needsReview((KEY[e.id]||{})[q.n])).length;h+='<button class="ex" data-e="'+e.id+'"><b>'+e.name+'</b><span>'+e.qs.length+' preguntas · '+k+' respondidas'+(excluded?' · '+excluded+' sin puntuación definitiva':'')+'</span><div class="bar"><i style="width:'+(100*k/e.qs.length)+'%"></i></div></button>'});
-  app.innerHTML=h+'</div>';
+  app.innerHTML=h+'</div>';document.getElementById('search-exams').oninput=function(){const t=this.value.toLocaleLowerCase();app.querySelectorAll('.ex').forEach(b=>b.hidden=!b.textContent.toLocaleLowerCase().includes(t));};
   app.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>{S.year=ys.find(y=>String(y)===b.dataset.y);home()});
   app.querySelectorAll('[data-e]').forEach(b=>b.onclick=()=>{S.ex=EX.find(e=>e.id==b.dataset.e);S.st=load(S.ex.id);S.i=0;S.review=false;S.timer=timerLoad(S.ex.id);timerResume();quiz()});
 }
@@ -39,7 +40,7 @@ function quiz(){
   h+='<div class="progress-line" role="progressbar" aria-label="Progreso del examen" aria-valuenow="'+done+'" aria-valuemin="0" aria-valuemax="'+e.qs.length+'"><span style="width:'+(100*done/e.qs.length)+'%"></span></div>';
   h+='<div class="timer"><span>⏱ Tiempo: <span class="timer-time" id="clock">'+timerFmt(timerMs())+'</span></span><button class="btn" id="timer-toggle">'+(S.timer?.running?'Pausar':'Retomar')+'</button><span class="timer-note">Tiempo efectivo de resolución</span></div>';
   h+='<div class="btns" style="margin:0 0 12px"><button class="btn" id="review">'+(S.review?'Mostrar todas las preguntas':'Revisar errores ('+wrong.length+')')+'</button></div>';
-  h+='<div class="card"><div class="qn">'+esc(e.name)+' · pregunta '+esc(q.n)+'</div>'+(needsReview(k)?'<span class="flag">⚠ '+(isProvisional(k)?'Respuesta pendiente de validación científica: no se califica':'Pregunta ambigua o clave discutible: no se califica')+'</span>':'')+'<p class="qt">'+esc(q.q)+'</p>'+(q.image&&['assets/ecg-iar-2026-03.webp','assets/ecg-iar-2026-80.png'].includes(q.image)?'<img src="'+esc(q.image)+'" alt="Electrocardiograma original de la pregunta '+esc(q.n)+'" style="width:100%;height:auto;margin:12px 0;border-radius:8px" loading="lazy">':'');
+  h+='<div class="quiz-layout"><main class="card"><div class="qn">'+esc(e.name)+' · pregunta '+esc(q.n)+'</div>'+(needsReview(k)?'<span class="flag">⚠ '+(isProvisional(k)?'Respuesta pendiente de validación científica: no se califica':'Pregunta ambigua o clave discutible: no se califica')+'</span>':'')+'<p class="qt">'+esc(q.q)+'</p>'+(q.image&&['assets/ecg-iar-2026-03.webp','assets/ecg-iar-2026-80.png'].includes(q.image)?'<img src="'+esc(q.image)+'" alt="Electrocardiograma original de la pregunta '+esc(q.n)+'" style="width:100%;height:auto;margin:12px 0;border-radius:8px" loading="lazy">':'');
   if(q.o.length<2)h+='<div class="fb warn">El PDF original trae esta pregunta incompleta (sin opciones legibles). Usá el texto como consigna abierta.</div>';
   q.o.forEach((t,j)=>{let c='opt';if(st.a===L[j])c+=' sel';
     if(st.c&&k&&k.a&&!needsReview(k)){if(L[j]===k.a)c+=' ok';else if(st.a===L[j])c+=' ko'}
@@ -51,12 +52,12 @@ function quiz(){
   if(st.c&&k&&k.o&&Object.keys(k.o).length)h+='<div class="why"><b>Revisión de las otras alternativas</b>'+Object.keys(k.o).sort().map(l=>'<p><b>'+l+'.</b> '+esc(k.o[l])+'</p>').join('')+'</div>';
   h+='<p class="kbd">Atajos: teclas 1–5 para responder · ← / → para navegar. Las respuestas quedan bloqueadas después de elegir.</p>';
   h+='<div class="btns"><button class="btn" id="prev"'+(S.i?'':' disabled')+'>← Anterior</button>'+
-   '<button class="btn" id="next"'+(S.i<e.qs.length-1?'':' disabled')+'>Siguiente →</button></div></div><div class="grid">';
+   '<button class="btn" id="next"'+(S.i<e.qs.length-1?'':' disabled')+'>Siguiente →</button></div></main><aside class="quiz-side"><p class="section-label">Navegación por preguntas</p><div class="grid">';
   e.qs.forEach((x,j)=>{const s=S.st[x.n]||{},kk=(KEY[e.id]||{})[x.n];if(S.review&&!(s.c&&!needsReview(kk)&&s.a!==kk.a))return;let c='g';
     if(s.c&&kk&&kk.a&&!needsReview(kk))c+=s.a===kk.a?' ok':' ko';else if(s.a)c+=' a';if(j==S.i)c+=' cur';
     h+='<button class="'+c+'" data-j="'+j+'">'+x.n+'</button>'});
   if(S.review&&!wrong.length)h+='<p class="note">Todavía no hay respuestas incorrectas para revisar.</p>';
-  h+='</div><p class="section-label">Navegación por preguntas</p><div class="btns"><button class="link" id="reset">Reiniciar este simulacro</button></div>';
+  h+='</div><div class="legend">Verde: correcta · Rojo: incorrecta<br>Azul: respondida sin calificación</div><div class="btns"><button class="link" id="reset">Reiniciar este simulacro</button></div></aside></div>';
   app.innerHTML=h;window.scrollTo(0,0);
   if(S.review){const ids=wrong.map(v=>v.j),pos=ids.indexOf(S.i);document.getElementById('prev').disabled=pos<=0;document.getElementById('next').disabled=pos<0||pos>=ids.length-1;}
   document.getElementById('back').onclick=home;
