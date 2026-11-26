@@ -162,8 +162,12 @@ function applyDatedReviews(reviews) {
   for (const {ids, stem, options, ...key} of reviews) {
     for (const identifier of ids) {
       const [examId, n] = identifier.split(':');
-      const question = EX.find(exam => exam.id === examId).qs.find(q => q.n === Number(n));
-      question.q = stem + ' [Adaptada para estudio.]';      question.reviewVersion = 'nov26';
+      const exam = EX.find(candidate => candidate.id === examId);
+      if (!exam) continue;
+      const question = exam.qs.find(candidate => candidate.n === Number(n));
+      if (!question) continue;
+      question.q = stem + ' [Adaptada para estudio.]';
+      question.reviewVersion = 'nov26';
       if (options) question.o = options;
       KEY[examId][n] = {...key, status:'fundamentada', calificable:true};
     }
