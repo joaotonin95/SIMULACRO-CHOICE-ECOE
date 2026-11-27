@@ -3188,6 +3188,342 @@
       "Esperar otra gasometría sin modificar el soporte.",
       "Administrar bicarbonato como única medida."
     ]
+  },
+  {
+    "originalId": "febrero-2023:83",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En pacientes sintomáticos con fracción de eyección ≤35 %, enalapril redujo la mortalidad frente a placebo en el ensayo SOLVD. El paciente tiene disnea de esfuerzo y una fracción de eyección del 34 %.",
+    "o": {
+      "A": "La digoxina puede reducir internaciones, pero no demostró prolongar la supervivencia global.",
+      "C": "La furosemida alivia la congestión. La mejoría de la disnea no demuestra un beneficio sobre la mortalidad.",
+      "D": "El dinitrato aislado no tiene la evidencia pronóstica de la combinación hidralazina–dinitrato en pacientes seleccionados."
+    },
+    "src": "SOLVD Treatment · Análisis de mortalidad en insuficiencia cardíaca sistólica",
+    "src_url": "https://pubmed.ncbi.nlm.nih.gov/22257685/"
+  },
+  {
+    "originalId": "febrero-2023:84",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Ante una mordedura transdérmica por un perro con rabia confirmada, el chico sin vacunación antirrábica previa necesita vacuna e inmunoglobulina antirrábica infiltrada en la herida y alrededor de ella. El calendario infantil habitual no confiere inmunidad antirrábica.",
+    "o": {
+      "A": "Esperar síntomas pierde la oportunidad de prevenir la enfermedad.",
+      "C": "La vacuna induce inmunidad activa, pero en esta exposición grave también corresponde protección pasiva inmediata.",
+      "D": "La inmunoglobulina sola aporta protección transitoria y no reemplaza el esquema de vacunación."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía para la prevención, vigilancia y control de la rabia, profilaxis posexposición",
+    "src_url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311546/RES1144.pdf",
+    "stem": "Un chico de 7 años sin vacunación antirrábica previa consulta el mismo día de una mordedura profunda en la pierna. Zoonosis confirma rabia en el perro. Después del lavado de la herida, ¿qué profilaxis específica contra la rabia corresponde iniciar?",
+    "options": [
+      "Vigilar al niño e iniciar profilaxis si aparece fiebre.",
+      "Iniciar vacuna e infiltrar inmunoglobulina antirrábica en la herida y sus bordes.",
+      "Administrar únicamente vacuna antirrábica.",
+      "Administrar únicamente inmunoglobulina antirrábica."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:85",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La necesidad de vasopresores por shock asociado a la neumonía es un criterio mayor de gravedad. Requiere UTI junto con antibióticos y soporte respiratorio y hemodinámico inmediatos.",
+    "o": {
+      "A": "El paciente depende de un vasopresor. Un esquema oral ambulatorio es insuficiente.",
+      "B": "La observación en guardia puede servir durante la estabilización, pero no es el destino definitivo adecuado.",
+      "C": "En sala general no se brinda el nivel de monitorización y titulación del vasopresor que exige este cuadro."
+    },
+    "src": "BMJ · Management of pneumonia in critically ill patients, criterios de neumonía grave",
+    "src_url": "https://www.bmj.com/content/375/bmj-2021-065871",
+    "stem": "Varón de 67 años con fiebre, disnea, confusión e infiltrado basal derecho de adquisición comunitaria. Tras la reposición inicial adecuada de volumen persiste hipotenso y requiere noradrenalina para sostener la presión arterial. Ya inició antibióticos. ¿Qué nivel de atención corresponde?"
+  },
+  {
+    "originalId": "febrero-2024:1",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El aislamiento se cuenta desde el inicio de la tumefacción parotídea. El chico debe permanecer fuera de la escuela hasta que hayan transcurrido cinco días desde ese inicio.",
+    "o": {
+      "A": "Siete días prolongan el plazo indicado por los CDC para este cuadro.",
+      "B": "Nueve días corresponden a una recomendación histórica de aislamiento.",
+      "D": "Cuarenta días exceden ampliamente el período indicado desde el inicio de la tumefacción."
+    },
+    "src": "CDC · Clinical Overview of Mumps, aislamiento",
+    "src_url": "https://www.cdc.gov/mumps/hcp/clinical-overview/index.html",
+    "stem": "Un escolar tiene parotiditis por virus de las paperas. Según los CDC, ¿cuántos días debe permanecer fuera de la escuela desde que comenzó la tumefacción parotídea?"
+  },
+  {
+    "originalId": "febrero-2024:2",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El corte de piedra expone a sílice cristalina. La combinación de nódulos en lóbulos superiores y calcificación periférica ganglionar orienta a silicosis.",
+    "o": {
+      "A": "La sarcoidosis también puede comprometer ganglios hiliares, pero la exposición ocupacional y el patrón nodular favorecen silicosis.",
+      "C": "El timoma suele presentarse como una masa del mediastino anterior.",
+      "D": "Un linfoma puede producir adenopatías, pero no explica tan bien el patrón pulmonar en este trabajador."
+    },
+    "src": "MSD Manual Professional · Silicosis, eggshell calcifications",
+    "src_url": "https://www.msdmanuals.com/professional/multimedia/image/silicosiseggshell-calcifications",
+    "stem": "Un trabajador del corte de piedra presenta nódulos pulmonares de predominio superior y adenopatías hiliares con calcificación periférica en cáscara de huevo. ¿Qué neumoconiosis es más probable?",
+    "options": [
+      "Sarcoidosis",
+      "Silicosis",
+      "Timoma",
+      "Linfoma"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:3",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El tadalafilo inhibe la PDE5 y potencia la vasodilatación mediada por GMP cíclico. La combinación con nitratos orgánicos puede provocar hipotensión profunda y está contraindicada.",
+    "o": {
+      "B": "Con losartán corresponde evaluar la presión arterial, pero no hay la contraindicación propia de los nitratos.",
+      "C": "Los tricíclicos pueden favorecer hipotensión ortostática y disfunción sexual, sin constituir la interacción específica preguntada.",
+      "D": "Los betabloqueantes requieren valorar tolerancia hemodinámica, pero no son nitratos ni comparten esa contraindicación."
+    },
+    "src": "DailyMed · Tadalafil, contraindicaciones e interacciones con nitratos",
+    "src_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ad288e9d-020a-43a0-9c07-320c5c3bbc1e"
+  },
+  {
+    "originalId": "febrero-2024:4",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Sentarse sin apoyo, balbucear cadenas de sonidos y reaccionar ante desconocidos integran la lista de los 9 meses. La lista expresa lo que alcanza la mayoría a esa edad, no la fecha exacta de aparición en cada chico.",
+    "o": {
+      "A": "A los 2 meses todavía se evalúan habilidades más tempranas, como mirar caras.",
+      "B": "A los 4 meses sostener la cabeza es esperable, pero no se exige sedestación autónoma.",
+      "C": "A los 6 meses puede apoyarse con las manos al sentarse. El conjunto descrito integra la lista posterior."
+    },
+    "src": "CDC · Indicadores en acción a los 9 meses",
+    "src_url": "https://www.cdc.gov/act-early/es/milestones-in-action/9-months.html",
+    "stem": "¿En cuál de estas listas de indicadores del desarrollo de los CDC figuran juntos sentarse sin apoyo, repetir sonidos como «mamamama» y mostrarse tímido o temeroso ante desconocidos?",
+    "options": [
+      "2 meses.",
+      "4 meses.",
+      "6 meses.",
+      "9 meses."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:5",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Un absceso isquiorrectal evidente requiere incisión y drenaje oportunos. La profundidad y la tolerancia del paciente orientan la elección de la anestesia.",
+    "o": {
+      "B": "La TC puede servir si la colección es oculta o compleja. En este caso ya está localizada.",
+      "C": "Con fiebre pueden agregarse antibióticos, pero solos no evacúan la colección.",
+      "D": "La punción aislada no asegura el vaciamiento adecuado de un absceso anorrectal."
+    },
+    "src": "ASCRS · Clinical Practice Guidelines for the Management of Anorectal Abscess, 2022",
+    "src_url": "https://doi.org/10.1097/dcr.0000000000002473",
+    "stem": "Varón de 35 años con fiebre y dolor perianal. El examen quirúrgico confirma un absceso isquiorrectal izquierdo bien localizado. ¿Qué intervención permite controlar el foco?",
+    "options": [
+      "Incisión y drenaje bajo anestesia adecuada.",
+      "Diferir el tratamiento hasta obtener una TC de rutina.",
+      "Indicar únicamente antibióticos y observar.",
+      "Realizar solamente una punción aspirativa."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:6",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Las ondas P y los QRS mantienen ritmos regulares independientes. La frecuencia auricular supera a la ventricular y el PR cambia porque existe disociación AV con ritmo de escape.",
+    "o": {
+      "A": "En el primer grado cada P conduce con un PR prolongado y constante.",
+      "B": "En Mobitz I el PR se alarga antes de una P bloqueada. Se mantiene conducción en parte de los latidos.",
+      "D": "En Mobitz II los latidos conducidos mantienen una relación PR estable. Un hemibloqueo no explica la independencia completa de ambos ritmos."
+    },
+    "src": "Manual MSD profesional · Bloqueo auriculoventricular, bloqueo de tercer grado",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-cardiovasculares/arritmias-card%C3%ADacas-espec%C3%ADficas/bloqueo-auriculoventricular"
+  },
+  {
+    "originalId": "febrero-2024:15",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Persisten exacerbaciones pese a dos broncodilatadores de acción prolongada. Con 350 eosinófilos/µL se espera beneficio al agregar un corticoide inhalado y mantener LABA y LAMA.",
+    "o": {
+      "A": "El salbutamol es de rescate y no sustituye el tratamiento de mantenimiento para prevenir exacerbaciones.",
+      "B": "Dejar sólo tiotropio retira el LABA sin agregar tratamiento antiinflamatorio.",
+      "C": "Salmeterol y formoterol son ambos LABA. Combinarlos duplica el mecanismo y omite el LAMA."
+    },
+    "src": "GOLD 2027 Pocket Guide · Follow-up pharmacological treatment",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2026/11/GOLD-2027-POCKET-GUIDE-v1.1-20Nov2026_WMV.pdf",
+    "stem": "Paciente con EPOC y exacerbaciones persistentes pese a LABA/LAMA, técnica correcta y eosinófilos de 350/µL. Según GOLD, ¿cómo escalar el tratamiento inhalatorio?",
+    "options": [
+      "Salbutamol a demanda.",
+      "Tiotropio cada 24 horas.",
+      "Combinación de salmeterol con formoterol.",
+      "Combinación de budesonide con formoterol y tiotropio."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:16",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La diarrea crónica con sangre y la inflamación mucosa continua desde el recto, con distorsión de criptas, favorecen colitis ulcerosa una vez evaluadas las causas infecciosas.",
+    "o": {
+      "B": "El intestino irritable no causa sangrado inflamatorio ni distorsión histológica de las criptas.",
+      "C": "La amebiasis puede producir disentería, pero la prueba específica negativa y la distribución continua con cambios crónicos favorecen colitis ulcerosa.",
+      "D": "La colitis por C. difficile suele ser aguda. La prueba negativa y el patrón histológico crónico orientan a otra causa."
+    },
+    "src": "ACG Clinical Guideline Update · Ulcerative Colitis in Adults, diagnóstico, 2025",
+    "src_url": "https://gi.org/journals-publications/ebgi/alkazzi_aug2025/",
+    "stem": "Mujer de 32 años con seis meses de diarrea con moco y sangre. Los estudios de materia fecal, incluidos C. difficile y E. histolytica, son negativos. La colonoscopía muestra inflamación continua desde el recto y las biopsias muestran distorsión de criptas. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "febrero-2024:17",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Un pH pleural ≤7,20 en un derrame paraneumónico no purulento indica alto riesgo de infección pleural complicada. Si existe una ventana segura, corresponde drenaje además del antibiótico.",
+    "o": {
+      "A": "Los criterios de Light distinguen exudado de trasudado mediante proteínas y LDH. No responden la decisión inmediata planteada por este pH.",
+      "B": "El pH no permite excluir insuficiencia cardíaca concomitante.",
+      "D": "El pH orienta al control del foco. No establece por sí solo una duración fija del antibiótico."
+    },
+    "src": "British Thoracic Society · Guideline for pleural disease, pleural infection, 2023",
+    "src_url": "https://thorax.bmj.com/content/thoraxjnl/early/2023/08/08/thorax-2023-220304.full.pdf",
+    "stem": "Paciente con neumonía y derrame pleural. Se obtiene líquido no purulento con pH 7,12 medido correctamente. La ecografía muestra una colección accesible para drenaje. ¿Qué decisión orienta principalmente este resultado?",
+    "options": [
+      "Clasificar el líquido por los criterios de Light exclusivamente con el pH.",
+      "Descartar insuficiencia cardíaca concomitante.",
+      "Indicar drenaje por derrame paraneumónico complicado.",
+      "Fijar la duración del antibiótico en exactamente 21 días."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:18",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En pacientes con cirrosis candidatos a tratamiento del hepatocarcinoma se recomienda vigilancia semestral con ecografía y alfafetoproteína. Una elevación aislada no confirma el diagnóstico.",
+    "o": {
+      "A": "El CEA se utiliza principalmente en el seguimiento de algunos tumores colorrectales.",
+      "C": "El CA 19-9 puede elevarse en enfermedad pancreatobiliar. No es el marcador indicado para esta vigilancia.",
+      "D": "El CA 125 puede elevarse incluso por ascitis y no se recomienda para vigilar hepatocarcinoma."
+    },
+    "src": "ACG · Clinical Guideline: Preventive Care for Patients With Cirrhosis, recomendación 7",
+    "src_url": "https://doi.org/10.14309/ajg.0000000000004186",
+    "stem": "En un adulto con cirrosis candidato a tratamiento si se detecta un hepatocarcinoma, ¿qué marcador se combina con la ecografía hepática en la vigilancia semestral recomendada por el ACG?"
+  },
+  {
+    "originalId": "febrero-2024:19",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La necrosis rápidamente progresiva del periné y los genitales después de una intervención proctológica es característica de la gangrena de Fournier, una fascitis necrosante que exige evaluación quirúrgica urgente.",
+    "o": {
+      "A": "La localización perineogenital define el cuadro. Sin cultivo no corresponde atribuirlo a un único anaerobio.",
+      "B": "Una celulitis superficial no explica la necrosis fulminante con extensión por planos fasciales.",
+      "D": "El tétanos produce rigidez y espasmos musculares, no necrosis perineogenital progresiva."
+    },
+    "src": "EAU Guidelines on Urological Infections 2026 · Fournier’s gangrene",
+    "src_url": "https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Urological-Infections-2026.pdf"
+  },
+  {
+    "originalId": "febrero-2024:20",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En la hiponatremia crónica el cerebro pierde osmoles para adaptarse. Una suba demasiado rápida del sodio puede lesionar la mielina pontina o extrapontina, con deterioro neurológico a veces diferido.",
+    "o": {
+      "A": "Un ACV focal no es la complicación osmótica característica de la sobrecorrección.",
+      "B": "La encefalopatía por edema cerebral se asocia especialmente al descenso agudo del sodio.",
+      "D": "La sobrecorrección eleva la natremia. No define un síndrome de hiponatremia refractaria."
+    },
+    "src": "Guía europea de hiponatremia · Clinical practice guideline on diagnosis and treatment of hyponatraemia",
+    "src_url": "https://academic.oup.com/ejendo/article/170/3/G1/6668028?login=false",
+    "stem": "Paciente con hiponatremia crónica, sodio inicial de 112 mmol/L y desnutrición. La natremia aumenta 18 mmol/L en 24 horas. ¿Qué complicación neurológica se debe sospechar si aparecen disartria y disfagia días después?"
+  },
+  {
+    "originalId": "febrero-2024:21",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Corresponde tratar la bacteriuria asintomática del embarazo para reducir el riesgo de pielonefritis. La cefalexina según sensibilidad por siete días es una opción. El consenso argentino recomienda urocultivo de control una semana después de terminar.",
+    "o": {
+      "A": "La ausencia de síntomas define la bacteriuria asintomática y no elimina la indicación de tratarla en el embarazo.",
+      "B": "La norfloxacina no es de elección durante el embarazo cuando hay un betalactámico activo.",
+      "D": "La nitrofurantoína no cubriría esta cepa resistente y ya se confirmó la bacteriuria."
+    },
+    "src": "Consenso Argentino Intersociedades de Infección Urinaria · Bacteriuria asintomática en embarazadas, Medicina (B Aires) 2020",
+    "src_url": "https://smiba.org.ar/downloads/cursos2024/infectologia_03.pdf",
+    "stem": "Embarazada de 16 semanas sin síntomas urinarios ni alergias. Dos urocultivos de chorro medio bien tomados aíslan ≥100.000 UFC/mL de la misma E. coli, sensible a cefalexina y resistente a nitrofurantoína. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "febrero-2024:22",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El absceso tuboovárico requiere internación, antibióticos parenterales iniciales de amplio espectro y cobertura anaerobia. Se controla la respuesta clínica y se reevalúa la necesidad de drenaje si no mejora.",
+    "o": {
+      "A": "La analgesia no trata la infección y el alta inicial omite la observación hospitalaria.",
+      "B": "Un antifúngico oral no cubre la flora bacteriana involucrada.",
+      "C": "Retirar un DIU, si lo hubiera, no trata el absceso ni sustituye los antibióticos."
+    },
+    "src": "CDC · Sexually Transmitted Infections Treatment Guidelines, enfermedad inflamatoria pélvica, absceso tuboovárico",
+    "src_url": "https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf",
+    "stem": "Paciente con enfermedad inflamatoria pélvica y absceso tuboovárico, estable, sin rotura ni peritonitis. ¿Cuál es el tratamiento inicial?",
+    "options": [
+      "Analgésicos y alta",
+      "Antifúngico oral",
+      "Retirar el DIU como única medida",
+      "Internación y antibióticos de amplio espectro con cobertura anaerobia"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:23",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Un adulto inconsciente con respiración agónica y sin pulso identificable en hasta diez segundos debe recibir RCP de inmediato. Con testigos disponibles se delegan la llamada y la búsqueda del DEA para no demorar las compresiones.",
+    "o": {
+      "A": "Esperar al servicio de emergencias prolonga el tiempo sin circulación.",
+      "B": "Las boqueadas agónicas no son respiración normal. Ante la ausencia de pulso, la posición lateral no reemplaza la RCP.",
+      "C": "Las ventilaciones aisladas corresponden al paro respiratorio con pulso. En este caso también se necesitan compresiones."
+    },
+    "src": "AHA 2025 · Adult Basic Life Support Algorithm for Health Care Professionals",
+    "src_url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-BLS-Adult-Healthcare-250701.pdf?sc_lang=es",
+    "stem": "En la vía pública de CABA, con la escena segura, un adulto se desploma. Como profesional de salud comprobás que no responde, sólo boquea y no identificás pulso en diez segundos. Hay dos testigos disponibles. ¿Qué hacés?",
+    "options": [
+      "Pedir que llamen al 107 y esperar a la ambulancia.",
+      "Colocarlo de costado porque las boqueadas indican respiración eficaz.",
+      "Dar sólo ventilaciones hasta que recupere el conocimiento.",
+      "Delegar la llamada al 107 y la búsqueda de un DEA e iniciar RCP comenzando por compresiones."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:24",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La definición incluye causas vinculadas al embarazo o agravadas por éste o su atención, durante la gestación o hasta 42 días después de su terminación, independientemente de la duración y el sitio del embarazo. Excluye causas accidentales o incidentales.",
+    "o": {
+      "A": "La edad fértil no demuestra relación temporal ni causal con un embarazo.",
+      "B": "Limitarse a la gestación omite el puerperio e incluye fallecimientos por causas incidentales.",
+      "D": "Contar sólo el parto omite muertes durante la gestación y después de su terminación."
+    },
+    "src": "OMS · Global Health Observatory, número de muertes maternas",
+    "src_url": "https://www.who.int/data/gho/data/indicators/indicator-details/gho/number-of-maternal-deaths",
+    "stem": "Según la OMS, ¿qué defunción se cuenta como muerte materna?",
+    "options": [
+      "Toda muerte de una mujer en edad fértil.",
+      "Toda muerte durante la gestación, cualquiera sea la causa.",
+      "Muerte durante el embarazo o hasta 42 días después de su terminación, por una causa relacionada con el embarazo o su atención, o agravada por ellos.",
+      "Sólo la muerte que ocurre durante el parto."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:25",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La fiebre y la salida de pus por el conducto de Stenon al masajear la parótida localizan una infección bacteriana supurativa en esa glándula.",
+    "o": {
+      "A": "La neuralgia del trigémino causa descargas breves de dolor. No produce fiebre ni secreción purulenta.",
+      "B": "La parotiditis viral puede producir tumefacción y fiebre, pero la salida de pus orienta a sobreinfección o etiología bacteriana.",
+      "D": "Un quiste maxilar no infectado no explica la fiebre ni la secreción por un conducto salival."
+    },
+    "src": "Manual MSD profesional · Sialoadenitis, manifestaciones clínicas",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-otorrinolaringol%C3%B3gicos/trastornos-bucales-y-far%C3%ADngeos/sialoadenitis?ruleredirectid=756",
+    "stem": "Paciente con fiebre, parótida aumentada de tamaño y salida de pus por el conducto de Stenon al masajear la glándula. ¿Qué diagnóstico explica mejor el cuadro?",
+    "options": [
+      "Neuralgia del trigémino",
+      "Parotiditis viral",
+      "Sialoadenitis bacteriana supurativa de la parótida",
+      "Quiste maxilar no infectado"
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
