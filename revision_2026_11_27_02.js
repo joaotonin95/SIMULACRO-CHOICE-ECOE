@@ -1891,6 +1891,317 @@
     "src": "Ministerio de Salud de la Nación · Pautas técnicas de tuberculosis en la Argentina, reacciones adversas al etambutol",
     "src_url": "https://panel.aam.org.ar/img_up/24042026.0.pdf",
     "stem": "En una persona que recibe etambutol por tuberculosis, ¿qué toxicidad característica justifica vigilar la agudeza visual y la discriminación de colores?"
+  },
+  {
+    "originalId": "febrero-2023:3",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La rifampicina puede teñir de naranja rojizo la orina, el sudor y las lágrimas. Es un efecto esperado que conviene anticipar, incluso por la posibilidad de que manche las lentes de contacto blandas.",
+    "o": {
+      "A": "La hepatotoxicidad puede ocurrir y requiere evaluación. No explica por sí sola la coloración anaranjada habitual de varios fluidos.",
+      "B": "La lesión renal aguda es una complicación infrecuente y no un cambio benigno esperado.",
+      "D": "La alteración de la visión de colores orienta a toxicidad óptica por etambutol."
+    },
+    "src": "CDC · Questions and Answers About Tuberculosis, efectos de las rifamicinas",
+    "src_url": "https://cdc.gov/tb/media/Question_Answers_About_TB_English.pdf",
+    "stem": "Una persona comienza un esquema antituberculoso con rifampicina. ¿Qué cambio benigno y característico de este fármaco conviene anticipar durante la consejería?"
+  },
+  {
+    "originalId": "febrero-2023:4",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La elevación del ST en V1 a V4 corresponde al territorio anteroseptal en la nomenclatura electrocardiográfica clásica. La ausencia de congestión y de hipoperfusión corresponde a Killip I.",
+    "o": {
+      "B": "El infarto anterior extenso suele alcanzar más derivaciones precordiales y laterales. Killip II requiere signos de insuficiencia cardíaca.",
+      "C": "La cara lateral alta corresponde a DI y aVL. Killip III supone edema agudo de pulmón.",
+      "D": "La cara inferior corresponde a DII, DIII y aVF. Killip IV exige shock cardiogénico."
+    },
+    "src": "Guía para diagnóstico y tratamiento de las personas con síndrome coronario agudo · localización electrocardiográfica y clasificación clínica",
+    "src_url": "https://www.binasss.sa.cr/protocolos/sindromecoronario.pdf",
+    "stem": "Paciente con IAM con elevación del ST en V1 a V4 y descenso recíproco inferior. Está normotensa y bien perfundida, sin rales, tercer ruido ni ingurgitación yugular. ¿Qué localización electrocardiográfica clásica y clase de Killip corresponden?"
+  },
+  {
+    "originalId": "febrero-2023:5",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Las placas eritematosas crónicas, bien delimitadas, con escamas plateadas y distribución simétrica sobre los codos son características de psoriasis vulgar. La mejoría estival es compatible, aunque no es diagnóstica.",
+    "o": {
+      "B": "En la sarna costrosa predominan las costras hiperqueratósicas por infestación, a menudo con compromiso de manos y uñas. La morfología de las placas extensoras favorece psoriasis.",
+      "C": "El liquen simple crónico produce engrosamiento con acentuación de los pliegues por rascado persistente.",
+      "D": "La pitiriasis rosada suele comenzar con una placa heraldo y luego afecta el tronco durante semanas."
+    },
+    "src": "DermNet · Guidelines for the management of psoriasis, psoriasis crónica en placas",
+    "src_url": "https://dermnetnz.org/topics/guidelines-for-the-treatment-of-psoriasis"
+  },
+  {
+    "originalId": "febrero-2023:6",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La fiebre con dolor retroocular, mialgias, exantema, leucopenia y trombocitopenia orienta a dengue. El dolor abdominal intenso es un signo de alarma y requiere evaluación urgente.",
+    "o": {
+      "B": "Stevens-Johnson suele presentar lesiones cutáneas dolorosas, erosiones mucosas y desprendimiento epidérmico.",
+      "C": "La infección meningocócica también puede producir fiebre y petequias y debe considerarse con urgencia. La combinación de síntomas y citopenias favorece dengue en esta viñeta.",
+      "D": "La endocarditis puede producir fiebre y fenómenos cutáneos, pero faltan datos que orienten a un foco endovascular."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre diagnóstico y tratamiento del dengue",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/09/gpc_dengue_vc_1012025-652025.pdf"
+  },
+  {
+    "originalId": "febrero-2023:7",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El colesterol total, el HDL y los triglicéridos, junto con el LDL calculado o medido según corresponda, caracterizan la dislipidemia. Para estimar el riesgo cardiovascular global también se necesitan datos clínicos.",
+    "o": {
+      "A": "El hemograma informa sobre células sanguíneas y no cuantifica lipoproteínas.",
+      "B": "La glucemia aporta información sobre riesgo metabólico, pero no caracteriza la dislipidemia.",
+      "C": "La orina completa puede orientar a enfermedad renal y no mide el perfil lipídico."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de prevención cardiovascular, evaluación de lípidos",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2024/05/COMPLETO-F-19.pdf",
+    "stem": "Adulto de 30 años sin evaluación lipídica previa. ¿Qué estudio caracteriza mejor su perfil de riesgo por dislipidemia?",
+    "options": [
+      "Hemograma",
+      "Glucemia aislada",
+      "Orina completa",
+      "Perfil lipídico con colesterol total, HDL, triglicéridos y LDL"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:8",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En un recién nacido de término sano suele aparecer después de las primeras 24 horas, predomina la bilirrubina no conjugada y el cuadro es transitorio. La valoración depende de la edad en horas, la bilirrubina y los factores de riesgo.",
+    "o": {
+      "A": "La ictericia en las primeras 24 horas exige evaluación. El predominio directo también es anormal.",
+      "B": "La hiperbilirrubinemia conjugada o el compromiso del estado general requieren investigar enfermedad.",
+      "C": "Corresponde sostener y evaluar la lactancia. No se indica suspenderla de rutina."
+    },
+    "src": "Manual MSD profesional · Hiperbilirrubinemia neonatal, ictericia fisiológica",
+    "src_url": "https://www.msdmanuals.com/es/professional/pediatr%C3%ADa/trastornos-metab%C3%B3licos-electrol%C3%ADticos-y-t%C3%B3xicos-en-reci%C3%A9n-nacidos/hiperbilirrubinemia-neonatal"
+  },
+  {
+    "originalId": "febrero-2023:9",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La otitis media aguda acompañada de conjuntivitis purulenta orienta especialmente a Haemophilus influenzae no tipificable. La secreción ocular cambia la probabilidad etiológica respecto de una otitis aislada.",
+    "o": {
+      "B": "El neumococo es frecuente en otitis media, pero la asociación con conjuntivitis purulenta favorece H. influenzae.",
+      "C": "El rinovirus puede preceder a una otitis como causa de infección respiratoria alta, pero no es el agente típico del síndrome.",
+      "D": "El coronavirus puede producir un catarro, pero explica peor la combinación de ambas infecciones purulentas."
+    },
+    "src": "Canadian Paediatric Society · Management of acute otitis media, síndrome otitis-conjuntivitis",
+    "src_url": "https://cps.ca/en/documents/position/acute-otitis-media"
+  },
+  {
+    "originalId": "febrero-2023:10",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Para evitar reinfestaciones se trata simultáneamente a los convivientes y contactos estrechos. Se lava y seca con calor la ropa, toallas y ropa de cama usadas en los tres días previos. Lo que no pueda lavarse se guarda en una bolsa cerrada durante varios días a una semana.",
+    "o": {
+      "A": "Cambiar el tipo de fibra no elimina los ácaros ni aborda el contagio entre contactos.",
+      "B": "Evitar el baño no previene la reinfestación. Es importante respetar las indicaciones de aplicación del escabicida.",
+      "D": "La escabiosis humana se transmite principalmente entre personas. Tratar al perro no sustituye el manejo de los contactos."
+    },
+    "src": "CDC · Preventing Scabies, tratamiento de convivientes y manejo de ropa",
+    "src_url": "https://www.cdc.gov/scabies/prevention/index.html",
+    "stem": "Un paciente con escabiosis clásica inicia tratamiento. ¿Qué indicación al hogar reduce el riesgo de reinfestación?",
+    "options": [
+      "Usar únicamente ropa de algodón.",
+      "Evitar los baños durante una semana.",
+      "Tratar al mismo tiempo a convivientes y contactos estrechos y descontaminar los textiles de uso reciente.",
+      "Tratar solo al perro de la casa."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:11",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La actitud describe cómo se disponen las partes del feto entre sí. La flexión de la cabeza sobre el tórax es un ejemplo.",
+    "o": {
+      "A": "La posición se refiere a la orientación del punto de referencia fetal respecto de la pelvis materna.",
+      "C": "La presentación identifica qué parte fetal se encuentra sobre el estrecho superior.",
+      "D": "La situación relaciona el eje longitudinal fetal con el eje longitudinal materno."
+    },
+    "src": "Oxorn-Foote Human Labor & Birth · Fetopelvic Relationships, actitud fetal",
+    "src_url": "https://obgyn.mhmedical.com/content.aspx?bookid=1247&sectionid=75161617"
+  },
+  {
+    "originalId": "febrero-2023:12",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La detección de antígeno específico o la identificación del parásito en materia fecal confirma giardiasis. Como la eliminación puede ser intermitente, se recomienda recolectar tres muestras en días distintos.",
+    "o": {
+      "A": "El cloruro en sudor se utiliza para evaluar fibrosis quística, otra causa de malabsorción.",
+      "B": "El hemocultivo no es el método para identificar este parásito intestinal.",
+      "D": "Los leucocitos fecales no identifican al agente causal."
+    },
+    "src": "CDC · Pruebas y diagnóstico clínicos de la infección por Giardia",
+    "src_url": "https://www.cdc.gov/giardia/es/hcp/diagnosis-testing/index.html",
+    "stem": "Niño de dos años con diarrea prolongada, meteorismo y heces grasas tras beber agua de arroyo. ¿Qué estudio permite confirmar giardiasis?",
+    "options": [
+      "Cloruro en sudor",
+      "Hemocultivo",
+      "Antígeno de Giardia o demostración del parásito en heces",
+      "Leucocitos fecales"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:13",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La carga viral plasmática cuantifica el ARN del VIH. Su descenso y posterior supresión permiten evaluar directamente la respuesta virológica al tratamiento.",
+    "o": {
+      "A": "El antígeno p24 se utiliza en pruebas diagnósticas combinadas y no es el marcador habitual para medir respuesta al tratamiento.",
+      "C": "La presencia de anticuerpos en un inmunoblot no cuantifica replicación viral.",
+      "D": "Una serología por ELISA puede permanecer reactiva pese a una carga viral suprimida."
+    },
+    "src": "NIH · Plasma HIV-1 RNA and CD4 Count Monitoring, seguimiento del tratamiento antirretroviral",
+    "src_url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring"
+  },
+  {
+    "originalId": "febrero-2023:14",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El aumento en pocos días de la disnea y de la tos con cambios en el esputo encaja en la definición clínica de exacerbación. La purulencia aumenta la sospecha de un desencadenante bacteriano. Puede no haber fiebre.",
+    "o": {
+      "A": "La fiebre y la astenia sin deterioro respiratorio no definen una exacerbación.",
+      "B": "La disnea paroxística nocturna con ortopnea y edema sugiere insuficiencia cardíaca.",
+      "C": "El dolor pleurítico súbito con hemoptisis obliga a descartar otras causas, como embolia pulmonar."
+    },
+    "src": "GOLD 2027 · Informe publicado en noviembre de 2026, capítulo sobre exacerbaciones",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2026/11/GOLD-Report-2027-FINAL-v1.1-20Nov2026_WMV.pdf",
+    "stem": "Una persona con EPOC describe un cambio respecto de su estado habitual. ¿Qué patrón es más compatible con exacerbación aguda con posible desencadenante infeccioso?",
+    "options": [
+      "Fiebre y astenia aisladas, con respiración y esputo sin cambios.",
+      "Ortopnea y disnea paroxística nocturna con edema en las piernas.",
+      "Dolor pleurítico brusco y hemoptisis aislada.",
+      "Aumento de disnea, tos y purulencia del esputo en los últimos tres días."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:15",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Las pápulas pequeñas, perladas y con depresión central en la cara y el cuello de un niño son típicas de molusco contagioso.",
+    "o": {
+      "A": "Las verrugas vulgares suelen tener una superficie áspera e hiperqueratósica.",
+      "C": "Las verrugas planas pueden aparecer en la cara, pero tienen una superficie aplanada sin el ombligo central característico.",
+      "D": "Los condilomas suelen ser papilomatosos y de localización anogenital."
+    },
+    "src": "CDC · Clinical Overview of Molluscum Contagiosum, manifestaciones clínicas",
+    "src_url": "https://www.cdc.gov/molluscum-contagiosum/hcp/clinical-overview/index.html"
+  },
+  {
+    "originalId": "febrero-2023:16",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Apertura ocular a la presión E2, sonidos incomprensibles V2 y localización del estímulo M5 suman Glasgow 9. Tras estabilizar al paciente, el Glasgow inicial de 12 o menos indica TC de cráneo dentro de una hora de reconocer el criterio.",
+    "o": {
+      "A": "Un Glasgow de 15 exige apertura ocular espontánea, orientación verbal y obediencia a órdenes. El alta sería inapropiada.",
+      "C": "La suma no es 4 y una radiografía no descarta una lesión intracraneal traumática.",
+      "D": "La suma no es 12. Aun con Glasgow 12 inicial estaría indicada la TC urgente."
+    },
+    "src": "NICE NG232 · Head injury, recomendación 1.5.8, TC en personas de 16 años o más",
+    "src_url": "https://www.nice.org.uk/guidance/ng232/chapter/recommendations",
+    "stem": "Tras un traumatismo craneal, un adulto abre los ojos a la presión, emite sonidos incomprensibles y localiza el estímulo. ¿Cuál es su Glasgow y qué imagen corresponde tras estabilizarlo?",
+    "options": [
+      "15 y alta",
+      "9 y TC de cráneo urgente",
+      "4 y radiografía de cráneo",
+      "12 y control ambulatorio"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:17",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El inicio súbito de dolor unilateral intenso en un adolescente con testículo aumentado y doloroso exige sospechar torsión del cordón espermático y activar la evaluación quirúrgica urgente. El signo de Prehn aislado no permite confirmar ni excluir torsión.",
+    "o": {
+      "A": "La torsión de un apéndice testicular suele generar dolor focal en el polo superior y a veces un punto azulado.",
+      "B": "Un varicocele suele palparse como venas dilatadas del cordón. Su trombosis es una explicación menos probable.",
+      "C": "La orquiepididimitis puede acompañarse de síntomas urinarios, fiebre o dolor epididimario. No se debe demorar la exclusión de torsión."
+    },
+    "src": "EAU · Paediatric Urology, Acute Scrotum, diagnóstico y conducta",
+    "src_url": "https://uroweb.org/guidelines/paediatric-urology/chapter/acute-scrotum"
+  },
+  {
+    "originalId": "febrero-2023:18",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El antecedente de infarto junto con diabetes coloca al paciente en prevención secundaria de muy alto riesgo en este consenso. Se busca LDL menor de 55 mg/dL y una reducción de al menos 50 % respecto del basal.",
+    "o": {
+      "B": "Una meta de 100 mg/dL es insuficiente para este perfil de muy alto riesgo.",
+      "C": "Aceptar hasta 130 mg/dL deja un LDL muy superior al objetivo.",
+      "D": "Un descenso de solo 10 % no satisface el componente relativo ni garantiza alcanzar la meta absoluta."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de prevención cardiovascular, tabla de metas lipídicas en prevención secundaria",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2024/05/Consenso-de-prevencion-cardiovascular.-version-resumida-1-1.pdf",
+    "stem": "Varón de 58 años con infarto previo y diabetes tipo 2, tratado con estatina de alta intensidad. Según el Consenso de Prevención Cardiovascular de la Sociedad Argentina de Cardiología, ¿qué meta de LDL corresponde a este perfil de muy alto riesgo?",
+    "options": [
+      "Menos de 55 mg/dL y una reducción de al menos 50 % respecto del basal.",
+      "Menos de 100 mg/dL sin considerar la reducción respecto del basal.",
+      "Hasta 130 mg/dL.",
+      "Una reducción del 10 % sin meta absoluta."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:19",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "A los ocho meses la ansiedad por separación puede ser esperable. Durante la vigilia, un objeto familiar seguro, un cuidador conocido y despedidas breves y previsibles ayudan al bebé a tolerar la ausencia.",
+    "o": {
+      "A": "Retirar progresivamente todo contacto no favorece una transición segura.",
+      "B": "La ansiedad esperable a esta edad no es indicación de estimulación intensiva ni de disminuir el apego.",
+      "D": "El consuelo sensible del cuidador ayuda a regular la angustia. No corresponde negarlo de manera sistemática."
+    },
+    "src": "NHS · Separation anxiety, cómo acompañar las separaciones",
+    "src_url": "https://www.nhs.uk/baby/babys-development/behaviour/separation-anxiety/"
+  },
+  {
+    "originalId": "febrero-2023:20",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La construcción y reparación naval implicaron exposición ocupacional a materiales aislantes con asbesto. Tras una latencia prolongada pueden aparecer placas o engrosamiento pleural difuso. El antecedente orienta la evaluación, sin establecer por sí solo malignidad.",
+    "o": {
+      "B": "El tabaco se asocia con EPOC y cáncer de pulmón, pero no explica específicamente este patrón pleural ocupacional.",
+      "C": "Una pleuritis tuberculosa puede dejar secuelas pleurales, aunque el caso no aporta ese antecedente y sí una exposición laboral característica.",
+      "D": "El humo de leña se asocia principalmente a enfermedad de la vía aérea, no a la afección pleural típica del asbesto."
+    },
+    "src": "ATSDR · Toxicological Profile for Asbestos, exposición ocupacional y efectos pleurales",
+    "src_url": "https://www.atsdr.cdc.gov/toxprofiles/tp61.pdf"
+  },
+  {
+    "originalId": "febrero-2023:21",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El VII par inerva la musculatura de la expresión facial. Su compromiso puede producir escape de líquidos por la comisura y alteración del gusto en los dos tercios anteriores de la lengua por afectación de la cuerda del tímpano.",
+    "o": {
+      "A": "El IV par inerva el oblicuo superior. Su lesión causa diplopía, no debilidad de la comisura.",
+      "B": "El V par participa en la sensibilidad facial y la masticación. No inerva los músculos de la expresión facial.",
+      "C": "El VI par inerva el recto lateral y su lesión limita la abducción ocular."
+    },
+    "src": "Manual MSD profesional · Facial Nerve Palsy, signos y localización",
+    "src_url": "https://www.msdmanuals.com/professional/neurologic-disorders/neuro-ophthalmologic-and-cranial-nerve-disorders/facial-nerve-palsy?ruleredirectid=742"
+  },
+  {
+    "originalId": "febrero-2023:22",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "A los dos años, si el niño todavía no sella una boquilla, se prefiere el inhalador presurizado con aerocámara valvulada y máscara facial ajustada. El cuidador administra un disparo por vez y permite varias respiraciones corrientes.",
+    "o": {
+      "A": "Un dispositivo de polvo seco no se conecta a una aerocámara.",
+      "C": "La boquilla requiere un sello labial que este niño todavía no logra.",
+      "D": "El polvo seco requiere un flujo inspiratorio que no puede asegurarse a esta edad."
+    },
+    "src": "GINA 2026 · Niños de cinco años o menos, elección del dispositivo y técnica inhalatoria",
+    "src_url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf",
+    "stem": "Niño de dos años con indicación de budesonida en aerosol presurizado para tratamiento preventivo. No logra sellar los labios alrededor de una boquilla. ¿Qué dispositivo permite administrar la dosis durante la respiración corriente?",
+    "options": [
+      "Inhalador de polvo seco conectado a aerocámara.",
+      "Inhalador de dosis medida con aerocámara valvulada y máscara facial ajustada.",
+      "Inhalador de dosis medida con espaciador y boquilla sin máscara.",
+      "Inhalador de polvo seco solo."
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
