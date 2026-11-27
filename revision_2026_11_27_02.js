@@ -5492,6 +5492,317 @@
     "src": "Pituitary · Sheehan syndrome: a current approach to a dormant disease, manifestaciones agudas",
     "src_url": "https://link.springer.com/content/pdf/10.1007/s11102-024-01481-1.pdf",
     "stem": "Mujer con hemorragia posparto masiva por atonía y shock que requirió transfusión. Tras controlar el sangrado y reponer volumen, persisten hipotensión y astenia, con hipoglucemia, hiponatremia y ausencia de producción de leche. ¿Qué complicación endocrina se debe sospechar?"
+  },
+  {
+    "originalId": "julio-2024:47",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El hemoperitoneo con compromiso circulatorio inicial sugiere rotura y exige control quirúrgico urgente junto con reanimación y disponibilidad de hemoderivados. En esta paciente estabilizada con trompa contralateral sana es apropiada la salpingectomía laparoscópica. La vía se ajusta si reaparece inestabilidad.",
+    "o": {
+      "A": "El metotrexato se reserva para casos seleccionados sin rotura ni sangrado activo significativo.",
+      "B": "La conducta expectante expondría a nueva hemorragia ante una masa tubaria de 5 cm con abundante sangre libre.",
+      "D": "Un legrado uterino no controla el sangrado de la trompa afectada."
+    },
+    "src": "NICE NG126 · Embarazo ectópico tubario, indicaciones de cirugía y elección de la vía",
+    "src_url": "https://www.nice.org.uk/guidance/ng126/evidence/full-guideline-pdf-6772587518",
+    "stem": "Mujer de 32 años con amenorrea de ocho semanas, dolor abdominal, taquicardia y palidez. Ecografía: embarazo tubario derecho de 5 cm y abundante hemoperitoneo. Hb 7 g/dL. Tras iniciar reanimación recupera estabilidad suficiente para laparoscopía. La trompa contralateral es normal y hay equipo quirúrgico disponible. ¿Cuál es la conducta definitiva urgente?"
+  },
+  {
+    "originalId": "julio-2024:48",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Después de la rotura del preservativo se ofrece anticoncepción de emergencia cuanto antes. Si la paciente elige una píldora, el levonorgestrel 1,5 mg por vía oral en dosis única es adecuado. La migraña y el tabaquismo no contraindican esta dosis sin estrógeno.",
+    "o": {
+      "B": "Un ciclo habitual de anticonceptivos combinados por 21 días no es un esquema de anticoncepción de emergencia para la relación previa.",
+      "C": "El DIU de cobre colocado dentro de la ventana de emergencia es otra opción eficaz. Posponerlo fuera de esa ventana no protege para esta exposición.",
+      "D": "La migraña no justifica dejarla sin anticoncepción de emergencia con levonorgestrel."
+    },
+    "src": "AMAdA · Consenso de anticoncepción de emergencia 2026, píldoras de levonorgestrel",
+    "src_url": "https://amada.org.ar/images/AMAdA_Consenso_de_anticoncepcion_de_emergencia_2026.pdf",
+    "stem": "Mujer de 20 años consulta 12 horas después de la rotura de un preservativo. Fuma y tiene migraña en tratamiento con propranolol. Luego de recibir información sobre píldoras y DIU, elige anticoncepción de emergencia oral. ¿Qué conducta corresponde?",
+    "options": [
+      "Ofrecer levonorgestrel 1,5 mg por vía oral en dosis única ahora.",
+      "Iniciar un ciclo convencional de anticonceptivos combinados durante 21 días como única medida.",
+      "Diferir la colocación del DIU de cobre hasta la próxima menstruación como única medida.",
+      "Descartar anticoncepción de emergencia por la migraña."
+    ]
+  },
+  {
+    "originalId": "julio-2024:49",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor en fosa ilíaca izquierda con fiebre y neutrofilia concuerda con inflamación diverticular. La TC localiza el foco en los divertículos y muestra un absceso pericolónico, de modo que se trata de una diverticulitis aguda complicada.",
+    "o": {
+      "B": "La TC debería identificar inflamación apendicular. El foco demostrado aquí es peridiverticular.",
+      "C": "La colitis ulcerosa afecta la mucosa de manera continua y no explica tan bien el absceso centrado en un divertículo inflamado.",
+      "D": "Una obstrucción mecánica se reconoce por dilatación proximal y punto de transición. Esos no son los hallazgos descriptos."
+    },
+    "src": "Swiss consensus on the management of acute diverticulitis · BJS Open 2024, diverticulitis complicada",
+    "src_url": "https://academic.oup.com/bjsopen/article/8/1/zrad165/7611303"
+  },
+  {
+    "originalId": "julio-2024:50",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Ranson combina criterios del ingreso con otros que se registran durante las primeras 48 horas. Por eso no puede completarse al recibir al paciente y tampoco debe esperarse el puntaje para tratar una falla orgánica.",
+    "o": {
+      "B": "La amilasa contribuye al diagnóstico, pero su magnitud no constituye la escala pronóstica solicitada.",
+      "C": "La ecografía sirve ante sospecha de litiasis biliar. No suma las variables clínicas y bioquímicas de Ranson.",
+      "D": "El hemograma aporta algunos datos, pero se necesitan variables adicionales y su evolución para completar el puntaje."
+    },
+    "src": "South Eastern Sydney Local Health District · Assessing the severity of acute pancreatitis, Ranson criteria",
+    "src_url": "https://www.seslhd.health.nsw.gov.au/sites/default/files/groups/POWHED/docs/Tintinalli_Summary/Gastroenterology_and_GS/PANCREATITISANDCHOLECYSTITIS.pdf",
+    "stem": "¿Qué escala pronóstica clásica de pancreatitis aguda suma variables iniciales y otras de las primeras 48 horas?",
+    "options": [
+      "Escala de Ranson al ingreso y a las 48 horas",
+      "Niveles de amilasa sérica",
+      "Ecografía abdominal seriada",
+      "Hemograma completo"
+    ]
+  },
+  {
+    "originalId": "julio-2024:51",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La TC multifásica con protocolo pancreático permite evaluar contacto arterial, compromiso venoso y posibilidad de reconstrucción. Junto con la búsqueda de metástasis y la aptitud clínica, estos datos orientan si es posible una resección con intención curativa.",
+    "o": {
+      "A": "El tamaño aislado no establece si el tumor invade vasos mayores ni si puede extirparse por completo.",
+      "B": "El CA 19-9 aporta información biológica, pero no define por sí solo los planos vasculares ni la resecabilidad.",
+      "D": "El dolor no determina la extensión anatómica ni la posibilidad de obtener márgenes libres."
+    },
+    "src": "NCCN · Pancreatic Adenocarcinoma, versión 2.2026, criterios anatómicos de resecabilidad",
+    "src_url": "https://new2026.epc-pancreasacademy.com/wp-content/uploads/2026/07/NCCN-2.2026.pdf",
+    "stem": "Paciente en condiciones clínicas de cirugía mayor con adenocarcinoma de cabeza pancreática, sin metástasis a distancia. ¿Cuál de estos datos tiene mayor peso para decidir si el tumor es anatómicamente resecable mediante duodenopancreatectomía?"
+  },
+  {
+    "originalId": "julio-2024:52",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor cortante al evacuar tras el paso de materia fecal dura, con espasmo esfinteriano, es típico de fisura aguda. Inicialmente se busca ablandar las heces con fibra y líquidos, aliviar el dolor y usar baños de asiento. No corresponde forzar un tacto muy doloroso.",
+    "o": {
+      "B": "Un absceso suele causar dolor continuo y progresivo, a veces con tumefacción o fiebre. El patrón ligado a la defecación favorece fisura.",
+      "C": "Las hemorroides internas suelen producir sangrado indoloro. La ligadura no trata una fisura aguda.",
+      "D": "La proctitis suele acompañarse de tenesmo, secreción o sangrado y requiere evaluación etiológica antes de seleccionar antibióticos."
+    },
+    "src": "American Society of Colon and Rectal Surgeons · Anal Fissure, manejo inicial de la fisura aguda",
+    "src_url": "https://fascrs.org/Web/Patients/Diseases-and-Conditions/A-Z/Anal-Fissure-Expanded-Information.aspx"
+  },
+  {
+    "originalId": "julio-2024:53",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La disfagia para líquidos y sólidos con regurgitación y retención esofágica sugiere acalasia. La endoscopía descarta una obstrucción mecánica o pseudoacalasia y la manometría de alta resolución confirma y clasifica el trastorno para elegir tratamiento.",
+    "o": {
+      "B": "El adelgazamiento obliga a descartar cáncer por endoscopía, pero no se indica esofagectomía sin diagnóstico histológico y estadificación.",
+      "C": "Un ensayo aislado con inhibidor de bomba no evalúa la disfagia progresiva ni la retención esofágica.",
+      "D": "El espasmo distal puede causar disfagia, pero el vaciamiento deficiente con estrechamiento distal liso favorece acalasia. Se requiere manometría antes de tratar."
+    },
+    "src": "American College of Gastroenterology · Clinical Guidelines: Diagnosis and Management of Achalasia",
+    "src_url": "https://socgastro.org.br/novo/wp-content/uploads/2021/01/ACG_Clinical_Guidelines__Diagnosis_and_Management.18-1.pdf",
+    "stem": "Mujer de 43 años con disfagia para líquidos y sólidos, regurgitación nocturna y adelgazamiento. El esofagograma muestra dilatación con retención de contraste y estrechamiento distal liso en pico de pájaro. ¿Cuál es el diagnóstico presuntivo y cómo se completa el estudio?",
+    "options": [
+      "Acalasia: endoscopía alta para descartar obstrucción y manometría esofágica de alta resolución.",
+      "Cáncer esofágico: indicar esofagectomía sin tomar biopsia.",
+      "Reflujo gastroesofágico: indicar sólo un inhibidor de bomba.",
+      "Espasmo esofágico: comenzar calcioantagonistas sin otros estudios."
+    ]
+  },
+  {
+    "originalId": "julio-2024:54",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Ocho horas equivalen a 480 minutos. Con este equipo, 1.200 mL × 20 gotas/mL ÷ 480 minutos = 50 gotas/min, equivalentes a 150 mL/h.",
+    "o": {
+      "A": "A 25 gotas/min pasarían 600 mL en ocho horas con este equipo.",
+      "C": "A 75 gotas/min pasarían 1.800 mL en ocho horas.",
+      "D": "A 100 gotas/min pasarían 2.400 mL, el doble del volumen indicado."
+    },
+    "src": "OpenStax · Clinical Nursing Skills, sección 13.3, cálculo de infusión por gravedad",
+    "src_url": "https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion",
+    "stem": "Se indican 1.200 mL de solución fisiológica en ocho horas por gravedad con un equipo cuyo factor es de 20 gotas/mL. ¿A cuántas gotas por minuto se regula la infusión?"
+  },
+  {
+    "originalId": "julio-2024:55",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La fase II estudia actividad terapéutica preliminar en personas con la enfermedad y sigue evaluando seguridad y dosis. El objetivo y el momento del desarrollo permiten clasificar el ensayo; el cegamiento o el tamaño muestral por sí solos no definen la fase.",
+    "o": {
+      "A": "La fase I se centra en farmacología humana inicial, tolerabilidad y dosis. Esa etapa ya se completó en el caso.",
+      "C": "La fase III procura confirmar el beneficio y caracterizar el balance beneficio-riesgo antes de solicitar aprobación. Aquí se exploran dosis y una señal inicial de eficacia.",
+      "D": "Los investigadores asignan las dosis al azar, por lo que es un estudio experimental."
+    },
+    "src": "FDA · Drug Development and Review Definitions, Phase 1, Phase 2 and Phase 3",
+    "src_url": "https://www.fda.gov/drugs/investigational-new-drug-application-ind/drug-development-and-review-definitions",
+    "stem": "Tras completar los estudios iniciales de seguridad y farmacocinética, se asignan al azar cuatro dosis de un fármaco a 60 pacientes con la enfermedad objetivo. El ensayo busca una señal preliminar de eficacia, estimar efectos adversos y seleccionar la dosis para un ensayo confirmatorio. ¿A qué fase corresponde?"
+  },
+  {
+    "originalId": "julio-2024:56",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La imagen anecoica en el receso de Morrison corresponde a líquido libre intraperitoneal. En el contexto traumático se presume sangre hasta demostrar otra causa, pero la imagen aislada no identifica el órgano lesionado.",
+    "o": {
+      "B": "El FAST no demuestra con certeza perforación de víscera hueca por la sola presencia de líquido.",
+      "C": "El receso hepatorrenal no muestra directamente la integridad ósea de la pelvis.",
+      "D": "La ventana hepatorrenal no permite atribuir el líquido al bazo ni graduar una lesión esplénica."
+    },
+    "src": "ACEP · Emergency Ultrasound Imaging Criteria Compendium, ecografía en trauma",
+    "src_url": "https://www.acep.org/siteassets/sites/acep/media/ultrasound/usimagingcriteriacompendium.pdf",
+    "stem": "En el FAST de un traumatizado aparece una banda anecoica en el receso hepatorrenal. ¿Qué muestra directamente la imagen?",
+    "options": [
+      "Líquido libre en la cavidad peritoneal",
+      "Lesión de víscera hueca con certeza",
+      "Fractura de pelvis",
+      "Lesión esplénica leve con exactitud anatómica"
+    ]
+  },
+  {
+    "originalId": "julio-2024:57",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El gastrinoma es un tumor neuroendocrino, habitualmente duodenal o pancreático, que secreta gastrina. La hipersecreción ácida resultante puede causar úlceras recurrentes y diarrea.",
+    "o": {
+      "A": "El síndrome carcinoide se asocia con mediadores como serotonina y puede causar rubor y diarrea. No define hipersecreción ácida por gastrina.",
+      "C": "El insulinoma produce insulina y causa episodios de hipoglucemia.",
+      "D": "El adenocarcinoma gástrico es una neoplasia epitelial y no es la causa del síndrome de Zollinger-Ellison."
+    },
+    "src": "NIDDK · Zollinger-Ellison Syndrome, causas y fisiopatología",
+    "src_url": "https://www.niddk.nih.gov/health-information/digestive-diseases/zollinger-ellison-syndrome"
+  },
+  {
+    "originalId": "julio-2024:58",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Un hermano con cáncer colorrectal diagnosticado antes de los 60 años es un familiar de primer grado que modifica el riesgo. Con colonoscopía completa normal y sin síndrome hereditario identificado, corresponde repetirla a los cinco años.",
+    "o": {
+      "A": "Diez años es el intervalo habitual después de una colonoscopía normal en personas de riesgo promedio.",
+      "C": "El test de sangre oculta anual no reemplaza la colonoscopía periódica recomendada para este patrón familiar.",
+      "D": "Una colonoscopía normal no elimina el incremento de riesgo por el antecedente del hermano."
+    },
+    "src": "Ministerio de Salud de la Nación · Cáncer colorrectal en la Argentina, estrategias según antecedentes familiares",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000001001cnt-2017-09-08-diagnostico-situacional-cancer-colorrectal-argentina.pdf",
+    "stem": "Varón de 60 años asintomático, con colonoscopía completa de buena calidad normal. Su hermano tuvo cáncer colorrectal diagnosticado a los 55 años. No hay síndrome hereditario identificado, antecedentes de pólipos ni enfermedad inflamatoria intestinal. ¿Qué estrategia corresponde?"
+  },
+  {
+    "originalId": "julio-2024:59",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La afirmación incorrecta es que el megacolon tóxico sea la complicación más frecuente. Puede ocurrir en una colitis grave, pero en Crohn son característicos los fenotipos estenosante y penetrante, con obstrucciones, abscesos o fístulas.",
+    "o": {
+      "A": "La afirmación es verdadera: Crohn puede afectar desde la boca hasta el ano, con predilección por íleon terminal y colon.",
+      "B": "La inflamación puede comprometer todo el espesor de la pared intestinal, lo que explica parte de sus complicaciones.",
+      "C": "Las fístulas enterales o perianales son una manifestación reconocida de enfermedad penetrante."
+    },
+    "src": "Manual MSD profesional · Enfermedad de Crohn, distribución y complicaciones",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-gastrointestinales/enfermedad-inflamatoria-intestinal-ibd/enfermedad-de-crohn?sccamp=sccamp"
+  },
+  {
+    "originalId": "julio-2024:60",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La infección crónica por VHB aumenta el riesgo de carcinoma hepatocelular incluso sin cirrosis. La cirrosis sigue siendo un factor mayor de riesgo global y la vigilancia se individualiza según el perfil del paciente.",
+    "o": {
+      "B": "La hepatitis A no evoluciona a infección crónica y no tiene esa asociación oncológica.",
+      "C": "La litiasis vesicular no es un factor mayor de carcinoma hepatocelular.",
+      "D": "Una exposición aguda aislada a alcohol no equivale al daño hepático crónico por alcohol que puede conducir a cirrosis."
+    },
+    "src": "AASLD · Practice Guideline on Treatment of Chronic Hepatitis B, grupos de riesgo para vigilancia de hepatocarcinoma",
+    "src_url": "https://www.aasld.org/sites/default/files/2025-11/CHB%20Educational%20Slide%20Set%20Final%202.pdf",
+    "stem": "¿Cuál de estos antecedentes aumenta de manera reconocida el riesgo de carcinoma hepatocelular aun en ausencia de cirrosis?"
+  },
+  {
+    "originalId": "julio-2024:61",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La remodelación desorganizada produce focos densos y parcheados que, en la bóveda craneal, recuerdan copos de algodón. El aspecto varía según predomine la fase lítica, mixta o esclerótica.",
+    "o": {
+      "A": "El patrón granular en sal y pimienta se asocia típicamente con hiperparatiroidismo.",
+      "C": "El cráneo en cepillo refleja expansión de la médula hematopoyética y puede verse en anemias hemolíticas crónicas.",
+      "D": "Las lesiones líticas en sacabocados son clásicas del mieloma múltiple y no corresponden a la esclerosis parcheada de Paget."
+    },
+    "src": "RadioGraphics · Paget Disease of Bone: Review of Radiographic Features, compromiso craneal",
+    "src_url": "https://geiselmed.dartmouth.edu/radiology/wp-content/uploads/sites/47/2019/04/PagetsDisease_of_Bone_Radiologic_and_Pathologic_Correlation.pdf",
+    "stem": "¿Qué signo radiográfico es característico de Paget óseo en el cráneo durante la fase mixta o esclerótica?",
+    "options": [
+      "Cráneo en sal y pimienta",
+      "Esclerosis parcheada en copos de algodón",
+      "Cráneo en cepillo",
+      "Lesiones en sacabocados sin esclerosis"
+    ]
+  },
+  {
+    "originalId": "julio-2024:62",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El esquema habitual con vacuna antimeningocócica conjugada tetravalente incluye dos dosis en la serie primaria, a los tres y cinco meses, y un refuerzo a los quince meses.",
+    "o": {
+      "A": "El calendario no inicia esta serie al nacer y a los dos meses.",
+      "C": "Una sola dosis a los doce meses omite la serie primaria del lactante y el refuerzo.",
+      "D": "Limitarse a edades escolares deja sin cobertura el esquema recomendado durante la primera infancia."
+    },
+    "src": "Ministerio de Salud de la Nación · Calendario Nacional de Vacunación, esquema antimeningocócico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2025-12-23_infografia_calendario_vacunas.pdf",
+    "stem": "Según el calendario argentino de 2026, ¿cuál es el esquema antimeningocócico habitual de la primera infancia?",
+    "options": [
+      "Recién nacido y dos meses",
+      "Tres y cinco meses con refuerzo a los quince meses",
+      "Una dosis a los doce meses",
+      "Seis y doce años únicamente"
+    ]
+  },
+  {
+    "originalId": "julio-2024:63",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La primera dosis programada de triple viral corresponde a los doce meses. La modificación de 2026 establece la segunda entre los quince y los dieciocho meses para las cohortes alcanzadas.",
+    "o": {
+      "A": "Los dos meses no son la edad de inicio de la triple viral en el calendario habitual.",
+      "B": "En ciertos brotes o viajes puede indicarse una dosis adicional antes del año. Eso no cambia la edad de la primera dosis del esquema habitual.",
+      "D": "Los dieciocho meses pueden estar dentro de la ventana de la segunda dosis. Esperar hasta entonces demoraría la primera."
+    },
+    "src": "Ministerio de Salud de la Nación · Resolución 339/2026, calendario de vacuna triple viral",
+    "src_url": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-339-2026-423397"
+  },
+  {
+    "originalId": "julio-2024:64",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "A los quince meses se inicia el esquema habitual contra varicela. La pregunta distingue comenzar una serie de recibir otras dosis o refuerzos que también pueden corresponder en esta visita.",
+    "o": {
+      "A": "La triple viral se inicia a los doce meses. Desde 2026 la segunda dosis puede coincidir con la visita de los quince meses.",
+      "C": "La vacunación contra hepatitis B se inicia al nacer.",
+      "D": "La serie de vacuna conjugada antineumocócica se inicia durante los primeros meses, no a los quince."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacunación hasta los dos años, dosis correspondientes a los 15 meses",
+    "src_url": "https://www.argentina.gob.ar/salud/vacunas/vacunacion-niniosyninias",
+    "stem": "En Argentina, un chico sano de 15 meses tiene todas las dosis previas del calendario al día. De estas vacunas, ¿para cuál le corresponde ahora la primera dosis del esquema habitual?"
+  },
+  {
+    "originalId": "julio-2024:65",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La atropina antagoniza los efectos muscarínicos que causan broncorrea y broncoespasmo. Se administra junto con soporte respiratorio y se titula según secreciones y ventilación. La pralidoxima puede complementar el tratamiento del organofosforado.",
+    "o": {
+      "B": "La naloxona revierte depresión respiratoria por opioides y no controla el exceso colinérgico.",
+      "C": "El flumazenil antagoniza benzodiacepinas y no resuelve la broncorrea colinérgica.",
+      "D": "La vitamina K se usa en situaciones como intoxicación por anticoagulantes cumarínicos, no en el síndrome colinérgico."
+    },
+    "src": "Ministerio de Salud de la Nación · Manual de Atención Primaria de Intoxicaciones, insecticidas organofosforados",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/manual_toxi.pdf",
+    "stem": "Adulto con exposición accidental a un insecticida organofosforado, miosis, broncorrea y broncoespasmo. Mientras se sostiene la vía aérea y la ventilación, ¿qué antídoto se administra inicialmente para controlar los efectos muscarínicos?"
+  },
+  {
+    "originalId": "julio-2024:66",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La concentración por encima de la línea de tratamiento indica iniciar N-acetilcisteína sin demora. La vía oral o EV se elige según la situación clínica, la tolerancia y el protocolo disponible. Se controlan paracetamol, aminotransferasas y coagulación para decidir cuándo suspenderla.",
+    "o": {
+      "B": "La observación sin antídoto deja progresar una lesión hepática prevenible.",
+      "C": "La hemodiálisis se reserva para situaciones excepcionales de intoxicación muy grave y no sustituye la N-acetilcisteína.",
+      "D": "El carbón activado puede disminuir absorción en casos seleccionados, pero no reemplaza el antídoto cuando la concentración indica tratar."
+    },
+    "src": "Dart y colaboradores · Management of Acetaminophen Poisoning in the US and Canada, consenso toxicológico 2023",
+    "src_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062",
+    "stem": "Adulta con ingesta aguda única de paracetamol de liberación inmediata y horario conocido. A las cuatro horas la concentración supera la línea de tratamiento del nomograma. Está estable, sin acidosis ni alteración del sensorio. ¿Cuál es la conducta indicada?"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
