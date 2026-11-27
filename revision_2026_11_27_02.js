@@ -1251,6 +1251,315 @@
     "src": "Ministerio de Salud de la Nación · Abordaje de la sífilis en personas adultas, diagnóstico serológico",
     "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/04/abordaje_de_la_sifilis_en_personas_adultas_2662024_0.pdf",
     "stem": "Paciente de 30 años con exantema no pruriginoso en tronco, palmas y plantas. Refiere una úlcera indolora en el glande que desapareció espontáneamente semanas atrás. ¿Cuál es la sospecha y el abordaje diagnóstico inicial?"
+  },
+  {
+    "originalId": "diciembre-2022:62",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Eritroplasia de Queyrat es el nombre clínico histórico del carcinoma escamoso in situ del glande. Se presenta típicamente como una placa roja, bien delimitada y aterciopelada.",
+    "o": {
+      "A": "Bowen es la denominación clásica empleada para la lesión in situ sobre piel del cuerpo del pene.",
+      "C": "El melanoma es una neoplasia melanocítica. La biopsia del caso identifica una lesión escamosa.",
+      "D": "El condiloma acuminado suele ser una lesión exofítica por VPH y no equivale a carcinoma escamoso in situ."
+    },
+    "src": "National Cancer Institute · Penile Cancer Treatment (PDQ), carcinoma in situ",
+    "src_url": "https://www.cancer.gov/types/penile/hp/penile-treatment-pdq",
+    "stem": "La biopsia de una placa roja aterciopelada del glande muestra carcinoma escamoso in situ. ¿Cuál es la denominación clínica clásica para esta localización?"
+  },
+  {
+    "originalId": "diciembre-2022:63",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Las pápulas perladas con depresión central son características del molusco contagioso. El rascado puede favorecer su extensión por autoinoculación y algunas lesiones se inflaman.",
+    "o": {
+      "B": "La varicela da brotes agudos de vesículas, pápulas y costras en diferentes estadios.",
+      "C": "En el impétigo no ampollar se esperan erosiones y costras melicéricas.",
+      "D": "La escabiosis suele dar prurito nocturno y surcos. La umbilicación de pápulas perladas orienta a otro diagnóstico."
+    },
+    "src": "CDC · Clinical Overview of Molluscum Contagiosum, presentación clínica",
+    "src_url": "https://www.cdc.gov/molluscum-contagiosum/hcp/clinical-overview/",
+    "stem": "Niña de cinco años con un mes de evolución de pápulas perladas con umbilicación central en cuello, tórax y cara. Algunas están eritematosas y pican. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "diciembre-2022:64",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El zóster suele comenzar con dolor, ardor o prurito localizado y luego aparecen vesículas agrupadas en un dermatoma, habitualmente de un solo lado y sin cruzar la línea media.",
+    "o": {
+      "B": "Las vesículas generalizadas en distintos estadios son típicas de varicela primaria.",
+      "C": "Un exantema maculopapular difuso con descamación no reproduce la distribución segmentaria del zóster.",
+      "D": "Las pápulas perladas umbilicadas sugieren molusco contagioso."
+    },
+    "src": "CDC · Clinical Features of Shingles, distribución del exantema",
+    "src_url": "https://www.cdc.gov/shingles/hcp/clinical-signs/"
+  },
+  {
+    "originalId": "diciembre-2022:65",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El drenaje controla el foco purulento. Ante celulitis extensa que requiere antibiótico, la clindamicina oral cubre el SAMR documentado como sensible y también los estreptococos. El D-test negativo descarta resistencia inducible en el aislamiento estudiado.",
+    "o": {
+      "A": "La cefalexina puede tratar infecciones por estafilococo sensible a meticilina, pero no es activa frente a este SAMR.",
+      "B": "La penicilina común no ofrece cobertura eficaz contra este SAMR.",
+      "D": "La amoxicilina sola tampoco es activa contra el aislamiento resistente a meticilina."
+    },
+    "src": "Consenso argentino · Guía de manejo de las infecciones de piel y partes blandas, infecciones purulentas",
+    "src_url": "https://sad.org.ar/wp-content/uploads/2025/06/Guia-de-manejo-de-las-Infecciones-de-Piel-y-Partes-Blandas.pdf",
+    "stem": "Adulto estable con forúnculo drenado y celulitis circundante extensa, apto para tratamiento oral. El cultivo informa Staphylococcus aureus resistente a meticilina (SAMR), sensible a clindamicina, con D-test negativo. ¿Cuál de las opciones cubre el aislamiento?"
+  },
+  {
+    "originalId": "diciembre-2022:66",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Antes de un procedimiento endourológico que lesione la mucosa se indica urocultivo y, si hay bacteriuria, tratamiento dirigido perioperatorio para reducir el riesgo de sepsis.",
+    "o": {
+      "A": "La edad avanzada y la institucionalización solas no justifican buscar bacteriuria en una persona asintomática.",
+      "B": "La diabetes por sí sola no es indicación de pesquisa ni tratamiento de bacteriuria asintomática.",
+      "D": "La colonización es frecuente con sonda crónica. Sin síntomas ni procedimiento traumático previsto, buscarla de rutina lleva a tratamientos innecesarios."
+    },
+    "src": "IDSA · Asymptomatic Bacteriuria, secciones IV, VI y XIII",
+    "src_url": "https://www.idsociety.org/practice-guideline/asymptomatic-bacteriuria/",
+    "stem": "Entre estas personas adultas no embarazadas, sin síntomas urinarios, ¿en quién está indicado buscar bacteriuria asintomática?",
+    "options": [
+      "Persona de 80 años institucionalizada.",
+      "Persona con diabetes tipo 2 en control.",
+      "Paciente que va a ser sometido a resección transuretral de próstata.",
+      "Paciente con sonda vesical crónica sin intervención urológica prevista."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:67",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Para esta formulación de nitrofurantoína, en una mujer con cistitis localizada y función renal adecuada, la pauta es 100 mg por vía oral cada 12 horas durante cinco días.",
+    "o": {
+      "B": "El esquema en dosis única corresponde a otros tratamientos, como fosfomicina trometamol, no a esta formulación.",
+      "C": "La administración semanal no trata un episodio agudo de cistitis.",
+      "D": "Una sola toma diaria durante un día no completa el tratamiento."
+    },
+    "src": "EAU · Pocket Guidelines on Urological Infections 2026, esquemas para cistitis",
+    "src_url": "https://d56bochluxqnz.cloudfront.net/documents/pocket-guidelines/EAU-Pocket-on-Urological-Infections-2026_2026-04-16-075133_jpjp.pdf",
+    "stem": "Mujer no embarazada con cistitis localizada, función renal conservada y sin fiebre. Se elige nitrofurantoína monohidrato/macrocristales de 100 mg. ¿Qué pauta corresponde?",
+    "options": [
+      "Cada 12 h por 5 días",
+      "Una sola dosis",
+      "Una dosis semanal",
+      "Una vez al día por 24 h"
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:68",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El paciente reúne los cuatro criterios de Centor. En un adulto sin signos virales claros, los CDC recomiendan confirmación microbiológica. Un test rápido positivo indica tratamiento y, si es negativo, no se requiere cultivo de respaldo de rutina.",
+    "o": {
+      "A": "El exudado, la fiebre y las adenopatías dolorosas sin tos justifican investigar estreptococo del grupo A.",
+      "B": "El puntaje estima probabilidad y no confirma por sí solo la etiología.",
+      "D": "Un test rápido positivo ya confirma la infección. Esperar además un cultivo retrasa innecesariamente el tratamiento."
+    },
+    "src": "CDC · Clinical Guidance for Group A Streptococcal Pharyngitis, pruebas y tratamiento",
+    "src_url": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/strep-throat.html",
+    "stem": "Adulto de 22 años con fiebre de 38,5 °C, exudado amigdalino, adenopatías cervicales anteriores dolorosas y ausencia de tos. Sin síntomas virales claros ni complicaciones. Hay test rápido de antígeno disponible. Según los CDC, ¿qué conducta corresponde?",
+    "options": [
+      "Descartar etiología estreptocócica solo por la edad.",
+      "Indicar antibiótico sin realizar prueba por el puntaje de Centor.",
+      "Realizar el test rápido y tratar si es positivo.",
+      "Si el test rápido es positivo, esperar siempre un cultivo confirmatorio antes de tratar."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:69",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La radiografía cervical es un estudio por imágenes y no forma parte del examen físico. La evaluación clínica se elige según la duración, los desencadenantes y los signos acompañantes.",
+    "o": {
+      "A": "Romberg es una prueba clínica de equilibrio en bipedestación.",
+      "B": "Dix-Hallpike es una maniobra posicional para investigar VPPB del canal posterior cuando el cuadro es compatible.",
+      "C": "La evaluación de la marcha ayuda a reconocer inestabilidad y posibles signos centrales."
+    },
+    "src": "Diagnosis and treatment of vertigo and dizziness · Guía interdisciplinaria de práctica clínica, examen a pie de cama",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12672759/"
+  },
+  {
+    "originalId": "diciembre-2022:70",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El sucralfato forma un complejo adherente sobre la superficie ulcerada y la protege del contenido gástrico. Esa acción local permite distinguirlo de los fármacos antisecretores.",
+    "o": {
+      "A": "La metoclopramida es antiemética y procinética, con antagonismo dopaminérgico.",
+      "B": "La famotidina bloquea receptores H2 y reduce la secreción ácida.",
+      "C": "El omeprazol inhibe la bomba de protones de la célula parietal."
+    },
+    "src": "Servizo Galego de Saúde · Sucralfato, ficha de producto, mecanismo de acción",
+    "src_url": "https://www.sergas.gal/Asistencia-sanitaria/Documents/296/SUCRALFATO.pdf",
+    "stem": "¿Cuál de estos fármacos protege una úlcera por formación de una barrera adherente sobre la lesión?",
+    "options": [
+      "Metoclopramida",
+      "Famotidina",
+      "Omeprazol",
+      "Sucralfato"
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:71",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En el primer episodio no fulminante se prefiere fidaxomicina cuando está disponible. La vancomicina oral, 125 mg cada seis horas durante diez días, es una alternativa aceptada.",
+    "o": {
+      "A": "El metronidazol no es de elección cuando se dispone de vancomicina oral.",
+      "C": "La ciprofloxacina no trata esta infección y las fluoroquinolonas pueden favorecerla.",
+      "D": "La amoxicilina tampoco constituye tratamiento específico y puede agravar la alteración de la microbiota."
+    },
+    "src": "IDSA/SHEA · Guía de infección por Clostridioides difficile, actualización 2021, episodio inicial",
+    "src_url": "https://www.idsociety.org/practice-guideline/clostridioides-difficile-2021-focused-update/",
+    "stem": "Adulto con primer episodio confirmado de infección por Clostridioides difficile, sin shock, íleo ni megacolon. No hay fidaxomicina, pero se dispone de vancomicina oral. ¿Qué tratamiento corresponde?",
+    "options": [
+      "Metronidazol como primera elección pese a disponer de vancomicina oral.",
+      "Vancomicina oral 125 mg cada seis horas durante diez días.",
+      "Ciprofloxacina oral.",
+      "Amoxicilina oral."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:72",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con CD4 de 75 células/mm³ está indicada la profilaxis primaria de neumonía por Pneumocystis jirovecii. La trimetoprima-sulfametoxazol es la opción preferida si se tolera.",
+    "o": {
+      "B": "La prevención de tuberculosis utiliza otros esquemas y requiere evaluar exposición, infección y enfermedad activa.",
+      "C": "La prevención específica frente a neumococo incluye vacunación. El recuento de CD4 señalado no indica profilaxis primaria dirigida a neumococo con este esquema.",
+      "D": "Puede usarse profilaxis antibiótica en personas seleccionadas con ITU recurrente, pero ese antecedente está ausente en este caso."
+    },
+    "src": "NIH · Pneumocystis Pneumonia, prevención del primer episodio en adultos con VIH",
+    "src_url": "https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-opportunistic-infections/pneumocystis",
+    "stem": "Adulto con VIH recién diagnosticado, CD4 de 75 células/mm³, sin síntomas respiratorios ni antecedentes de infecciones urinarias recurrentes. ¿Qué infección se busca prevenir específicamente por este grado de inmunosupresión al iniciar profilaxis primaria con trimetoprima-sulfametoxazol?"
+  },
+  {
+    "originalId": "diciembre-2022:73",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Después de la infección mucocutánea, el virus herpes simple establece latencia en neuronas de ganglios sensitivos, como el trigeminal o los ganglios sacros, según el territorio afectado.",
+    "o": {
+      "B": "La médula ósea no es el reservorio neuronal característico del herpes simple.",
+      "C": "El hígado puede afectarse en enfermedad diseminada, pero no es el sitio típico de latencia.",
+      "D": "Los ganglios linfáticos participan en la respuesta inmunitaria. Son estructuras distintas de los ganglios sensitivos."
+    },
+    "src": "Medical Microbiology · Persistent Viral Infections, latencia de herpes simple",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK8538/",
+    "stem": "Tras la primoinfección mucocutánea por el virus herpes simple, ¿dónde establece su latencia característica?"
+  },
+  {
+    "originalId": "diciembre-2022:74",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El antígeno es el toxoide tetánico: toxina inactivada que conserva capacidad de inducir anticuerpos neutralizantes. Esto genera inmunidad activa contra los efectos de la toxina.",
+    "o": {
+      "B": "La vacuna no administra bacterias vivas atenuadas.",
+      "C": "No se utiliza la bacteria entera inactivada como componente antitetánico.",
+      "D": "La inmunoglobulina aporta anticuerpos ya formados y confiere protección pasiva transitoria."
+    },
+    "src": "Ministerio de Salud de la Nación · Recomendaciones Nacionales de Vacunación, vacunas con componente antitetánico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000451cnt-2013-06_recomendaciones-vacunacion-argentina-2012.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:75",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Cuando está indicado documentar respuesta, se cuantifica anti-HBs uno a dos meses después de la última dosis. Tras un esquema completo, un resultado de al menos 10 mUI/mL indica respuesta protectora.",
+    "o": {
+      "B": "El HBsAg es un marcador de infección actual, no de respuesta protectora a la vacuna.",
+      "C": "El anti-HBc indica exposición al virus. La vacuna de antígeno de superficie no lo induce.",
+      "D": "El HBeAg se relaciona con replicación viral y no evalúa inmunidad posvacunal."
+    },
+    "src": "Academia Nacional de Medicina de Buenos Aires · Vacunación contra hepatitis virales en la Argentina, serología posvacunación",
+    "src_url": "https://anm.edu.ar/recurso/vacunacion-contra-hepatitis-virales-en-la-argentina/",
+    "stem": "En una trabajadora de salud con exposición ocupacional a sangre, se necesita documentar la respuesta tras completar la vacunación contra hepatitis B. ¿Qué marcador se solicita?"
+  },
+  {
+    "originalId": "diciembre-2022:76",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Si la médula conserva su capacidad de respuesta, la destrucción periférica de eritrocitos estimula la eritropoyesis y eleva el recuento de reticulocitos. Ese aumento caracteriza una anemia regenerativa.",
+    "o": {
+      "B": "La carencia de folato o vitamina B12 produce eritropoyesis ineficaz y una respuesta reticulocitaria inadecuada antes del tratamiento.",
+      "C": "La infiltración leucémica puede desplazar la hematopoyesis normal y reducir la producción eritroide.",
+      "D": "La falta de eritropoyetina disminuye el estímulo para producir eritrocitos."
+    },
+    "src": "Manual MSD profesional · Generalidades sobre la anemia hemolítica, respuesta reticulocitaria",
+    "src_url": "https://www.msdmanuals.com/es/professional/hematolog%C3%ADa/anemias-causadas-por-hem%C3%B3lisis/generalidades-sobre-la-anemia-hemol%C3%ADtica"
+  },
+  {
+    "originalId": "diciembre-2022:77",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La TA de 140/90 mmHg confirmada en dos controles antes de las 20 semanas se clasifica como hipertensión crónica, aunque la paciente desconociera el antecedente.",
+    "o": {
+      "A": "El valor alcanza el umbral diagnóstico y se repite al día siguiente.",
+      "B": "La hipertensión gestacional se inicia a partir de las 20 semanas en una paciente previamente normotensa.",
+      "D": "La presentación habitual de preeclampsia es desde las 20 semanas, con proteinuria o signos de disfunción orgánica. El caso no aporta esos hallazgos."
+    },
+    "src": "SAHA, SAC y FAC · Consenso Argentino de Hipertensión Arterial 2025, hipertensión en el embarazo",
+    "src_url": "https://www.saha.org.ar/uploads/pdf/1760367723.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:78",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Los episodios súbitos de dolor con flexión de las piernas, palidez y somnolencia entre crisis a los diez meses sugieren invaginación intestinal. Los vómitos y las deposiciones inicialmente blandas pueden preceder al sangrado. Requiere evaluación urgente y ecografía.",
+    "o": {
+      "A": "La alergia a la proteína de leche puede producir síntomas digestivos, pero explica peor los accesos bruscos con palidez y letargo.",
+      "C": "Los cólicos habituales comienzan en los primeros meses y no justifican este cuadro agudo a los diez meses.",
+      "D": "La apendicitis suele causar dolor progresivo y más persistente. El patrón paroxístico favorece invaginación."
+    },
+    "src": "Royal Children’s Hospital Melbourne · Intussusception, presentación clínica",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/intussusception_guideline/"
+  },
+  {
+    "originalId": "diciembre-2022:79",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En un adulto de 75 kg corresponde ceftriaxona 500 mg IM en dosis única para gonococo. Mientras no se descarte clamidia se agrega doxiciclina 100 mg por vía oral cada doce horas durante siete días.",
+    "o": {
+      "A": "Una única dosis de doxiciclina no completa el tratamiento recomendado para posible clamidia.",
+      "B": "La ciprofloxacina empírica no ofrece cobertura confiable del gonococo sin sensibilidad documentada.",
+      "C": "Agregar azitromicina a ciprofloxacina no resuelve la falta de cobertura gonocócica empírica confiable."
+    },
+    "src": "Guía argentina de recomendaciones de diagnóstico y tratamiento de las ITS · Infección gonocócica no complicada",
+    "src_url": "https://sad.org.ar/wp-content/uploads/2025/06/Guia-de-recomendaciones-de-diagnostico-y-tratamiento-de-las-Infecciones-de-Transmision-Sexual.pdf",
+    "stem": "Varón de 75 kg con uretritis purulenta y diplococos gramnegativos intracelulares en el exudado. Se tomaron muestras para gonococo y clamidia. No tiene alergias y aún no se descartó clamidia. ¿Qué tratamiento inicial corresponde?",
+    "options": [
+      "Ceftriaxona 500 mg IM más una sola dosis oral de doxiciclina.",
+      "Ciprofloxacina 500 mg cada 12 horas por siete días.",
+      "Ciprofloxacina por siete días más azitromicina 1 g en dosis única.",
+      "Ceftriaxona 500 mg IM una vez más doxiciclina 100 mg VO cada 12 horas por siete días."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:80",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El IAM con elevación persistente del ST de cuatro horas requiere reperfusión inmediata. Con hemodinamia disponible en el plazo indicado, corresponde activar angioplastia primaria junto con el tratamiento antitrombótico apropiado.",
+    "o": {
+      "A": "El betabloqueante, la aspirina y la enoxaparina no sustituyen la apertura urgente de la arteria ocluida.",
+      "B": "La antiagregación y la estatina forman parte del manejo. Los nitratos alivian síntomas, pero esta combinación sola no reperfunde la arteria.",
+      "C": "Se considera fibrinólisis si no puede realizarse angioplastia primaria a tiempo y no hay contraindicaciones."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de emergencias cardiovasculares, mayo de 2026, algoritmo de SCACEST",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2026/05/Consenso-emergencias-cardiovasculares-8.pdf",
+    "stem": "Varón de 65 años con cuatro horas de dolor precordial opresivo y elevación persistente del ST en DI, aVL y V1 a V6. Se confirma IAM con elevación del ST. El centro puede realizar angioplastia dentro de los 90 minutos del primer contacto médico. ¿Cuál es la estrategia de reperfusión preferida?"
+  },
+  {
+    "originalId": "diciembre-2022:81",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El bupropión disminuye el umbral convulsivo y está contraindicado en personas con epilepsia. En una persona hipertensa también corresponde controlar la presión al evaluar el tratamiento.",
+    "o": {
+      "B": "La hiperglucemia en ayunas aislada no es una contraindicación absoluta para el bupropión.",
+      "C": "La displasia mamaria no es una contraindicación específica para este medicamento.",
+      "D": "La dislipemia requiere manejo cardiovascular, pero no contraindica por sí sola el bupropión."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía nacional de tratamiento de la adicción al tabaco, versión breve 2024, bupropión",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2023/10/gpc-tabaco-breve-08-2024_2392024-2.pdf"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
