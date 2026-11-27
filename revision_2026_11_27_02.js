@@ -2539,6 +2539,324 @@
       "Reemplazar el consentimiento del paciente por la firma de un familiar.",
       "Operar sin otra constancia por tratarse de cirugía programada."
     ]
+  },
+  {
+    "originalId": "febrero-2023:43",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El sangrado activo y las 35.000 plaquetas/µL en un síndrome HELLP implican alto riesgo hemorrágico. Se evita la punción y se coordina con anestesia y obstetricia la alternativa más segura y la evaluación de la coagulopatía.",
+    "o": {
+      "A": "La epidural puede originar un hematoma en un espacio cerrado. El recuento y el sangrado impiden proceder sin evaluación.",
+      "C": "La vía raquídea también implica una punción neuroaxial y no elimina el riesgo hemorrágico.",
+      "D": "La aspirina inhibe la función plaquetaria y no corrige el recuento."
+    },
+    "src": "SOAP · Consenso interdisciplinario sobre procedimientos neuroaxiales en obstetricia con trombocitopenia",
+    "src_url": "https://www.soap.org/assets/docs/SOAP_Thrombocytopenia_Consensus_Statement_FINAL_STATEMENT.pdf",
+    "stem": "Gestante con HELLP, sangrado clínico y 35.000 plaquetas/µL. ¿Qué conducta corresponde ante una solicitud de analgesia neuroaxial?",
+    "options": [
+      "Realizar epidural sin más evaluación",
+      "Evitar la punción por el riesgo hemorrágico y coordinar alternativa con anestesia",
+      "Realizar raquídea sin evaluar hemostasia",
+      "Administrar aspirina para elevar las plaquetas"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:44",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La llegada de la leche suele acompañarse de aumento bilateral y difuso del volumen mamario entre los días tres y cinco. La tensión simétrica, sin eritema focal ni deterioro general, orienta a ingurgitación.",
+    "o": {
+      "A": "En la endometritis se esperan fiebre, dolor uterino o loquios anormales. No explica la tensión mamaria bilateral aislada.",
+      "B": "La mastitis suele producir dolor e inflamación localizados y puede acompañarse de fiebre y malestar general.",
+      "D": "Una infección de la episiorrafia daría dolor, eritema o secreción en la herida perineal."
+    },
+    "src": "ACOG · Breastfeeding Challenges, ingurgitación mamaria posparto",
+    "src_url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2021/02/breastfeeding-challenges",
+    "stem": "Al cuarto día posparto, la paciente nota ambas mamas tensas y doloridas coincidiendo con la bajada de la leche. Tiene temperatura de 37,6 °C, buen estado general, sin eritema focal, dolor uterino ni signos de infección perineal. ¿Qué causa explica mejor el cuadro?"
+  },
+  {
+    "originalId": "febrero-2023:45",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El liquen plano oral reticular produce estrías blancas entrecruzadas en la mucosa yugal. Puede ser asintomático y persiste al raspado. La morfología tiene más valor diagnóstico que el antecedente de hepatitis C aislado.",
+    "o": {
+      "A": "Una leucoplasia también puede persistir al raspado, pero suele verse como una placa sin la trama reticular fina.",
+      "B": "La fricción por mordedura produce una superficie irregular o desflecada sobre la línea de oclusión.",
+      "C": "El muguet seudomembranoso suele desprenderse al raspar y dejar una base eritematosa."
+    },
+    "src": "DermNet · Oral lichen planus, presentación reticular",
+    "src_url": "https://dermnetnz.org/topics/oral-lichen-planus"
+  },
+  {
+    "originalId": "febrero-2023:46",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Si estaba elevado al diagnóstico de un adenocarcinoma pancreático, el CA 19-9 puede seguirse junto con la clínica y las imágenes para evaluar respuesta. La colestasis también puede elevarlo, por lo que un resultado aislado no diagnostica cáncer.",
+    "o": {
+      "A": "La alfafetoproteína se usa especialmente en hepatocarcinoma y algunos tumores germinales.",
+      "B": "El CA 125 se utiliza sobre todo para el seguimiento del cáncer epitelial de ovario.",
+      "C": "El CA 15-3 tiene aplicaciones en el seguimiento de algunos cánceres de mama."
+    },
+    "src": "Instituto Nacional del Cáncer de EE. UU. · Pruebas de marcadores tumorales más comunes, CA 19-9",
+    "src_url": "https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/lista-marcadores-tumorales",
+    "stem": "En un paciente con adenocarcinoma de páncreas confirmado, ¿qué marcador sérico puede contribuir al seguimiento si estaba elevado antes del tratamiento?"
+  },
+  {
+    "originalId": "febrero-2023:47",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Un adulto con traumatismo cervical cerrado y dolor en la línea media requiere imágenes. Para detectar una lesión ósea cervical, el estudio inicial indicado es la TC cervical sin contraste.",
+    "o": {
+      "A": "Las radiografías de tórax y abdomen no evalúan las vértebras cervicales.",
+      "C": "Una TC de cráneo aislada no estudia adecuadamente toda la columna cervical.",
+      "D": "Una única proyección cervical lateral puede pasar por alto fracturas, especialmente en las zonas de transición."
+    },
+    "src": "ACR Appropriateness Criteria · Acute Spinal Trauma, variante 2, revisión 2024",
+    "src_url": "https://acsearch.acr.org/docs/69359/Narrative/",
+    "stem": "Varón de 35 años, hemodinámicamente estable tras un choque de alta energía, con dolor a la palpación en la línea media cervical. Se mantiene protección cervical y hay tomografía disponible. ¿Qué estudio inicial evalúa mejor una lesión ósea cervical?",
+    "options": [
+      "Radiografías de tórax y abdomen.",
+      "TC de columna cervical sin contraste.",
+      "TC de cráneo como único estudio.",
+      "Radiografía lateral de columna cervical como único estudio."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:48",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Los vómitos posprandiales progresivos a las seis semanas, la masa epigástrica en oliva y la alcalosis por pérdida de ácido gástrico orientan a estenosis hipertrófica de píloro. La ecografía permite confirmarla.",
+    "o": {
+      "A": "Una crisis suprarrenal por pérdida de sal suele producir deshidratación con hiponatremia, hiperpotasemia y acidosis, sin oliva palpable.",
+      "C": "La atresia duodenal suele manifestarse desde las primeras tomas y con frecuencia produce vómitos biliosos.",
+      "D": "Una membrana antral puede obstruir la salida gástrica, pero no produce la oliva muscular palpable característica."
+    },
+    "src": "Royal Children’s Hospital Melbourne · Pyloric stenosis, presentación y evaluación",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/Pyloric_Stenosis/"
+  },
+  {
+    "originalId": "febrero-2023:49",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El dolor que aumenta al retirar la mano después de la palpación sugiere irritación peritoneal. En este contexto obliga a valorar con urgencia causas abdominales y ginecológicas, sin identificar por sí solo la etiología.",
+    "o": {
+      "A": "La disminución de los ruidos hidroaéreos puede observarse en íleo y es inespecífica.",
+      "B": "La puñopercusión lumbar dolorosa orienta más a enfermedad renal o urinaria.",
+      "C": "El signo de Cullen es una equimosis periumbilical. Es distinto de las venas colaterales de la cabeza de Medusa y del dolor a la descompresión."
+    },
+    "src": "Manual MSD profesional · Acute Abdominal Pain, exploración abdominal",
+    "src_url": "https://www.msdmanuals.com/professional/gastrointestinal-disorders/acute-abdomen-and-surgical-gastroenterology/acute-abdominal-pain",
+    "stem": "Mujer de 30 años con dolor súbito en abdomen inferior, fiebre y vómitos. ¿Qué hallazgo orienta más directamente a irritación peritoneal?",
+    "options": [
+      "Disminución de los ruidos hidroaéreos.",
+      "Puñopercusión lumbar positiva.",
+      "Equimosis periumbilical (signo de Cullen).",
+      "Dolor a la descompresión (signo de Blumberg)."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:50",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El dolor orbitario unilateral intenso de 30 a 60 minutos con lagrimeo y congestión nasal del mismo lado es típico de cefalea en racimos. El alcohol puede precipitar ataques durante un período activo.",
+    "o": {
+      "A": "La neuralgia trigeminal suele dar descargas de segundos a pocos minutos desencadenadas por estímulos en la cara.",
+      "C": "Sin tratamiento, la migraña suele durar horas a días. La duración breve y los signos autonómicos ipsilaterales favorecen cefalea en racimos.",
+      "D": "La neuralgia glosofaríngea provoca descargas en faringe, base de la lengua u oído, a menudo al tragar."
+    },
+    "src": "International Headache Society · ICHD-3, 3.1 Cluster headache",
+    "src_url": "https://ichd-3.org/3-trigeminal-autonomic-cephalalgias/3-1-cluster-headache/"
+  },
+  {
+    "originalId": "febrero-2023:51",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En el control prenatal habitual, la ventana ideal para la PTOG es de 24 a 28 semanas. El protocolo argentino utiliza 75 g de glucosa y mide glucemia en ayunas y a las dos horas.",
+    "o": {
+      "B": "Las semanas 20 a 24 no constituyen la ventana habitual completa. El estudio temprano se decide según el contexto.",
+      "C": "La prueba de 100 g corresponde a otro esquema diagnóstico y no es la carga recomendada por el protocolo argentino."
+    },
+    "src": "Ministerio de Salud de la Nación · Protocolo nacional de diagnóstico de diabetes gestacional, 2023",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-08/Protocolo_de_Diabetes_Gestacional_2023.pdf"
+  },
+  {
+    "originalId": "febrero-2023:52",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El pródromo febril con mialgias y síntomas digestivos seguido de hipoxemia e infiltrados bilaterales rápidamente progresivos, trombocitopenia y leucocitosis orienta a síndrome cardiopulmonar por hantavirus. La residencia y el trabajo rural aportan contexto epidemiológico.",
+    "o": {
+      "A": "La influenza puede causar distrés, pero la transición rápida a compromiso cardiopulmonar con plaquetopenia marcada y exposición rural favorece hantavirosis.",
+      "B": "La leptospirosis puede comprometer pulmón y riñón. Aquí no se describen ictericia ni lesión renal temprana y predomina el patrón cardiopulmonar.",
+      "D": "El dengue grave puede producir fuga capilar y plaquetopenia, pero la marcada leucocitosis y la evolución pulmonar tras el pródromo son más sugestivas de hantavirosis."
+    },
+    "src": "Ministerio de Salud de la Nación · Hantavirosis o infección por hantavirus, síndrome cardiopulmonar",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/hantavirosis_o_infeccion_por_hantavirus_2024.pdf"
+  },
+  {
+    "originalId": "febrero-2023:53",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La estimulación simpática puede producir agitación, taquicardia, hipertensión, midriasis e hipertermia. La hipertermia por estimulantes es una urgencia y se distingue del síndrome de hipertermia maligna asociado a determinados anestésicos.",
+    "o": {
+      "A": "La somnolencia aislada no es la manifestación típica de la fase estimulante aguda.",
+      "B": "La depresión respiratoria con disminución de conciencia orienta especialmente a opioides u otros depresores.",
+      "C": "La miosis no es el signo pupilar habitual del síndrome simpaticomimético."
+    },
+    "src": "Ministerio de Salud y Protección Social de Colombia · Guías para el manejo de emergencias toxicológicas, cocaína",
+    "src_url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/GT/guias-manejo-emergencias-toxicologicas-outpout.pdf",
+    "stem": "Durante la fase estimulante de una intoxicación aguda por cocaína, ¿qué conjunto de hallazgos es más característico?",
+    "options": [
+      "Somnolencia aislada.",
+      "Bradipnea y depresión del sensorio.",
+      "Miosis e inyección conjuntival como únicos hallazgos.",
+      "Agitación, taquicardia, midriasis e hipertermia."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:54",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Las calcificaciones vasculares típicas y un ganglio intramamario con hilio graso conservado son hallazgos benignos. La evaluación global es BI-RADS 2 y corresponde el control habitual según edad y riesgo.",
+    "o": {
+      "A": "BI-RADS 0 indica que hacen falta estudios adicionales o comparaciones para completar la evaluación.",
+      "B": "BI-RADS 1 se usa para una evaluación negativa sin hallazgos descriptos.",
+      "D": "BI-RADS 3 indica un hallazgo probablemente benigno con control a corto plazo. No corresponde para un ganglio de morfología inequívocamente benigna."
+    },
+    "src": "American College of Radiology · BI-RADS, mamografía, evaluación final de hallazgos benignos",
+    "src_url": "https://cs.acr.org/-/media/ACR/Files/RADS/BI-RADS/Mammography-Reporting.pdf",
+    "stem": "Mamografía completa en una mujer de 43 años con calcificaciones vasculares típicas y un nódulo oval circunscripto, con hilio graso, identificado como ganglio intramamario normal. Sin otros hallazgos. ¿Qué categoría de evaluación corresponde?",
+    "options": [
+      "BI-RADS 0",
+      "BI-RADS 1",
+      "BI-RADS 2",
+      "BI-RADS 3"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:55",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La dermatitis herpetiforme es la manifestación cutánea característica de la enfermedad celíaca. Suele causar intenso prurito y lesiones agrupadas, simétricas, sobre superficies extensoras.",
+    "o": {
+      "A": "La dermatitis atópica puede producir prurito, pero su asociación típica es con la atopia.",
+      "C": "El granuloma anular produce pápulas en anillo y no es la manifestación cutánea específica de enteropatía por gluten.",
+      "D": "La rosácea afecta predominantemente el centro de la cara y no explica esta asociación característica."
+    },
+    "src": "Sociedad Argentina de Dermatología · Consenso de diagnóstico y tratamiento de dermatitis herpetiforme",
+    "src_url": "https://sad.org.ar/wp-content/uploads/2024/12/SAD-Consenso-de-Diagnostico-y-Tratamiento-de-Dermatitis-Herpetiforme-GF.pdf"
+  },
+  {
+    "originalId": "febrero-2023:56",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "A los 57 años corresponden las pesquisas de mama, cuello uterino y colon en una mujer de riesgo habitual con tamizajes vencidos. Se ofrece mamografía, prueba de VPH o PAP según el programa y pesquisa colorrectal, por ejemplo con test inmunoquímico de materia fecal.",
+    "o": {
+      "A": "Una ergometría en una mujer asintomática de bajo riesgo no sustituye la mamografía.",
+      "C": "La ecografía tiroidea no es una pesquisa poblacional de rutina y omite el tamizaje colorrectal indicado.",
+      "D": "No se indica colposcopía como rastreo primario ni radiografía de tórax para detección de cáncer pulmonar en una persona que nunca fumó."
+    },
+    "src": "Ministerio de Salud de la Nación · Manual para el cuidado de personas con enfermedades crónicas no transmisibles, prácticas preventivas y tamizaje oncológico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/manualcuidadoent4_-1-.pdf",
+    "stem": "Mujer de 57 años con cuello uterino, asintomática, sin antecedentes familiares relevantes y sin pesquisas de cáncer desde hace más de diez años. Nunca fumó. En el control de salud, ¿qué conjunto de tamizajes oncológicos corresponde ofrecerle en la Argentina?",
+    "options": [
+      "Tamizaje cervical, colorrectal y ergometría en reemplazo de la mamografía.",
+      "Tamizaje cervical, mamografía y tamizaje colorrectal.",
+      "Tamizaje cervical, mamografía y ecografía tiroidea de rutina en lugar del tamizaje colorrectal.",
+      "Colposcopía primaria, tamizaje colorrectal y radiografía de tórax."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:57",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Una glucemia plasmática en ayunas de 138 mg/dL supera el umbral de 126 mg/dL. En ausencia de síntomas inequívocos se necesita confirmación. La guía nacional indica repetir la glucemia plasmática en ayunas.",
+    "o": {
+      "A": "Los hábitos saludables son pertinentes, pero la primera determinación aislada no confirma el diagnóstico.",
+      "B": "La PTOG es particularmente útil con glucemia basal alterada por debajo del umbral de diabetes. No es el siguiente paso preferido en este algoritmo.",
+      "C": "Iniciar metformina como tratamiento de una diabetes ya confirmada se adelanta a la segunda determinación."
+    },
+    "src": "Ministerio de Salud de la Nación · GPC nacional de diabetes tipo 2, algoritmo diagnóstico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2021-01/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_version-abreviada.pdf",
+    "stem": "Paciente de 45 años con obesidad, sin síntomas de hiperglucemia. Primera glucemia plasmática venosa de 138 mg/dL luego de ocho horas de ayuno. Según el algoritmo nacional argentino de DM2, ¿qué conducta diagnóstica corresponde?"
+  },
+  {
+    "originalId": "febrero-2023:58",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Los cuatro pilares son un inhibidor del sistema renina-angiotensina, preferentemente ARNI cuando está indicado y se tolera, un betabloqueante de eficacia probada, un antagonista mineralocorticoide y un inhibidor SGLT2. Reducen el riesgo de eventos y deben ajustarse a la tolerancia clínica.",
+    "o": {
+      "B": "Un nitrato aislado no reemplaza al antagonista mineralocorticoide ni al inhibidor SGLT2.",
+      "C": "La combinación de IECA y ARA II aumenta el riesgo de hiperpotasemia y deterioro renal y no forma parte del esquema básico.",
+      "D": "La prazosina no sustituye al betabloqueante ni al inhibidor SGLT2 en el tratamiento que modifica el pronóstico."
+    },
+    "src": "ACC · Consenso 2024 sobre tratamiento de la insuficiencia cardíaca con fracción de eyección reducida",
+    "src_url": "https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2024/03/06/19/22/2024-acc-expert-consensus-hfref",
+    "stem": "Adulto estable con insuficiencia cardíaca sintomática y FEVI 30 %, función renal y potasio adecuados, sin contraindicaciones. ¿Qué combinación representa las cuatro clases fundamentales que modifican el pronóstico?",
+    "options": [
+      "Sacubitrilo/valsartán, carvedilol, espironolactona y dapagliflozina.",
+      "Enalapril, carvedilol y mononitrato de isosorbida.",
+      "Enalapril, losartán y carvedilol.",
+      "Enalapril, prazosina y espironolactona."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:59",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En una mujer de 30 años con infección confirmada, sin embarazo ni contraindicaciones, corresponde ofrecer tratamiento etiológico. El esquema habitual de benznidazol dura 60 días y requiere seguimiento de tolerancia, controles de laboratorio y evitar el embarazo durante el tratamiento.",
+    "o": {
+      "A": "La vigilancia cardiológica es parte del seguimiento, pero no sustituye la oportunidad de tratamiento etiológico.",
+      "B": "Una ergometría no es requisito para decidir el tratamiento en esta paciente sin síntomas ni alteraciones en el ECG o el ecocardiograma.",
+      "C": "La interconsulta puede apoyar el manejo, pero limitar la conducta al seguimiento omite ofrecer tratamiento."
+    },
+    "src": "Ministerio de Salud de la Nación · Chagas, guía breve para equipos de salud, esquema de tratamiento",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/boceto_guia_de_bolsillo_chagas-91225.pdf"
+  },
+  {
+    "originalId": "febrero-2023:60",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La tumefacción preauricular dolorosa que desplaza el lóbulo de la oreja y el compromiso del conducto de Stenon localizan la inflamación en la parótida. La vacunación completa reduce el riesgo de paperas, pero no las excluye. La exploración identifica parotiditis, no confirma por sí sola su etiología.",
+    "o": {
+      "A": "Un mucocele suele ser una lesión localizada de la mucosa oral y no produce esta tumefacción glandular febril.",
+      "B": "La sialolitiasis suele causar dolor y aumento de volumen relacionados con las comidas, con mayor frecuencia en la glándula submandibular.",
+      "D": "La adenitis submaxilar se palpa por debajo de la mandíbula y no explica el desplazamiento del lóbulo ni los cambios en el orificio de Stenon."
+    },
+    "src": "CDC · Clinical Features of Mumps, parotitis y presentación en vacunados",
+    "src_url": "https://www.cdc.gov/mumps/hcp/clinical-signs/index.html"
+  },
+  {
+    "originalId": "febrero-2023:61",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La diarrea crónica con deposiciones voluminosas, distensión, palidez y falla de crecimiento orienta a malabsorción por enfermedad celíaca tras la incorporación del gluten. Es una sospecha que requiere evaluación diagnóstica mientras la niña sigue consumiendo gluten.",
+    "o": {
+      "A": "En la diarrea crónica inespecífica del niño pequeño suele conservarse el crecimiento y el estado nutricional.",
+      "B": "La alergia a proteínas de leche puede dar síntomas digestivos, pero la combinación de malabsorción, palidez y retraso ponderal favorece celiaquía entre las opciones.",
+      "D": "La intolerancia a la lactosa suele causar distensión, gases y diarrea osmótica relacionados con lácteos y explica peor la palidez y el compromiso nutricional prolongado."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre enfermedad celíaca, manifestaciones pediátricas",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000634cnt-guia_enfermedad_celiaca_2016_web.pdf"
+  },
+  {
+    "originalId": "febrero-2023:62",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El perro sano y localizable debe observarse por un profesional veterinario durante diez días contados desde la agresión. La conducta con la persona expuesta se evalúa desde el inicio según la herida, la especie y la situación epidemiológica.",
+    "o": {
+      "A": "Un día no completa el intervalo de observación indicado para el perro.",
+      "B": "Dos días siguen siendo insuficientes para cerrar el control veterinario.",
+      "C": "Tres días tampoco alcanzan el plazo establecido por la guía argentina."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía para la prevención, vigilancia y control de la rabia, observación clínica veterinaria",
+    "src_url": "https://www.argentina.gob.ar/normativa/311546_RES1144_pdf/archivo",
+    "stem": "Según la guía argentina de rabia, tras la mordedura de un perro sano disponible para control veterinario, ¿cuánto dura la observación del animal?",
+    "options": [
+      "24 horas",
+      "48 horas",
+      "Tres días",
+      "Diez días"
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
