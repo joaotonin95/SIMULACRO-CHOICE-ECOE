@@ -7080,6 +7080,314 @@
     "src": "Food, Medicine and Healthcare Administration and Control Authority · Guidelines for Registration of Biotherapeutic Protein Products, desarrollo clínico en fase II",
     "src_url": "https://www.efda.gov.et/wp-content/uploads/2019/03/Guidelines-for-Registration-of-Biotherapeutic-Proteint-Products.pdf",
     "stem": "Un fármaco en investigación ya superó la fase I y mostró una señal inicial de eficacia en una prueba de concepto en pacientes. Antes del ensayo confirmatorio se comparan al azar cuatro dosis y placebo para caracterizar la relación dosis-respuesta y seleccionar la dosis según eficacia y tolerabilidad. Según la subdivisión convencional de fase II, ¿qué etapa es?"
+  },
+  {
+    "originalId": "diciembre-2024:55",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El juez que entiende en la causa autoriza la ablación previa intervención del médico forense. El informe debe establecer que la extracción no afectará el examen autopsiano.",
+    "o": {
+      "A": "El consentimiento familiar no sustituye la autorización judicial exigida ante una muerte violenta.",
+      "B": "El médico tratante no tiene competencia para autorizar la ablación en la causa judicial.",
+      "C": "El organismo de procuración recibe la decisión judicial. La autorización corresponde al juez."
+    },
+    "src": "Argentina · Ley 27.447, art. 35, supuesto de muerte violenta",
+    "src_url": "https://www.argentina.gob.ar/normativa/nacional/norma-312715/texto"
+  },
+  {
+    "originalId": "diciembre-2024:56",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La N-acetilcisteína repone las reservas de glutatión, que permiten detoxificar el metabolito reactivo del paracetamol.",
+    "o": {
+      "A": "La naloxona revierte la depresión respiratoria por opioides.",
+      "B": "El flumazenilo antagoniza los efectos de las benzodiacepinas y no protege frente al daño hepático por paracetamol.",
+      "C": "La atropina trata manifestaciones muscarínicas, como la broncorrea de una intoxicación por organofosforados."
+    },
+    "src": "Dart y cols. · Management of Acetaminophen Poisoning in the US and Canada, consenso 2023",
+    "src_url": "https://pubmed.ncbi.nlm.nih.gov/37552484/",
+    "stem": "¿Cuál es el antídoto indicado ante una sobredosis de paracetamol con riesgo de hepatotoxicidad?"
+  },
+  {
+    "originalId": "diciembre-2024:57",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El salicilato estimula el centro respiratorio. La hiperventilación baja la PaCO₂ y produce alcalosis respiratoria, a la que puede sumarse acidosis metabólica con brecha aniónica elevada.",
+    "o": {
+      "A": "La acidosis metabólica puede formar parte del cuadro, pero su presencia aislada no describe el efecto ventilatorio temprano.",
+      "C": "Puede alterarse la disponibilidad cerebral de glucosa aun con glucemia normal. La hipoglucemia persistente no define el patrón inicial.",
+      "D": "La bradicardia marcada no explica la hiperventilación característica del salicilismo."
+    },
+    "src": "American College of Medical Toxicology · Guidance Document: Management Priorities in Salicylate Toxicity",
+    "src_url": "https://www.acmt.net/wp-content/uploads/2022/06/PRS_130313_Management-Priorities-in-Salicylate-Toxicity.pdf",
+    "stem": "En un adulto con intoxicación aguda por salicilatos, ¿qué hallazgo es característico en la etapa inicial?"
+  },
+  {
+    "originalId": "diciembre-2024:58",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El metabolito activo del sacubitrilo inhibe la neprilisina y reduce la degradación de péptidos natriuréticos. Se administra combinado con valsartán.",
+    "o": {
+      "A": "La digoxina inhibe la Na⁺/K⁺-ATPasa y enlentece la conducción auriculoventricular.",
+      "C": "El enalapril inhibe la enzima convertidora de angiotensina.",
+      "D": "La furosemida inhibe el cotransportador Na⁺/K⁺/2Cl⁻ en el asa de Henle."
+    },
+    "src": "FDA · Entresto, información para prescribir, sección 12.1",
+    "src_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/207620s025%2C218591s000lbl.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:59",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El bloqueo de los canales rápidos de sodio enlentece la despolarización ventricular y ensancha el QRS. Su duración orienta la evaluación de la cardiotoxicidad.",
+    "o": {
+      "B": "El acortamiento del PR no refleja el retraso de conducción intraventricular propio de estos fármacos.",
+      "C": "Puede prolongarse el QT. Su acortamiento no es el signo característico.",
+      "D": "La elevación difusa del ST orienta, entre otros diagnósticos, a pericarditis y no identifica el bloqueo de sodio."
+    },
+    "src": "FDA · Tofranil (imipramina), sobredosis y cambios electrocardiográficos",
+    "src_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/014399s071lbl.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:60",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El metanol se metaboliza a formiato. Su acumulación produce acidosis con brecha aniónica elevada y puede lesionar la retina y el nervio óptico.",
+    "o": {
+      "A": "Amanita phalloides produce gastroenteritis diferida y lesión hepática por amatoxinas.",
+      "B": "El paracetamol puede causar necrosis hepática por su metabolito reactivo NAPQI.",
+      "C": "El monóxido de carbono altera el transporte y el uso de oxígeno. No genera formiato."
+    },
+    "src": "Médecins Sans Frontières · International Methanol Poisoning Protocol, versión 2",
+    "src_url": "https://methanolpoisoning.msf.org/wp-content/uploads/2023/03/MSF_International_Methanol-Poisoning_Protocol_v2_20230110_EN.pdf",
+    "stem": "¿Cuál de los siguientes tóxicos produce característicamente acidosis metabólica con anión gap elevado y toxicidad ocular por acumulación de formiato?",
+    "options": [
+      "Amanita phalloides",
+      "Paracetamol",
+      "Monóxido de carbono",
+      "Metanol"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:61",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El sistema nervioso en desarrollo es especialmente vulnerable. La exposición puede afectar el aprendizaje, la atención y el rendimiento cognitivo aun sin signos de intoxicación aguda.",
+    "o": {
+      "A": "El plomo puede afectar la presión arterial, pero una crisis hipertensiva no es la manifestación pediátrica característica.",
+      "C": "La ictericia con coluria orienta a hiperbilirrubinemia conjugada y no identifica la neurotoxicidad por plomo.",
+      "D": "Un exantema vesicular generalizado orienta a otras causas, entre ellas infecciones virales."
+    },
+    "src": "OMS · Intoxicación por plomo y salud, efectos en la infancia",
+    "src_url": "https://www.who.int/es/news-room/fact-sheets/detail/lead-poisoning-and-health"
+  },
+  {
+    "originalId": "diciembre-2024:62",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "A las 32 semanas, con bienestar maternofetal, se indica internación, antibióticos de latencia, corticoides antenatales y vigilancia. La aparición de infección, compromiso fetal u otra indicación obstétrica obliga a reevaluar la continuidad del embarazo.",
+    "o": {
+      "A": "El control semanal ambulatorio es insuficiente para vigilar infección, inicio del parto o deterioro fetal en este escenario.",
+      "B": "La inducción inmediata expone a prematuridad sin una indicación actual de finalización.",
+      "C": "La rotura de membranas por sí sola no exige una cesárea urgente."
+    },
+    "src": "FASGO · Actualización del consenso de rotura prematura de membranas, manejo antes de las 34 semanas",
+    "src_url": "https://fasgo.org.ar/images/Actualizacion_Consenso_de_RPM.pdf",
+    "stem": "Una primigesta de 32 semanas presenta salida de líquido amniótico a través del orificio cervical al examen con espéculo estéril. Está afebril, sin dinámica uterina, sangrado ni dolor uterino. El monitoreo fetal es normal y no recibió corticoides antenatales. ¿Cuál es la conducta inicial?",
+    "options": [
+      "Vigilancia ambulatoria con control ecográfico semanal y antibióticos orales",
+      "Inducción inmediata del parto",
+      "Cesárea de urgencia",
+      "Internación y conducta expectante con antibióticos de latencia, corticoides antenatales y vigilancia maternofetal"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:63",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La variabilidad ausente y las desaceleraciones recurrentes persisten pese a corregir causas reversibles. Se requiere acelerar el nacimiento y, con 3 cm de dilatación, la vía vaginal no permite una extracción inmediata.",
+    "o": {
+      "B": "Esperar 24 horas prolongaría la exposición fetal a una posible hipoxia en curso.",
+      "C": "Iniciar prostaglandinas y control ambulatorio demoraría el nacimiento ante un trazado patológico persistente.",
+      "D": "El alta interrumpiría la vigilancia fetal cuando ya hay indicación de intervenir."
+    },
+    "src": "NICE NG229 · Fetal monitoring in labour, decisiones ante un trazado patológico",
+    "src_url": "https://www.nice.org.uk/guidance/ng229/chapter/recommendations",
+    "stem": "Una gestante de 39 semanas está en trabajo de parto, con 3 cm de dilatación y oligohidramnios severo. El registro muestra variabilidad ausente y desaceleraciones variables profundas recurrentes. Pese a corregir las causas reversibles, el trazado sigue siendo patológico. El nacimiento vaginal no es inminente. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "diciembre-2024:64",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Tras respuesta insuficiente a los tratamientos iniciales puede considerarse un agonista de GnRH. Se evalúa asociar terapia hormonal complementaria para reducir síntomas hipoestrogénicos y pérdida ósea.",
+    "o": {
+      "B": "El clomifeno se utiliza para inducir la ovulación, sin indicación para suprimir el dolor por endometriosis.",
+      "C": "La oxitocina estimula la contracción uterina y no suprime la función ovárica.",
+      "D": "La gonadotrofina coriónica puede utilizarse para desencadenar la ovulación en reproducción asistida."
+    },
+    "src": "ESHRE · Guideline: Endometriosis, tratamiento hormonal del dolor",
+    "src_url": "https://www.eshre.eu/-/media/sitecore-files/Guidelines/Endometriosis/ESHRE-GUIDELINE-ENDOMETRIOSIS-2022_2.pdf",
+    "stem": "Paciente con dolor por endometriosis que persiste pese a anticoncepción combinada y progestágenos. Según ESHRE, ¿qué fármaco hormonal puede considerarse de segunda línea con evaluación de terapia complementaria para reducir hipoestrogenismo?",
+    "options": [
+      "Agonista de GnRH",
+      "Clomifeno",
+      "Oxitocina",
+      "Gonadotrofina coriónica"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:65",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Después del alumbramiento, la contracción del miometrio comprime los vasos del lecho placentario. La falla de este mecanismo, llamada atonía, es la causa más frecuente de hemorragia posparto primaria.",
+    "o": {
+      "B": "Una coagulopatía congénita puede agravar el sangrado, pero es una causa mucho menos frecuente.",
+      "C": "La retención de tejido placentario puede provocar hemorragia y dificultar la contracción, pero no es la causa más frecuente.",
+      "D": "La inversión uterina es una emergencia infrecuente que se reconoce por la alteración de la posición del fondo uterino."
+    },
+    "src": "OMS · Consolidated guidelines for the prevention, diagnosis and treatment of postpartum haemorrhage, masaje uterino y atonía",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK619233/table/ch3.tab27/"
+  },
+  {
+    "originalId": "diciembre-2024:66",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La bacteriuria asintomática confirmada durante el embarazo requiere tratamiento dirigido para reducir el riesgo de pielonefritis. La cefalexina es activa según el antibiograma. Se controla la erradicación con un urocultivo posterior.",
+    "o": {
+      "A": "La norfloxacina no es de elección durante el embarazo cuando hay un betalactámico sensible y adecuado.",
+      "C": "La bacteriuria ya está confirmada y el aislamiento es resistente a nitrofurantoína.",
+      "D": "La ausencia de síntomas define el cuadro. En el embarazo persiste la indicación de tratar."
+    },
+    "src": "Consenso argentino intersociedades de infección urinaria · Bacteriuria asintomática en la embarazada",
+    "src_url": "https://smiba.org.ar/downloads/cursos2024/infectologia_03.pdf",
+    "stem": "Embarazada de 16 semanas, sin síntomas urinarios ni alergias. Dos urocultivos de chorro medio muestran más de 100.000 UFC/ml de la misma E. coli, sensible a cefalexina y resistente a nitrofurantoína. ¿Cuál es la conducta?",
+    "options": [
+      "Norfloxacina durante 3 días",
+      "Cefalexina 500 mg por vía oral cada 6 horas durante 7 días y urocultivo de control una semana después de finalizar",
+      "Esperar un tercer cultivo y, si resulta positivo, indicar nitrofurantoína",
+      "Control clínico sin antibióticos"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:67",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La presentación de pies aumenta el riesgo de prolapso de cordón y desaconseja planificar un parto vaginal. Ante la rotura de membranas a término, corresponde evaluar de inmediato a la madre y al feto y proceder con la cesárea acordada.",
+    "o": {
+      "A": "Esperar 24 horas para inducir no resuelve la presentación de pies ni respeta la vía de nacimiento acordada.",
+      "B": "Aguardar 48 horas agrega exposición a infección tras la rotura de membranas y no facilita una vía vaginal segura.",
+      "D": "Diferir 72 horas para inducir prolonga el período de membranas rotas sin beneficio en este escenario."
+    },
+    "src": "RCOG · Breech baby at the end of pregnancy, selección de la vía del parto en presentación de pies",
+    "src_url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/breech-baby-at-the-end-of-pregnancy",
+    "stem": "Gestante de 37 semanas con rotura de membranas confirmada desde hace 2 horas. La ecografía confirma presentación pelviana de pies. La frecuencia cardíaca fetal es normal, no hay prolapso de cordón y el parto no es inminente. La paciente había optado por cesárea luego del asesoramiento y ratifica su decisión. ¿Cuál es la conducta?"
+  },
+  {
+    "originalId": "diciembre-2024:68",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Tras la rotura del preservativo hace 12 horas puede tomar levonorgestrel 1,5 mg en una sola dosis cuanto antes. La migraña y el tabaquismo no contraindican esta anticoncepción de emergencia sin estrógenos.",
+    "o": {
+      "B": "La migraña y el tabaquismo no justifican denegar el levonorgestrel de emergencia.",
+      "C": "Una única toma de 0,75 mg aporta sólo la mitad de la dosis total indicada.",
+      "D": "El laboratorio de rutina no es requisito y su espera demoraría la toma."
+    },
+    "src": "AMAdA · Consenso de anticoncepción de emergencia 2026, levonorgestrel",
+    "src_url": "https://amada.org.ar/images/AMAdA_Consenso_de_anticoncepcion_de_emergencia_2026.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:69",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La coluria y las deposiciones pálidas son signos de alarma de colestasis. Hay que medir de inmediato bilirrubina total y directa, aun con buen aumento de peso, y avanzar con evaluación urgente si la directa está elevada.",
+    "o": {
+      "A": "El Coombs investiga hemólisis inmunitaria y no permite identificar colestasis.",
+      "B": "Se puede continuar la lactancia, pero atribuir la ictericia a la leche materna sin fraccionar la bilirrubina demoraría el diagnóstico.",
+      "C": "La ecografía forma parte de la evaluación etiológica de la colestasis y no reemplaza la determinación inicial de bilirrubina directa."
+    },
+    "src": "NASPGHAN/ESPGHAN · Guideline for the Evaluation of Cholestatic Jaundice in Infants",
+    "src_url": "https://naspghan.org/files/documents/pdfs/training/curriculum-resources/biliary-disease/naspghan-guidelines/Biliary%20NASPGHAN%20Guidelines%201%20PMID%2027429428.pdf",
+    "stem": "Un recién nacido de término de 15 días, alimentado al pecho y con buen aumento de peso, presenta ictericia persistente. La familia refiere deposiciones muy pálidas y orina oscura que tiñe el pañal. ¿Qué estudio priorizás?"
+  },
+  {
+    "originalId": "diciembre-2024:70",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Lo primero es valorar conciencia, perfusión, pulsos, relleno capilar y signos de deshidratación o shock. Esa evaluación determina la urgencia y la vía de reposición de líquidos.",
+    "o": {
+      "A": "El coprocultivo se reserva para indicaciones específicas y no evalúa el compromiso circulatorio inmediato.",
+      "B": "El ionograma y la función renal pueden ser necesarios según la gravedad y la necesidad de fluidos intravenosos. No reemplazan la evaluación inicial.",
+      "C": "La ecografía puede orientar ante signos de abdomen quirúrgico. No permite establecer la prioridad de rehidratación."
+    },
+    "src": "NICE CG84 · Diarrhoea and vomiting caused by gastroenteritis in under 5s, evaluación de la deshidratación",
+    "src_url": "https://www.nice.org.uk/guidance/cg84/resources/diarrhoea-and-vomiting-caused-by-gastroenteritis-in-under-5s-diagnosis-and-management-pdf-975688889029"
+  },
+  {
+    "originalId": "diciembre-2024:71",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La distribución oral, palmar y plantar con fiebre es típica de enfermedad mano-pie-boca. En una niña en buen estado se indican líquidos y analgesia, con reconsulta si no puede beber, disminuye la diuresis o empeora el estado general.",
+    "o": {
+      "A": "Las serologías no orientan la conducta en una presentación clínica típica y leve.",
+      "B": "El hisopado faríngeo no es necesario de rutina ante este patrón de lesiones.",
+      "C": "Los antibióticos no actúan contra enterovirus y no hay signos de sobreinfección bacteriana."
+    },
+    "src": "CDC · About Hand, Foot, and Mouth Disease, síntomas y tratamiento",
+    "src_url": "https://www.cdc.gov/hand-foot-mouth/about/",
+    "stem": "Una niña de 18 meses presenta dos días de fiebre, pequeñas úlceras orales y vesículas en palmas y plantas. Está en buen estado general, toma líquidos y conserva la diuresis. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "diciembre-2024:72",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Un contacto estrecho pediátrico requiere evaluación clínica, radiografía de tórax y prueba de infección tuberculosa. Una prueba inicial negativa durante el período de ventana puede requerir repetición. Para decidir el tratamiento preventivo primero hay que descartar enfermedad activa.",
+    "o": {
+      "B": "Iniciar isoniacida sola antes de descartar tuberculosis activa puede dejar insuficientemente tratada una enfermedad no reconocida.",
+      "C": "La ausencia de síntomas no permite descartar infección o enfermedad en un contacto infantil.",
+      "D": "El cultivo de esputo como único estudio no evalúa infección latente. Los estudios bacteriológicos se orientan por los hallazgos clínicos y radiológicos."
+    },
+    "src": "Ministerio de Salud de la Nación · Pautas técnicas de tuberculosis en la Argentina, estudio de contactos",
+    "src_url": "https://panel.aam.org.ar/img_up/24042026.0.pdf",
+    "stem": "Benicio tiene 9 años, es inmunocompetente y convive con un tío con tuberculosis pulmonar bacilífera de diagnóstico reciente. Está asintomático, con examen físico normal. ¿Qué evaluación inicial indicás?",
+    "options": [
+      "Radiografía de tórax y prueba de infección tuberculosa (PPD o IGRA)",
+      "Iniciar isoniacida sin otros estudios",
+      "Esperar hasta que presente síntomas",
+      "Solicitar únicamente cultivo de esputo"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:73",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Los episodios recurrentes de sibilancias y disnea con mejoría previa tras salbutamol orientan a asma. El tiraje y la taquipnea actuales obligan a valorar de inmediato la gravedad y la oxigenación.",
+    "o": {
+      "B": "La fibrosis quística puede causar obstrucción, pero son más sugerentes la tos crónica, las infecciones recurrentes y otros signos multisistémicos.",
+      "C": "La tuberculosis suele tener un curso más persistente. Explica peor los episodios reversibles con broncodilatador.",
+      "D": "La bronquiolitis afecta principalmente a lactantes. A los 8 años, las sibilancias recurrentes favorecen asma."
+    },
+    "src": "GINA · Global Strategy for Asthma Management and Prevention 2026, diagnóstico y exacerbaciones en niños de 6 a 11 años",
+    "src_url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:74",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La edad, la crisis generalizada breve y única y la recuperación completa corresponden a una convulsión febril simple. Se observa la evolución y se busca el foco de la fiebre. El antitérmico alivia el malestar, sin prevenir nuevas convulsiones.",
+    "o": {
+      "A": "No hay signos meníngeos, deterioro de conciencia persistente ni otros datos que hagan sospechar infección del sistema nervioso central.",
+      "B": "El electroencefalograma de rutina no modifica el manejo de una primera convulsión febril simple.",
+      "D": "Sin traumatismo, focalidad ni alteración persistente del sensorio, la tomografía no está indicada."
+    },
+    "src": "AEPap · Algoritmo de crisis convulsiva, convulsión febril simple",
+    "src_url": "https://algoritmos.aepap.org/adjuntos/81_Crisis_convulsiva.pdf",
+    "stem": "Una niña sana de 2 años, con vacunas al día, presenta fiebre de 39 °C y su primera convulsión generalizada, de 3 minutos, sin repetición en 24 horas. Recuperó su estado habitual y no tiene signos meníngeos ni déficit focal. ¿Cuál es la conducta inicial?",
+    "options": [
+      "Realizar punción lumbar de rutina",
+      "Solicitar electroencefalograma urgente",
+      "Observar la evolución clínica, buscar el foco de la fiebre y ofrecer antitérmico si hay malestar",
+      "Solicitar tomografía cerebral urgente"
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
