@@ -5174,6 +5174,324 @@
     },
     "src": "Ministerio de Salud de la Nación · Chagas, guía para equipos de salud, alteraciones electrocardiográficas",
     "src_url": "https://www.argentina.gob.ar/sites/default/files/2021/07/chagas.-guia-para-equipos-de-salud.pdf"
+  },
+  {
+    "originalId": "julio-2024:27",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La debilidad bilateral progresiva con arreflexia y parestesias después de una infección digestiva orienta a una polirradiculoneuropatía aguda. Requiere evaluación hospitalaria urgente con vigilancia respiratoria y autonómica.",
+    "o": {
+      "B": "La esclerosis múltiple afecta el sistema nervioso central y no suele dar una parálisis ascendente simétrica con arreflexia generalizada.",
+      "C": "La polineuropatía diabética distal suele evolucionar lentamente y predomina el compromiso sensitivo.",
+      "D": "La miastenia produce debilidad fatigable con sensibilidad conservada. Las parestesias y la arreflexia no son típicas."
+    },
+    "src": "EAN/PNS · Guía de diagnóstico y tratamiento del síndrome de Guillain-Barré, 2023",
+    "src_url": "https://pubmed.ncbi.nlm.nih.gov/37814552/",
+    "stem": "Mujer de 32 años que tuvo diarrea autolimitada hace dos semanas. En tres días desarrolla parestesias en ambos pies, debilidad ascendente simétrica y dificultad para caminar. Tiene arreflexia en miembros inferiores, sin nivel sensitivo. ¿Cuál es el diagnóstico presuntivo?"
+  },
+  {
+    "originalId": "julio-2024:28",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La hipopotasemia altera la repolarización ventricular: disminuye la amplitud de la onda T y puede hacer prominente la onda U, con depresión del ST. El diagnóstico se confirma midiendo la potasemia.",
+    "o": {
+      "B": "La elevación del ST orienta a otros diagnósticos, como lesión miocárdica aguda, según la distribución.",
+      "C": "Las ondas T altas, acuminadas y simétricas son características de hiperpotasemia.",
+      "D": "Un QRS ancho tiene múltiples causas y puede verse en hiperpotasemia grave. No es el hallazgo de repolarización típico consultado."
+    },
+    "src": "Manual MSD profesional · Interpretación de los ECG anormales, onda T y onda U",
+    "src_url": "https://www.msdmanuals.com/es/professional/multimedia/table/interpretaci%C3%B3n-de-los-ecg-anormales"
+  },
+  {
+    "originalId": "julio-2024:29",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Para la mayoría de los adultos con diabetes se recomiendan al menos 150 minutos semanales de actividad aeróbica moderada a vigorosa, distribuidos en tres días o más y evitando más de dos días consecutivos sin actividad. Se adapta la progresión a la capacidad individual.",
+    "o": {
+      "B": "La hipertensión controlada y la diabetes sin complicaciones no justifican indicar sedentarismo.",
+      "C": "Una única sesión de 30 minutos semanales no alcanza el volumen habitual recomendado.",
+      "D": "Los ejercicios de fuerza complementan el componente aeróbico. No corresponde excluirlo en este caso."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, recomendación 5.36",
+    "src_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S89/163932",
+    "stem": "Adulto con diabetes tipo 2 e hipertensión controlada, sin complicaciones ni limitaciones para caminar. ¿Cuál de estas metas de actividad aeróbica semanal es apropiada?"
+  },
+  {
+    "originalId": "julio-2024:30",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En una persona mayor, una caída desde su altura con dolor de cadera, acortamiento y rotación externa del miembro sugiere fractura proximal de fémur. Se confirma con imágenes y requiere evaluación urgente.",
+    "o": {
+      "B": "La luxación de rodilla produce deformidad centrada en esa articulación y obliga a evaluar las estructuras vasculares locales.",
+      "C": "Un esguince de tobillo no explica el acortamiento ni la rotación externa de todo el miembro.",
+      "D": "Una fractura de tibia suele producir dolor y deformidad en la pierna, no el patrón proximal característico."
+    },
+    "src": "BMJ Best Practice · Hip fractures, presentación y diagnóstico",
+    "src_url": "https://bestpractice.bmj.com/topics/en-us/387"
+  },
+  {
+    "originalId": "julio-2024:31",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El bupropión disminuye el umbral convulsivo. Una epilepsia conocida contraindica su uso para cesación tabáquica, aun si el paciente lleva tiempo sin crisis.",
+    "o": {
+      "B": "La presión debe controlarse durante el tratamiento, pero la hipertensión controlada por sí sola no constituye esta contraindicación.",
+      "C": "La diabetes exige considerar factores como hipoglucemias y tratamientos concomitantes. El diagnóstico por sí solo no equivale a epilepsia.",
+      "D": "La dislipidemia no es una contraindicación para bupropión."
+    },
+    "src": "Ministerio de Salud · Guía de práctica clínica nacional de tratamiento de la adicción al tabaco, bupropión",
+    "src_url": "https://www.santafe.gov.ar/index.php/web/content/download/249038/1309109/",
+    "stem": "¿Cuál de estos antecedentes contraindica el bupropión para dejar de fumar?",
+    "options": [
+      "Epilepsia diagnosticada.",
+      "Hipertensión arterial controlada.",
+      "Diabetes tipo 2 estable sin hipoglucemias.",
+      "Dislipidemia."
+    ]
+  },
+  {
+    "originalId": "julio-2024:32",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La fiebre, la voz apagada, la dificultad para manejar secreciones y la postura en trípode sugieren epiglotitis con obstrucción de la vía aérea superior. Hay que evitar agitar al chico o forzar la inspección faríngea y convocar a personal experto en vía aérea.",
+    "o": {
+      "B": "En el crup predominan tos perruna y disfonía. La sialorrea marcada y la postura en trípode favorecen epiglotitis.",
+      "C": "El asma produce obstrucción bronquial con sibilancias espiratorias. No explica el estridor con sialorrea.",
+      "D": "La neumonía compromete el parénquima pulmonar y no suele producir voz apagada con dificultad para tragar secreciones."
+    },
+    "src": "Royal Children’s Hospital Melbourne · Acute upper airway obstruction, diagnóstico diferencial",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/acute_upper_airway_obstruction/",
+    "stem": "Niño febril con voz apagada, sialorrea, estridor y postura en trípode sin tos perruna. ¿Cuál es el diagnóstico prioritario?",
+    "options": [
+      "Epiglotitis aguda",
+      "Laringotraqueítis (crup)",
+      "Asma bronquial",
+      "Neumonía"
+    ]
+  },
+  {
+    "originalId": "julio-2024:33",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Si hay lesiones herpéticas activas en una mama, se suspende temporalmente la alimentación desde ese lado y se descarta la leche extraída de allí hasta que cicatricen. Puede ofrecerse la mama sana, cubriendo las lesiones y cuidando la higiene de manos.",
+    "o": {
+      "B": "La mastitis no complicada suele permitir continuar la lactancia según tolerancia.",
+      "C": "La gripe materna no contraindica la leche. Se refuerzan las medidas para reducir el contagio respiratorio.",
+      "D": "El uso de un antibiótico compatible con lactancia no requiere suspender las tomas."
+    },
+    "src": "CDC · Herpes Simplex Virus and Breastfeeding, lesiones en la mama",
+    "src_url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html",
+    "stem": "¿En qué situación se debe interrumpir temporalmente la alimentación desde la mama afectada, aunque pueda continuarse desde la contralateral sana?",
+    "options": [
+      "Lesiones activas por herpes simple en el pezón.",
+      "Mastitis no complicada sin lesiones herpéticas.",
+      "Gripe materna.",
+      "Tratamiento materno con un antibiótico compatible con la lactancia."
+    ]
+  },
+  {
+    "originalId": "julio-2024:34",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En un niño de cinco años, la renguera progresiva y la limitación de abducción y rotación interna orientan a necrosis avascular de la cabeza femoral. La línea radiolúcida subcondral en semiluna corresponde a una fractura subcondral en la epífisis comprometida.",
+    "o": {
+      "B": "La epifisiólisis suele presentarse en adolescentes con desplazamiento a través de la fisis, no con esta lesión epifisaria subcondral.",
+      "C": "La artritis séptica suele tener comienzo agudo con dolor marcado y limitación intensa. La imagen descripta favorece Perthes.",
+      "D": "La sinovitis transitoria puede causar renguera, pero no produce fractura subcondral epifisaria."
+    },
+    "src": "StatPearls · Legg-Calvé-Perthes Disease, examen físico y evaluación radiográfica",
+    "src_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK513230/",
+    "stem": "Niño de 5 años con varias semanas de renguera, sin fiebre ni traumatismo. La abducción y la rotación interna de la cadera están limitadas. En la radiografía de perfil se observa una línea radiolúcida subcondral en semiluna en la cabeza femoral. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "julio-2024:35",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La epistaxis recurrente y las equimosis fáciles sugieren un trastorno de la hemostasia primaria. Con plaquetas normales y antecedentes familiares en ambos sexos, la enfermedad de von Willebrand es la primera sospecha entre estas opciones. Se estudian antígeno y actividad del factor von Willebrand y factor VIII.",
+    "o": {
+      "A": "En la hemofilia A grave predominan hemartrosis y hematomas profundos por déficit de factor VIII.",
+      "B": "El déficit de vitamina K altera factores de coagulación y suele prolongar el tiempo de protrombina. No explica tan bien el patrón familiar.",
+      "C": "La hemofilia B se debe a déficit de factor IX y típicamente produce sangrado profundo, no este patrón mucocutáneo familiar."
+    },
+    "src": "ASH/ISTH/NHF/WFH · Guía de diagnóstico de enfermedad de von Willebrand, evaluación del sangrado mucocutáneo",
+    "src_url": "https://www.hematology.org/-/media/hematology/files/clinicians/guidelines/update-vwd-resources-01_2024/diagnosis-executive-summary/vwd-guidelines_diagnosis-summary_english_sept-2023.pdf",
+    "stem": "Niña de 4 años con epistaxis recurrente, algunas veces con necesidad de taponamiento, y equimosis fáciles. Su madre y su abuelo materno tienen sangrado mucoso similar. Recuento de plaquetas y tiempo de protrombina normales. ¿Cuál es la primera sospecha?"
+  },
+  {
+    "originalId": "julio-2024:36",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El meningismo febril con pleocitosis neutrofílica, glucosa baja y bacterias en el Gram indica meningitis bacteriana. Los diplococos grampositivos orientan a neumococo y justifican antibióticos urgentes sin esperar el cultivo.",
+    "o": {
+      "A": "La trombocitopenia inmune suele causar petequias o sangrado y no explica bacterias en el LCR.",
+      "C": "El síndrome urémico hemolítico combina anemia hemolítica microangiopática, plaquetopenia y lesión renal. No produce este patrón infeccioso del LCR.",
+      "D": "La leucemia puede afectar el sistema nervioso central, pero no explica diplococos en un LCR con datos de infección aguda."
+    },
+    "src": "OMS · Guidelines on meningitis diagnosis, treatment and care, 2025, tabla 3.1",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK614844/table/ch3.tab1/",
+    "stem": "Niño con fiebre, meningismo y convulsión. El LCR muestra neutrofilia, hipoglucorraquia y diplococos grampositivos. ¿Cuál es el diagnóstico?",
+    "options": [
+      "Púrpura trombocitopénica idiopática",
+      "Meningitis bacteriana",
+      "Síndrome urémico hemolítico",
+      "Leucemia aguda"
+    ]
+  },
+  {
+    "originalId": "julio-2024:37",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El exantema que aparece al ceder la fiebre en un lactante que recupera el buen estado general es típico de exantema súbito. Corresponden hidratación, observación y pautas de alarma.",
+    "o": {
+      "B": "Un antibiótico no acorta esta infección viral y no hay datos de foco bacteriano.",
+      "C": "La roséola habitual del lactante inmunocompetente no requiere antivirales sistémicos.",
+      "D": "La internación no se indica de rutina si está afebril, se hidrata y conserva buen estado general."
+    },
+    "src": "Manual MSD · Roséola infantil, evolución clínica y tratamiento",
+    "src_url": "https://www.msdmanuals.com/es/hogar/salud-infantil/infecciones-v%C3%ADricas-frecuentes-en-lactantes-y-ni%C3%B1os/ros%C3%A9ola-infantil?ruleredirectid=760"
+  },
+  {
+    "originalId": "julio-2024:38",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "A las 33 semanas, la hipertensión gestacional persistente sin criterios de gravedad requiere evaluación obstétrica, tratamiento antihipertensivo según las cifras y vigilancia materno-fetal estrecha. NICE no indica internación sistemática con estas cifras si la evaluación es tranquilizadora y el seguimiento está garantizado.",
+    "o": {
+      "B": "Antes de las 37 semanas, con TA menor de 160/110 y sin otra indicación materna o fetal, no corresponde inducir el parto de inmediato.",
+      "C": "Diferir los controles hasta el término omite el riesgo de progresión a preeclampsia.",
+      "D": "Sin infección ni otra indicación de profilaxis, los antibióticos no tratan la hipertensión."
+    },
+    "src": "NICE NG133 · Hypertension in pregnancy, tabla 1, hipertensión gestacional",
+    "src_url": "https://www.nice.org.uk/guidance/ng133/chapter/recommendations",
+    "stem": "Primigesta de 33 semanas, previamente normotensa, con TA persistente de 150/100 mmHg confirmada en evaluación obstétrica. No tiene síntomas de alarma, proteinuria ni disfunción orgánica. La evaluación fetal es normal y se garantiza seguimiento estrecho. Según NICE, ¿cuál es la conducta?",
+    "options": [
+      "Ofrecer antihipertensivo si persisten estas cifras y programar vigilancia materno-fetal estrecha.",
+      "Inducir el parto de inmediato sólo por esta presión.",
+      "Dar el alta sin controles hasta el término.",
+      "Indicar antibióticos profilácticos."
+    ]
+  },
+  {
+    "originalId": "julio-2024:39",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "A término se puede ofrecer inducción temprana o una espera inicial acordada en pacientes de bajo riesgo. Si pasan unas 24 horas sin trabajo de parto, se ofrece inducción por el riesgo infeccioso creciente.",
+    "o": {
+      "B": "El alta sin un plan de finalización ni reevaluación no aborda la rotura prolongada a término.",
+      "C": "La rotura de membranas por sí sola no indica cesárea urgente con presentación cefálica y evaluación fetal normal.",
+      "D": "La tocolisis no tiene indicación a término y en este caso ni siquiera hay contracciones."
+    },
+    "src": "NICE NG207 · Inducing labour, rotura de membranas antes del trabajo de parto a término",
+    "src_url": "https://www.nice.org.uk/guidance/ng207/resources/inducing-labour-pdf-66143719773637",
+    "stem": "Gestante de 37 semanas con rotura de membranas confirmada hace 24 horas, líquido claro y sin contracciones. Está afebril, sin sangrado ni signos de infección. Presentación cefálica, monitoreo fetal normal y sin contraindicación para parto vaginal. ¿Qué conducta corresponde ofrecer ahora?"
+  },
+  {
+    "originalId": "julio-2024:40",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El sangrado con hipertonía uterina dolorosa y muerte fetal sugiere desprendimiento placentario grave. El sangrado visible puede ser escaso si la hemorragia queda oculta. Se inicia estabilización materna, se evalúa la coagulación y se procede a la finalización; si está estable y no hay contraindicación, suele preferirse la vía vaginal.",
+    "o": {
+      "B": "La placenta previa suele producir sangrado indoloro con útero blando. La conducta expectante no es apropiada en este contexto.",
+      "C": "La amenaza de parto pretérmino no explica el útero persistentemente hipertónico con muerte fetal. La tocolisis demoraría el manejo.",
+      "D": "Una hipertensión sin criterios de gravedad no explica por sí sola el cuadro. El sangrado y la muerte fetal impiden manejo ambulatorio."
+    },
+    "src": "Handbook of Obstetrics Guideline · Management of antepartum haemorrhage secondary to placental abruption, algoritmo 22",
+    "src_url": "https://www.moh.gov.my/images/04-penerbitan/penerbitan-klinikal/perkhidmatan-OG-dan-pediatrik/FINAL_DRAF_LAYOUT_Handbook_of_Obstetrics_Guideline_PDF_compressed.pdf",
+    "stem": "Gestante de 34 semanas con hipertensión, dolor uterino de comienzo brusco, hipertonía persistente y sangrado vaginal escaso. La ecografía confirma muerte fetal. ¿Qué diagnóstico y conducta son más apropiados?"
+  },
+  {
+    "originalId": "julio-2024:41",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El calendario argentino indica una dosis de dTpa a partir de la semana 20 en cada embarazo, independientemente de las dosis previas. Además de la protección antitetánica, los anticuerpos maternos protegen al recién nacido frente a la tos convulsa. Se revisa el carnet para completar las dosis faltantes.",
+    "o": {
+      "B": "Las dosis válidas documentadas se cuentan. Un intervalo prolongado no obliga a reiniciar el esquema.",
+      "C": "Las dosis anteriores no reemplazan la indicación de dTpa en cada embarazo.",
+      "D": "Esperar al puerperio pierde la oportunidad de transferir anticuerpos al feto durante esta gestación."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacuna triple bacteriana acelular, indicación durante el embarazo",
+    "src_url": "https://www.argentina.gob.ar/node/8941",
+    "stem": "En Argentina, una gestante de 20 semanas tiene dos dosis documentadas de vacuna con componente antitetánico en un embarazo anterior hace tres años. Aún no recibió dTpa en el embarazo actual. ¿Cuál es la conducta hoy?",
+    "options": [
+      "Administrar una dosis de triple bacteriana acelular (dTpa) y registrar la dosis en su esquema.",
+      "Reiniciar todas las dosis desde cero.",
+      "Omitir toda vacunación por las dos dosis previas.",
+      "Postergar la dTpa hasta el puerperio."
+    ]
+  },
+  {
+    "originalId": "julio-2024:42",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La sospecha de torsión anexial requiere laparoscopía oportuna para confirmar el diagnóstico y destorcer el anexo. Se procura preservar el ovario incluso si inicialmente tiene aspecto oscuro, porque puede recuperar función.",
+    "o": {
+      "A": "Esperar seis meses prolonga la isquemia y puede causar pérdida ovárica.",
+      "B": "Los anticonceptivos no revierten la torsión del pedículo vascular.",
+      "D": "La ooforectomía bilateral sistemática es innecesaria y causaría pérdida endocrina y reproductiva."
+    },
+    "src": "ACOG · Committee Opinion 783, Adnexal Torsion in Adolescents",
+    "src_url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2019/08/adnexal-torsion-in-adolescents",
+    "stem": "Adolescente con masa ovárica, dolor unilateral súbito intenso y vómitos. Se sospecha torsión anexial. ¿Qué conducta se prefiere?",
+    "options": [
+      "Ecografía de control en seis meses",
+      "Anticonceptivos como tratamiento urgente",
+      "Laparoscopia urgente con detorsión y preservación del ovario cuando sea posible",
+      "Ooforectomía bilateral sistemática"
+    ]
+  },
+  {
+    "originalId": "julio-2024:43",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Ante citología de alto grado y un área anormal visible, la biopsia dirigida permite establecer el diagnóstico histológico. Si corresponde muestreo endocervical o tratamiento escisional se decide según el riesgo y los hallazgos completos.",
+    "o": {
+      "B": "Repetir la citología en seis meses sin estudiar la lesión visible puede demorar el diagnóstico de una lesión de alto grado o invasora.",
+      "C": "Los antibióticos no caracterizan ni tratan una lesión escamosa intraepitelial de alto grado.",
+      "D": "La histerectomía inmediata sin histología no es la conducta diagnóstica inicial adecuada."
+    },
+    "src": "IARC · Handbooks of Cancer Prevention, Cervical Cancer Screening, evaluación colposcópica y biopsia",
+    "src_url": "https://publications.iarc.who.int/media/download/6556"
+  },
+  {
+    "originalId": "julio-2024:44",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "BI-RADS 0 significa evaluación incompleta. Si ya se hicieron las proyecciones diagnósticas y falta caracterizar el correlato del nódulo palpable, corresponde ecografía dirigida y verificar la concordancia clínica e imagenológica antes de definir una biopsia.",
+    "o": {
+      "B": "La eventual biopsia se decide según sospecha y concordancia. No se indica exéresis inmediata sólo por BI-RADS 0.",
+      "C": "El control a seis meses exige haber completado la evaluación y asignado una categoría final apropiada.",
+      "D": "El tratamiento hormonal empírico no caracteriza la lesión ni excluye malignidad."
+    },
+    "src": "American College of Radiology · BI-RADS Atlas, Mammography FAQ, categoría 0 e imágenes adicionales",
+    "src_url": "https://cs.acr.org/-/media/ACR/Files/RADS/BI-RADS/Mammography-FAQ.pdf",
+    "stem": "Mujer de 46 años con nódulo palpable en el cuadrante superoexterno derecho. Tras las proyecciones mamográficas diagnósticas, el informe BI-RADS 0 solicita caracterizar con imágenes adicionales la zona palpable y diferenciar una lesión sólida de un quiste. ¿Cuál es el siguiente estudio?"
+  },
+  {
+    "originalId": "julio-2024:45",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Los miomas submucosos protruyen hacia la cavidad y alteran la superficie endometrial, por lo que se asocian especialmente a sangrado abundante. La localización se determina por imágenes y el sangrado aislado no prueba que un mioma sea la causa.",
+    "o": {
+      "B": "Un mioma enteramente intramural se ubica en el espesor del miometrio y no protruye en la cavidad.",
+      "C": "Un mioma subseroso crece hacia la superficie externa del útero y suele producir síntomas de masa.",
+      "D": "El pediculado externo se proyecta hacia el peritoneo. No corresponde al nódulo intracavitario descripto."
+    },
+    "src": "FIGO · The two FIGO systems for abnormal uterine bleeding, revisión 2018, subclasificación de leiomiomas",
+    "src_url": "https://advi.com/wp-content/uploads/2024/10/Munro-Int-J-Gynaecol-Obstet-2018.pdf",
+    "stem": "Mujer de 40 años con sangrado uterino abundante. La ecografía identifica un mioma que protruye en la cavidad endometrial. ¿Qué localización explica mejor ese hallazgo y su relación con el sangrado?"
+  },
+  {
+    "originalId": "julio-2024:46",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La hemorragia obstétrica con shock puede causar isquemia de la adenohipófisis. La falta de prolactina explica la agalactia y el déficit de ACTH puede causar hipotensión, hipoglucemia e hiponatremia. La sospecha de insuficiencia suprarrenal aguda requiere tratamiento urgente.",
+    "o": {
+      "B": "La depresión posparto no explica el patrón endocrino agudo asociado a shock hemorrágico previo.",
+      "C": "El hipotiroidismo primario no integra adecuadamente el antecedente de hipoperfusión con déficit agudo de lactancia e hipoglucemia.",
+      "D": "El síndrome antifosfolípido predispone a trombosis y morbilidad obstétrica. No es la explicación típica de este cuadro tras hemorragia masiva."
+    },
+    "src": "Pituitary · Sheehan syndrome: a current approach to a dormant disease, manifestaciones agudas",
+    "src_url": "https://link.springer.com/content/pdf/10.1007/s11102-024-01481-1.pdf",
+    "stem": "Mujer con hemorragia posparto masiva por atonía y shock que requirió transfusión. Tras controlar el sangrado y reponer volumen, persisten hipotensión y astenia, con hipoglucemia, hiponatremia y ausencia de producción de leche. ¿Qué complicación endocrina se debe sospechar?"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
