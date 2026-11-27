@@ -129,3 +129,29 @@ for (const [n, answer] of Object.entries(verifiedAnswers)) {
 }
 assert.equal(aprilKeys[67].verifiedOn, '2026-11-26');
 assert.match(april.qs.find(q => q.n === 63).o[3], /500 mg IM.*100 mg VO.*7 días/);
+
+const answerBlock = [
+  ...Array.from('DBDDDBADADABCCBCBCB', (answer, i) =>
+    ['abril-2022', 82 + i, answer]),
+  ['diciembre-2022', 1, 'B']
+];
+assert.equal(answerBlock.length, 20);
+for (const [examId, n, answer] of answerBlock) {
+  const selected = vm.runInContext('EX.find(e => e.id === "' + examId + '")', context);
+  const index = selected.qs.findIndex(item => item.n === n);
+  const item = selected.qs[index];
+  const correction = vm.runInContext('KEY["' + examId + '"][' + n + ']', context);
+  assert.equal(correction.originalId, examId + ':' + n);
+  assert.equal(correction.verifiedOn, '2026-11-27');
+  assert.equal(correction.a, answer, correction.originalId);
+  assert.match(correction.src_url, /^https:\/\//);
+  assert.equal(Object.keys(correction.o).length, item.o.length - 1);
+  for (const [i] of item.o.entries()) {
+    const letter = 'ABCDE'[i];
+    assert.ok(letter === answer ? correction.why : correction.o[letter]);
+    vm.runInContext('S.ex=EX.find(e=>e.id==="' + examId + '");S.year=S.ex.year;S.i=' + index +
+      ';S.st={' + n + ':{a:"' + letter + '",c:1}};quiz()', context);
+    assert.ok(appElement.innerHTML.includes(letter === answer ? '>Correcto.' : '>Incorrecto.'), correction.originalId);
+    assert.equal((appElement.innerHTML.match(/class="opt(?: sel)? ok"/g) || []).length, 1);
+  }
+}
