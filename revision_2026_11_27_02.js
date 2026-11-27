@@ -4175,6 +4175,341 @@
     },
     "src": "Ministerio de Salud de Santa Fe · Informe epidemiológico, semana 36 de 2025, fiebre hemorrágica argentina",
     "src_url": "https://www.santafe.gov.ar/index.php/web/content/download/282575/1462528/file/INFORME_EPIDEMIOLOGICO_SE36_2025.pdf"
+  },
+  {
+    "originalId": "febrero-2024:67",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La dipirona o metamizol puede producir agranulocitosis idiosincrásica incluso después de exposiciones bien toleradas. Fiebre, odinofagia o úlceras mucosas durante su uso requieren suspenderla y solicitar evaluación urgente con hemograma.",
+    "o": {
+      "A": "El ketorolac requiere especial atención al sangrado digestivo y a la toxicidad renal. No es el fármaco de la alerta consultada.",
+      "B": "El ibuprofeno puede producir efectos digestivos y renales. La revisión de la EMA se refiere específicamente al metamizol.",
+      "D": "Celecoxib es un inhibidor selectivo de COX-2. El riesgo cardiovascular forma parte de su evaluación y no es el objeto de esta alerta."
+    },
+    "src": "EMA · Revisión de seguridad de metamizol, agranulocitosis, 2024",
+    "src_url": "https://www.ema.europa.eu/en/documents/referral/metamizole-containing-medicinal-products-article-107i-referral-ema-recommends-measures-minimise-serious-outcomes-known-side-effect-painkiller-metamizole_en.pdf-0",
+    "stem": "¿A qué analgésico se refiere la revisión de la EMA sobre el riesgo de agranulocitosis que puede comenzar durante el tratamiento o poco después de suspenderlo?"
+  },
+  {
+    "originalId": "febrero-2024:68",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La esteatorrea y la falla de crecimiento sugieren insuficiencia pancreática. Sumadas a infecciones respiratorias recurrentes justifican medir cloruro en sudor obtenido por iontoforesis con pilocarpina. Un resultado ≥60 mmol/L en este contexto es compatible con fibrosis quística y requiere confirmación según el algoritmo diagnóstico.",
+    "o": {
+      "B": "El hemograma puede mostrar inflamación o anemia, pero no evalúa la función de CFTR.",
+      "C": "La ecografía permite estudiar órganos abdominales y no mide el transporte de cloruro.",
+      "D": "Los leucocitos fecales orientan a inflamación intestinal y no identifican la alteración del transporte iónico."
+    },
+    "src": "Sociedad Argentina de Pediatría · Guía de diagnóstico y tratamiento de pacientes con fibrosis quística, prueba del sudor",
+    "src_url": "https://sap.org.ar/docs/pdf/consensos_guia-de-diagnostico-y-tratamiento-de-pacientes-con-fibrosis-quistica-actualizacion-114.pdf",
+    "stem": "Lactante con esteatorrea, escasa ganancia de peso e infecciones respiratorias recurrentes. ¿Qué prueba funcional específica se usa ante sospecha de fibrosis quística?",
+    "options": [
+      "Determinación cuantitativa del cloruro en sudor",
+      "Hemograma",
+      "Ecografía abdominal",
+      "Leucocitos fecales"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:69",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Cuando se indica antibiótico en una otitis media aguda no complicada, la amoxicilina oral cubre el neumococo y es de primera elección si no hay alergia, amoxicilina reciente ni conjuntivitis purulenta.",
+    "o": {
+      "B": "La cefuroxima es una alternativa en situaciones seleccionadas, como determinadas alergias a penicilinas.",
+      "C": "El clavulanato agrega cobertura frente a productores de betalactamasa y se reserva para escenarios como conjuntivitis purulenta concomitante o amoxicilina reciente.",
+      "D": "La ceftriaxona parenteral puede considerarse si no tolera la vía oral o ante ciertos fracasos terapéuticos."
+    },
+    "src": "Ministerio de Salud de la Nación · Infecciones prevalentes en el primer nivel, otitis media aguda",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/infecciones-prevalentes_uni-1.pdf",
+    "stem": "Chico de 18 meses con otitis media aguda bilateral confirmada por abombamiento timpánico. Tolera la vía oral, no tiene alergias, conjuntivitis purulenta ni uso de amoxicilina en los últimos 30 días. ¿Cuál es el antibiótico inicial de elección?"
+  },
+  {
+    "originalId": "febrero-2024:70",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La ecografía es el estudio inicial para buscar litiasis y signos de inflamación vesicular. El hemograma y el perfil hepático complementan la evaluación de inflamación y colestasis.",
+    "o": {
+      "A": "El laboratorio aislado no permite ver cálculos, la pared de la vesícula ni la vía biliar.",
+      "C": "La TC puede ser útil si la ecografía no aclara el cuadro o se sospechan complicaciones. No es el primer estudio dirigido en este caso.",
+      "D": "La CPRE es invasiva y sirve principalmente para tratar obstrucción de la vía biliar. El cuadro no aporta indicación para realizarla de entrada."
+    },
+    "src": "ACR Appropriateness Criteria · Right Upper Quadrant Pain, sospecha de enfermedad biliar, imagen inicial",
+    "src_url": "https://acsearch.acr.org/docs/69474/narrative/",
+    "stem": "Mujer de 55 años, estable, con dolor persistente en hipocondrio derecho, vómitos y sospecha clínica de enfermedad biliar. No tiene ictericia ni signos peritoneales. ¿Qué evaluación inicial corresponde?",
+    "options": [
+      "Solicitar únicamente hemograma y perfil hepático.",
+      "Solicitar laboratorio dirigido y ecografía hepatobiliar.",
+      "Realizar TC abdominopélvica con contraste oral como primera imagen.",
+      "Realizar una CPRE diagnóstica de entrada."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:71",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El engrosamiento parietal apoya inflamación vesicular en el contexto clínico adecuado, sobre todo con Murphy ecográfico o líquido perivesicular. Aislado es inespecífico y también puede observarse en estados edematosos.",
+    "o": {
+      "A": "Varios cálculos demuestran litiasis, que puede ser asintomática y no implica inflamación aguda.",
+      "B": "El diámetro de un cálculo por sí solo no establece colecistitis.",
+      "D": "El barro biliar refleja estasis y también puede aparecer sin inflamación aguda."
+    },
+    "src": "Tokyo Guidelines 2018 · Diagnostic criteria and severity grading of acute cholecystitis, hallazgos por imágenes",
+    "src_url": "https://doi.org/10.1002/jhbp.515"
+  },
+  {
+    "originalId": "febrero-2024:72",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La TC abdominopélvica con contraste EV permite confirmar inflamación diverticular y buscar absceso, perforación u otra causa del dolor. No es necesario exigir contraste oral de rutina.",
+    "o": {
+      "B": "Una TC sin contraste puede servir si el contraste EV está contraindicado. En este caso la función renal es normal y se buscan complicaciones.",
+      "C": "La colonoscopía durante la inflamación aguda aumenta el riesgo de perforación y no es el estudio inicial.",
+      "D": "La ecografía renal estudia las vías urinarias y no permite caracterizar con la misma amplitud la enfermedad colónica y sus complicaciones."
+    },
+    "src": "ACR Appropriateness Criteria · Left Lower Quadrant Pain, variante 2, sospecha de diverticulitis",
+    "src_url": "https://acsearch.acr.org/docs/69356/Narrative/",
+    "stem": "Adulto no gestante con primer episodio de dolor intenso en fosa ilíaca izquierda y fiebre. Se sospecha diverticulitis y se necesita evaluar complicaciones. Está estable, tiene función renal normal y no tiene alergia al contraste. ¿Qué estudio por imágenes se prefiere?",
+    "options": [
+      "TC de abdomen y pelvis con contraste endovenoso.",
+      "TC sin contraste por una supuesta insuficiencia renal.",
+      "Colonoscopía urgente.",
+      "Ecografía renal aislada."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:73",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En un adenocarcinoma resecable del colon descendente sin metástasis se indica resección oncológica con evaluación ganglionar regional. La anatomía patológica define el estadio y orienta la necesidad de quimioterapia adyuvante, en particular si hay ganglios positivos.",
+    "o": {
+      "A": "La radioquimioterapia previa no es el tratamiento inicial habitual del cáncer de colon descendente localizado.",
+      "B": "Esperar oclusión posterga una resección potencialmente curativa en un tumor ya diagnosticado.",
+      "D": "La quimioterapia sola no constituye el tratamiento curativo estándar de este tumor localizado y resecable."
+    },
+    "src": "National Cancer Institute · Colon Cancer Treatment (PDQ), tratamiento por estadio",
+    "src_url": "https://www.cancer.gov/types/colorectal/hp/colon-treatment-pdq"
+  },
+  {
+    "originalId": "febrero-2024:74",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Se parte del desenlace: se eligen casos con la enfermedad y controles de la población que les dio origen. Luego se compara la exposición previa entre ambos grupos.",
+    "o": {
+      "A": "En el corte transversal se evalúan exposición y desenlace en un mismo período, habitualmente sin seleccionar participantes según enfermedad.",
+      "B": "En un estudio ecológico la unidad de análisis es un grupo o población, no cada caso y control.",
+      "D": "Una cohorte clasifica participantes por exposición y compara la aparición del desenlace."
+    },
+    "src": "Reference Manual on Scientific Evidence · Reference Guide on Epidemiology, case-control studies",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK621603/"
+  },
+  {
+    "originalId": "febrero-2024:75",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Cuando el cólera produce síntomas, el cuadro típico es diarrea acuosa aguda. Puede ser profusa y causar deshidratación rápida. Muchas infecciones son asintomáticas o leves.",
+    "o": {
+      "B": "La sangre y el moco orientan más a diarrea inflamatoria o disentería que a la diarrea secretora del cólera.",
+      "C": "La cefalea y las mialgias no son la manifestación cardinal de la infección intestinal sintomática.",
+      "D": "El meningismo de inicio súbito requiere investigar compromiso meníngeo y no constituye la presentación típica del cólera."
+    },
+    "src": "ANMAT · Ficha técnica sobre cólera, manifestaciones clínicas",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/anmat_ficha_tecnica_colera.pdf",
+    "stem": "Durante un brote confirmado de cólera, ¿qué presentación clínica es característica de los pacientes que desarrollan enfermedad intestinal sintomática?"
+  },
+  {
+    "originalId": "febrero-2024:76",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La prevención poblacional se apoya en controlar la infección del rodeo mediante medidas sanitarias veterinarias. La pasteurización y la protección al manipular animales o productos de parto reducen la exposición humana.",
+    "o": {
+      "B": "La transmisión habitual es zoonótica o alimentaria. El aislamiento respiratorio sistemático de pacientes no controla el reservorio.",
+      "C": "Tratar a personas enfermas no interrumpe la infección del rodeo. Ceftriaxona sola durante 14 días tampoco es el esquema habitual de brucelosis humana.",
+      "D": "Las vacunas de los programas ganaderos se aplican a animales. No existe una vacuna humana de uso rutinario para trabajadores."
+    },
+    "src": "SENASA · Brucelosis, prevención de la zoonosis en animales y personas",
+    "src_url": "https://www.argentina.gob.ar/node/489356",
+    "stem": "En una región ganadera con casos humanos de brucelosis, ¿qué estrategia de salud pública actúa sobre el reservorio y ayuda a prevenir nuevos casos?",
+    "options": [
+      "Control sanitario de la brucelosis en los animales, integrado con medidas de inocuidad alimentaria y protección laboral.",
+      "Aislamiento respiratorio de todos los casos humanos.",
+      "Tratamiento de los casos humanos con ceftriaxona durante 14 días como única estrategia.",
+      "Vacunación antibrucélica rutinaria de trabajadores rurales."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:77",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Las manos pueden transferir microorganismos entre pacientes, superficies y dispositivos. La higiene en los cinco momentos de la OMS incluye antes de tocar al paciente y después del contacto. Se realiza aun cuando se hayan usado guantes.",
+    "o": {
+      "B": "La limpieza ambiental es necesaria, pero no interrumpe por sí sola la transmisión a través de las manos del personal.",
+      "C": "Fijar una frecuencia de limpieza no reemplaza la higiene al pasar de un paciente a otro o antes de una tarea aséptica.",
+      "D": "Los guantes pueden contaminarse. Usarlos de rutina para todo examen no sustituye la higiene antes y después del contacto."
+    },
+    "src": "OMS · Los guantes no sustituyen a la higiene de las manos, 2025",
+    "src_url": "https://www.who.int/es/news/item/05-05-2025-gloves-do-not-replace-hand-hygiene---reminder-from-who",
+    "stem": "En una UTI, ¿qué práctica del equipo de salud es fundamental para prevenir la transmisión cruzada por contacto durante la atención?",
+    "options": [
+      "Higiene de manos en los momentos indicados, antes y después del contacto con cada paciente.",
+      "Usar detergente y lavandina en superficies como única medida.",
+      "Limpiar superficies cada cuatro horas como única medida.",
+      "Examinar a cada paciente con guantes estériles y omitir la higiene de manos."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:78",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La diabetes y la enfermedad cardiovascular son comorbilidades relevantes para valorar el riesgo y planificar el seguimiento de un paciente con dengue. La edad, el embarazo y las barreras de acceso también se evalúan, aunque no son comorbilidades.",
+    "o": {
+      "B": "El grupo sanguíneo y la lateralidad manual no definen este grupo clínico de riesgo.",
+      "C": "La distancia al centro puede dificultar el seguimiento, pero constituye una barrera de acceso, no una comorbilidad.",
+      "D": "La miopía corregida y una fractura antigua consolidada no son las enfermedades crónicas que destaca la guía para esta evaluación."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre diagnóstico y tratamiento de dengue, poblaciones de riesgo",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/09/gpc_dengue_vc_1012025-652025.pdf",
+    "stem": "Al evaluar a una persona con dengue, ¿qué par de comorbilidades se asocia con mayor riesgo de mala evolución y debe tenerse en cuenta al decidir su seguimiento?",
+    "options": [
+      "Diabetes y enfermedad cardiovascular.",
+      "Grupo sanguíneo O y lateralidad zurda.",
+      "Vivir lejos del centro de salud y carecer de transporte.",
+      "Miopía corregida y antecedente de fractura consolidada."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:79",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor abdominal intenso y sostenido, los vómitos persistentes y la acumulación clínica de líquido son signos de alarma. Pueden aparecer al descender la fiebre y requieren reevaluación inmediata del nivel de atención.",
+    "o": {
+      "B": "Cefalea y dolor retroocular son frecuentes durante la fase febril. Por sí solos no constituyen signos de alarma.",
+      "C": "El exantema y el prurito pueden aparecer durante la evolución, incluso en la recuperación.",
+      "D": "Las mialgias, las artralgias y la astenia son frecuentes y no equivalen por sí mismas a signos de alarma."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre diagnóstico y tratamiento de dengue, signos de alarma",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/09/gpc_dengue_vc_1012025-652025.pdf",
+    "stem": "Paciente con dengue al inicio de la defervescencia. ¿Cuál de estos conjuntos está integrado exclusivamente por signos de alarma?",
+    "options": [
+      "Dolor abdominal intenso y sostenido, vómitos persistentes y acumulación clínica de líquido.",
+      "Cefalea y dolor retroocular aislados.",
+      "Exantema y prurito sin otros hallazgos.",
+      "Mialgias, artralgias y astenia aisladas."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:80",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En el shock séptico se deben iniciar antimicrobianos empíricos de inmediato, idealmente dentro de la primera hora desde que se reconoce el cuadro. Se obtienen cultivos antes si esto no retrasa el tratamiento y se busca el foco en paralelo.",
+    "o": {
+      "A": "Los hemocultivos ayudan a identificar el patógeno y ajustar el esquema. No corresponde esperar su resultado para tratar el shock.",
+      "C": "Los inotrópicos no reemplazan los antimicrobianos y se reservan para indicaciones hemodinámicas concretas.",
+      "D": "Localizar y controlar el foco es importante, pero exigir identificación definitiva antes de tratar puede demorar una intervención urgente."
+    },
+    "src": "Surviving Sepsis Campaign · International Guidelines for Management of Sepsis and Septic Shock 2026, tiempo hasta antimicrobianos",
+    "src_url": "https://sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026",
+    "stem": "Un adulto presenta shock séptico de probable origen bacteriano. Desde el momento en que se reconoce el shock, ¿qué conducta respecto del tratamiento antiinfeccioso recomiendan las guías?",
+    "options": [
+      "Tomar hemocultivos y esperar el resultado antes de tratar.",
+      "Iniciar antimicrobianos empíricos de inmediato, idealmente dentro de la primera hora.",
+      "Iniciar primero un inotrópico y diferir los antimicrobianos hasta normalizar el lactato.",
+      "Esperar a identificar el foco con certeza antes de iniciar antibióticos."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:81",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Con 40 latidos por minuto y síntomas, el bloqueo beta puede agravar la bradicardia y el bajo gasto. Corresponde evaluar la causa antes de iniciar un fármaco que reduzca aún más la frecuencia.",
+    "o": {
+      "A": "La enfermedad arterial periférica y la diabetes exigen evaluación y seguimiento, pero no son por sí solas la contraindicación absoluta planteada.",
+      "B": "Un infarto reciente en un paciente estable no contraindica por sí mismo el metoprolol. Importan la frecuencia, la conducción, la perfusión y la función ventricular.",
+      "D": "El bloqueo aislado de rama derecha es intraventricular. No equivale a un bloqueo AV avanzado."
+    },
+    "src": "DailyMed · Metoprolol tartrate, contraindicaciones y advertencias",
+    "src_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5fd16fbd-be05-49aa-86a9-0f775c1b5a37",
+    "stem": "¿Cuál de estas situaciones contraindica iniciar metoprolol por su efecto sobre la frecuencia cardíaca en un adulto sin marcapasos?",
+    "options": [
+      "Diabetes con enfermedad arterial periférica estable.",
+      "Infarto reciente con estabilidad hemodinámica y frecuencia normal.",
+      "Bradicardia sinusal sintomática de 40 latidos por minuto.",
+      "Bloqueo aislado de rama derecha con conducción AV conservada."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:82",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La fibrilación ventricular produce actividad eléctrica caótica sin contracción ventricular coordinada ni pulso eficaz. Es un ritmo de paro desfibrilable que exige RCP y descarga precoz.",
+    "o": {
+      "A": "La taquicardia sinusal conserva activación ventricular organizada y obliga a buscar su causa.",
+      "B": "Un bloqueo AV de segundo grado puede progresar y causar síncope o paro, pero el bloqueo por sí mismo no es un ritmo desfibrilable.",
+      "C": "Las extrasístoles supraventriculares son latidos prematuros que se originan por encima de los ventrículos. No constituyen fibrilación ventricular."
+    },
+    "src": "American Heart Association · Ventricular Fibrillation, paro cardíaco y desfibrilación",
+    "src_url": "https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/ventricular-fibrillation",
+    "stem": "¿Cuál de las siguientes arritmias constituye en sí misma un ritmo de paro cardíaco desfibrilable?"
+  },
+  {
+    "originalId": "febrero-2024:83",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El hemotímpano y la salida de líquido compatible con LCR por el oído tras un traumatismo son signos de fractura de base de cráneo, a menudo con compromiso temporal. Justifican TC urgente. La otorragia aislada también puede deberse a una lesión del conducto.",
+    "o": {
+      "A": "Un hematoma subdural puede coexistir, pero no es la lesión que explica directamente una fístula de LCR al oído.",
+      "C": "Una fractura facial aislada no explica tan bien hemotímpano y otorraquia.",
+      "D": "Un hematoma extradural puede asociarse a fractura temporal, pero requiere demostración por imágenes y no es sinónimo de esos signos otológicos."
+    },
+    "src": "NICE NG232 · Head injury, signos de fractura de base de cráneo y criterios de TC en adultos",
+    "src_url": "https://www.nice.org.uk/guidance/NG232/chapter/recommendations",
+    "stem": "Un motociclista de 23 años sufre un traumatismo craneal. En la guardia se observa hemotímpano y pérdida de líquido claro compatible con LCR por el oído. ¿Qué lesión sugieren específicamente estos hallazgos?"
+  },
+  {
+    "originalId": "febrero-2024:84",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Cuando se dispone de acceso periférico, los catéteres cortos y de gran calibre permiten administrar volumen con rapidez. El flujo aumenta con el diámetro interno y disminuye al aumentar la longitud.",
+    "o": {
+      "A": "Un catéter largo y fino ofrece mayor resistencia al flujo y retrasa la reposición rápida.",
+      "C": "Colocar un catéter subclavio convencional puede demorar la reanimación y agrega riesgo de complicaciones. No es la primera opción con buenas venas periféricas.",
+      "D": "Un catéter femoral convencional puede ser útil si faltan accesos, pero no supera de rutina a los periféricos cortos de gran calibre para esta indicación."
+    },
+    "src": "Manual Merck profesional · Shock, acceso vascular para reanimación inicial",
+    "src_url": "https://www.merckmanuals.com/professional/critical-care-medicine/shock-and-fluid-resuscitation/shock"
+  },
+  {
+    "originalId": "febrero-2024:85",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La dilatación y la sobrecarga aguda del ventrículo derecho pueden acompañarse de bloqueo incompleto o completo de rama derecha. El hallazgo no es específico y un ECG sin ese patrón no descarta TEP.",
+    "o": {
+      "A": "Un bloqueo AV congénito altera la conducción auriculoventricular desde el nacimiento. No se origina por sobrecarga pulmonar aguda.",
+      "B": "La preexcitación se debe a una vía accesoria, no al aumento brusco de la poscarga ventricular derecha.",
+      "C": "El ritmo estimulado indica actividad de un marcapasos y no constituye un signo de TEP."
+    },
+    "src": "ESC/ERS · Guidelines for the diagnosis and management of acute pulmonary embolism, electrocardiografía",
+    "src_url": "https://publications.ersnet.org/lookup/doi/10.1183/13993003.01647-2019",
+    "stem": "En un TEP agudo con sobrecarga ventricular derecha, ¿cuál de estos trastornos de conducción puede aparecer en el ECG?",
+    "options": [
+      "Bloqueo AV congénito",
+      "Preexcitación de Wolff-Parkinson-White",
+      "Ritmo de marcapasos como signo específico",
+      "Bloqueo de rama derecha"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:86",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La naloxona antagoniza los receptores opioides y revierte la depresión respiratoria. Se sostiene la ventilación mientras se administra y se vigila la reaparición de los síntomas porque el opioide puede durar más que el antídoto.",
+    "o": {
+      "A": "La deferoxamina es un quelante empleado en intoxicación por hierro.",
+      "B": "La D-penicilamina es un quelante de metales, por ejemplo cobre, y no antagoniza receptores opioides.",
+      "D": "El flumazenil antagoniza benzodiacepinas. No revierte la depresión ventilatoria causada por opioides."
+    },
+    "src": "Asociación Toxicológica Argentina · Recomendaciones para la atención de intoxicaciones por opioides, antídoto",
+    "src_url": "https://toxicologia.org.ar/wp-content/uploads/2022/02/Recomendaciones-para-la-Atenci%C3%B3n-de-Intoxicaciones-por-Opioides-2022-2.pdf"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
