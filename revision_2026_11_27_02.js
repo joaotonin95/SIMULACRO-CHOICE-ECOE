@@ -4510,6 +4510,340 @@
     },
     "src": "Asociación Toxicológica Argentina · Recomendaciones para la atención de intoxicaciones por opioides, antídoto",
     "src_url": "https://toxicologia.org.ar/wp-content/uploads/2022/02/Recomendaciones-para-la-Atenci%C3%B3n-de-Intoxicaciones-por-Opioides-2022-2.pdf"
+  },
+  {
+    "originalId": "febrero-2024:87",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una crisis convulsiva que alcanza los cinco minutos requiere tratamiento inmediato. Mientras se evalúan vía aérea, ventilación y glucemia, se administra una benzodiacepina de rescate por la vía disponible.",
+    "o": {
+      "B": "La fenitoína es una opción de segunda línea si persisten las convulsiones pese a benzodiacepinas adecuadas.",
+      "C": "El fenobarbital no es la primera elección en este adulto sin tratamiento de rescate previo.",
+      "D": "El tiopental requiere soporte anestésico y puede emplearse en cuadros refractarios."
+    },
+    "src": "NICE NG217 · Estado epiléptico convulsivo, recomendaciones 7.1.1 a 7.1.5",
+    "src_url": "https://www.nice.org.uk/guidance/ng217/chapter/treating-status-epilepticus-repeated-or-cluster-seizures-and-prolonged-seizures",
+    "stem": "Adulto con una crisis tónico-clónica generalizada que continúa a los seis minutos, sin medicación de rescate previa. Mientras se inicia el sostén vital, ¿qué grupo farmacológico corresponde administrar primero?"
+  },
+  {
+    "originalId": "febrero-2024:88",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La apertura ocular al dolor vale 2 puntos, los sonidos incomprensibles 2 y la flexión anormal 3. Glasgow 7 tras un traumatismo obliga a priorizar la protección de la vía aérea con intubación por personal entrenado, ventilación y protección cervical.",
+    "o": {
+      "A": "Observar sin asegurar la vía aérea expone a aspiración e hipoxia secundaria.",
+      "B": "La TC es urgente una vez estabilizado. El traslado no debe preceder al control de la vía aérea en este chico.",
+      "C": "El acceso venoso y la analgesia son parte de la atención, pero no resuelven la pérdida de protección de la vía aérea."
+    },
+    "src": "NICE NG232 · Head injury, manejo de la vía aérea e indicaciones de intubación",
+    "src_url": "https://www.nice.org.uk/guidance/ng232/resources/head-injury-assessment-and-early-management-pdf-66143892774085"
+  },
+  {
+    "originalId": "febrero-2024:89",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La combinación de acolia persistente e hiperbilirrubinemia directa indica colestasis y obliga a descartar con urgencia atresia biliar. Corresponde derivación temprana sin esperar al próximo control. El cuadro clínico solo no confirma la etiología.",
+    "o": {
+      "A": "La hepatitis neonatal también causa colestasis, pero la acolia persistente obliga a priorizar la búsqueda de obstrucción biliar.",
+      "B": "La incompatibilidad sanguínea produce hemólisis con predominio de bilirrubina indirecta y no explica la acolia.",
+      "C": "El déficit de G6PD puede provocar hemólisis neonatal, típicamente con bilirrubina no conjugada elevada."
+    },
+    "src": "AAP · Identifying Infants With Biliary Atresia by 2–4 Weeks of Life, informe clínico 2025",
+    "src_url": "https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2024-070077/1774919/pediatrics.2024070077.pdf"
+  },
+  {
+    "originalId": "febrero-2024:90",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En un chico estable que tolera la vía oral puede utilizarse cefalexina para una ITU por E. coli sensible. La elección inicial depende de la resistencia local y se revisa al recibir el urocultivo.",
+    "o": {
+      "B": "La claritromicina no tiene actividad clínica adecuada contra E. coli en la vía urinaria.",
+      "C": "No corresponde ciprofloxacina para esta cepa resistente. En pediatría se reserva para indicaciones seleccionadas.",
+      "D": "La penicilina V se usa principalmente frente a ciertos grampositivos y no es tratamiento adecuado de esta infección."
+    },
+    "src": "Sociedad Argentina de Pediatría · Guía para el diagnóstico, estudio y tratamiento de la infección urinaria, actualización 2022",
+    "src_url": "https://www.sap.org.ar/uploads/consensos/consensos_guia-para-el-diagnostico-estudio-y-tratamiento-de-la-infeccion-urinaria-actualizacion-2022-139.pdf",
+    "stem": "Chico de 5 años con disuria y fiebre, buen estado general y tolerancia oral. El urocultivo confirma E. coli sensible a cefalexina y resistente a ciprofloxacina. No tiene alergias. ¿Qué antibiótico oral corresponde entre estas opciones?",
+    "options": [
+      "Cefalexina.",
+      "Claritromicina.",
+      "Ciprofloxacina.",
+      "Penicilina V."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:91",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Las manifestaciones digestivas y respiratorias justifican medir cloruro en sudor por método cuantitativo tras estimulación con pilocarpina. Un valor de 60 mmol/L o más en contexto compatible apoya el diagnóstico y requiere confirmación según el algoritmo.",
+    "o": {
+      "B": "El hemograma no evalúa el transporte de cloruro ni confirma fibrosis quística.",
+      "C": "La ecografía puede detectar complicaciones abdominales, pero no mide la función de CFTR.",
+      "D": "Los leucocitos fecales sugieren inflamación intestinal, no disfunción de CFTR."
+    },
+    "src": "Sociedad Argentina de Pediatría · Guía de diagnóstico y tratamiento de pacientes con fibrosis quística, actualización 2021",
+    "src_url": "https://sap.org.ar/docs/pdf/consensos_guia-de-diagnostico-y-tratamiento-de-pacientes-con-fibrosis-quistica-actualizacion-114.pdf",
+    "stem": "Lactante con esteatorrea, escasa ganancia de peso e infecciones respiratorias recurrentes. ¿Qué prueba funcional específica se usa ante sospecha de fibrosis quística?",
+    "options": [
+      "Determinación cuantitativa del cloruro en sudor",
+      "Hemograma",
+      "Ecografía abdominal",
+      "Leucocitos fecales"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:92",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El percentilo 75 es la longitud que deja aproximadamente al 75 % de la población de referencia de igual edad y sexo en ese valor o por debajo. El 25 % restante queda por encima.",
+    "o": {
+      "B": "Si 10 % estuviera por encima, el valor correspondería aproximadamente al percentilo 90.",
+      "C": "Ubicar al 75 % por encima invierte el sentido del percentilo.",
+      "D": "Si sólo el 25 % estuviera por debajo, correspondería aproximadamente al percentilo 25."
+    },
+    "src": "CDC · Growth Charts: What to know, definición de percentil",
+    "src_url": "https://www.cdc.gov/growthcharts/information-for-healthcare-professionals.htm",
+    "stem": "Supongamos que en una población de referencia el percentilo 75 de longitud para niñas de 6 meses es de 67 cm. ¿Cómo se interpreta ese dato?",
+    "options": [
+      "Aproximadamente 75% de las niñas mide 67 cm o menos.",
+      "10% de las niñas de 6 meses de edad miden más de 67 cm.",
+      "75% de las niñas de 6 meses de edad miden más de 67 cm.",
+      "25% de las niñas de 6 meses de edad miden menos de 67 cm."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:93",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El flumazenil antagoniza el efecto de las benzodiacepinas. Puede considerarse con Toxicología en una exposición accidental aislada con depresión grave del sensorio o la ventilación. La prioridad es sostener vía aérea y ventilación. El riesgo de convulsiones limita su uso.",
+    "o": {
+      "B": "La atropina trata manifestaciones muscarínicas y algunas bradicardias, pero no revierte el clonazepam.",
+      "C": "La N-acetilcisteína es el antídoto de la intoxicación por paracetamol.",
+      "D": "La naloxona revierte opioides y puede ser útil si hay coingesta. En la exposición aislada confirmada no antagoniza la benzodiacepina."
+    },
+    "src": "Royal Children’s Hospital Melbourne · Benzodiazepine poisoning, atención de sostén y antídoto",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/Benzodiazepine_Poisoning/",
+    "stem": "Chico de 3 años con ingesta accidental presenciada de clonazepam como única sustancia, sin epilepsia ni uso crónico de benzodiacepinas. Se asegura la ventilación por depresión respiratoria. Tras consultar a Toxicología, ¿qué antagonista específico puede considerarse?"
+  },
+  {
+    "originalId": "febrero-2024:94",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Haber nacido antes de las 37 semanas es un factor biológico de riesgo de evolución grave. El riesgo aumenta cuanto menor es la edad gestacional y puede ser mayor si hay enfermedad pulmonar crónica.",
+    "o": {
+      "A": "La vacunación incompleta es un antecedente preventivo relevante, pero no es un antecedente perinatal de inmadurez pulmonar.",
+      "B": "La ausencia de lactancia materna es un factor de exposición y protección posnatal. No indica inmadurez al nacer.",
+      "C": "El hacinamiento aumenta el contacto con virus respiratorios. No es un antecedente biológico perinatal."
+    },
+    "src": "Sociedad Argentina de Pediatría · Recomendaciones para el manejo de las infecciones respiratorias agudas bajas en menores de 2 años, factores de riesgo",
+    "src_url": "https://www.sap.org.ar/uploads/consensos/consensos_consenso-irab-2021-121.pdf",
+    "stem": "Lactante de 4 meses con bronquiolitis, nacido a las 35 semanas. Recibe fórmula y vive en un hogar numeroso. ¿Cuál de los siguientes antecedentes perinatales aumenta el riesgo biológico de evolución grave?"
+  },
+  {
+    "originalId": "febrero-2024:95",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Dar algunos pasos sin ayuda integra la lista de hitos de los 15 meses. Es una referencia para la vigilancia del desarrollo y no fija una fecha exacta para todos los chicos.",
+    "o": {
+      "B": "A los seis meses se evalúan destrezas como apoyarse con las manos para sentarse. Los pasos independientes son posteriores.",
+      "C": "A los cuatro meses predominan logros de control cefálico y apoyo sobre los antebrazos.",
+      "D": "A los dos meses se observa, entre otros indicadores, si levanta la cabeza boca abajo. No se espera marcha independiente."
+    },
+    "src": "CDC · Indicadores en acción a los 15 meses, desarrollo físico",
+    "src_url": "https://www.cdc.gov/act-early/es/milestones-in-action/15-months.html",
+    "stem": "Según la lista de hitos del CDC, ¿a qué edad corresponde dar algunos pasos de forma independiente como hito motor de vigilancia?",
+    "options": [
+      "15 meses",
+      "6 meses",
+      "4 meses",
+      "2 meses"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:96",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El total nacional fue 34,7 % entre personas de 18 años o más que alguna vez se habían medido la presión. La tabla informa autorreporte en 2018, que debe distinguirse de la medición objetiva durante la encuesta.",
+    "o": {
+      "B": "El 18,9 % queda por debajo del total nacional informado para ese indicador.",
+      "C": "El 52,4 % no corresponde al total por autorreporte del grupo consultado.",
+      "D": "El 68,2 % implicaría que más de dos tercios refirieron presión elevada, mientras que la encuesta registró cerca de un tercio."
+    },
+    "src": "Ministerio de Salud e INDEC · 4.ª Encuesta Nacional de Factores de Riesgo, informe definitivo, tabla 8.4",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2020-01/4ta-encuesta-nacional-factores-riesgo_2019_informe-definitivo.pdf",
+    "stem": "En la cuarta Encuesta Nacional de Factores de Riesgo argentina (2018), entre adultos que alguna vez se habían medido la presión, ¿qué porcentaje refirió presión elevada por autorreporte?",
+    "options": [
+      "34,7 %",
+      "18,9 %",
+      "52,4 %",
+      "68,2 %"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:97",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Para un lactante sano nacido a término con lactancia materna exclusiva, la AAP sitúa el inicio de la estrategia farmacológica preventiva de hierro elemental, 1 mg/kg/día, hacia los cuatro meses. La pregunta especifica la guía y la estrategia.",
+    "o": {
+      "B": "Esperar hasta los dos años deja sin cubrir el período de rápida expansión de la masa eritrocitaria durante la lactancia.",
+      "C": "La prevención se indica antes de que aparezca anemia. Tratar anemia documentada es otra intervención.",
+      "D": "La adolescencia es otro período de riesgo, pero iniciar allí no previene la deficiencia del lactante."
+    },
+    "src": "American Academy of Pediatrics · Prevention, Screening, Diagnosis, and Treatment of Iron Deficiency and Iron Deficiency Anemia, 2026",
+    "src_url": "https://publications.aap.org/pediatrics/article-pdf/doi/10.1542/peds.2026-077414/1941198/pediatrics.2026077414.pdf",
+    "stem": "Según el informe AAP 2026, si se opta por suplementación farmacológica en un lactante sano de término con lactancia materna exclusiva, ¿hacia qué edad se inicia el hierro a 1 mg/kg/día?",
+    "options": [
+      "Cuatro meses",
+      "Dos años",
+      "Solo después de documentar anemia",
+      "Al comenzar la adolescencia"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:98",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El calendario indica vacunación antigripal infantil a partir de los seis meses. A los cuatro meses todavía no corresponde aplicarla.",
+    "o": {
+      "B": "Elegir el deltoides no resuelve la limitación por edad. En lactantes con indicación se prefiere el muslo anterolateral.",
+      "C": "Puede causar dolor local o fiebre, por lo que no corresponde afirmar que carece de efectos adversos.",
+      "D": "La región glútea no es el sitio recomendado y el niño aún no alcanzó la edad mínima."
+    },
+    "src": "Ministerio de Salud de la Ciudad de Buenos Aires · Campaña de vacunación antigripal 2026, población pediátrica",
+    "src_url": "https://buenosaires.gob.ar/salud/vacunas-e-inmunizacion/campana-de-vacunacion-contra-la-gripe"
+  },
+  {
+    "originalId": "febrero-2024:99",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Una lesión cervical exofítica que sangra en una paciente sintomática requiere diagnóstico histológico mediante biopsia dirigida y derivación oportuna. Un resultado de tamizaje no descarta invasión en este contexto.",
+    "o": {
+      "A": "Un legrado endometrial estudia la cavidad uterina y no toma una muestra dirigida de la masa cervical.",
+      "B": "El PAP es una prueba de tamizaje. No debe demorar la biopsia de una lesión macroscópica sospechosa.",
+      "C": "La ecografía puede complementar la evaluación, pero no determina la histología de la lesión visible."
+    },
+    "src": "Ministerio de Salud de la Nación · Programa Nacional de Prevención de Cáncer Cervicouterino, Guía Programática Abreviada",
+    "src_url": "https://iah.msal.gov.ar/doc/Documento51.pdf"
+  },
+  {
+    "originalId": "febrero-2024:100",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La metrorragia del tercer trimestre acompañada de dolor, hipertonía uterina y bradicardia fetal sugiere desprendimiento prematuro de placenta normoinserta. La hipertensión aumenta el riesgo y el compromiso fetal exige evaluación obstétrica inmediata.",
+    "o": {
+      "A": "La rotura uterina puede producir dolor y bradicardia, pero suele asociarse con trabajo de parto, cicatriz uterina u otros signos de rotura. El patrón descripto orienta más a desprendimiento.",
+      "C": "La placenta previa suele causar sangrado indoloro con útero blando.",
+      "D": "Un sangrado marginal limitado explica peor la hipertonía marcada con deterioro fetal agudo."
+    },
+    "src": "Manual MSD profesional · Desprendimiento placentario, signos y síntomas",
+    "src_url": "https://www.msdmanuals.com/es/professional/ginecolog%C3%ADa-y-obstetricia/complicaciones-prenatales/desprendimiento-placentario?ruleredirectid=753"
+  },
+  {
+    "originalId": "julio-2024:1",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La fiebre alta con tos, conjuntivitis y exantema maculopapular que progresa desde la cara hacia el tronco y las extremidades es característica del sarampión. Es una sospecha clínica que requiere notificación y confirmación.",
+    "o": {
+      "A": "La varicela suele presentar vesículas pruriginosas en distintos estadios, no este exantema maculopapular con conjuntivitis.",
+      "B": "La rubéola también puede comenzar en la cara, pero suele causar fiebre más leve y adenopatías retroauriculares u occipitales.",
+      "D": "La escarlatina suele acompañar una faringitis y dar exantema áspero al tacto. La tos y la conjuntivitis favorecen sarampión."
+    },
+    "src": "Ministerio de Salud de la Nación · Sarampión, manifestaciones clínicas",
+    "src_url": "https://www.argentina.gob.ar/salud/sarampion/sintomas"
+  },
+  {
+    "originalId": "julio-2024:2",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La asociación de confusión, ataxia y nistagmo en una persona con consumo crónico de alcohol orienta a encefalopatía de Wernicke por déficit de tiamina. La sospecha justifica tiamina parenteral urgente sin esperar un dosaje.",
+    "o": {
+      "A": "La neuropatía periférica alcohólica produce síntomas distales y no integra confusión aguda con signos oculomotores.",
+      "B": "La degeneración cerebelosa alcohólica puede causar ataxia crónica, pero explica peor la confusión aguda asociada.",
+      "C": "La abstinencia grave suele producir hiperactividad autonómica, agitación y temblor tras reducir el consumo. La tríada clínica orienta a Wernicke."
+    },
+    "src": "Department of Health and Social Care · Clinical guidelines for alcohol treatment, sección 16, encefalopatía de Wernicke",
+    "src_url": "https://www.gov.uk/guidance/clinical-guidelines-for-alcohol-treatment/16-alcohol-care-in-acute-hospitals?trk=article-ssr-frontend-pulse_little-text-block",
+    "stem": "Hombre de 50 años con consumo crónico de alcohol y malnutrición. Consulta por confusión de inicio reciente, ataxia de la marcha y nistagmo. ¿Qué síndrome explica mejor el conjunto?",
+    "options": [
+      "Neuropatía periférica alcohólica.",
+      "Degeneración cerebelosa alcohólica crónica aislada.",
+      "Delirium por abstinencia alcohólica.",
+      "Encefalopatía de Wernicke."
+    ]
+  },
+  {
+    "originalId": "julio-2024:3",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Bocio difuso y orbitopatía sugieren Graves. TSH suprimida y T4 libre elevada confirman hipertiroidismo manifiesto, y los anticuerpos contra el receptor de TSH apoyan la etiología. En una adulta no gestante que elige tratamiento farmacológico, el metimazol inhibe la síntesis hormonal.",
+    "o": {
+      "A": "La levotiroxina aporta hormona y agravaría la tirotoxicosis.",
+      "C": "La ecografía sola no demuestra exceso hormonal. El radioyodo no es el antitiroideo farmacológico consultado y puede agravar la orbitopatía.",
+      "D": "La T3 aislada no es la evaluación inicial completa. El propranolol alivia síntomas adrenérgicos sin controlar por sí solo la síntesis hormonal."
+    },
+    "src": "Endotext · Diagnosis and Treatment of Graves’ Disease, diagnóstico bioquímico y antitiroideos",
+    "src_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK285548/",
+    "stem": "Mujer de 30 años no embarazada, con pérdida de peso, palpitaciones, bocio difuso y orbitopatía. Está estable y prefiere tratamiento farmacológico. ¿Qué evaluación confirma el hipertiroidismo y qué fármaco inhibe la síntesis hormonal en el probable Graves?"
+  },
+  {
+    "originalId": "julio-2024:4",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En un adulto con dolor en fosa ilíaca derecha, fiebre y leucocitosis, la TC abdominopélvica con contraste EV permite evaluar el apéndice y las complicaciones. Es apropiada ante una ecografía inicial no concluyente.",
+    "o": {
+      "A": "La radiografía simple no permite descartar apendicitis ni caracterizar bien un absceso.",
+      "C": "Ya se realizaron evaluación clínica, laboratorio y ecografía sin resolver el diagnóstico. Repetir sólo esos pasos no aporta el estudio solicitado.",
+      "D": "La colonoscopía no es el método indicado para evaluar un posible abdomen quirúrgico agudo."
+    },
+    "src": "ACR Appropriateness Criteria · Right Lower Quadrant Pain, variante 2, sospecha de apendicitis",
+    "src_url": "https://acsearch.acr.org/docs/69357/Narrative/",
+    "stem": "Varón de 28 años, estable, con fiebre, leucocitosis y dolor persistente en fosa ilíaca derecha. La ecografía no visualizó el apéndice. No tiene contraindicaciones para contraste y sigue la sospecha de apendicitis. ¿Cuál es el siguiente estudio por imágenes?",
+    "options": [
+      "Radiografía simple de abdomen.",
+      "TC de abdomen y pelvis con contraste endovenoso.",
+      "Repetir únicamente el examen físico, el hemograma y la misma ecografía.",
+      "Colonoscopía."
+    ]
+  },
+  {
+    "originalId": "julio-2024:5",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una masa pulmonar con hemoptisis y pérdida de peso en un fumador exige estudiar cáncer de pulmón. La TC con contraste orienta la extensión y la elección del sitio de biopsia. La histología, el estadio y, cuando corresponde, los biomarcadores guían el tratamiento.",
+    "o": {
+      "B": "La acalasia se manifiesta principalmente por disfagia y regurgitación. Una manometría no caracteriza la masa pulmonar.",
+      "C": "La tuberculosis puede causar hemoptisis y adelgazamiento, pero estos datos no justifican asumir ese diagnóstico y omitir el estudio de la masa.",
+      "D": "La EPOC puede coexistir con cáncer. La espirometría no determina la naturaleza de una masa ni explica por sí sola la hemoptisis."
+    },
+    "src": "NICE NG122 · Lung cancer, diagnóstico y estadificación, recomendaciones 1.3.1 a 1.3.4",
+    "src_url": "https://www.nice.org.uk/guidance/ng122/chapter/Diagnosis-and-staging",
+    "stem": "Varón de 60 años con tabaquismo prolongado, tos, hemoptisis y pérdida de peso. La radiografía muestra una masa pulmonar nueva de contorno espiculado. Está estable y es candidato a tratamiento. ¿Qué estrategia corresponde?",
+    "options": [
+      "Investigar cáncer pulmonar con TC contrastada, obtener tejido según los hallazgos y elegir el tratamiento según histología y estadio.",
+      "Asumir acalasia y realizar manometría esofágica.",
+      "Asumir tuberculosis e iniciar tratamiento sin estudiar la masa.",
+      "Atribuir el cuadro a EPOC e indicar sólo espirometría y broncodilatadores."
+    ]
+  },
+  {
+    "originalId": "julio-2024:6",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con síntomas clásicos y glucemia plasmática al azar ≥200 mg/dL se diagnostica diabetes. La pérdida de peso y los autoanticuerpos positivos orientan a tipo 1 autoinmune. Requiere insulina desde el diagnóstico. La ausencia de acidosis permite distinguir este caso del tratamiento EV de una cetoacidosis.",
+    "o": {
+      "B": "La metformina sola no reemplaza la insulina en la diabetes autoinmune con manifestaciones catabólicas.",
+      "C": "La edad por sí sola no clasifica la diabetes. El contexto y los autoanticuerpos apoyan tipo 1 aunque ambos tipos puedan requerir insulina.",
+      "D": "La diabetes insípida causa poliuria por alteración del balance de agua. No explica la hiperglucemia marcada y los autoanticuerpos de islote."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, sección 2, diagnóstico y clasificación",
+    "src_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926/2-Diagnosis-and-Classification-of-Diabetes",
+    "stem": "Mujer de 22 años con poliuria, polidipsia, adelgazamiento, glucemia plasmática al azar de 320 mg/dL y anticuerpos anti-GAD e IA-2 positivos. Está estable, sin cetosis ni acidosis. ¿Qué diagnóstico y tratamiento inicial corresponden?",
+    "options": [
+      "Diabetes tipo 1 autoinmune: iniciar insulina y educación para su uso.",
+      "Diabetes tipo 2: iniciar sólo metformina.",
+      "Diabetes tipo 2 por la edad: iniciar insulina sin considerar la autoinmunidad.",
+      "Diabetes insípida: iniciar desmopresina."
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
