@@ -3524,6 +3524,349 @@
       "Sialoadenitis bacteriana supurativa de la parótida",
       "Quiste maxilar no infectado"
     ]
+  },
+  {
+    "originalId": "febrero-2024:26",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Un tumor de 2 cm es T1b. Una sola estación mediastínica ipsilateral o subcarinal corresponde a N2a. En la tabla de la novena edición, T1 N2a M0 se agrupa en IIB.",
+    "o": {
+      "B": "El estadio IA requiere N0. Aquí hay metástasis ganglionar regional.",
+      "C": "El estadio IVB requiere metástasis a distancia múltiples. Este caso es M0.",
+      "D": "El estadio IIIC corresponde a T3–4 con N3 y M0. El tumor es T1b y la estación subcarinal es N2a."
+    },
+    "src": "IASLC · Tabla de grupos de estadio TNM pulmonar, 9.ª edición",
+    "src_url": "https://www.iaslc.org/file/10870/download?token=ZdsZFnAS",
+    "stem": "Según la novena edición TNM de cáncer pulmonar, un tumor de 2 cm sin invasión, con una única estación mediastínica subcarinal comprometida y sin metástasis, corresponde a T1b N2a M0. ¿En qué grupo de estadio anatómico se ubica?",
+    "options": [
+      "IIB",
+      "IA",
+      "IVB",
+      "IIIC"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:27",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Tras una diabetes gestacional se recomienda una PTOG con 75 g entre las semanas 4 y 12 posparto, con glucemia basal y a las dos horas e interpretación con criterios de población no embarazada. Tanto la semana 6 como la 8 están dentro del intervalo.",
+    "o": {
+      "A": "La glucemia basal aislada puede pasar por alto una alteración manifiesta sólo a las dos horas.",
+      "B": "La carga de 50 g sin ayuno corresponde a una estrategia de tamizaje prenatal.",
+      "C": "Esperar seis meses posterga la reclasificación inicial. La HbA1c también puede verse afectada por el recambio eritrocitario y la pérdida de sangre recientes."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, sección 15, recomendación 15.30",
+    "src_url": "https://doi.org/10.2337/dc26-s015",
+    "stem": "Una paciente con diabetes gestacional consulta después del parto. Según la ADA, ¿qué estudio y qué intervalo se recomiendan para detectar diabetes o prediabetes persistentes?",
+    "options": [
+      "Sólo glucemia en ayunas a las seis semanas.",
+      "Prueba de carga de 50 g sin ayuno entre las semanas 4 y 12.",
+      "Esperar seis meses y solicitar únicamente HbA1c.",
+      "PTOG con 75 g entre las semanas 4 y 12 posparto."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:28",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Tras un traumatismo, la combinación de shock, disnea intensa, timpanismo y ausencia unilateral de murmullo vesicular obliga a descomprimir de inmediato un neumotórax a tensión. Con personal entrenado se realiza toracostomía abierta seguida de drenaje pleural.",
+    "o": {
+      "A": "Preparar una videotoracoscopía demoraría el alivio de la presión que está comprometiendo la circulación.",
+      "B": "La radiografía puede confirmar el diagnóstico en un paciente estable. Aquí no debe preceder a la descompresión.",
+      "D": "Esperar la ecografía prolongaría el shock obstructivo cuando el diagnóstico clínico exige actuar."
+    },
+    "src": "NICE NG39 · Major trauma, recomendaciones 1.4.1 y 1.4.2",
+    "src_url": "https://www.nice.org.uk/guidance/ng39/resources/major-trauma-assessment-and-initial-management-pdf-1837400761285",
+    "stem": "En guardia, tras un traumatismo torácico cerrado, un adulto presenta disnea intensa, TA 75/45 mmHg, ingurgitación yugular, timpanismo y ausencia de murmullo vesicular a derecha. Hay un equipo entrenado en toracostomía. ¿Qué conducta tiene prioridad?",
+    "options": [
+      "Videotoracoscopía diagnóstica.",
+      "Radiografía antes de intervenir.",
+      "Descompresión torácica inmediata seguida de drenaje pleural.",
+      "Esperar la ecografía pleural."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:29",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El inicio súbito de dolor testicular intenso en un adolescente orienta a torsión del cordón espermático y exige evaluación quirúrgica urgente. El signo de Prehn aislado carece de precisión para confirmarla o excluirla.",
+    "o": {
+      "A": "Un varicocele suele palparse como venas dilatadas del cordón. La trombosis es infrecuente y no es la primera sospecha en este cuadro.",
+      "B": "Una hernia complicada suele asociarse a una masa inguinoescrotal irreducible. El dolor se localiza aquí en el testículo.",
+      "C": "La orquiepididimitis suele comenzar de forma más gradual y puede acompañarse de síntomas urinarios o fiebre."
+    },
+    "src": "Irish Association for Emergency Medicine · Clinical Guideline: Testicular Torsion in Adults and Paediatrics",
+    "src_url": "https://www.iaem.ie/wp-content/uploads/2022/08/Clinical-Guideline-Testicular-Torsion-in-Adults-and-Peadiatrics.pdf"
+  },
+  {
+    "originalId": "febrero-2024:30",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Un pólipo pediculado resecable se extrae con asa en una pieza para valorar histología y margen. Con una cabeza de 25 mm se debe prever hemostasia del pedículo para reducir el riesgo de sangrado.",
+    "o": {
+      "B": "Esperar crecimiento retrasa el diagnóstico histológico de una lesión ya resecable y sintomática.",
+      "C": "El seguimiento clínico deja sin tratar la posible fuente de sangrado y no aporta tejido.",
+      "D": "La fotocoagulación destruiría tejido sin proporcionar una pieza íntegra para el análisis."
+    },
+    "src": "ESGE · Colorectal polypectomy and endoscopic mucosal resection, actualización 2024, pólipos pediculados",
+    "src_url": "https://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-2304-3219.pdf",
+    "stem": "Varón de 72 años con rectorragia autolimitada. La colonoscopía muestra un pólipo sigmoideo pediculado de 25 mm, sin signos endoscópicos de invasión profunda y técnicamente resecable en bloque. ¿Cuál es la conducta más adecuada?"
+  },
+  {
+    "originalId": "febrero-2024:31",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La colangiorresonancia permite buscar cálculos sin instrumentar la papila ni usar rayos X. La ecoendoscopía también es útil en riesgo intermedio, pero implica endoscopía.",
+    "o": {
+      "B": "La CPRE requiere endoscopía y habitualmente fluoroscopía. Se reserva principalmente para intervención terapéutica.",
+      "C": "La colangiografía transhepática percutánea requiere punción y utiliza fluoroscopía.",
+      "D": "La tomografía emplea radiación ionizante y puede pasar por alto cálculos pequeños."
+    },
+    "src": "ASGE · Role of endoscopy in choledocholithiasis, recomendación para probabilidad intermedia",
+    "src_url": "https://www.asge.org/docs/default-source/guidelines/asge-guideline-on-the-role-of-endoscopy-in-the-evaluation-and-management-of-choledocholithiasis-2019-june-gie.pdf",
+    "stem": "Paciente con probabilidad intermedia de coledocolitiasis sin colangitis. ¿Qué estudio permite evaluar la vía biliar sin endoscopia ni radiación ionizante?",
+    "options": [
+      "Colangiografía por resonancia nuclear magnética.",
+      "Colangiopancreatografía retrógrada endoscópica.",
+      "Colangiografía transparietal.",
+      "Tomografía de abdomen con contraste oral y endovenoso."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:32",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La videotoracoscopía permite ver la pleura y elegir las zonas que se biopsian. En un derrame recurrente, una citología negativa no descarta enfermedad pleural maligna.",
+    "o": {
+      "B": "La toracotomía permite inspeccionar y biopsiar, pero requiere una apertura quirúrgica mayor.",
+      "C": "La biopsia percutánea puede dirigirse por imágenes, pero no permite inspección endoscópica de la cavidad.",
+      "D": "La TC caracteriza el engrosamiento y orienta dónde tomar muestras, pero por sí sola no obtiene tejido."
+    },
+    "src": "British Thoracic Society · Quality Standard for Pleural Disease, biopsia pleural en derrame sin diagnóstico",
+    "src_url": "https://www.brit-thoracic.org.uk/document-library/quality-standards/pleural-disease/bts-quality-standard-for-pleural-disease",
+    "stem": "Derrame pleural exudativo recurrente con citología negativa. Se requiere inspeccionar directamente toda la superficie pleural accesible y obtener biopsias dirigidas. ¿Qué procedimiento mínimamente invasivo lo permite?",
+    "options": [
+      "Videotoracoscopia.",
+      "Toracotomía.",
+      "Punción biopsia pleural.",
+      "TAC de tórax con contraste endovenoso."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:33",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La anhedonia, el insomnio, la fatiga, la concentración disminuida, el aumento de peso y las ideas de muerte persisten más de dos semanas y afectan el funcionamiento. Corresponde evaluar el riesgo suicida aun cuando no exista un plan.",
+    "o": {
+      "A": "No refiere episodios de manía ni hipomanía que orienten a un trastorno bipolar.",
+      "B": "El trastorno esquizoafectivo requiere síntomas psicóticos, incluso durante un período sin episodio afectivo mayor.",
+      "C": "No hay delirios, alucinaciones ni desorganización que sustenten esquizofrenia."
+    },
+    "src": "Manual MSD profesional · Trastornos depresivos, criterios de episodio depresivo mayor",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-psiqui%C3%A1tricos/trastornos-del-estado-de-%C3%A1nimo/trastornos-depresivos?ruleredirectid=750",
+    "stem": "Varón de 41 años con tres meses de pérdida de interés, insomnio, fatiga, dificultad para concentrarse, aumento significativo de peso e ideas recurrentes de muerte sin plan actual. Los síntomas son casi diarios y afectan su trabajo. No hay síntomas psicóticos, antecedentes de manía o hipomanía, consumo de sustancias ni otra causa médica identificada. ¿Qué diagnóstico explica mejor el cuadro?"
+  },
+  {
+    "originalId": "febrero-2024:34",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Una glucemia plasmática en ayunas de 138 mg/dL supera el umbral de 126. En una persona asintomática con una sola determinación se requiere confirmación. Repetir la glucemia plasmática en ayunas es una forma válida de obtenerla.",
+    "o": {
+      "A": "Los hábitos saludables son pertinentes, pero con un solo resultado y sin hiperglucemia inequívoca todavía no se confirma diabetes.",
+      "B": "Una glucemia capilar domiciliaria aislada no sustituye la confirmación diagnóstica de laboratorio.",
+      "D": "Indicar metformina como tratamiento de una diabetes ya confirmada se adelanta al segundo resultado diagnóstico."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, sección 2, confirmación diagnóstica",
+    "src_url": "https://doi.org/10.2337/dc26-S002?trk=article-ssr-frontend-pulse_little-text-block",
+    "stem": "Mujer de 45 años, asintomática, con IMC de 32 kg/m². La única medición diagnóstica disponible es una glucemia plasmática de laboratorio de 138 mg/dL tras ocho horas de ayuno. ¿Cuál de estas conductas permite confirmar el diagnóstico?",
+    "options": [
+      "Comunicar diagnóstico definitivo e iniciar cambios en los hábitos.",
+      "Confirmarlo sólo con una medición capilar domiciliaria.",
+      "Repetir sin demora la glucemia plasmática en ayunas en el laboratorio.",
+      "Comunicar diagnóstico definitivo e iniciar metformina."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:35",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Una cohorte prospectiva mide la exposición en participantes libres del desenlace y registra los casos nuevos durante el seguimiento. Esto establece el orden temporal y permite comparar incidencias entre expuestos y no expuestos.",
+    "o": {
+      "A": "En casos y controles se selecciona por desenlace y se reconstruye la exposición. No es el seguimiento prospectivo descripto.",
+      "B": "En una cohorte observacional el investigador registra la exposición sin asignarla al azar.",
+      "D": "Un estudio transversal mide exposición y desenlace en un corte temporal. Ajustar por confusores no recupera por sí solo la secuencia temporal."
+    },
+    "src": "CDC · Unit II, Analytic Epidemiology, diseño de cohortes",
+    "src_url": "https://stacks.cdc.gov/view/cdc/11226/cdc_11226_DS1.pdf",
+    "stem": "Se quiere medir la incidencia de enfermedad en personas inicialmente libres de ella, clasificadas según una exposición observada al inicio. ¿Qué diseño permite documentar de forma directa que la exposición se registró antes del desenlace?"
+  },
+  {
+    "originalId": "febrero-2024:36",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La finalidad que pregunta el caso es detectar un cáncer colorrectal antes de que produzca síntomas. Ese diagnóstico precoz es prevención secundaria. La eventual resección de adenomas también puede prevenir casos futuros de cáncer.",
+    "o": {
+      "A": "La prevención terciaria busca reducir secuelas de una enfermedad ya establecida. No se describe cáncer diagnosticado.",
+      "C": "La prevención cuaternaria procura evitar intervenciones innecesarias y no define el objetivo de detección precoz.",
+      "D": "La prevención primaria evita la aparición de enfermedad. Aquí se pregunta por la búsqueda de cáncer ya presente en una persona asintomática."
+    },
+    "src": "National Cancer Institute · Screening Tests to Detect Colorectal Cancer and Polyps, personas con riesgo aumentado",
+    "src_url": "https://www.cancer.gov/types/colorectal/screening-fact-sheet"
+  },
+  {
+    "originalId": "febrero-2024:37",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Al no considerar dejar de fumar en los próximos seis meses, se encuentra en precontemplación. Conviene dar consejo breve personalizado, explorar qué le preocupa de dejar el cigarrillo y retomar el tema en otro control.",
+    "o": {
+      "A": "Indicar de entrada tres parches sin acordar un objetivo ni evaluar dependencia no responde a la disposición que expresa.",
+      "B": "Reconocer un daño no basta para clasificarlo como contemplativo. Dice que no considera dejar en los próximos seis meses.",
+      "D": "Un parche como única intervención omite el consejo y la exploración motivacional que necesita en esta consulta."
+    },
+    "src": "Ministerio de Salud de la Nación · Algoritmo para la cesación tabáquica, consejo breve e intervención motivacional",
+    "src_url": "https://www.fmed.uba.ar/sites/default/files/2024-12/GPC%20Tabaco%20breve.pdf",
+    "stem": "Un hombre de 35 años que fuma consulta por un apto laboral. Sabe que fumar le hace mal y dice que no considera dejarlo en los próximos seis meses. Según el modelo de Prochaska, ¿en qué etapa está y qué intervención inicial corresponde?"
+  },
+  {
+    "originalId": "febrero-2024:38",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La gingivorragia persistente en un caso compatible con dengue es un signo de alarma. Requiere internación con vigilancia de perfusión, diuresis y hematocrito, e hidratación según evolución. El recuento plaquetario inicial no descarta progresión.",
+    "o": {
+      "A": "El control diferido en domicilio no permite detectar a tiempo deterioro durante la fase crítica.",
+      "B": "No hay shock, sangrado grave ni disfunción orgánica que exijan terapia intensiva de entrada.",
+      "C": "La confirmación etiológica puede solicitarse, pero no corresponde dar el alta mientras presenta un signo de alarma."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre diagnóstico y tratamiento de dengue, signos de alarma",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/09/gpc_dengue_vb_1012025.pdf",
+    "stem": "Varón de 68 años con diabetes y viaje reciente a Misiones durante un brote de dengue. Al bajar la fiebre presenta gingivorragia espontánea persistente de escasa cuantía. Está normotenso, bien perfundido, sin dificultad respiratoria ni disfunción orgánica. Plaquetas 160.000/mm³. ¿Qué nivel de atención corresponde?"
+  },
+  {
+    "originalId": "febrero-2024:39",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La evolución subaguda con tos seca, hipoxemia e infiltrados intersticiales bilaterales en VIH avanzado orienta a neumonía por P. jirovecii. Se indica trimetoprima-sulfametoxazol por 21 días y, con PaO₂ de 67 mmHg en aire ambiente, corticoide adyuvante precoz, idealmente dentro de las primeras 72 horas.",
+    "o": {
+      "B": "La amoxicilina con clavulánico no es activa contra Pneumocystis.",
+      "C": "Amoxicilina con ciprofloxacina no trata esta infección oportunista ni cubre la indicación de corticoide por hipoxemia.",
+      "D": "La levofloxacina puede utilizarse en determinadas neumonías bacterianas, pero carece de eficacia frente a Pneumocystis."
+    },
+    "src": "NIH · Guidelines for Opportunistic Infections in Adults and Adolescents With HIV, Pneumocystis Pneumonia",
+    "src_url": "https://clinicalinfo.hiv.gov/sites/clinicalinfo/files/guidelines/documents/adult-adolescent-oi/pneumocystis-pneumonia-adult-adolescent-oi.pdf",
+    "stem": "Paciente con VIH sin tratamiento, CD4 de 65/µL, tres semanas de disnea progresiva, tos seca e infiltrados intersticiales bilaterales. La PaO₂ es de 67 mmHg en aire ambiente a nivel del mar. Ante la sospecha de neumonía por Pneumocystis, ¿qué tratamiento corresponde iniciar?",
+    "options": [
+      "Trimetoprima-sulfametoxazol más corticoide sistémico adyuvante.",
+      "Amoxicilina con ácido clavulánico.",
+      "Amoxicilina más ciprofloxacina.",
+      "Levofloxacina."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:40",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En enfermedad renal crónica con albuminuria A3, un IECA o un ARA II reduce la albuminuria y el riesgo de progresión. Se controlan presión, creatinina y potasio dentro de las dos a cuatro semanas de iniciar o aumentar la dosis.",
+    "o": {
+      "A": "Un betabloqueante puede tener indicación cardíaca, pero no sustituye el beneficio renal del bloqueo del sistema renina-angiotensina en A3.",
+      "B": "Combinar IECA y ARA II aumenta el riesgo de lesión renal aguda e hiperpotasemia y debe evitarse.",
+      "C": "Un calcioantagonista puede ayudar a alcanzar el objetivo tensional, pero como monoterapia omite el bloqueo indicado por la albuminuria marcada."
+    },
+    "src": "KDIGO 2024 · CKD Guideline, recomendaciones 3.6 y control del bloqueo del sistema renina-angiotensina",
+    "src_url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
+    "stem": "Paciente hipertenso con enfermedad renal crónica y albuminuria A3 persistente, sin hiperpotasemia. ¿Cuál es la estrategia con beneficio renal específico?",
+    "options": [
+      "Betabloqueante como única opción",
+      "Combinar un IECA y un ARA II",
+      "Calcioantagonista como única medida",
+      "Un IECA o un ARA II con control de creatinina y potasio"
+    ]
+  },
+  {
+    "originalId": "febrero-2024:41",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La tira positiva obliga a cuantificar proteinuria, por ejemplo con la relación proteína/creatinina en una muestra aislada. A las 36 semanas se evalúan síntomas, función renal y hepática, plaquetas y bienestar fetal. Si se confirma preeclampsia estable sin criterios para finalizar antes, se planifica el nacimiento desde las 37 semanas.",
+    "o": {
+      "B": "La presión no está en rango grave. Sin compromiso materno o fetal no se indica cesárea urgente ni sulfato de magnesio de rutina.",
+      "C": "Una tira positiva aislada no justifica sulfato de magnesio. Omitir la evaluación fetal dejaría incompleta la valoración.",
+      "D": "A las 36 semanas, en ausencia de deterioro, la tira reactiva por sí sola no obliga a inducir de inmediato."
+    },
+    "src": "NICE NG133 · Hypertension in pregnancy, evaluación de proteinuria y tabla 3 de momento del nacimiento",
+    "src_url": "https://www.nice.org.uk/guidance/ng133/resources/hypertension-in-pregnancydiagnosis-and-management-pdf-66141717671365",
+    "stem": "Primigesta de 36 semanas con hipertensión gestacional tratada, TA 140/90 mmHg y proteinuria 2+ en tira reactiva. Está asintomática, sin signos clínicos de gravedad y con movimientos fetales conservados. Durante la evaluación obstétrica, ¿cuál es la conducta inicial más adecuada?",
+    "options": [
+      "Evaluar a la madre y al feto, solicitar plaquetas, creatinina y hepatograma, y cuantificar la proteinuria con relación proteína/creatinina.",
+      "Realizar cesárea urgente y administrar sulfato de magnesio.",
+      "Administrar sulfato de magnesio por la tira positiva y omitir la evaluación fetal.",
+      "Inducir de inmediato sólo por el resultado de la tira."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:42",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Una lesión esplénica aislada de bajo grado en un paciente estable, sin peritonitis ni sangrado activo, permite manejo no operatorio con vigilancia clínica, signos vitales y hemoglobina seriada. En bajo grado se repiten imágenes si la evolución lo justifica.",
+    "o": {
+      "A": "Un hematoma subcapsular pequeño y no complicado no requiere drenaje percutáneo.",
+      "B": "La esplenectomía urgente se reserva para situaciones como inestabilidad persistente o fracaso del manejo conservador.",
+      "C": "La TC ya documentó una lesión de bajo grado sin extravasación. La laparotomía sistemática agregaría riesgo sin indicación."
+    },
+    "src": "WSES · Follow-up strategies for patients with splenic trauma managed non-operatively, consenso 2022",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9560023/",
+    "stem": "Tras un traumatismo abdominal cerrado, un adulto está estable y sin peritonismo. La TC con contraste muestra sólo un hematoma esplénico subcapsular grado I sin extravasación ni lesión vascular. El hospital puede monitorizarlo e intervenir si se deteriora. ¿Cuál es la conducta inicial?",
+    "options": [
+      "Drenaje percutáneo del hematoma.",
+      "Esplenectomía de urgencia.",
+      "Laparotomía sistemática para evacuar el hematoma.",
+      "Manejo no operatorio con controles clínicos y de hemoglobina, e imágenes según evolución."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:43",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El coágulo adherente sobre el lecho ulceroso se clasifica como Forrest IIb. El estado hemodinámico y la presentación con melena no cambian la categoría endoscópica.",
+    "o": {
+      "A": "Forrest IIc corresponde a una mancha plana pigmentada, sin el relieve de un coágulo adherente.",
+      "B": "Forrest III describe una úlcera con base limpia, sin estigmas de hemorragia reciente.",
+      "D": "Forrest Ia implica sangrado arterial activo en chorro, ausente en esta endoscopía."
+    },
+    "src": "ESGE · Guía de hemorragia digestiva alta por úlcera péptica, actualización 2026, clasificación de Forrest",
+    "src_url": "https://www.esge.com/assets/downloads/pdfs/guidelines/2026_a-2863-8314.pdf"
+  },
+  {
+    "originalId": "febrero-2024:44",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La lesión livedoide con centro violáceo, halo pálido y posterior necrosis tras un contacto domiciliario orienta a loxoscelismo cutáneo. Sin identificación del ejemplar, el diagnóstico es presuntivo.",
+    "o": {
+      "A": "Phoneutria suele causar dolor local inmediato e intenso y manifestaciones autonómicas. La placa livedoide evolutiva favorece Loxosceles.",
+      "C": "Latrodectus se asocia con dolor muscular, contracturas y sudoración, más que con necrosis cutánea progresiva.",
+      "D": "Steatoda puede producir dolor local y síntomas semejantes a un latrodectismo leve. La placa dermonecrótica orienta a otro género."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de prevención, diagnóstico, tratamiento y vigilancia epidemiológica de los envenenamientos por arañas, loxoscelismo",
+    "src_url": "https://salud.neuquen.gob.ar/wp-content/uploads/2024/09/Aranas-MSAL-Nacion.pdf",
+    "stem": "En Buenos Aires, una persona siente una picadura al ponerse un guante guardado y observa salir una araña que no logra capturar. En las horas siguientes aparece una placa dolorosa violácea con halo pálido que evoluciona a necrosis. ¿Qué araña se sospecha principalmente?"
+  },
+  {
+    "originalId": "febrero-2024:45",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La disfagia favorece aspiración. La aparición progresiva de fiebre, tos purulenta y una consolidación en un segmento dependiente tres días después apoya neumonía aspirativa. La neumonitis química suele presentarse de forma más brusca tras aspirar contenido gástrico.",
+    "o": {
+      "B": "Un tromboembolismo puede causar disnea y fiebre, pero explica peor la expectoración purulenta y el infiltrado dependiente después de la aspiración.",
+      "C": "El neumotórax muestra aire pleural con colapso pulmonar. No suele producir una consolidación infecciosa dependiente.",
+      "D": "El edema cardiogénico suele asociarse a congestión bilateral. La secuencia tras aspiración y la tos purulenta favorecen infección focal."
+    },
+    "src": "British Thoracic Society · Clinical statement on aspiration pneumonia, diagnóstico clínico y por imágenes",
+    "src_url": "https://www.brit-thoracic.org.uk/document-library/clinical-statements/aspiration-pneumonia/bts-clinical-statement-on-aspiration-pneumonia/",
+    "stem": "Paciente con disfagia que tres días después de aspirar alimento presenta fiebre, tos purulenta y un nuevo infiltrado en un segmento pulmonar dependiente. ¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Neumonía por aspiración",
+      "TEP",
+      "Neumotórax",
+      "Edema cardiogénico"
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
