@@ -7388,6 +7388,340 @@
       "Observar la evolución clínica, buscar el foco de la fiebre y ofrecer antitérmico si hay malestar",
       "Solicitar tomografía cerebral urgente"
     ]
+  },
+  {
+    "originalId": "diciembre-2024:75",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La combinación de cansancio y sudoración durante las tomas, tiraje, soplo y falta de recuperación del peso de nacimiento hace sospechar insuficiencia cardíaca. Necesita evaluación hospitalaria urgente, aun con saturación normal.",
+    "o": {
+      "B": "Una ingesta insuficiente puede explicar el peso, pero no explica por sí sola el soplo con tiraje y diaforesis durante las tomas.",
+      "C": "Sin pródromo respiratorio ni sibilancias, la bronquiolitis explica peor el cuadro. Demorar la evaluación por 24 horas es riesgoso.",
+      "D": "Observar la técnica de lactancia es útil, pero el asesoramiento aislado demoraría la evaluación cardiorrespiratoria."
+    },
+    "src": "MCAI · Pocketbook of hospital care for neonates and infants, sección 26, insuficiencia cardíaca del lactante",
+    "src_url": "https://www.mcai.org.uk/_files/ugd/dd2ba4_acad01f97ecc4c24a33b3c535db9c427.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:76",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La edad, el comienzo agudo después de una virosis y la rápida mejoría del dolor y del apoyo favorecen una sinovitis transitoria. Si reaparece la imposibilidad de apoyar, tiene fiebre o empeora, requiere reevaluación urgente.",
+    "o": {
+      "A": "Guillain-Barré suele causar debilidad progresiva e hiporreflexia, en vez de dolor localizado con limitación de una sola cadera.",
+      "B": "Perthes suele producir renguera de evolución más prolongada. Hay que reconsiderarlo si los síntomas persisten.",
+      "D": "La artritis séptica suele producir dolor intenso y gran limitación. Estar afebril por sí solo no la descarta, pero el apoyo recuperado y la evolución favorable la hacen menos probable."
+    },
+    "src": "Royal Children’s Hospital Melbourne · The limping or non-weight bearing child, diagnóstico diferencial y signos de alarma",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/",
+    "stem": "Un nene de 5 años renguea desde ayer, una semana después de una infección respiratoria. Está afebril y en buen estado, con fuerza y reflejos conservados y dolor leve a la rotación de la cadera. Tras analgesia camina sin dificultad y al control del día siguiente mejora. ¿Qué diagnóstico es más probable?",
+    "options": [
+      "Síndrome de Guillain Barré",
+      "Enfermedad de Perthes",
+      "Sinovitis transitoria de cadera",
+      "Artritis séptica de cadera"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:77",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Se puntúan de 0 a 2 la frecuencia cardíaca, el esfuerzo respiratorio, el tono muscular, la respuesta refleja al estímulo y el color. El esfuerzo respiratorio se valora por la calidad de la respiración o del llanto.",
+    "o": {
+      "A": "La saturación, la presión arterial y el aspecto del cordón no forman parte del puntaje.",
+      "C": "La temperatura y la presión arterial son signos clínicos útiles, pero no son componentes del Apgar.",
+      "D": "La edad gestacional y el diámetro pupilar no se puntúan en esta prueba."
+    },
+    "src": "NYC REMAC · Unified Prehospital Protocols, apéndice K, Apgar Scoring System",
+    "src_url": "https://nycremsco.org/wp-content/uploads/2024/07/2024-REMAC-Unified-Prehospital-Protocols-2024-01-004.pdf",
+    "stem": "¿Qué cinco parámetros se valoran al calcular el puntaje de Apgar del recién nacido?",
+    "options": [
+      "Saturación de oxígeno, pulso, presión arterial, reflejos primitivos y coloración del cordón umbilical.",
+      "Frecuencia cardíaca, esfuerzo respiratorio, tono muscular, respuesta refleja y coloración de la piel",
+      "Temperatura, tono muscular, coloración de la piel, presión arterial y coloración del cordón umbilical.",
+      "Edad gestacional, frecuencia respiratoria, tono muscular, coloración de extremidades y tamaño de las pupilas."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:78",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Con la estrategia ALAD, una primera glucemia en ayunas de 105 mg/dl requiere una segunda determinación, preferentemente dentro de la semana. Dos valores en ayunas de 100 a 125 mg/dl confirman diabetes gestacional.",
+    "o": {
+      "A": "Un único resultado de 105 mg/dl no confirma el diagnóstico con la estrategia indicada en el caso.",
+      "B": "La confirmación inicial se hace con otra glucemia en ayunas, sin carga oral inmediata.",
+      "C": "Esperar hasta las 24–28 semanas dejaría sin evaluar durante meses el hallazgo del primer trimestre."
+    },
+    "src": "FASGO · Consenso de diabetes gestacional 2024, estrategia ALAD",
+    "src_url": "https://fasgo.org.ar/images/Consenso_Diabetes_Gestacional_2024.pdf",
+    "stem": "Gestante de 10 semanas con primera glucemia plasmática en ayunas de 105 mg/dL. El servicio emplea la estrategia ALAD descrita por FASGO. ¿Qué corresponde hacer primero?"
+  },
+  {
+    "originalId": "diciembre-2024:79",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En un niño inmunocompetente con dos meses de síntomas, sin brote ni episodio febril reciente, un test de rotavirus aporta poco al estudio inicial. El descenso de peso orienta a buscar una causa persistente y valorar el estado nutricional.",
+    "o": {
+      "A": "La giardiasis puede causar diarrea persistente, distensión y pérdida de peso. Corresponde investigar parásitos según la exposición.",
+      "C": "La diarrea crónica con deterioro ponderal amerita pesquisa de celiaquía mientras el niño consume gluten. La IgA total permite interpretar la antitransglutaminasa IgA.",
+      "D": "El hemograma y la albúmina pueden detectar anemia o compromiso nutricional y orientar el estudio de malabsorción."
+    },
+    "src": "SEGHNP/AEP · Protocolos de gastroenterología pediátrica, orientación diagnóstica de la diarrea crónica",
+    "src_url": "https://www.aeped.es/sites/default/files/documentos/protocolos_seghnp-aep_2023.pdf",
+    "stem": "Un niño inmunocompetente de 3 años presenta diarrea de dos meses de evolución, distensión abdominal y descenso de peso. Consume gluten, toma agua de pozo y no hay fiebre reciente ni brote de gastroenteritis. ¿Qué estudio tiene menor prioridad en la evaluación inicial?",
+    "options": [
+      "Estudio de materia fecal para parásitos, incluida Giardia",
+      "Antígeno de rotavirus en materia fecal",
+      "Antitransglutaminasa IgA e IgA total",
+      "Hemograma y albúmina plasmática"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:80",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "A los 3 años, usar sólo unas pocas palabras y depender de gestos para comunicarse justifica evaluar audición, lenguaje y desarrollo. Señalar lo que quiere no descarta hipoacusia ni un trastorno del lenguaje.",
+    "o": {
+      "A": "La evaluación puede realizarse mientras asiste al jardín. Posponer el ingreso no trata la dificultad.",
+      "B": "Esperar al próximo control anual demora una evaluación indicada en la consulta actual.",
+      "C": "El nacimiento de una hermana no basta para atribuirle el retraso ni para diferir la evaluación seis meses."
+    },
+    "src": "American Family Physician · Speech and Language Delay in Children, recomendaciones de derivación",
+    "src_url": "https://www.aafp.org/afp/2023/0800/speech-language-delay-children"
+  },
+  {
+    "originalId": "diciembre-2024:81",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con edema e hipoalbuminemia, un cociente proteína/creatinina urinaria de al menos 2 g/g documenta proteinuria de rango nefrótico en pediatría. La cuantificación permite establecer si cumple ese criterio.",
+    "o": {
+      "B": "Una radiografía puede mostrar derrames, pero no cuantifica la pérdida urinaria de proteínas.",
+      "C": "Hay que medir la presión arterial para valorar gravedad y otras formas de enfermedad glomerular. Por sí sola no demuestra proteinuria nefrótica.",
+      "D": "Los antecedentes familiares orientan la etiología, pero no establecen si la paciente presenta proteinuria de rango nefrótico."
+    },
+    "src": "KDIGO 2025 · Nephrotic Syndrome in Children, figura 1, definiciones clínicas",
+    "src_url": "https://kdigo.org/wp-content/uploads/2025/04/KDIGO-2025-Guideline-for-Nephrotic-Syndrome-in-Children.pdf",
+    "stem": "Una chica de 12 años consulta por edema generalizado y oliguria. La albúmina plasmática es de 2 g/dl. ¿Cuál de los siguientes datos permite establecer si cumple el criterio urinario de síndrome nefrótico?",
+    "options": [
+      "Cociente proteína/creatinina en una muestra de orina",
+      "Radiografía de tórax",
+      "Valores de presión arterial",
+      "Antecedentes familiares de enfermedad renal"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:82",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Tiene pancitopenia y unos 160 neutrófilos/µl. La fiebre con mal estado general y neutropenia grave requiere atención hospitalaria inmediata, evaluación de sepsis, hemocultivo sin demorar el antibiótico empírico y estudio hematológico.",
+    "o": {
+      "A": "La hemólisis puede investigarse según el frotis y los reticulocitos, pero no explica por sí sola el descenso de las tres series ni resuelve el riesgo infeccioso inmediato.",
+      "B": "Una mala absorción de hierro no explica adecuadamente la neutropenia profunda y la trombocitopenia.",
+      "D": "Aumentar los suplementos demoraría la atención de una urgencia infecciosa y hematológica."
+    },
+    "src": "Canadian Paediatric Society · Management of febrile neutropenia in immunocompetent children and youth, pacientes con factores de riesgo",
+    "src_url": "https://cps.ca/en/documents/position/management-of-febrile-neutropenia-in-immunocompetent-children-and-youth",
+    "stem": "Helena, de 3 años, recibe hierro y ácido fólico desde hace dos meses. Hoy tiene 38,8 °C y mal estado general. El hemograma informa Hb 7,9 g/dl, VCM 89 fl, leucocitos 3.200/µl con 5 % de neutrófilos y plaquetas 50.000/µl. ¿Qué conducta priorizás?"
+  },
+  {
+    "originalId": "diciembre-2024:83",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Las tallas previas con sus fechas permiten calcular cuántos centímetros creció por año y ver si descendió de carril en la curva. Una talla aislada indica posición para la edad, pero no velocidad.",
+    "o": {
+      "B": "La talla de los hermanos aporta contexto familiar sin medir la evolución del propio niño.",
+      "C": "El perímetro cefálico mide otra dimensión del crecimiento y no permite calcular la velocidad de crecimiento lineal.",
+      "D": "Los pesos anteriores sirven para valorar el estado nutricional, pero no indican cuántos centímetros creció."
+    },
+    "src": "Pediatric Endocrine Society · Child with Suspected Short Stature, velocidad de crecimiento y registros previos",
+    "src_url": "https://pedsendo.org/clinical-resource/child-with-suspected-short-stature/",
+    "stem": "Santino tiene 5 años. Su talla está por debajo del percentilo 3 para edad y sexo y su IMC es adecuado. ¿Qué dato necesitás para valorar su velocidad de crecimiento lineal?"
+  },
+  {
+    "originalId": "diciembre-2024:84",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "A los 2 años, la Hb de 8,5 g/dl y el VCM de 65 fl indican anemia microcítica. Por frecuencia y por la conservación de las otras series, la ferropenia es la primera hipótesis. La ferritina, interpretada en el contexto inflamatorio, ayuda a confirmarla.",
+    "o": {
+      "A": "Tanto la hemoglobina como el VCM son bajos para la edad.",
+      "B": "En la hemólisis suelen encontrarse reticulocitosis y otros signos de destrucción eritrocitaria. La microcitosis aislada orienta primero a ferropenia.",
+      "C": "La aplasia medular suele comprometer también leucocitos y plaquetas, que aquí están conservados."
+    },
+    "src": "Sociedad Argentina de Pediatría · Deficiencia de hierro y anemia ferropénica, diagnóstico y diagnóstico diferencial",
+    "src_url": "https://www.sap.org.ar/uploads/consensos/consensos_deficiencia-de-hierro-y-anemia-ferropenica-guia-para-su-prevencion-diagnostico-y-tratamiento--71.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:85",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Para varones adultos, el intervalo de referencia de FEVI por ecocardiografía bidimensional con el método biplano es 52–72 % según ASE/EACVI. Se debe interpretar con el método y los valores de referencia del laboratorio.",
+    "o": {
+      "A": "Un intervalo de 75–90 % queda por encima de la referencia masculina para este método.",
+      "C": "Una FEVI de 35–45 % indica disfunción sistólica, aunque el grado depende del valor exacto.",
+      "D": "Una FEVI de 25–34 % es claramente reducida."
+    },
+    "src": "ASE/EACVI · Recommendations for Cardiac Chamber Quantification in Adults, tablas 2 y 4",
+    "src_url": "https://www.asecho.org/wp-content/uploads/2015/01/ChamberQuantification2015.pdf",
+    "stem": "Un varón de 35 años se realiza un ecocardiograma. Según las tablas ASE/EACVI de cuantificación de cámaras, ¿qué intervalo de FEVI corresponde a la referencia masculina por el método biplano bidimensional?",
+    "options": [
+      "75–90 %",
+      "52–72 %",
+      "35–45 %",
+      "25–34 %"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:86",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El anti-Sm es altamente específico de LES, aunque poco sensible. Su presencia respalda el diagnóstico si la clínica es compatible y su ausencia no lo excluye.",
+    "o": {
+      "A": "Los anticuerpos antifosfolípidos también pueden aparecer en el síndrome antifosfolípido primario.",
+      "B": "Los ANA son muy sensibles, pero también se detectan en otras enfermedades y en personas sanas.",
+      "C": "El factor reumatoide puede aparecer en artritis reumatoidea, infecciones y otras condiciones. Tiene escasa especificidad para LES."
+    },
+    "src": "Manual MSD profesional · Lupus eritematoso sistémico, autoanticuerpos",
+    "src_url": "https://www.msdmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/systemic-rheumatic-diseases/systemic-lupus-erythematosus-sle?ruleredirectid=742autoredirectid%3D25469&sccamp=sccamp",
+    "stem": "Ante una sospecha clínica de lupus eritematoso sistémico, ¿cuál de estos marcadores tiene mayor especificidad para la enfermedad?",
+    "options": [
+      "Anticuerpos antifosfolípidos",
+      "Anticuerpos antinucleares",
+      "Factor reumatoide",
+      "Anticuerpos anti-Smith"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:87",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La elevación de PaCO₂ con pH menor de 7,35 indica acidosis respiratoria y compromiso ventilatorio agudo. En una exacerbación de EPOC exige valorar de inmediato soporte ventilatorio.",
+    "o": {
+      "A": "Un pH alcalino con hipocapnia indica alcalosis respiratoria y no demuestra retención aguda de CO₂.",
+      "B": "Una PaCO₂ normal con pH normal no demuestra insuficiencia ventilatoria hipercápnica.",
+      "C": "La caída del bicarbonato con hipocapnia compensadora indica un trastorno metabólico primario y obliga a buscar su causa."
+    },
+    "src": "GOLD · Global Strategy for COPD 2026, clasificación de la gravedad de las exacerbaciones",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf",
+    "stem": "En un paciente con exacerbación de EPOC, ¿qué gasometría demuestra insuficiencia ventilatoria hipercápnica con acidemia?",
+    "options": [
+      "pH 7,49 y PaCO₂ 30 mmHg",
+      "pH 7,40 y PaCO₂ 40 mmHg",
+      "pH 7,30, HCO₃⁻ 14 mmol/l y PaCO₂ 29 mmHg",
+      "pH 7,28 y PaCO₂ 66 mmHg"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:88",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El hipotálamo integra señales térmicas y coordina las respuestas de producción y pérdida de calor. Durante la fiebre aumenta el punto de ajuste hipotalámico, en parte por acción de la prostaglandina E₂.",
+    "o": {
+      "A": "La corteza interviene en la percepción consciente de frío o calor, pero no fija el punto de ajuste térmico.",
+      "B": "El tálamo transmite información sensorial y no es el principal centro termorregulador.",
+      "C": "La amígdala participa en respuestas emocionales y autonómicas, sin ser el centro que regula la temperatura."
+    },
+    "src": "Manual MSD profesional · Fiebre, fisiopatología",
+    "src_url": "https://www.msdmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever"
+  },
+  {
+    "originalId": "diciembre-2024:89",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La reposición inicial con cristaloides restaura la perfusión. Con potasio de 4,6 mmol/l puede iniciarse insulina regular intravenosa para frenar la cetogénesis, con control y reposición de potasio según la evolución.",
+    "o": {
+      "A": "Una modificación de la dieta no corrige la hipovolemia ni detiene la cetogénesis aguda.",
+      "C": "Con glucemia de 470 mg/dl, la glucosa sola no es la medida inicial. Se agrega dextrosa al descender la glucemia para poder continuar la insulina hasta resolver la cetoacidosis.",
+      "D": "La insulina basal sola no repone volumen ni permite titular el tratamiento de esta cetoacidosis grave."
+    },
+    "src": "Cleveland Clinic Journal of Medicine · Hyperglycemic crises in adults: A look at the 2024 consensus report, reposición de volumen, insulina y potasio",
+    "src_url": "https://www.ccjm.org/content/ccjom/92/3/152.full.pdf",
+    "stem": "Una adulta con diabetes tipo 1 presenta cetoacidosis, deshidratación marcada, pH 7,08, glucemia de 470 mg/dl y potasio de 4,6 mmol/l. No tiene insuficiencia cardíaca ni renal. ¿Qué esquema inicial corresponde?",
+    "options": [
+      "Dieta baja en hidratos de carbono",
+      "Iniciar cristaloides isotónicos e insulina regular intravenosa con vigilancia del potasio",
+      "Administrar sólo glucosa intravenosa",
+      "Indicar únicamente insulina basal de acción prolongada"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:90",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Entre estas bacterias, el neumococo es la causa clásica más frecuente de neumonía adquirida en la comunidad en adultos. Los hallazgos focales apoyan neumonía, pero el color del esputo no identifica el microorganismo.",
+    "o": {
+      "A": "Mycoplasma puede producir neumonía comunitaria y brotes, pero no desplaza al neumococo como respuesta epidemiológica en este caso.",
+      "B": "Haemophilus influenzae es relevante, sobre todo en personas con enfermedad pulmonar crónica, pero no es el más frecuente de la lista.",
+      "C": "Staphylococcus aureus cobra especial importancia en neumonía grave posterior a influenza. No se describen esas circunstancias."
+    },
+    "src": "Ministerio de Salud de la Nación · Infecciones prevalentes, neumonía adquirida en la comunidad en adultos, etiología",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/infecciones-prevalentes_uni-3.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:91",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Si se elige dabigatrán para una TVP proximal, primero se anticoagula con heparina de bajo peso molecular a dosis terapéuticas durante al menos cinco días. Apixabán y rivaroxabán tienen esquemas iniciales distintos.",
+    "o": {
+      "B": "Iniciar dabigatrán directamente omite la fase parenteral requerida para este fármaco.",
+      "C": "Un diurético puede modificar el balance de agua, pero no trata la trombosis venosa.",
+      "D": "La antiagregación no proporciona la anticoagulación terapéutica necesaria para una TVP proximal aguda."
+    },
+    "src": "NICE NG158 · Venous thromboembolic diseases, recomendación 1.3.8",
+    "src_url": "https://www.nice.org.uk/guidance/ng158/resources/venous-thromboembolic-diseases-diagnosis-management-and-thrombophilia-testing-pdf-66141847001797",
+    "stem": "Una mujer de 65 años tiene TVP proximal confirmada, función renal normal y bajo riesgo de sangrado. Apixabán y rivaroxabán no son opciones adecuadas y se acuerda usar dabigatrán. ¿Cómo debe iniciarse la anticoagulación?",
+    "options": [
+      "Heparina de bajo peso molecular a dosis terapéuticas durante al menos cinco días antes de pasar a dabigatrán",
+      "Dabigatrán desde la primera dosis sin anticoagulación parenteral previa",
+      "Diurético de asa",
+      "Aspirina como único tratamiento"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:92",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La combinación de macroovalocitos, neutrófilos hipersegmentados y baja respuesta reticulocitaria orienta a eritropoyesis ineficaz por alteración de la síntesis de ADN. Corresponde investigar déficit de vitamina B12 y folato.",
+    "o": {
+      "B": "En una hemólisis con médula competente se espera aumento de reticulocitos. La hipersegmentación no es el hallazgo característico.",
+      "C": "La aplasia puede causar reticulocitopenia, pero suele afectar varias series y no explica bien el patrón megaloblástico del frotis.",
+      "D": "En la ferropenia predomina la microcitosis y no son típicos los macroovalocitos."
+    },
+    "src": "Manual MSD profesional · Anemias macrocíticas megaloblásticas, diagnóstico",
+    "src_url": "https://www.msdmanuals.com/professional/hematology/anemias-caused-by-deficient-erythropoiesis/megaloblastic-macrocytic-anemias?ruleredirectid=746autoredirectid%3D37881",
+    "stem": "Un hombre de 47 años tiene anemia macrocítica con índice de reticulocitos bajo. El frotis muestra macroovalocitos y neutrófilos hipersegmentados. ¿Qué tipo de anemia sugiere este patrón?",
+    "options": [
+      "Anemia megaloblástica",
+      "Anemia hemolítica",
+      "Anemia aplásica",
+      "Anemia ferropénica"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:93",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En una sedación iatrogénica aislada y de bajo riesgo, el flumazenilo puede revertir el efecto de la benzodiacepina. El sostén ventilatorio sigue siendo prioritario. En sobredosis mixtas o dependencia puede precipitar convulsiones.",
+    "o": {
+      "A": "La N-acetilcisteína se usa para prevenir o tratar la lesión hepática por paracetamol.",
+      "C": "La naloxona revierte opioides y no antagoniza el midazolam administrado como único sedante.",
+      "D": "La atropina bloquea receptores muscarínicos y no revierte la sedación por benzodiacepinas."
+    },
+    "src": "American Heart Association · Focused Update on Management of Poisoning, benzodiazepines",
+    "src_url": "https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2023-Toxicology-Updates/Hghlghts_2023FUTox_230915.pdf?sc_lang%253Den=",
+    "stem": "Tras una sedación monitorizada sólo con midazolam, un adulto presenta depresión respiratoria y recibe asistencia ventilatoria. No usa benzodiacepinas crónicas, no tiene epilepsia ni recibió sustancias proconvulsivantes. ¿Qué antagonista específico puede considerarse?"
+  },
+  {
+    "originalId": "diciembre-2024:94",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La acumulación de ácido fórmico y formiato produce acidosis metabólica con brecha aniónica elevada. También puede aparecer toxicidad visual por lesión retiniana y del nervio óptico.",
+    "o": {
+      "A": "La neutropenia no es un efecto característico de los metabolitos del metanol.",
+      "B": "El metabolismo es hepático, pero el daño hepatocelular no es el hallazgo tóxico distintivo.",
+      "D": "Puede haber deterioro circulatorio en cuadros graves, pero una miocardiopatía primaria no caracteriza la intoxicación."
+    },
+    "src": "MSF y Hospital Universitario de Oslo · Methanol Poisoning Protocol, fisiopatología y pronóstico",
+    "src_url": "https://methanolpoisoning.msf.org/wp-content/uploads/2023/03/MSF_International_Methanol-Poisoning_Protocol_v2_20230110_EN.pdf"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
