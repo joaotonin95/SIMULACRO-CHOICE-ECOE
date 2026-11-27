@@ -3867,6 +3867,314 @@
       "Neumotórax",
       "Edema cardiogénico"
     ]
+  },
+  {
+    "originalId": "febrero-2024:46",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Ante hiperpotasemia con cambios electrocardiográficos, el calcio EV estabiliza rápidamente la membrana miocárdica y reduce el riesgo de arritmia. Su efecto es transitorio y se necesitan medidas adicionales para bajar la potasemia.",
+    "o": {
+      "A": "La insulina con glucosa y los agonistas beta-2 favorecen la entrada de potasio a la célula. El calcio no produce ese desplazamiento.",
+      "B": "El gluconato de calcio no quela potasio ni induce su eliminación hepática.",
+      "D": "La protección cardíaca ocurre sin aumentar la excreción renal de potasio."
+    },
+    "src": "Royal Children’s Hospital Melbourne · Clinical Practice Guidelines, Hyperkalaemia",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/hyperkalaemia/",
+    "stem": "Un chico de 5 años con enfermedad renal crónica presenta palpitaciones, potasemia de 6,8 mmol/L y ondas T picudas de aparición reciente. Se inicia gluconato de calcio EV bajo monitorización. ¿Qué efecto inmediato se busca?",
+    "options": [
+      "Desplazar potasio al espacio intracelular.",
+      "Quelarlo para favorecer su eliminación hepática.",
+      "Antagonizar el efecto de la hiperpotasemia sobre la membrana miocárdica.",
+      "Quelarlo para favorecer su eliminación renal."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:48",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor vertebral progresivo acompañado de fiebre obliga a investigar infección vertebral y discal. La RM detecta cambios tempranos y permite evaluar extensión epidural aunque la radiografía inicial sea normal.",
+    "o": {
+      "B": "Una fractura por compresión puede doler, pero no explica bien la fiebre. La TC dirigida sólo a buscar aplastamiento no evalúa tan bien una infección temprana.",
+      "C": "Una metástasis es un diferencial, pero la gammagrafía no es el primer estudio para la asociación de fiebre y dolor vertebral reciente.",
+      "D": "La hiperostosis suele ser crónica. Una segunda radiografía simple no permite descartar una espondilodiscitis inicial."
+    },
+    "src": "IDSA · Native Vertebral Osteomyelitis in Adults, recomendaciones 1 y 8",
+    "src_url": "https://www.idsociety.org/practice-guideline/vertebral-osteomyelitis/"
+  },
+  {
+    "originalId": "febrero-2024:49",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La dobutamina no se usa de rutina como primera medida ante hipotensión séptica. Se considera si persiste hipoperfusión con disfunción cardíaca pese a volumen y presión adecuados. En esta paciente se inician antimicrobianos y reanimación sin demora, con noradrenalina si requiere vasopresor.",
+    "o": {
+      "A": "Corresponde tomar hemocultivos cuanto antes, idealmente antes del antibiótico si no retrasa su administración.",
+      "B": "Los cristaloides forman parte de la reanimación inicial con reevaluación de perfusión y tolerancia.",
+      "D": "El lactato ayuda a valorar hipoperfusión y respuesta al tratamiento desde el inicio."
+    },
+    "src": "Surviving Sepsis Campaign 2026 · Manejo de sepsis y shock séptico en adultos",
+    "src_url": "https://sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026"
+  },
+  {
+    "originalId": "febrero-2024:50",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La regurgitación sistólica hacia la aurícula derecha genera ondas yugulares v o c-v prominentes. Su soplo holosistólico en el borde esternal inferior aumenta al inspirar por el incremento del retorno venoso derecho.",
+    "o": {
+      "A": "La estenosis aórtica produce un soplo sistólico eyectivo que suele irradiar a las carótidas.",
+      "B": "La insuficiencia pulmonar genera un soplo diastólico, no holosistólico.",
+      "C": "La regurgitación mitral se escucha mejor en el ápex y puede irradiar a la axila. No explica las ondas yugulares prominentes."
+    },
+    "src": "Manual MSD profesional · Insuficiencia tricuspídea, signos y síntomas",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-cardiovasculares/enfermedades-valvulares/insuficiencia-tricusp%C3%ADdea"
+  },
+  {
+    "originalId": "febrero-2024:51",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La reticulocitosis, el aumento de bilirrubina indirecta y la caída de haptoglobina orientan a hemólisis. La antiglobulina directa detecta inmunoglobulina o complemento fijados a los glóbulos rojos del paciente.",
+    "o": {
+      "A": "Los anticuerpos anti-ADN ayudan a evaluar lupus, pero no demuestran sensibilización del eritrocito.",
+      "B": "El dosaje de B12 evalúa una causa de anemia megaloblástica, no la presencia de anticuerpos sobre los eritrocitos.",
+      "C": "Los anticuerpos antinucleares pueden orientar a una enfermedad autoinmune, pero no identifican por sí mismos hemólisis inmunitaria."
+    },
+    "src": "Manual MSD profesional · Generalidades sobre la anemia hemolítica, prueba de antiglobulina directa",
+    "src_url": "https://www.msdmanuals.com/es/professional/hematolog%C3%ADa/anemias-causadas-por-hem%C3%B3lisis/generalidades-sobre-la-anemia-hemol%C3%ADtica?autoredirectid=49481",
+    "stem": "Paciente con anemia, reticulocitosis, bilirrubina indirecta elevada y haptoglobina baja. ¿Qué prueba identifica inmunoglobulina o complemento adheridos al eritrocito?",
+    "options": [
+      "Anticuerpos anti-DNA.",
+      "Vitamina B12.",
+      "Anticuerpos antinucleares.",
+      "Test de Coombs directa."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:52",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En un incendio en un ambiente cerrado, la alteración neurológica, la hipotensión y un lactato ≥10 mmol/L apoyan intoxicación por cianuro. La hidroxocobalamina EV capta el cianuro y se agrega al oxígeno al 100 % y al sostén vital sin esperar la confirmación.",
+    "o": {
+      "A": "La cámara hiperbárica puede considerarse en ciertos casos de intoxicación por monóxido de carbono, pero no neutraliza el cianuro.",
+      "B": "Reducir el oxígeno al 50 % es inadecuado ante posible exposición concomitante a monóxido de carbono y no aporta el antídoto.",
+      "C": "Los líquidos pueden contribuir al sostén hemodinámico, pero no revierten el bloqueo de la respiración celular por cianuro."
+    },
+    "src": "EMA · Cyanokit, ficha técnica, sección 4.4: inhalación de humo",
+    "src_url": "https://www.ema.europa.eu/en/documents/product-information/cyanokit-epar-product-information_en.pdf",
+    "stem": "Tras un incendio en un ambiente cerrado con combustión de poliuretano, un adulto presenta hollín en la boca, confusión, hipotensión y lactato plasmático de 12 mmol/L. Mientras recibe oxígeno al 100 % y soporte vital, ¿qué tratamiento específico corresponde agregar ante la sospecha de intoxicación por cianuro?"
+  },
+  {
+    "originalId": "febrero-2024:53",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Después de la primera descarga se reinicia RCP de inmediato, comenzando por compresiones. Se minimiza la pausa y se reevalúa el ritmo después de dos minutos, salvo signos claros de retorno de circulación.",
+    "o": {
+      "B": "La amiodarona se reserva para FV o TV sin pulso refractaria a descargas. Una dosis de 150 mg no sustituye la RCP inmediata.",
+      "C": "En la secuencia de la AHA para ritmo desfibrilable se incorpora adrenalina después de la segunda descarga. Tener vía venosa no modifica la prioridad tras la primera.",
+      "D": "La atropina no está indicada en el paro por fibrilación ventricular."
+    },
+    "src": "American Heart Association 2025 · Adult Cardiac Arrest Algorithm, rama FV/TV sin pulso",
+    "src_url": "https://professional.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/Algorithm-ACLS-CA-250527.pdf",
+    "stem": "Una mujer de 22 años presenta fibrilación ventricular sin pulso. Se administra la primera descarga y ya tiene acceso venoso. Sin signos de retorno de la circulación, ¿qué corresponde hacer inmediatamente según el algoritmo de la AHA?",
+    "options": [
+      "Retomar RCP inmediatamente durante dos minutos.",
+      "Administrar 150 mg de amiodarona intravenosa.",
+      "Administrar 1 mg de adrenalina intravenosa.",
+      "Administrar 7 mg de atropina intravenosa."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:54",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El colgajo corresponde a una disección. Toda disección que compromete la aorta ascendente se clasifica como Stanford A, aunque se extienda al arco o el desgarro de entrada esté en otro segmento.",
+    "o": {
+      "A": "Un pseudoaneurisma es una rotura contenida que se comunica con la luz. No se define por un colgajo que divide dos luces.",
+      "C": "Una úlcera penetrante atraviesa una placa aterosclerótica hacia la media. La imagen descripta es un colgajo de disección.",
+      "D": "El hematoma intramural típico engrosa la pared aórtica sin un colgajo visible que separe luces."
+    },
+    "src": "ACC/AHA · Guideline for the Diagnosis and Management of Aortic Disease, clasificación anatómica de la disección",
+    "src_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001106",
+    "stem": "La angio-TC demuestra un colgajo de disección en aorta ascendente que se extiende al arco. ¿Cómo se clasifica?",
+    "options": [
+      "Pseudoaneurisma de aorta.",
+      "Disección de aorta tipo A de Stanford.",
+      "Úlcera penetrante arteriosclerótica.",
+      "Hematoma intramural maligno."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:55",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El trabajo en contacto con agua dulce en el delta, la fiebre con mialgias y la sufusión conjuntival orientan a leptospirosis. La elevación de creatinina y CPK y la hematuria refuerzan la sospecha.",
+    "o": {
+      "A": "Faltan antecedentes de exposición en una zona de transmisión de malaria. El compromiso conjuntival y renal tras contacto con agua dulce favorece leptospirosis.",
+      "B": "El dengue también causa fiebre y mialgias, pero no se describen datos de dengue grave. La leucocitosis neutrofílica y el contexto de exposición orientan a otra causa.",
+      "D": "La fiebre hemorrágica argentina es un diferencial regional. La leucopenia y la trombocitopenia tempranas serían más características que esta leucocitosis con plaquetas conservadas."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía para el equipo de salud: leptospirosis, sospecha clínica",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000489cnt-guia-medica-leptospirosis.pdf"
+  },
+  {
+    "originalId": "febrero-2024:56",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La diarrea persistente y fétida tras ingerir agua no potable, con quistes de Giardia en materia fecal, indica giardiasis sintomática. Entre las opciones propuestas, el metronidazol por vía oral tiene actividad contra el protozoo.",
+    "o": {
+      "A": "La vancomicina parenteral se dirige a bacterias grampositivas, no a Giardia.",
+      "B": "La ciprofloxacina puede usarse en determinadas diarreas bacterianas. No erradica Giardia.",
+      "D": "La vancomicina oral se usa principalmente en infección intestinal por C. difficile y carece de indicación para este parásito."
+    },
+    "src": "CDC · Patient Care for Giardia Infection, opciones terapéuticas",
+    "src_url": "https://www.cdc.gov/giardia/hcp/clinical-care/"
+  },
+  {
+    "originalId": "febrero-2024:57",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con CD4 de 50 células/µL, las convulsiones y las lesiones múltiples con realce en anillo, edema y compromiso de ganglios basales sugieren encefalitis toxoplásmica. La imagen orienta el diagnóstico presuntivo, pero no es exclusiva.",
+    "o": {
+      "B": "La meningococemia suele producir sepsis aguda y puede acompañarse de meningitis o púrpura. No es la explicación típica de múltiples lesiones anulares.",
+      "C": "Pneumocystis jirovecii causa principalmente neumonía. Las lesiones focales encefálicas múltiples no son su presentación habitual.",
+      "D": "La encefalitis herpética suele comprometer regiones temporales y no suele formar múltiples lesiones anulares en ganglios basales."
+    },
+    "src": "NIH · Toxoplasma gondii Encephalitis, guías de infecciones oportunistas en adultos y adolescentes con VIH",
+    "src_url": "https://clinicalinfo.hiv.gov/sites/clinicalinfo/files/guidelines/documents/adult-adolescent-oi/toxoplasma-gondii-encephalitis-adult-adolescent-oi.pdf?v=1795102723"
+  },
+  {
+    "originalId": "febrero-2024:58",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La pielonefritis durante el embarazo requiere manejo inicial hospitalario. La ceftriaxona EV es una opción empírica en una paciente sin alergia grave ni riesgo identificado de resistencia. Se toma urocultivo y se ajusta según sensibilidad.",
+    "o": {
+      "A": "La doxiciclina oral no es tratamiento empírico apropiado para pielonefritis gestacional.",
+      "B": "La amikacina se reserva para situaciones seleccionadas según sensibilidad y riesgo. No es preferible a una cefalosporina adecuada en este escenario.",
+      "D": "La ciprofloxacina no es de primera elección en el embarazo cuando se dispone de un betalactámico activo."
+    },
+    "src": "Consenso Argentino Intersociedades de Infección Urinaria · Pielonefritis en el embarazo, Medicina (B Aires) 2020",
+    "src_url": "https://smiba.org.ar/downloads/cursos2024/infectologia_03.pdf",
+    "stem": "Gestante de 14 semanas con pielonefritis aguda de adquisición comunitaria que se interna. Está estable, sin alergias ni antecedentes de microorganismos resistentes. Tras tomar urocultivo, ¿cuál de estos antibióticos es apropiado como tratamiento empírico inicial?"
+  },
+  {
+    "originalId": "febrero-2024:59",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Una infección ótica con primera convulsión y déficit focal obliga a buscar extensión intracraneal, incluido un absceso. La RM con difusión es preferible. Si no está disponible de inmediato, corresponde TC con contraste urgente y evaluación hospitalaria especializada.",
+    "o": {
+      "A": "Los corticoides no sustituyen la investigación de la lesión intracraneal. Se reservan para indicaciones concretas como edema grave con efecto de masa.",
+      "B": "La convulsión y el déficit focal hacen insegura una derivación ambulatoria.",
+      "C": "Agregar vancomicina por presunta resistencia neumocócica sin estudiar la complicación no explica ni resuelve los signos neurológicos."
+    },
+    "src": "ESCMID · Guidelines on diagnosis and treatment of brain abscess in children and adults, neuroimagen",
+    "src_url": "https://doi.org/10.1016/j.cmi.2023.08.016",
+    "stem": "Mujer de 65 años con diabetes, fiebre, otalgia y otorrea persistentes. Durante la evaluación presenta una primera convulsión y luego un déficit facial central. Tras estabilizarla se sospecha una complicación intracraneal de la infección ótica. No hay RM disponible de inmediato. ¿Qué conducta diagnóstica tiene prioridad?",
+    "options": [
+      "Agregar corticoides sin solicitar imágenes.",
+      "Derivar a consultorio de otorrinolaringología.",
+      "Agregar vancomicina por presunto neumococo resistente como única conducta.",
+      "Solicitar TC de encéfalo con contraste de urgencia para buscar un absceso u otra complicación."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:60",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El drenaje de 400 mL/h durante cuatro horas suma 1.600 mL y supera el criterio de sangrado persistente de más de 200 mL/h durante tres horas. Se requiere evaluación quirúrgica inmediata para control de la hemorragia mientras continúa la reanimación.",
+    "o": {
+      "A": "Un hematocrito aislado puede subestimar la pérdida aguda y no debe demorar el control del sangrado.",
+      "B": "Clampear el tubo retiene sangre y aire en el tórax y no controla el vaso lesionado.",
+      "C": "La transfusión puede ser necesaria durante la reanimación, pero una unidad aislada no detiene la hemorragia."
+    },
+    "src": "WSES–AAST · Thoracic trauma guidelines, hemotórax y criterios de intervención, 2025",
+    "src_url": "https://link.springer.com/article/10.1186/s13017-025-00651-1",
+    "stem": "Adulto con hemoneumotórax traumático y drenaje pleural permeable. Durante cuatro horas consecutivas salen 400 mL/h de sangre por el tubo. Además de continuar la reanimación, ¿qué conducta tiene prioridad?"
+  },
+  {
+    "originalId": "febrero-2024:61",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El colon derecho tiene luz amplia y contenido más líquido. Sus tumores pueden sangrar de forma oculta durante meses y manifestarse por ferropenia antes de causar obstrucción. Esta asociación no permite localizar un tumor con certeza sin estudiar el colon.",
+    "o": {
+      "A": "En el colon izquierdo son más característicos el cambio del ritmo evacuatorio y los síntomas obstructivos, aunque también puede haber anemia.",
+      "C": "Los tumores transversos también pueden sangrar. La presentación clásica con ferropenia aislada se asocia más al colon derecho.",
+      "D": "El cáncer de recto suele dar rectorragia o tenesmo. La ferropenia por pérdida oculta no es su presentación más característica."
+    },
+    "src": "Manual MSD profesional · Colorectal Cancer, manifestaciones según localización",
+    "src_url": "https://www.msdmanuals.com/professional/oncology/tumors-of-the-gastrointestinal-tract/colorectal-cancer?query=colorectal+cancer&ruleredirectid=742autoredirectid%3D37264",
+    "stem": "En un adulto mayor con cáncer colorrectal, ¿qué localización se asocia clásicamente con anemia ferropénica por pérdida oculta crónica como primera manifestación, sin síntomas obstructivos?"
+  },
+  {
+    "originalId": "febrero-2024:62",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El dolor que aumenta al retirar la mano tras la palpación sugiere irritación del peritoneo parietal. En un paciente con dolor agudo en fosa ilíaca derecha justifica evaluación quirúrgica urgente, entre otras causas por posible apendicitis.",
+    "o": {
+      "A": "Los vómitos pueden acompañar muchas causas de abdomen agudo y por sí solos no demuestran irritación peritoneal.",
+      "C": "La leucocitosis es inespecífica y puede faltar incluso en una apendicitis.",
+      "D": "La fiebre orienta a inflamación o infección, pero no identifica por sí sola compromiso peritoneal."
+    },
+    "src": "American Family Physician · Acute Abdominal Pain in Adults: Evaluation and Diagnosis, 2023",
+    "src_url": "https://www.aafp.org/afp/2023/0600/acute-abdominal-pain-adults.pdf",
+    "stem": "Adulto de 32 años con 12 horas de dolor intenso en fosa ilíaca derecha. ¿Cuál de estos hallazgos es un signo de irritación peritoneal que refuerza la necesidad de evaluación quirúrgica urgente?"
+  },
+  {
+    "originalId": "febrero-2024:63",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En un embarazo de bajo riesgo sin diabetes diagnosticada previamente, la ventana habitual para la PTOG con 75 g es entre las semanas 24 y 28, cuando aumenta la resistencia a la insulina.",
+    "o": {
+      "A": "Entre las semanas 18 y 22 todavía no se alcanzó la ventana habitual para esta prueba.",
+      "B": "La evaluación glucémica temprana puede detectar diabetes preexistente, pero no reemplaza la PTOG habitual de las semanas 24 a 28.",
+      "D": "Si se perdió la oportunidad puede evaluarse más tarde. Las semanas 30 a 36 no son el intervalo programado de primera elección."
+    },
+    "src": "Ministerio de Salud de la Nación · Protocolo de diagnóstico de diabetes gestacional, PTOG de 75 g",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-08/Protocolo_de_Diabetes_Gestacional_2023.pdf"
+  },
+  {
+    "originalId": "febrero-2024:64",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En una puérpera RhD negativa no sensibilizada con recién nacido RhD positivo, la inmunoglobulina anti-D se administra cuanto antes, idealmente dentro de las primeras 72 horas. Si se omitió ese plazo corresponde consultar el protocolo de administración tardía.",
+    "o": {
+      "A": "Administrarla a las 48 horas es adecuado, pero 48 horas no es el límite de la ventana recomendada.",
+      "C": "Puede administrarse en las primeras dos horas. No es necesario considerar perdida la oportunidad al superarlas.",
+      "D": "Dar la profilaxis el primer día es apropiado, pero el plazo habitual se extiende más allá de las 24 horas."
+    },
+    "src": "Ministerio de Salud de la Nación · Control prenatal, prevención de la isoinmunización RhD",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000158cnt-g02.control-prenatal.pdf",
+    "stem": "Puérpera RhD negativa sin anticuerpos anti-D inmunes, con recién nacido RhD positivo. ¿Cuál es el límite superior de la ventana habitual recomendada para administrar la profilaxis anti-D posparto sin demora?"
+  },
+  {
+    "originalId": "febrero-2024:65",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La doble viral contiene virus vivos atenuados de sarampión y rubéola. Está contraindicada durante la gestación. Si corresponde completar el esquema, se indica en el puerperio.",
+    "o": {
+      "A": "La vacuna antigripal inyectable inactivada está indicada durante el embarazo.",
+      "B": "La vacuna inactivada contra hepatitis A puede administrarse si existe indicación por riesgo de exposición.",
+      "D": "La vacuna contra hepatitis B es recombinante y el embarazo no contraindica iniciar o completar el esquema."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacunas recomendadas para la mujer, embarazo y puerperio",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2023/07/rr_vacunas_recomendadas_para_la_mujer.pdf",
+    "stem": "¿Cuál de estas formulaciones está contraindicada durante el embarazo?",
+    "options": [
+      "Vacuna antigripal inyectable inactivada.",
+      "Vacuna inactivada contra hepatitis A.",
+      "Vacuna doble viral contra sarampión y rubéola.",
+      "Vacuna recombinante contra hepatitis B."
+    ]
+  },
+  {
+    "originalId": "febrero-2024:66",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La exposición rural en el sur santafesino, la fiebre con congestión conjuntival, las adenopatías, la leucopenia, la trombocitopenia y la eritrosedimentación muy baja orientan a fiebre hemorrágica argentina. Corresponde evaluar y notificar la sospecha de inmediato.",
+    "o": {
+      "B": "La leptospirosis también causa sufusión conjuntival, pero suele asociarse a mialgias intensas y puede comprometer riñón e hígado. El patrón hematológico y la zona orientan más a FHA.",
+      "C": "Para fiebre amarilla se buscaría exposición en área de transmisión y compromiso hepático, ausentes en este relato.",
+      "D": "El dengue también puede producir ambas citopenias. La actividad rural en la zona endémica de FHA y la eritrosedimentación muy baja obligan a priorizar esa sospecha sin descartar dengue sólo por el hemograma."
+    },
+    "src": "Ministerio de Salud de Santa Fe · Informe epidemiológico, semana 36 de 2025, fiebre hemorrágica argentina",
+    "src_url": "https://www.santafe.gov.ar/index.php/web/content/download/282575/1462528/file/INFORME_EPIDEMIOLOGICO_SE36_2025.pdf"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {

@@ -33,9 +33,25 @@ const scriptPaths = Array.from(
   match => match[1]
 );
 assert.ok(scriptPaths.includes('app.js'), 'app.js missing from index.html');
+// Freeze individually reviewed content before the legacy app.js overrides run.
+const snapshotReviewed = () => JSON.parse(vm.runInContext(`JSON.stringify(EX.flatMap(exam =>
+  exam.qs.filter(q => KEY[exam.id]?.[q.n]?.originalId).map(q =>
+    [exam.id, q.n, q.q, q.o, KEY[exam.id][q.n]])))`, context));
+let beforeOverrides;
 for (const scriptPath of scriptPaths) {
+  if (scriptPath === 'app.js') beforeOverrides = snapshotReviewed();
   const source = fs.readFileSync(path.join(root, scriptPath), 'utf8');
   new vm.Script(source, {filename: scriptPath}).runInContext(context, {timeout: 15000});
+}
+
+for (const [examId, n, stem, options, key] of beforeOverrides) {
+  const actual = vm.runInContext('EX.find(e => e.id === ' + JSON.stringify(examId) + ').qs.find(q => q.n === ' + n + ')', context);
+  const finalKey = vm.runInContext('KEY[' + JSON.stringify(examId) + '][' + n + ']', context);
+  assert.equal(actual.q, stem, key.originalId);
+  assert.deepEqual(Array.from(actual.o), options, key.originalId);
+  for (const field of ['originalId', 'verifiedOn', 'a', 'why', 'o', 'src', 'src_url']) {
+    assert.equal(JSON.stringify(finalKey[field]), JSON.stringify(key[field]), key.originalId + ' ' + field);
+  }
 }
 
 const summary = vm.runInContext(`(() => {
@@ -148,9 +164,11 @@ const answerBlock = [
   ...Array.from('BBD', (answer, i) => ['febrero-2023', 83 + i, answer]),
   ...Array.from('CBADAC', (answer, i) => ['febrero-2024', 1 + i, answer]),
   ...Array.from('DACBCCCDDCC', (answer, i) => ['febrero-2024', 15 + i, answer]),
-  ...Array.from('ADCDAAADCCBCDADADCBA', (answer, i) => ['febrero-2024', 26 + i, answer])
+  ...Array.from('ADCDAAADCCBCDADADCBA', (answer, i) => ['febrero-2024', 26 + i, answer]),
+  ['febrero-2024', 46, 'C'],
+  ...Array.from('ACDDDABCCACDDBBCBCA', (answer, i) => ['febrero-2024', 48 + i, answer])
 ];
-assert.equal(answerBlock.length, 240);
+assert.equal(answerBlock.length, 260);
 for (const [examId, n, answer] of answerBlock) {
   const selected = vm.runInContext('EX.find(e => e.id === "' + examId + '")', context);
   const index = selected.qs.findIndex(item => item.n === n);
