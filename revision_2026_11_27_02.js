@@ -5803,6 +5803,323 @@
     "src": "Dart y colaboradores · Management of Acetaminophen Poisoning in the US and Canada, consenso toxicológico 2023",
     "src_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062",
     "stem": "Adulta con ingesta aguda única de paracetamol de liberación inmediata y horario conocido. A las cuatro horas la concentración supera la línea de tratamiento del nomograma. Está estable, sin acidosis ni alteración del sensorio. ¿Cuál es la conducta indicada?"
+  },
+  {
+    "originalId": "julio-2024:67",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una carboxihemoglobina elevada por cooximetría en sangre venosa o arterial respalda el diagnóstico en un contexto compatible. El tiempo fuera de la exposición y el oxígeno recibido pueden bajar el valor; una determinación tardía baja no descarta el cuadro.",
+    "o": {
+      "B": "La PaO₂ refleja el oxígeno disuelto y puede ser normal pese a una reducción grave del transporte de oxígeno por la hemoglobina.",
+      "C": "El dosaje de metahemoglobina identifica otra dishemoglobinemia, no la unión del monóxido de carbono a la hemoglobina.",
+      "D": "El hemograma informa concentraciones y recuentos celulares, sin medir la fracción de carboxihemoglobina."
+    },
+    "src": "CDC · Clinical Guidance for Carbon Monoxide Poisoning, confirmación diagnóstica",
+    "src_url": "https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html"
+  },
+  {
+    "originalId": "julio-2024:68",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La hidroxocobalamina se une al cianuro y forma cianocobalamina. Se administra por vía intravenosa en la intoxicación conocida o fuertemente sospechada, junto con oxígeno y sostén cardiorrespiratorio.",
+    "o": {
+      "A": "La pralidoxima se utiliza en intoxicaciones seleccionadas por organofosforados para reactivar la acetilcolinesterasa.",
+      "C": "La naloxona antagoniza los receptores opioides y no capta cianuro.",
+      "D": "La atropina antagoniza efectos muscarínicos del síndrome colinérgico. No es el antídoto del cianuro."
+    },
+    "src": "EMA · Cyanokit, ficha técnica: indicación y mecanismo de acción",
+    "src_url": "https://www.ema.europa.eu/en/documents/product-information/cyanokit-epar-product-information_en.pdf"
+  },
+  {
+    "originalId": "julio-2024:69",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El metanol se metaboliza primero a formaldehído, intermediario de vida breve, y luego a ácido fórmico. La acumulación de formiato explica principalmente la acidosis con brecha aniónica elevada y contribuye a la toxicidad óptica.",
+    "o": {
+      "B": "Los cuerpos cetónicos predominan en la cetoacidosis, no constituyen el metabolito responsable de este cuadro.",
+      "C": "Una alteración aislada del manejo renal de bicarbonato no explica la acumulación del anión orgánico del metanol.",
+      "D": "Puede elevarse el lactato por disfunción mitocondrial, pero el metabolito ácido característico es el formiato."
+    },
+    "src": "StatPearls · Methanol Toxicity, fisiopatología de la acidosis",
+    "src_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK482121/?report=reader",
+    "stem": "En la intoxicación por metanol, ¿cuál es el mecanismo principal de la acidosis metabólica con brecha aniónica elevada?",
+    "options": [
+      "Acumulación de ácido fórmico generado al metabolizarse el metanol.",
+      "Producción excesiva de cuerpos cetónicos.",
+      "Pérdida renal aislada de bicarbonato.",
+      "Producción primaria de lactato sin acumulación de ácidos derivados del metanol."
+    ]
+  },
+  {
+    "originalId": "julio-2024:70",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una crisis generalizada única, de un minuto, asociada a fiebre y con recuperación completa es compatible con convulsión febril simple. Se evalúa la causa de la fiebre y se explica a la familia cómo actuar si recurre. El antitérmico alivia el malestar, pero no previene las crisis.",
+    "o": {
+      "B": "Los riesgos de medicación anticonvulsivante crónica superan sus beneficios en una convulsión febril simple aislada.",
+      "C": "Con recuperación completa, sin foco neurológico ni traumatismo, no se indica TC urgente de rutina.",
+      "D": "Sin meningismo, compromiso persistente del sensorio ni inestabilidad, no corresponden UCI ni punción lumbar sistemáticas."
+    },
+    "src": "Manual Merck profesional · Convulsiones febriles, evaluación y tratamiento",
+    "src_url": "https://www.merckmanuals.com/es-us/professional/pediatr%C3%ADa/trastornos-neurol%C3%B3gicos-infantiles/convulsiones-febriles",
+    "stem": "Niña sana de 3 años, con vacunas al día y fiebre documentada de 38,8 °C, presenta una única convulsión generalizada de un minuto en las últimas 24 horas. Recuperó su estado habitual, sin signos meníngeos ni focalidad. Tras evaluar la causa de la fiebre, ¿qué conducta corresponde?"
+  },
+  {
+    "originalId": "julio-2024:71",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En un lactante pequeño, el tiraje persistente y la ingesta menor de la mitad de la habitual con menor diuresis justifican internación para vigilancia y sostén de la hidratación. Una saturación de 94 % en aire ambiente no neutraliza estos criterios.",
+    "o": {
+      "B": "Los lavados nasales pueden facilitar las tomas, pero el aporte insuficiente y el esfuerzo respiratorio persistente hacen insegura el alta.",
+      "C": "La bronquiolitis habitual es viral. No se describen signos que indiquen una infección bacteriana concomitante.",
+      "D": "Una radiografía normal no corrige la dificultad para alimentarse ni modifica la necesidad de vigilancia."
+    },
+    "src": "Sociedad Argentina de Pediatría · Consenso de infecciones respiratorias agudas bajas, bronquiolitis: criterios de internación",
+    "src_url": "https://www.sap.org.ar/uploads/consensos/consensos_consenso-irab-2021-121.pdf",
+    "stem": "Lactante de 2 meses con primer episodio de sibilancias tras un catarro, FR 60/min y saturación de 94 % en aire ambiente. Persiste con tiraje luego de despejar la nariz. En las últimas 12 horas tomó menos de la mitad de lo habitual y mojó menos pañales. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "julio-2024:72",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En un lactante mayor de seis meses, vacunado y con evaluación clínica de bajo riesgo, una causa viral es frecuente. Con examen de orina normal, buena hidratación y seguimiento accesible se puede observar sin antibióticos e indicar reevaluación si persiste la fiebre o empeora.",
+    "o": {
+      "A": "El buen estado general, la respuesta social normal y la ausencia de signos meníngeos o de alarma no sustentan meningitis bacteriana ni antibióticos EV de rutina.",
+      "B": "Sin datos clínicos o urinarios de ITU no se justifica iniciar antibióticos empíricos en este escenario de bajo riesgo.",
+      "D": "Sin taquipnea, hipoxemia ni hallazgos respiratorios no se indica radiografía o antibióticos por presunta neumonía oculta."
+    },
+    "src": "NICE NG143 · Fever in under 5s, evaluación de fiebre sin foco y pautas de seguimiento",
+    "src_url": "https://www.nice.org.uk/guidance/ng143/resources/fever-inunder-%205s-assessment-and-initial-management-pdf-66141778137541",
+    "stem": "Lactante de 9 meses, vacunado, con 24 horas de fiebre sin foco. Está alerta, sonríe, toma líquidos y orina normalmente. Tiene signos vitales apropiados, sin signos de alarma ni hallazgos respiratorios. La orina bien obtenida no muestra leucocituria ni nitritos. Se garantiza seguimiento. ¿Cuál es el enfoque inicial más apropiado?"
+  },
+  {
+    "originalId": "julio-2024:73",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Después de diarrea sanguinolenta, la palidez y la oliguria hacen sospechar SUH. La lesión microvascular fragmenta eritrocitos y consume plaquetas, produciendo anemia hemolítica microangiopática y trombocitopenia junto con lesión renal aguda.",
+    "o": {
+      "A": "La leucocitosis puede acompañar el cuadro, pero no define la microangiopatía.",
+      "B": "La hipercalcemia y la hipofosfatemia no integran el patrón diagnóstico de SUH.",
+      "D": "La hemólisis provoca anemia. Una posible hemoconcentración por deshidratación no explica la microangiopatía."
+    },
+    "src": "Ministerio de Salud de la Nación · Circular de vigilancia del síndrome urémico hemolítico, 2025",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/05/circular_vigilancia_suh_17092025_2.pdf"
+  },
+  {
+    "originalId": "julio-2024:82",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La razón de verosimilitud negativa es (1 − 0,80)/0,90 = 0,22. Con una probabilidad previa del 90 %, las chances previas son 9 a 1 y las posteriores, 2 a 1. Por eso la probabilidad posterior es 2/3, aproximadamente 67 %.",
+    "o": {
+      "A": "El 10 % es el complemento de la probabilidad previa, no la probabilidad posterior a un resultado negativo.",
+      "C": "La sensibilidad del 80 % describe la proporción de positivos entre quienes tienen enfermedad. No es la probabilidad posterior individual.",
+      "D": "Un resultado negativo sí modifica las chances, porque la razón de verosimilitud negativa es menor que uno."
+    },
+    "src": "UCSF Hospital Handbook · Likelihood Ratios, aplicación de la razón de verosimilitud negativa",
+    "src_url": "https://hospitalhandbook.ucsf.edu/content/04-likelihood-ratios",
+    "stem": "Para este ejercicio, la probabilidad preprueba de estenosis coronaria es del 90 %. La ergometría resulta negativa. Si la sensibilidad es del 80 % y la especificidad del 90 %, ¿qué probabilidad de enfermedad queda aproximadamente?",
+    "options": [
+      "10 %, por ser el complemento de la probabilidad previa.",
+      "67 %, todavía demasiado alta para excluir estenosis.",
+      "80 %, igual a la sensibilidad.",
+      "90 %, sin cambios tras una prueba negativa."
+    ]
+  },
+  {
+    "originalId": "julio-2024:83",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La PO₂ de 41 mmHg y la saturación de 74 % son compatibles con sangre venosa. La marcada discordancia con una oximetría confiable de 98 % obliga a verificar el origen de la muestra y repetir una extracción arterial si se necesita conocer la PaO₂.",
+    "o": {
+      "A": "El pH casi normal con PCO₂ de 46 mmHg no respalda una descompensación hipercápnica aguda que explique esa discrepancia.",
+      "B": "El TEP puede causar hipoxemia, pero no debe diagnosticarse por una muestra de origen incierto con oximetría normal.",
+      "D": "Una EPOC grave descompensada suele manifestarse clínicamente y no explica por sí sola dos saturaciones simultáneas tan discordantes."
+    },
+    "src": "AARC · Clinical practice guideline: blood gas analysis and hemoximetry, evaluación de la oxigenación",
+    "src_url": "https://pubmed.ncbi.nlm.nih.gov/23901131/",
+    "stem": "Varón asintomático en un preoperatorio, con saturación de 98 % en aire ambiente y buena señal de pulso. Una muestra rotulada arterial obtenida por punción dificultosa informa pH 7,37, PO₂ 41 mmHg, PCO₂ 46 mmHg y saturación de 74 %. ¿Qué posibilidad corresponde verificar primero?"
+  },
+  {
+    "originalId": "julio-2024:84",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Un filtrado de 21 mL/min/1,73 m² persistente durante más de tres meses corresponde a ERC G4 (15–29). La progresión y la proteinuria requieren evaluación nefrológica prioritaria, estudio etiológico y de complicaciones, y planificación según el riesgo. La diálisis no se indica sólo por esa cifra.",
+    "o": {
+      "B": "La categoría G2 corresponde a filtrado de 60 a 89 y no describe esta pérdida avanzada de función.",
+      "C": "La proteinuria y el filtrado marcadamente reducido indican enfermedad avanzada. Una intervención dietaria aislada sería insuficiente.",
+      "D": "La evolución sostenida, sin hipovolemia, no permite atribuir el cuadro a una lesión prerrenal reversible con hidratación."
+    },
+    "src": "KDIGO 2024 · CKD Guideline, categorías de filtrado, derivación a nefrología y comienzo de diálisis",
+    "src_url": "https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2024-CKD-Guideline-Executive-Summary.pdf",
+    "stem": "Adulto con diabetes tipo 2, hipertensión y proteinuria progresiva. El filtrado estimado por CKD-EPI permanece en 21 mL/min/1,73 m² desde hace cuatro meses. Está euvolémico y no presenta hiperpotasemia, acidosis refractaria ni síntomas urémicos. ¿Qué clasificación y conducta corresponden?",
+    "options": [
+      "ERC G4: evaluación nefrológica prioritaria y manejo de progresión y complicaciones.",
+      "ERC G2: controles de rutina sin evaluación adicional.",
+      "Nefropatía diabética inicial: indicar sólo dieta hipoproteica.",
+      "Lesión renal prerrenal: administrar volumen como única medida."
+    ]
+  },
+  {
+    "originalId": "julio-2024:85",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El sangrado externo que amenaza la vida exige control inmediato con presión directa y, si ésta no basta, torniquete en la extremidad. En paralelo se evalúan vía aérea y ventilación. Si se usa un sello torácico ventilado, se reevalúa la respiración y se afloja o retira si empeora. Se prioriza el traslado urgente.",
+    "o": {
+      "A": "La vía aérea requiere evaluación inmediata, pero demorar el control de una hemorragia exanguinante mientras se prepara una intubación puede ser fatal.",
+      "B": "Explorar quirúrgicamente las heridas en el lugar retrasa el control inicial y el acceso a tratamiento definitivo.",
+      "C": "Esperar una estabilización completa en el lugar demora el traslado a un centro de trauma."
+    },
+    "src": "AHA y American Red Cross · Guidelines for First Aid 2024, hemorragia grave y heridas torácicas abiertas",
+    "src_url": "https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines",
+    "stem": "Un equipo prehospitalario atiende a un adolescente con hemorragia abundante de una extremidad y una herida torácica abierta. Hay personal para actuar en simultáneo y un centro de trauma accesible. ¿Qué estrategia inicial corresponde?",
+    "options": [
+      "Diferir el control del sangrado hasta terminar la intubación.",
+      "Explorar quirúrgicamente las heridas en el lugar.",
+      "Esperar en el lugar hasta normalizar todos los signos vitales.",
+      "Controlar de inmediato la hemorragia, sostener vía aérea y ventilación, atender la herida torácica con reevaluación continua y trasladar sin demora."
+    ]
+  },
+  {
+    "originalId": "julio-2024:86",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La consolidación febril con shock que requiere vasopresor define neumonía adquirida en la comunidad grave. Requiere terapia intensiva y antibióticos empíricos inmediatos. Sin factores de riesgo de SAMR o Pseudomonas, ceftriaxona más azitromicina es una combinación apropiada.",
+    "o": {
+      "A": "La amoxicilina ambulatoria no ofrece el soporte ni la cobertura inicial necesarios ante shock.",
+      "B": "El alta con tratamiento sintomático no trata la infección ni la falla circulatoria.",
+      "D": "Diferir antibióticos en una neumonía con shock expone a mayor deterioro."
+    },
+    "src": "IDSA · Community-Acquired Pneumonia Clinical Pathway, tabla 4: tratamiento inicial de la neumonía grave",
+    "src_url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/community-acquired-pneumonia-in-adults/cap-clinical-pathway-overview.pdf",
+    "stem": "Mujer de 65 años con EPOC, fiebre, tos purulenta, confusión y consolidación basal derecha adquirida en la comunidad. Tras la reanimación inicial requiere noradrenalina. No hay antecedentes de aislamiento de SAMR o Pseudomonas ni factores locales que indiquen cubrirlos. ¿Qué conducta inicial es más adecuada?"
+  },
+  {
+    "originalId": "julio-2024:87",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La furosemida aumenta la pérdida renal de potasio y el abuso de laxantes puede agregar pérdidas digestivas. Las T aplanadas y las U prominentes pueden fusionarse y dar un aspecto de QT prolongado que en realidad corresponde al intervalo QU. Se confirma con potasemia.",
+    "o": {
+      "A": "La hiperpotasemia suele producir inicialmente ondas T altas y picudas, no el patrón descripto.",
+      "C": "La hipercalcemia típicamente acorta el intervalo QT.",
+      "D": "El equilibrio ácido-base requiere evaluación independiente. Una acidosis no explica específicamente las ondas U prominentes en este contexto."
+    },
+    "src": "Manual Merck profesional · Hypokalemia, pérdidas renales y digestivas y cambios electrocardiográficos",
+    "src_url": "https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hypokalemia?autoredirectid=37387&qt=hypertension",
+    "stem": "Mujer que toma furosemida y bisacodilo para adelgazar. Presenta debilidad y calambres. En el ECG se observan T aplanadas y ondas U prominentes. ¿Qué alteración debe investigarse primero?"
+  },
+  {
+    "originalId": "julio-2024:88",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La diarrea de nueva aparición tras clindamicina obliga a sospechar infección por C. difficile. Se estudia materia fecal no formada en el paciente sintomático y se interpreta la prueba según el cuadro, porque puede existir colonización.",
+    "o": {
+      "B": "Una gastroenteritis viral es posible, pero la exposición antibiótica reciente obliga a priorizar C. difficile.",
+      "C": "El intestino irritable no explica adecuadamente el inicio agudo de diarrea profusa tras un antibiótico.",
+      "D": "La intolerancia a lactosa se vincula a su ingesta y suele acompañarse de distensión, sin la asociación específica con clindamicina."
+    },
+    "src": "CDC · Clinical Testing and Diagnosis for C. diff Infection",
+    "src_url": "https://www.cdc.gov/c-diff/hcp/diagnosis-testing/"
+  },
+  {
+    "originalId": "julio-2024:89",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En el adulto, el tronco anterior completo representa 18 % y un miembro inferior entero, incluidas ambas caras, otro 18 %. La quemadura de espesor parcial se incluye en la estimación. El total es 36 %.",
+    "o": {
+      "A": "El 18 % corresponde al tronco anterior solo o a un miembro inferior entero solo.",
+      "B": "El 27 % resultaría de sumar al tronco anterior únicamente una cara de la pierna.",
+      "D": "El 45 % añade un 9 % que no figura entre las regiones quemadas."
+    },
+    "src": "NSW Agency for Clinical Innovation · Burn assessment in adults, regla de los nueves",
+    "src_url": "https://aci.health.nsw.gov.au/ecat/adult/assessment/burn",
+    "stem": "Adulto con quemaduras de espesor parcial en todo el tronco anterior y en todo un miembro inferior. Según la regla de los nueves, ¿qué porcentaje de superficie corporal está afectado?",
+    "options": [
+      "18%",
+      "27%",
+      "36%",
+      "45%"
+    ]
+  },
+  {
+    "originalId": "julio-2024:90",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Un tumor neuroendocrino apendicular bien diferenciado, pequeño, distal y extirpado por completo sin rasgos adversos se trata con la apendicectomía realizada. No se indica ampliar la resección ni agregar tratamiento oncológico.",
+    "o": {
+      "A": "Una hemicolectomía no aporta una indicación oncológica en esta lesión pequeña y completamente resecada.",
+      "B": "La quimioterapia adyuvante no está indicada tras resección completa de un tumor localizado de estas características.",
+      "D": "La radioterapia local no forma parte del manejo de esta lesión de bajo riesgo."
+    },
+    "src": "ENETS · Guidance paper for appendiceal neuroendocrine tumours, 2023",
+    "src_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jne.13332",
+    "stem": "Tras apendicectomía, la anatomía patológica informa tumor neuroendocrino bien diferenciado G1 de 8 mm, limitado a la submucosa de la punta, con margen libre y sin invasión linfovascular ni mesoapendicular. ¿Qué conducta oncológica corresponde?",
+    "options": [
+      "Hemicolectomía derecha.",
+      "Quimioterapia adyuvante.",
+      "Dar por suficiente la apendicectomía, sin tratamiento oncológico adicional.",
+      "Radioterapia local."
+    ]
+  },
+  {
+    "originalId": "julio-2024:91",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La salida brusca de líquido serohemático por una laparotomía tras un acceso de tos hace sospechar separación de la fascia, incluso con piel aún aproximada. Requiere valoración quirúrgica urgente por riesgo de evisceración.",
+    "o": {
+      "A": "El íleo puede explicar distensión, pero no la salida súbita de líquido por la herida tras aumentar la presión abdominal.",
+      "C": "Un absceso puede causar fiebre y dolor, pero explica peor este cambio súbito de la herida después de toser.",
+      "D": "La infección superficial suele acompañarse de eritema o supuración y no descarta una falla aponeurótica más profunda."
+    },
+    "src": "StatPearls · Fascial Dehiscence, presentación posoperatoria",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK551644/"
+  },
+  {
+    "originalId": "julio-2024:92",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El neumoperitoneo y la peritonitis indican perforación. Junto con reanimación y antibióticos, corresponde colectomía abdominal subtotal urgente con ileostomía terminal y manejo del muñón rectal. La reconstrucción se difiere hasta la recuperación.",
+    "o": {
+      "B": "La mesalazina no controla una perforación ni la contaminación peritoneal.",
+      "C": "El cambio de corticoides y el manejo ambulatorio dejan sin tratar una emergencia quirúrgica.",
+      "D": "Los antibióticos son complementarios. El alta con tratamiento oral omite el control del foco."
+    },
+    "src": "ASCRS · Clinical Practice Guidelines for the Surgical Management of Ulcerative Colitis, perforación y megacolon tóxico",
+    "src_url": "https://fascrs.org/getattachment/Healthcare-Providers/Education/Clinical-Practice-Guidelines/2021-Ulcerative-Colitis-CPG.pdf?lang=en-US",
+    "stem": "Paciente con colitis ulcerosa aguda grave y megacolon tóxico que desarrolla peritonitis y neumoperitoneo. ¿Cuál es el tratamiento definitivo urgente?",
+    "options": [
+      "Colectomía subtotal de urgencia",
+      "Aumentar dosis de mesalazina",
+      "Suspender corticoides y control ambulatorio",
+      "Antibióticos orales y alta"
+    ]
+  },
+  {
+    "originalId": "julio-2024:93",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La antigripal inyectable inactivada no contiene virus con capacidad de replicarse. Puede indicarse en inmunosupresión grave, aunque la respuesta puede ser menor y se procura elegir el momento más adecuado del tratamiento.",
+    "o": {
+      "A": "La triple viral contiene virus vivos atenuados y está contraindicada durante inmunosupresión celular grave.",
+      "B": "La BCG contiene micobacterias vivas atenuadas y puede causar infección diseminada en inmunodeficiencia celular grave.",
+      "C": "La vacuna contra fiebre amarilla contiene virus vivo atenuado y está contraindicada en inmunosupresión grave."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacunación en huéspedes especiales, vacunas inactivadas y vivas",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000442cnt-2014-04_lineamientos-huespedes-especiales.pdf",
+    "stem": "En un adulto con inmunosupresión celular grave, ¿cuál de estas vacunas puede administrarse por ser inactivada?"
+  },
+  {
+    "originalId": "julio-2024:94",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El drenaje controla el foco purulento. Si está indicado agregar un antibiótico oral para SAMR comunitario y la sensibilidad local lo permite, trimetoprima-sulfametoxazol es una opción. La conducta sería distinta en celulitis no purulenta de probable origen estreptocócico.",
+    "o": {
+      "B": "La vancomicina EV se reserva para cuadros que requieren tratamiento parenteral. Por vía oral no logra niveles sistémicos útiles para tratar piel.",
+      "C": "La ciprofloxacina no es una opción empírica confiable frente a SAMR comunitario.",
+      "D": "El metronidazol actúa contra anaerobios y no cubre Staphylococcus aureus."
+    },
+    "src": "Ministerio de Salud de la Nación · Algoritmo de manejo ambulatorio de infección de piel y tejidos blandos, infecciones supuradas",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-12/algoritmo-infeccion-piel-tejidos-blandos-comunidad-parte-1-supuradas-y-no-supuradas.pdf",
+    "stem": "Adulto estable con múltiples abscesos cutáneos ya drenados. Se tomaron cultivos y se indicó agregar un antibiótico oral ambulatorio con cobertura para SAMR comunitario mientras se aguarda el resultado. No tiene alergias y la sensibilidad local permite esta opción. ¿Cuál elegirías?"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
