@@ -6120,6 +6120,324 @@
     "src": "Ministerio de Salud de la Nación · Algoritmo de manejo ambulatorio de infección de piel y tejidos blandos, infecciones supuradas",
     "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-12/algoritmo-infeccion-piel-tejidos-blandos-comunidad-parte-1-supuradas-y-no-supuradas.pdf",
     "stem": "Adulto estable con múltiples abscesos cutáneos ya drenados. Se tomaron cultivos y se indicó agregar un antibiótico oral ambulatorio con cobertura para SAMR comunitario mientras se aguarda el resultado. No tiene alergias y la sensibilidad local permite esta opción. ¿Cuál elegirías?"
+  },
+  {
+    "originalId": "julio-2024:95",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La infección desencadena una respuesta desregulada que lesiona órganos y pone en riesgo la vida. En adultos, un aumento agudo de al menos dos puntos de SOFA atribuible a la infección permite operacionalizar esa disfunción.",
+    "o": {
+      "B": "Puede haber fiebre y hemocultivos positivos sin disfunción orgánica. La bacteriemia tampoco es requisito para diagnosticar sepsis.",
+      "C": "La respuesta inflamatoria aislada no alcanza la definición si no hay disfunción orgánica que amenace la vida.",
+      "D": "La hipotensión por pérdidas de volumen tiene otra causa. La definición requiere una infección relacionada con el deterioro orgánico."
+    },
+    "src": "Singer y colaboradores · Tercer consenso internacional de definiciones de sepsis y shock séptico (Sepsis-3)",
+    "src_url": "https://jamanetwork.com/journals/jama/fullarticle/2492881?trk=article-ssr-frontend-pulse_little-text-block",
+    "stem": "Según Sepsis-3, ¿qué define la sepsis?",
+    "options": [
+      "Disfunción orgánica que amenaza la vida por una respuesta desregulada a la infección",
+      "Cualquier fiebre con bacteriemia",
+      "Inflamación sin disfunción orgánica",
+      "Hipotensión transitoria por deshidratación"
+    ]
+  },
+  {
+    "originalId": "julio-2024:96",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El PSA es una proteína producida por células prostáticas normales y malignas. Su evolución en sangre ayuda a evaluar la respuesta al tratamiento y a detectar una posible recaída. También puede elevarse en procesos benignos.",
+    "o": {
+      "A": "El CA 19-9 se utiliza principalmente en tumores pancreatobiliares y no es el marcador habitual en este seguimiento.",
+      "B": "La AFP tiene aplicación en hepatocarcinoma y en ciertos tumores germinales.",
+      "D": "El CEA se utiliza, entre otros contextos, en el seguimiento del cáncer colorrectal. No es el marcador de elección para esta finalidad."
+    },
+    "src": "National Cancer Institute · Prostate-Specific Antigen (PSA) Test, usos e interpretación",
+    "src_url": "https://www.cancer.gov/types/prostate/psa-fact-sheet",
+    "stem": "¿Qué marcador sérico producido por el epitelio prostático se utiliza habitualmente para el seguimiento después del tratamiento de un adenocarcinoma de próstata?"
+  },
+  {
+    "originalId": "julio-2024:97",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La pérdida de la marcha independiente en la primera semana es indicación de inmunoterapia con inmunoglobulina EV o recambio plasmático. Se elige una de las dos estrategias y se vigilan la función respiratoria y la estabilidad autonómica.",
+    "o": {
+      "A": "Los corticoides no han demostrado beneficio como tratamiento modificador del síndrome.",
+      "C": "Los antibióticos pueden ser necesarios para una infección concomitante, pero no tratan la polirradiculoneuropatía inmunomediada.",
+      "D": "La levodopa se utiliza en síndromes parkinsonianos y no modifica esta neuropatía."
+    },
+    "src": "EAN/PNS · Guideline on diagnosis and treatment of Guillain–Barré syndrome, inmunoterapia",
+    "src_url": "https://aanfiles.blob.core.windows.net/guidelines/61598405-ac04-42cf-898c-5eb582e55ebc/J%20Peripheral%20Nervous%20Sys%20-%202023%20-%20Doorn%20-%20European%20Academy%20of%20Neurology%20Peripheral%20Nerve%20Society%20Guideline%20on%20diagnosis%20and.pdf",
+    "stem": "Adulto con síndrome de Guillain-Barré de cinco días de evolución que ya no puede caminar sin ayuda. Además del sostén y la vigilancia, ¿qué inmunoterapia corresponde?"
+  },
+  {
+    "originalId": "julio-2024:98",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En la fase inicial puede observarse supradesnivel difuso del ST, a menudo cóncavo y acompañado por descenso del PR. La distribución abarca varios territorios y el patrón puede estar ausente.",
+    "o": {
+      "B": "El infradesnivel localizado en derivaciones contiguas orienta más a isquemia. Los cambios recíprocos en aVR no equivalen a ese patrón regional.",
+      "C": "Las ondas Q patológicas sugieren necrosis miocárdica y no son el hallazgo inicial clásico de pericarditis.",
+      "D": "El bloqueo AV completo requiere buscar compromiso del sistema de conducción y otras causas."
+    },
+    "src": "European Society of Cardiology · Guía de miocarditis y pericarditis 2025, electrocardiografía",
+    "src_url": "https://academic.oup.com/eurheartj/article/46/40/3952/8234483?searchresult=1"
+  },
+  {
+    "originalId": "julio-2024:99",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con vómitos persistentes e intolerancia oral se mantiene ayuno transitorio, se repone volumen EV según el estado clínico y se ofrece analgesia. Estas medidas acompañan la evaluación quirúrgica y el tratamiento antibiótico cuando corresponde.",
+    "o": {
+      "B": "La intolerancia oral y el cuadro inflamatorio vesicular hacen inapropiada el alta con dieta.",
+      "C": "El antibiótico oral en domicilio no garantiza absorción en quien sigue vomitando ni reemplaza la evaluación del foco.",
+      "D": "Los laxantes no alivian la inflamación vesicular y pueden agravar la depleción de volumen."
+    },
+    "src": "Manual MSD profesional · Colecistitis aguda, tratamiento inicial",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-hep%C3%A1ticos-y-biliares/trastornos-de-la-ves%C3%ADcula-biliar-y-los-conductos-biliares/colecistitis-aguda?ruleredirectid=756",
+    "stem": "Varón de 56 años con sospecha fundada de colecistitis aguda, vómitos reiterados e intolerancia oral, ya en evaluación en guardia. Mientras se organiza el tratamiento específico, ¿qué medidas iniciales de sostén corresponden?"
+  },
+  {
+    "originalId": "julio-2024:100",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El comienzo súbito de dolor pleurítico y la disminución unilateral del murmullo vesicular sugieren neumotórax. Una línea pleural visceral con ausencia de trama vascular periférica demuestra aire en la cavidad pleural. Sin trauma ni enfermedad pulmonar conocida, es compatible con neumotórax espontáneo primario.",
+    "o": {
+      "A": "La neumonía suele producir fiebre y consolidación. No explica una línea pleural sin marcas vasculares periféricas.",
+      "B": "El TEP puede producir disnea y dolor pleurítico, pero no ese hallazgo radiográfico.",
+      "D": "La isquemia miocárdica no produce el patrón pleural descripto ni la asimetría auscultatoria."
+    },
+    "src": "StatPearls · Spontaneous Pneumothorax, presentación y diagnóstico radiográfico",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK459302/",
+    "stem": "Varón de 20 años sin traumatismo ni enfermedad pulmonar conocida, con dolor pleurítico súbito a derecha y disnea. Está estable, con murmullo vesicular disminuido a derecha. La radiografía muestra una línea pleural visceral sin trama vascular por fuera de ella. ¿Cuál es el diagnóstico?"
+  },
+  {
+    "originalId": "diciembre-2024:1",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Un tumor neuroendocrino bien diferenciado y pequeño de la punta apendicular, resecado con márgenes libres y sin invasión de riesgo, se considera tratado con la apendicectomía. No se requiere cirugía oncológica adicional.",
+    "o": {
+      "B": "La radioterapia no tiene indicación después de la extirpación completa de esta lesión de bajo riesgo.",
+      "C": "La hemicolectomía aumentaría la morbilidad sin una indicación basada en los hallazgos anatomopatológicos del caso.",
+      "D": "La linfadenectomía regional aislada no se recomienda ante una lesión subcentimétrica G1 completamente resecada."
+    },
+    "src": "ENETS · Guidance paper for appendiceal neuroendocrine tumours, 2023",
+    "src_url": "https://onlinelibrary.wiley.com/doi/10.1111/jne.13332",
+    "stem": "Tras apendicectomía, la pieza muestra un tumor neuroendocrino bien diferenciado G1 de 9 mm en la punta, limitado a la submucosa, con margen libre y sin invasión linfovascular ni del mesoapéndice. ¿Hace falta otro tratamiento oncológico?",
+    "options": [
+      "La apendicectomía es suficiente.",
+      "Radioterapia local.",
+      "Hemicolectomía derecha.",
+      "Linfadenectomía regional aislada."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:2",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La infusión requiere 150 mL/h. Con 20 gotas/mL son 3.000 gotas por hora, equivalentes a 50 gotas por minuto. El factor impreso en el equipo es indispensable para el cálculo.",
+    "o": {
+      "B": "Con 35 gotas/min se administrarían 840 mL en ocho horas, por debajo de la indicación.",
+      "C": "Con 75 gotas/min se administrarían 1.800 mL, más de lo indicado.",
+      "D": "Con 20 gotas/min se administrarían 480 mL, muy por debajo del volumen prescripto."
+    },
+    "src": "OpenStax · Clinical Nursing Skills, sección 13.3, cálculo del goteo por gravedad",
+    "src_url": "https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion",
+    "stem": "Se indican 1.200 mL de solución fisiológica EV en ocho horas por gravedad. El equipo entrega 20 gotas/mL. ¿Qué velocidad se debe regular?"
+  },
+  {
+    "originalId": "diciembre-2024:3",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La separación de la aponeurosis con cobertura cutánea íntegra corresponde a dehiscencia fascial contenida. La salida de líquido serohemático alerta sobre esta complicación y justifica valoración quirúrgica.",
+    "o": {
+      "A": "El íleo produce distensión y alteración del tránsito, pero no separa los planos fasciales.",
+      "C": "En la evisceración hay exteriorización de vísceras. El enunciado especifica que siguen contenidas.",
+      "D": "Un seroma puede drenar líquido, pero no explica el defecto fascial comprobado."
+    },
+    "src": "StatPearls · Fascial Dehiscence, hallazgos posoperatorios y evaluación",
+    "src_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK551644/",
+    "stem": "Tras una laparotomía sale líquido serohemático por la herida. En la evaluación quirúrgica se comprueba separación de la fascia con piel intacta y vísceras contenidas. ¿Qué complicación presenta?",
+    "options": [
+      "Íleo",
+      "Dehiscencia fascial contenida",
+      "Evisceración",
+      "Seroma con fascia íntegra"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:4",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La retención de bario y el estrechamiento distal liso en una paciente con disfagia y regurgitación sugieren acalasia. La endoscopía permite excluir obstrucción mecánica o pseudoacalasia y la manometría de alta resolución confirma el trastorno y define el subtipo.",
+    "o": {
+      "A": "El espasmo distal puede dar disfagia, pero la retención y el estrechamiento distal regular orientan a acalasia. No corresponde indicar miotomía sin caracterizar la motilidad.",
+      "B": "Un divertículo por tracción se vería como una evaginación focal. No se describen ni ese hallazgo ni datos de tuberculosis.",
+      "D": "Una hernia hiatal implica desplazamiento del estómago a través del hiato y no explica el afilamiento distal con retención esofágica."
+    },
+    "src": "ACG · Clinical Guidelines: Diagnosis and Management of Achalasia, 2020",
+    "src_url": "https://pubmed.ncbi.nlm.nih.gov/32773454/"
+  },
+  {
+    "originalId": "diciembre-2024:5",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El deterioro respiratorio, circulatorio o renal exige adaptar el soporte y el nivel de atención en cuanto aparece. La falla orgánica que persiste más de 48 horas define pancreatitis grave. La evolución de la urea, el hematocrito y la respuesta inflamatoria complementa la valoración.",
+    "o": {
+      "A": "La magnitud de elevación de amilasa y lipasa no mide en forma fiable la gravedad.",
+      "B": "La necrosis puede no apreciarse en una TC muy temprana. Esperarla demora la respuesta a una disfunción orgánica ya evidente.",
+      "D": "La PCR aporta información pronóstica, pero un valor aislado no sustituye la reevaluación clínica ni justifica postergar el soporte."
+    },
+    "src": "ACG · Guidelines: Management of Acute Pancreatitis, evaluación de riesgo durante las primeras 48 horas",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13221274/",
+    "stem": "En una paciente con pancreatitis aguda confirmada, ¿qué evaluación debe guiar de inmediato el nivel de vigilancia y soporte durante las primeras 48 horas?",
+    "options": [
+      "La magnitud de la elevación inicial de amilasa y lipasa.",
+      "Esperar que una TC temprana demuestre necrosis.",
+      "Reevaluar en serie la perfusión y la función respiratoria, cardiovascular y renal para detectar falla orgánica.",
+      "Decidir sólo por el primer valor de proteína C reactiva."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:6",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La hipertensión venosa crónica produce edema, depósito de hemosiderina y cambios tróficos. La localización medial por encima del maléolo y los bordes irregulares de una lesión superficial son típicos. Se evalúa además la circulación arterial antes de indicar compresión.",
+    "o": {
+      "B": "Una úlcera por isquemia crítica suele ser distal, dolorosa y de bordes más netos, con signos de mala perfusión.",
+      "C": "Una lesión por presión sacra tendría otra localización y antecedente de presión prolongada.",
+      "D": "La congelación requiere exposición al frío y no explica el patrón de estasis crónica."
+    },
+    "src": "Wounds Australia · Clinical Practice Guideline for Venous Leg Ulcers, Assessment, 2025",
+    "src_url": "https://d122d2wjqead0l.cloudfront.net/AP/Int/woundsaus/uploads/Publications/venous%20leg%20ulcer%20assessment%20section-2025.pdf",
+    "stem": "Úlcera perimaleolar medial superficial con bordes irregulares, edema crónico, hiperpigmentación ocre y pulsos conservados. ¿Cuál es su origen más probable?",
+    "options": [
+      "Venoso",
+      "Isquemia arterial crítica",
+      "Presión sacra",
+      "Congelación"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:7",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Para un adenocarcinoma localizado y resecable de la cabeza pancreática, la duodenopancreatectomía cefálica o cirugía de Whipple permite resección oncológica con intención curativa. El plan sistémico se individualiza en equipo multidisciplinario.",
+    "o": {
+      "A": "El stent y la derivación digestiva alivian obstrucciones, pero no resecan el tumor.",
+      "B": "La enucleación o tumorectomía aislada no asegura una resección oncológica adecuada del adenocarcinoma ductal.",
+      "C": "El bloqueo del plexo celíaco es analgésico. Una pancreatectomía total no se justifica de rutina para un tumor limitado a la cabeza."
+    },
+    "src": "National Cancer Institute · Pancreatic Cancer Treatment (PDQ), cirugía del adenocarcinoma resecable",
+    "src_url": "https://www.cancer.gov/types/pancreatic/hp/pancreatic-treatment-pdq?cid=eb_govdel",
+    "stem": "Paciente de 66 años apto para cirugía mayor con adenocarcinoma ductal de cabeza pancreática, estadificado como resecable, sin compromiso vascular relevante ni metástasis. ¿Qué operación ofrece intención curativa?"
+  },
+  {
+    "originalId": "diciembre-2024:8",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En el trauma abdominal penetrante con peritonitis generalizada se requiere laparotomía urgente mientras continúa la reanimación. La estabilidad tensional no excluye perforación ni hace seguro demorar la cirugía.",
+    "o": {
+      "A": "Suturar la piel no identifica ni controla una lesión visceral intraperitoneal.",
+      "B": "La TC ayuda a seleccionar el manejo en pacientes estables sin peritonitis. En este cuadro demoraría el control quirúrgico.",
+      "C": "Las radiografías simples no resuelven la indicación de exploración ante peritonitis franca."
+    },
+    "src": "EAST · Penetrating Abdominal Trauma, Selective Non-Operative Management, indicaciones de laparotomía urgente",
+    "src_url": "https://www.east.org/education-resources/practice-management-guidelines/details/penetrating-abdominal-trauma%2C-selective-non-operative-management-of",
+    "stem": "Adulto con herida penetrante abdominal y exteriorización de epiplón. Tras la evaluación inicial está lúcido, con TA 110/70 mmHg, defensa involuntaria difusa y dolor a la descompresión alejados de la herida. ¿Qué conducta corresponde ante estos signos de peritonitis generalizada?"
+  },
+  {
+    "originalId": "diciembre-2024:9",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En un derrame paraneumónico, pH de 6,95, glucosa baja y LDH alta señalan infección pleural complicada. Con líquido accesible por ecografía se coloca drenaje pleural además de ajustar los antibióticos. Un Gram negativo no excluye infección.",
+    "o": {
+      "B": "El perfil bioquímico es el de un derrame inflamatorio complicado. No hay indicación de punzar el lado opuesto.",
+      "C": "La observación aislada deja una colección que requiere control del foco.",
+      "D": "Revisar la cobertura antibiótica es apropiado, pero cambiar fármacos sin drenar el derrame accesible resulta insuficiente."
+    },
+    "src": "British Thoracic Society · Guideline for pleural disease, infección pleural y drenaje, 2023",
+    "src_url": "https://thorax.bmj.com/content/thoraxjnl/early/2023/08/08/thorax-2023-220304.full.pdf",
+    "stem": "Adulto con neumonía en tratamiento y deterioro clínico. Tiene derrame pleural ipsilateral accesible para drenaje ecoguiado, con pH 6,95 medido correctamente, glucosa baja y LDH 2.000 U/L. Gram sin microorganismos visibles. Además del antibiótico, ¿qué intervención corresponde?"
+  },
+  {
+    "originalId": "diciembre-2024:10",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En varones con aneurisma abdominal de 40 a 49 mm, la ESVS recomienda considerar ecografía anual. El seguimiento se adelanta si aparecen síntomas o se detecta crecimiento acelerado.",
+    "o": {
+      "B": "El control mensual no es el intervalo habitual para este aneurisma estable de 40 mm.",
+      "C": "Diez años exceden el intervalo recomendado y podrían permitir que un crecimiento relevante pase inadvertido.",
+      "D": "A partir de este diámetro se necesita vigilancia aun cuando no haya síntomas."
+    },
+    "src": "ESVS · Clinical Practice Guidelines on the Management of Abdominal Aorto-Iliac Artery Aneurysms, 2024",
+    "src_url": "https://iris.unito.it/retrieve/6f776ee6-73cf-4149-bb9a-ea9fb6303188/ESVS%20Guidelines%20AAA%202024.pdf",
+    "stem": "Varón con aneurisma aórtico infrarrenal asintomático de 40 mm sin crecimiento rápido. Según ESVS 2024, ¿qué intervalo de vigilancia ecográfica corresponde?",
+    "options": [
+      "Anual",
+      "Mensual",
+      "Cada diez años",
+      "No necesita seguimiento"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:11",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La fiebre con dolor y rebote focal en fosa ilíaca derecha en un adolescente sugiere inflamación apendicular con irritación peritoneal. Requiere valoración urgente; el examen orienta y se completa según el riesgo clínico.",
+    "o": {
+      "B": "Una obstrucción suele manifestarse con dolor cólico, vómitos y distensión. La irritación focal febril orienta más a apendicitis.",
+      "C": "La colecistitis suele localizar el dolor en hipocondrio derecho, no en fosa ilíaca derecha.",
+      "D": "Aunque existe diverticulitis derecha, es menos habitual a esta edad y el cuadro es más característico de apendicitis."
+    },
+    "src": "WSES · Diagnosis and Treatment of Acute Appendicitis, Jerusalem Guidelines, edición 2025",
+    "src_url": "https://doi.org/10.1001/jamasurg.2025.6218"
+  },
+  {
+    "originalId": "diciembre-2024:12",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La TC muestra diverticulitis sigmoidea. Aunque no hay absceso ni perforación, la inmunosupresión aumenta el riesgo de complicaciones y justifica iniciar antibióticos con cobertura para gramnegativos y anaerobios y realizar control clínico estrecho.",
+    "o": {
+      "B": "No se describe dilatación con punto de transición. Una sonda nasogástrica no trata el foco diverticular.",
+      "C": "El proceso está centrado en el sigmoides y no en el apéndice.",
+      "D": "No se describe una masa obstructiva ni perforación que indique cirugía oncológica urgente. La evaluación colónica ulterior se decide tras resolver la inflamación."
+    },
+    "src": "AGA · Clinical Practice Update on Medical Management of Colonic Diverticulitis, consejos 6 y 7",
+    "src_url": "https://www.giboardreview.com/wp-content/uploads/2021/12/Guidelines-AGA-diverticulitis-2021.pdf",
+    "stem": "Adulto de 60 años en tratamiento inmunosupresor, con fiebre y dolor en fosa ilíaca izquierda. La TC muestra inflamación de divertículos sigmoideos, sin absceso, obstrucción ni perforación. ¿Cuál es el diagnóstico y la conducta inicial apropiada?",
+    "options": [
+      "Diverticulitis aguda: iniciar antibióticos y vigilancia clínica estrecha.",
+      "Obstrucción intestinal: colocar únicamente sonda nasogástrica.",
+      "Apendicitis aguda: realizar apendicectomía.",
+      "Cáncer de colon: realizar resección oncológica urgente."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:13",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Con ritmo sinusal estable, una P que súbitamente no conduce, entre latidos con PR fijo antes y después de la pausa, caracteriza el Mobitz II. Asociado a síncope exige evaluación urgente por riesgo de progresión.",
+    "o": {
+      "A": "En el bloqueo completo las aurículas y los ventrículos laten de manera independiente, en vez de alternar conducción normal y fallas aisladas.",
+      "C": "En el primer grado todas las ondas P conducen con PR prolongado.",
+      "D": "En el Wenckebach clásico el PR se prolonga progresivamente antes del latido bloqueado y se acorta al reiniciar la secuencia."
+    },
+    "src": "SOLAECE · Curso de electrocardiografía, criterios para bloqueo AV de segundo grado Mobitz II",
+    "src_url": "https://www.cardiolatina.com/wp-content/uploads/2022/08/SOLAECE-Virtual-Course-Clase-15-esp.pdf",
+    "stem": "Adulto con síncope. El ECG muestra ritmo sinusal con PP constante. Después de varios latidos conducidos aparece una P sin QRS. El PR es idéntico en todos los latidos conducidos antes y después de la pausa. ¿Cuál es el diagnóstico?"
+  },
+  {
+    "originalId": "diciembre-2024:14",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Las fluctuaciones cognitivas, las alucinaciones visuales recurrentes y el parkinsonismo espontáneo son características centrales de demencia con cuerpos de Lewy. Que el deterioro cognitivo aparezca antes o casi al mismo tiempo que los signos motores apoya este diagnóstico.",
+    "o": {
+      "A": "En la demencia frontotemporal predominan cambios conductuales o del lenguaje. La tríada de fluctuaciones, alucinaciones visuales y parkinsonismo temprano favorece cuerpos de Lewy.",
+      "C": "El Alzheimer típico comienza con deterioro amnésico progresivo. Alucinaciones y parkinsonismo precoces orientan a otro perfil.",
+      "D": "Para atribuir la demencia a Parkinson se espera una enfermedad motora establecida más de un año antes del comienzo de la demencia."
+    },
+    "src": "DLB Consortium · Diagnosis and management of dementia with Lewy bodies, cuarto informe de consenso",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/5496518/"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
