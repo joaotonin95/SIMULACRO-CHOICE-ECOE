@@ -922,6 +922,335 @@
       "Al año.",
       "A los tres años."
     ]
+  },
+  {
+    "originalId": "diciembre-2022:42",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Richmond explora el interés, la intención y la expectativa de lograr dejar de fumar. Sus respuestas orientan la conversación sobre un intento de cesación.",
+    "o": {
+      "A": "La dependencia física a la nicotina se explora con el test de Fagerström.",
+      "C": "El monóxido de carbono espirado requiere una medición con cooxímetro.",
+      "D": "El riesgo cardiovascular requiere datos clínicos y metabólicos que Richmond no recoge."
+    },
+    "src": "Ministerio de Salud de Colombia · Directrices de cesación del tabaco, anexo 6, test de Richmond",
+    "src_url": "https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/directrices-cesacion-consumo-atencion-tabaco.pdf",
+    "stem": "En una consulta de cesación tabáquica, ¿qué evalúa el test de Richmond? Las alternativas fueron reconstruidas porque no figuran en el PDF."
+  },
+  {
+    "originalId": "diciembre-2022:43",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En la acalasia falla la relajación de la unión esofagogástrica y se pierde la peristalsis normal del cuerpo esofágico. En el subtipo III pueden registrarse contracciones prematuras.",
+    "o": {
+      "A": "El defecto de relajación característico afecta al esfínter inferior, no al superior.",
+      "C": "La alteración simultánea de ambos esfínteres no es un requisito diagnóstico.",
+      "D": "La relajación inferior conservada con ausencia de contracciones orienta a contractilidad ausente y requiere distinguirla de acalasia."
+    },
+    "src": "ASGE · Guideline on the management of achalasia, diagnóstico manométrico",
+    "src_url": "https://www.asge.org/docs/default-source/guidelines/asge-guideline-on-the-management-of-achalasia-2020-february-gie.pdf",
+    "stem": "¿Qué combinación de hallazgos manométricos caracteriza la acalasia?",
+    "options": [
+      "Relajación deficiente del esfínter superior y pérdida de la peristalsis normal.",
+      "Relajación deficiente del esfínter inferior y pérdida de la peristalsis normal.",
+      "Falla obligatoria de relajación de ambos esfínteres y pérdida de la peristalsis normal.",
+      "Relajación normal del esfínter inferior y ausencia de contracciones en el cuerpo esofágico."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:44",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "A los siete meses, la FC de 148 suma 2 puntos y la FR de 55 suma 2. Las sibilancias inspiratorias y espiratorias con estetoscopio suman 2, y el tiraje con aleteo nasal, 3. El total es 9, correspondiente a obstrucción grave.",
+    "o": {
+      "A": "Están informadas las cuatro variables de esta versión del puntaje, incluida la edad para interpretar la FR.",
+      "B": "La categoría moderada abarca de 5 a 8 puntos. Contar solo el tiraje omitiría el aleteo nasal.",
+      "D": "La categoría leve corresponde a 4 puntos o menos."
+    },
+    "src": "Revista Pediátrica Elizalde · Bronquiolitis (2024), tabla 3, Tal modificado",
+    "src_url": "https://apelizalde.org/revistas/2024-1-ARTICULOS/RE_2024_1_PD_2.pdf",
+    "stem": "Lactante de siete meses con bronquiolitis, afebril y sin llanto durante la evaluación. FC 148/min, FR 55/min, sibilancias inspiratorias y espiratorias audibles solo con estetoscopio, tiraje generalizado y aleteo nasal. Según la tabla de Tal modificado que utiliza FC, FR por edad, sibilancias y músculos accesorios, ¿cómo se clasifica la obstrucción?"
+  },
+  {
+    "originalId": "diciembre-2022:45",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El Ministerio recomienda tomar la muestra antes del egreso, preferentemente entre las 48 y las 72 horas. Esta ventana facilita la detección precoz y el tratamiento oportuno.",
+    "o": {
+      "A": "La toma en las primeras horas no es la ventana preferida para un recién nacido que seguirá internado hasta las 72 horas.",
+      "C": "Esperar hasta la segunda semana demora el diagnóstico de enfermedades tratables.",
+      "D": "Diferir la muestra al mes retrasa el inicio del tratamiento y aumenta el riesgo de secuelas."
+    },
+    "src": "Ministerio de Salud de la Nación · Pesquisa neonatal, prueba del talón",
+    "src_url": "https://www.argentina.gob.ar/salud/glosario/pesquisaneonatal",
+    "stem": "Un recién nacido de término sano permanecerá en la maternidad hasta las 72 horas. ¿En qué momento se prefiere tomar la muestra del talón para la pesquisa neonatal argentina, que incluye hipotiroidismo congénito y fenilcetonuria?",
+    "options": [
+      "En las primeras seis horas.",
+      "Entre las 48 y las 72 horas de vida.",
+      "En la segunda semana de vida.",
+      "Al cumplir un mes."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:46",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La combinación de fiebre, edema palpebral, mialgias, eosinofilia y CPK elevada orienta a la fase muscular de la triquinosis. Conviene preguntar por consumo de carne o chacinados sin control sanitario.",
+    "o": {
+      "A": "La fascitis eosinofílica suele producir edema e induración de las extremidades más que este cuadro febril con edema palpebral.",
+      "B": "La esquistosomiasis aguda puede producir fiebre y eosinofilia, pero orienta la exposición a agua dulce en zona endémica y explica peor el patrón muscular.",
+      "C": "La hidatidosis suele manifestarse por quistes hepáticos o pulmonares y no por una miositis febril de este tipo."
+    },
+    "src": "Argentina · Ficha técnica n.º 4, Triquinosis, 2024",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/ficha_triquino.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:47",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En la fiebre hemorrágica argentina por virus Junín, el plasma inmune de personas recuperadas reduce la mortalidad si se administra durante los primeros ocho días de enfermedad.",
+    "o": {
+      "A": "En dengue grave se prioriza sostén hemodinámico y manejo del sangrado según indicación.",
+      "C": "El plasma inmune contra Junín no trata el síndrome cardiopulmonar por hantavirus.",
+      "D": "El tratamiento de la fiebre amarilla es de sostén. El plasma específico de Junín no tiene indicación."
+    },
+    "src": "Ministerio de Salud de la Nación · Boletín Epidemiológico Nacional 775, fiebre hemorrágica argentina",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2025/01/ben-775-se_38.pdf",
+    "stem": "En la Argentina, ¿para cuál de estas enfermedades se indica plasma inmune específico de convalecientes como tratamiento temprano con beneficio demostrado?"
+  },
+  {
+    "originalId": "diciembre-2022:48",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El calendario argentino indica una dosis de triple bacteriana acelular de formulación para adolescentes y adultos (dTpa) en el año en que se cumplen los 11 años.",
+    "o": {
+      "A": "A los seis meses el componente contra coqueluche forma parte del esquema primario del lactante.",
+      "B": "Los doce meses no corresponden al refuerzo adolescente con dTpa.",
+      "C": "El refuerzo del ingreso escolar corresponde a otra etapa y formulación."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacuna triple bacteriana acelular, indicaciones del calendario",
+    "src_url": "https://www.argentina.gob.ar/salud/vacunas/triplebacterianaacelular",
+    "stem": "Según el calendario nacional argentino, ¿a qué edad corresponde el refuerzo adolescente de rutina con dTpa?"
+  },
+  {
+    "originalId": "diciembre-2022:49",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Una embarazada conviviente de un caso de enfermedad meningocócica invasiva requiere profilaxis cuanto antes. El manual argentino indica ceftriaxona 250 mg IM en dosis única para una adulta embarazada.",
+    "o": {
+      "A": "Trimetoprima-sulfametoxazol no integra los esquemas recomendados para esta exposición.",
+      "C": "La ciprofloxacina puede ser una alternativa en otros adultos según susceptibilidad. Para esta embarazada, la guía indica ceftriaxona."
+    },
+    "src": "Ministerio de Salud · Manual de vigilancia de eventos de notificación obligatoria 2026, quimioprofilaxis meningocócica, tabla 2",
+    "src_url": "https://salud.neuquen.gob.ar/wp-content/uploads/2026/03/Manual-de-normas-2026_VF-1.pdf",
+    "stem": "Embarazada de 27 años, sin alergias, conviviente de una persona con meningitis meningocócica confirmada. Según el manual argentino de vigilancia, ¿qué quimioprofilaxis corresponde?",
+    "options": [
+      "Trimetoprima-sulfametoxazol por vía oral.",
+      "Ceftriaxona 250 mg intramuscular, dosis única.",
+      "Ciprofloxacina 500 mg por vía oral como primera elección en el embarazo."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:50",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En una primera convulsión se solicita ayuda de emergencia, se apartan objetos peligrosos, se protege la cabeza y se controla la duración. Al ceder las sacudidas se evalúa la respiración y, si respira, se coloca a la persona de costado.",
+    "o": {
+      "B": "Forzar la apertura de la boca puede lesionar dientes y tejidos, además de exponer al rescatista a mordeduras.",
+      "C": "Sujetar las extremidades no interrumpe la descarga y puede causar lesiones.",
+      "D": "Dar comprimidos o líquidos durante la crisis implica riesgo de aspiración."
+    },
+    "src": "Epilepsy Foundation · Primeros auxilios para crisis epilépticas",
+    "src_url": "https://www.epilepsy.com/espanol/primeros-auxilios-para-crisis-epilepticas",
+    "stem": "Presenciás la primera crisis tónico-clónica de un adulto en la vía pública. ¿Cuál es la conducta inicial de primeros auxilios?"
+  },
+  {
+    "originalId": "diciembre-2022:51",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La exposición al humo con cefalea y mareos justifica retirar al paciente de la fuente y administrar oxígeno al 100 % con máscara con reservorio, mientras se evalúan vía aérea, respiración y circulación. La lucidez no excluye intoxicación.",
+    "o": {
+      "B": "Un broncodilatador puede ayudar si hay broncoespasmo, pero no acelera la eliminación del CO.",
+      "C": "La persistencia de síntomas tras el incendio exige oxígeno y evaluación médica.",
+      "D": "La determinación de carboxihemoglobina ayuda a confirmar la exposición, pero no debe demorar la oxigenoterapia."
+    },
+    "src": "CDC · Clinical Guidance for Carbon Monoxide Poisoning, tratamiento inicial",
+    "src_url": "https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html"
+  },
+  {
+    "originalId": "diciembre-2022:52",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La hematuria glomerular con cilindros hemáticos, edema e hipertensión corresponde a un síndrome nefrítico. Los eritrocitos dismórficos ayudan a localizar el origen del sangrado.",
+    "o": {
+      "A": "El tumor testicular suele manifestarse por una masa escrotal y no produce cilindros hemáticos.",
+      "C": "La uretritis gonocócica suele causar secreción y disuria, sin sedimento glomerular.",
+      "D": "El cólico renal puede causar hematuria con dolor lumbar, pero no explica los cilindros hemáticos ni el edema."
+    },
+    "src": "Manual MSD profesional · Generalidades sobre el síndrome nefrítico, sedimento urinario",
+    "src_url": "https://www.msdmanuals.com/es/professional/nefrolog%C3%ADa/glomerulopat%C3%ADas/generalidades-sobre-el-s%C3%ADndrome-nefr%C3%ADtico",
+    "stem": "Varón de 42 años con orina color té sin coágulos, edema de miembros inferiores y TA 150/95 mmHg. El sedimento muestra eritrocitos dismórficos y cilindros hemáticos. ¿Qué síndrome explica el cuadro?"
+  },
+  {
+    "originalId": "diciembre-2022:53",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Una CVF baja con relación VEF1/CVF conservada sugiere restricción. Para confirmarla se necesita una capacidad pulmonar total por debajo del límite inferior de normalidad.",
+    "o": {
+      "A": "La CVF está por debajo del límite inferior de normalidad.",
+      "B": "La obstrucción se identifica por una relación VEF1/CVF reducida.",
+      "C": "Un trastorno mixto requiere obstrucción y una capacidad pulmonar total reducida. Ninguna de las dos está documentada aquí."
+    },
+    "src": "ERS/ATS · Technical standard on interpretive strategies for routine lung function tests, volúmenes pulmonares",
+    "src_url": "https://erj.ersjournals.com/content/erj/60/1/2101499.full.pdf",
+    "stem": "Espirometría aceptable y reproducible: CVF por debajo del límite inferior de normalidad y relación VEF1/CVF por encima de ese límite. No se midieron volúmenes pulmonares. ¿Cómo informás el hallazgo?",
+    "options": [
+      "Espirometría normal.",
+      "Defecto obstructivo confirmado.",
+      "Trastorno mixto confirmado.",
+      "Posible restricción que requiere medir la capacidad pulmonar total."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:54",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La elevación leve e intermitente de bilirrubina no conjugada, con enzimas hepáticas normales y sin hemólisis, es característica de Gilbert. El ayuno puede hacerla más evidente.",
+    "o": {
+      "A": "Dubin-Johnson produce hiperbilirrubinemia predominantemente conjugada.",
+      "C": "En la colestasis suelen elevarse la fosfatasa alcalina y la fracción conjugada.",
+      "D": "La pancreatitis crónica no explica por sí misma la elevación indirecta aislada. Si obstruye la vía biliar, el patrón es colestásico."
+    },
+    "src": "Manual MSD profesional · Trastornos congénitos del metabolismo de la bilirrubina, síndrome de Gilbert",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-hep%C3%A1ticos-y-biliares/abordaje-del-paciente-con-hepatopat%C3%ADas/trastornos-cong%C3%A9nitos-del-metabolismo-causantes-de-hiperbilirrubinemia",
+    "stem": "Adulto joven asintomático con episodios de bilirrubina total de 2,4 mg/dL, de predominio indirecto, más notorios en ayunas. Transaminasas, fosfatasa alcalina, hemograma y estudios de hemólisis normales. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "diciembre-2022:55",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Es incorrecto atribuirle origen en el facial. El schwannoma vestibular suele originarse en la porción vestibular del VIII par. El VII par puede afectarse por compresión cuando el tumor crece.",
+    "o": {
+      "A": "La hipoacusia neurosensorial unilateral o asimétrica de instalación progresiva es una presentación habitual.",
+      "C": "Los acúfenos pueden acompañar la pérdida auditiva del mismo lado.",
+      "D": "El compromiso vestibular puede causar inestabilidad. La intensidad es variable."
+    },
+    "src": "EANO · Guideline on the diagnosis and treatment of vestibular schwannoma, presentación clínica",
+    "src_url": "https://www.eano.eu/publications/eano-guidelines/eano-guideline-on-the-diagnosis-and-treatment-of-vestibular-schwannoma/",
+    "stem": "Acerca del schwannoma vestibular, también llamado neurinoma acústico, ¿cuál es el enunciado INCORRECTO?",
+    "options": [
+      "Puede presentarse con hipoacusia neurosensorial unilateral progresiva.",
+      "Se origina habitualmente en el nervio facial (VII par).",
+      "Puede producir acúfenos ipsilaterales.",
+      "Puede acompañarse de alteración del equilibrio."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:56",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Es incorrecto afirmar que el seno cavernoso carece de estructuras nerviosas relevantes. Las lesiones de esta región pueden asociar oftalmoplejía y trastornos sensitivos faciales.",
+    "o": {
+      "A": "La afectación de III, IV o VI puede alterar los movimientos oculares y causar diplopía.",
+      "B": "La afectación de V1 puede reducir la sensibilidad corneal y frontal.",
+      "C": "III, IV, V1 y V2 se relacionan con la pared lateral. El VI discurre junto a la carótida interna dentro del seno."
+    },
+    "src": "StatPearls · Cavernous Sinus Syndromes, anatomía y manifestaciones clínicas",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK532976/",
+    "stem": "En relación con una lesión del seno cavernoso, ¿cuál de los siguientes enunciados es INCORRECTO?",
+    "options": [
+      "Puede provocar alteraciones de los movimientos oculares.",
+      "Puede disminuir la sensibilidad corneal y frontal.",
+      "Puede comprometer los pares III, IV, VI y las divisiones V1 y V2 del trigémino.",
+      "No guarda relación con nervios craneales y no produce signos neurológicos."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:57",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La marcha magnética asociada a deterioro cognitivo, incontinencia y ventriculomegalia orienta a hidrocefalia normotensiva. La mejoría tras evacuar LCR refuerza el diagnóstico. El traumatismo es una causa secundaria posible.",
+    "o": {
+      "A": "Una hemorragia subaracnoidea aguda suele debutar de manera brusca. No explica por sí sola este patrón crónico con respuesta al drenaje.",
+      "C": "En Alzheimer suelen predominar inicialmente las alteraciones de memoria y no se espera esta respuesta de la marcha al drenaje.",
+      "D": "Un hematoma subdural crónico puede aparecer después de un traumatismo, pero la imagen mostraría una colección extraaxial."
+    },
+    "src": "Manual MSD profesional · Normal Pressure Hydrocephalus, diagnóstico y respuesta al drenaje",
+    "src_url": "https://www.msdmanuals.com/professional/neurologic-disorders/delirium-and-dementia/normal-pressure-hydrocephalus",
+    "stem": "Meses después de un traumatismo craneal, un adulto presenta marcha magnética, deterioro cognitivo e incontinencia. Hay ventriculomegalia y mejoría de la marcha tras evacuar LCR. ¿Diagnóstico más probable?",
+    "options": [
+      "Hemorragia subaracnoidea",
+      "Hidrocefalia normotensiva",
+      "Demencia tipo Enfermedad de Alzheimer de inicio tardío",
+      "Hematoma subdural crónico"
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:58",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La TC de cráneo sin contraste es el estudio inicial urgente para detectar sangre subaracnoidea. La sensibilidad es mayor durante las primeras seis horas; ante una TC negativa se considera el tiempo transcurrido y la sospecha clínica.",
+    "o": {
+      "A": "La radiografía evalúa estructuras óseas y no permite excluir sangrado subaracnoideo.",
+      "C": "La RM lumbar no evalúa el sangrado intracraneal agudo.",
+      "D": "El Doppler carotídeo estudia los vasos del cuello y no detecta la sangre subaracnoidea."
+    },
+    "src": "NICE NG228 · Hemorragia subaracnoidea aneurismática, evaluación e imagen diagnóstica",
+    "src_url": "https://www.nice.org.uk/guidance/NG228/chapter/recommendations",
+    "stem": "Adulta estabilizada tras cefalea en trueno y deterioro de conciencia. ¿Qué imagen solicitar inicialmente ante sospecha de hemorragia subaracnoidea?",
+    "options": [
+      "Radiografía de cráneo",
+      "TC de cráneo sin contraste",
+      "RM lumbar",
+      "Doppler carotídeo"
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:59",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La afasia y la hemiparesia de una hora son déficits potencialmente discapacitantes. Se activa el código ACV, se evalúa NIHSS, elegibilidad y oclusión de gran vaso. Para trombólisis IV hay que reducir la TA por debajo de 185/110 mmHg antes de administrarla.",
+    "o": {
+      "B": "Llevar la TA rápidamente a valores normales puede perjudicar la perfusión cerebral y demorar la reperfusión.",
+      "C": "La heparina inmediata por fibrilación auricular no reemplaza la reperfusión y aumenta el riesgo de sangrado.",
+      "D": "La observación aislada pierde tiempo dentro de la ventana terapéutica."
+    },
+    "src": "AHA/ASA · Guía 2026 de manejo temprano del ACV isquémico, trombólisis IV y presión arterial",
+    "src_url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000513",
+    "stem": "Paciente de 68 años con fibrilación auricular, sin anticoagulación, afasia y hemiparesia derecha de inicio hace una hora. Glucemia normal, TA 200/120 mmHg y TC sin hemorragia. ¿Qué conducta inicial permite evaluar reperfusión de manera segura?",
+    "options": [
+      "Activar código ACV, cuantificar el déficit y evaluar reperfusión. Si es candidata a trombólisis IV, reducir antes la TA a menos de 185/110 mmHg.",
+      "Normalizar la TA antes de activar el equipo de ACV.",
+      "Administrar heparina terapéutica de inmediato por la fibrilación auricular.",
+      "Esperar la evolución clínica y solicitar solo laboratorio."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:60",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La IgA antitransglutaminasa tisular (TG2) puede detectarse en suero por la asociación con enfermedad celíaca. El hallazgo confirmatorio típico es el depósito granular de IgA en piel perilesional por inmunofluorescencia directa.",
+    "o": {
+      "A": "Los anticuerpos frente a componentes de los hemidesmosomas, como BP180, orientan a penfigoide ampollar.",
+      "C": "Los anti-ADN de doble cadena se asocian con lupus eritematoso sistémico.",
+      "D": "Los anticuerpos antimitocondriales se asocian con colangitis biliar primaria."
+    },
+    "src": "EADV · Guía S2k de dermatitis herpetiforme, serología e inmunofluorescencia directa",
+    "src_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jdv.17183"
+  },
+  {
+    "originalId": "diciembre-2022:61",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una úlcera genital previa seguida de exantema no pruriginoso con compromiso palmoplantar orienta a sífilis secundaria. Se solicitan pruebas treponémicas y no treponémicas, se ofrece test de VIH y se evalúa tratamiento oportuno y atención de las parejas.",
+    "o": {
+      "B": "Una micosis superficial suele presentar descamación u otros signos locales y no explica esta secuencia clínica.",
+      "C": "La biopsia puede ser útil si persisten dudas, pero los antecedentes y la distribución justifican evaluar sífilis de entrada.",
+      "D": "Los antihistamínicos no tratan la infección ni permiten interrumpir su transmisión."
+    },
+    "src": "Ministerio de Salud de la Nación · Abordaje de la sífilis en personas adultas, diagnóstico serológico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/04/abordaje_de_la_sifilis_en_personas_adultas_2662024_0.pdf",
+    "stem": "Paciente de 30 años con exantema no pruriginoso en tronco, palmas y plantas. Refiere una úlcera indolora en el glande que desapareció espontáneamente semanas atrás. ¿Cuál es la sospecha y el abordaje diagnóstico inicial?"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
