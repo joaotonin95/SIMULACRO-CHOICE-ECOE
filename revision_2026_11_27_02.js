@@ -1560,6 +1560,337 @@
     },
     "src": "Ministerio de Salud de la Nación · Guía nacional de tratamiento de la adicción al tabaco, versión breve 2024, bupropión",
     "src_url": "https://www.argentina.gob.ar/sites/default/files/2023/10/gpc-tabaco-breve-08-2024_2392024-2.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:82",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Ante la rotura del preservativo hace 12 horas, puede tomar levonorgestrel 1,5 mg en una dosis cuanto antes. La migraña, el tabaquismo y el propranolol no contraindican este método de emergencia sin estrógeno.",
+    "o": {
+      "B": "Un único comprimido de 0,75 mg aporta la mitad de la dosis total.",
+      "C": "Las precauciones que se aplican a ciertos anticonceptivos con estrógeno no impiden usar levonorgestrel de emergencia.",
+      "D": "No se requieren análisis de rutina antes de administrarlo. Esperar demoraría el acceso."
+    },
+    "src": "AMAdA · Consenso de anticoncepción de emergencia 2026, anticonceptivos orales de emergencia",
+    "src_url": "https://amada.org.ar/images/AMAdA_Consenso_de_anticoncepcion_de_emergencia_2026.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:83",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Los CDC estiman que, de tres a seis años después de dejar de fumar, el exceso de riesgo de enfermedad coronaria cae aproximadamente a la mitad. La referencia es el exceso atribuible al tabaco, y cada desenlace cardiovascular tiene su propia evolución.",
+    "o": {
+      "A": "Durante los primeros meses ya hay beneficios respiratorios, pero ese no es el intervalo señalado para el desenlace preguntado.",
+      "B": "El riesgo de infarto comienza a bajar con rapidez en los primeros años. Eso no equivale al plazo que la fuente asigna a la mitad del exceso coronario.",
+      "D": "Aproximadamente a los quince años el riesgo coronario se acerca al de una persona que no fuma."
+    },
+    "src": "CDC · Benefits of Quitting Smoking, cronología del riesgo coronario",
+    "src_url": "https://www.cdc.gov/tobacco/about/benefits-of-quitting.html",
+    "stem": "Según la cronología de los CDC, ¿en qué intervalo después de dejar de fumar cae aproximadamente a la mitad el exceso de riesgo de enfermedad coronaria atribuible al tabaco?",
+    "options": [
+      "A los seis meses.",
+      "Al cumplirse un año.",
+      "Entre los tres y los seis años.",
+      "Al cumplirse quince años."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:84",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "A los 70 años la paciente está dentro del grupo de tamizaje mamario y colorrectal. Desde los 65 años también corresponde pesquisa de osteoporosis en mujeres. Se verifica qué estudios están pendientes según los intervalos recomendados.",
+    "o": {
+      "A": "La pesquisa de aneurisma de aorta abdominal no se recomienda en una mujer que nunca fumó y no tiene antecedente familiar.",
+      "B": "Con pesquisa cervical previa adecuada y sin factores de alto riesgo, después de los 65 años no se indica continuarla de rutina.",
+      "C": "Mama y colon son correctos, pero la pesquisa aórtica no se justifica con este perfil."
+    },
+    "src": "AAFP · Adult Preventive Health Care Schedule, recomendaciones de la USPSTF para mujeres",
+    "src_url": "https://www.aafp.org/assets/image/upload/v1780508286/USPSTFHealthCareSchedule2024.pdf",
+    "stem": "Mujer asintomática de 70 años, de riesgo promedio, que nunca fumó, sin antecedente familiar de aneurisma aórtico ni fractura por fragilidad. Tiene tamizaje cervical previo adecuado y negativo, sin lesión de alto grado. Según la USPSTF, ¿qué conjunto de pesquisas corresponde considerar según edad e intervalos?",
+    "options": [
+      "Cáncer de mama y aneurisma de aorta abdominal.",
+      "Cáncer de mama, cáncer colorrectal y cáncer de cuello uterino.",
+      "Cáncer de mama, cáncer colorrectal y aneurisma de aorta abdominal.",
+      "Cáncer de mama, cáncer colorrectal y osteoporosis."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:85",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Una mordedura transdérmica por un animal no disponible en un área con circulación de rabia canina constituye una exposición grave. En una persona sin vacunación antirrábica previa, corresponde iniciar vacuna e inmunoglobulina, con infiltración de la herida según el protocolo.",
+    "o": {
+      "A": "La vacuna sola omite la inmunoglobulina indicada para esta exposición grave en una persona no inmunizada.",
+      "C": "La inmunoglobulina aporta protección pasiva transitoria y no sustituye el esquema activo de vacunación.",
+      "D": "La observación del animal no es posible. Esperar su aparición demoraría la profilaxis indicada."
+    },
+    "src": "Ministerio de Salud de la Nación · Lineamientos de vacuna antirrábica, profilaxis posexposición según categoría",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000794cnt-2012-03-15_lineamientos-antirrabica.pdf",
+    "stem": "Niño de siete años con mordedura profunda en la mano por un perro desconocido que no pudo localizarse, en un área con circulación confirmada de rabia canina. Nunca recibió vacuna antirrábica. Ya se lavó la herida y se evaluaron la profilaxis bacteriana y la antitetánica. ¿Qué profilaxis específica contra la rabia corresponde iniciar ahora?",
+    "options": [
+      "Únicamente vacuna antirrábica.",
+      "Vacuna antirrábica más inmunoglobulina antirrábica.",
+      "Solo inmunoglobulina antirrábica.",
+      "Esperar diez días por si aparece el perro antes de iniciar profilaxis."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:86",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con una colonoscopía completa y normal hace cinco años no corresponde repetir ahora el tamizaje de rutina. Entre los 76 y 85 años la decisión futura es individual y considera salud general, estudios previos y preferencias.",
+    "o": {
+      "B": "La edad por sí sola no imposibilita una colonoscopía ni indica un colon por enema.",
+      "C": "La hipertensión y el tabaquismo no ubican al paciente en un programa de vigilancia por pólipos, enfermedad intestinal o predisposición hereditaria.",
+      "D": "Agregar sangre oculta durante el intervalo de una colonoscopía normal de calidad no es la estrategia habitual seleccionada."
+    },
+    "src": "USPSTF · Screening for Colorectal Cancer, adultos de 76 a 85 años e intervalos",
+    "src_url": "https://www.uspreventiveservicestaskforce.org/Home/GetFile/1/522/rec-statement-colorectal-cancer-final/pdf",
+    "stem": "Varón asintomático de 79 años sin antecedente personal de pólipos, cáncer colorrectal ni enfermedad inflamatoria intestinal, y sin antecedente familiar relevante. Tuvo colonoscopía completa, con preparación adecuada y sin lesiones, hace cinco años. Según la USPSTF, ¿qué conducta corresponde hoy?",
+    "options": [
+      "No solicitar otro tamizaje ahora y conversar sobre futuros controles según salud, antecedentes de pesquisa y preferencias.",
+      "Solicitar colon por enema porque a esta edad está contraindicada la colonoscopía.",
+      "Iniciar vigilancia intensiva por ser hipertenso y fumador.",
+      "Agregar sangre oculta en materia fecal cada dos años desde ahora."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:87",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La fiebre alta con tos, coriza y conjuntivitis, seguida de un exantema que comienza en la cara y desciende al tronco, hace sospechar sarampión. El compromiso respiratorio puede acompañar la infección.",
+    "o": {
+      "A": "La escarlatina suele acompañar una faringitis y produce exantema áspero al tacto.",
+      "C": "En la varicela son típicas las vesículas en brotes y en distintos estadios.",
+      "D": "La rubéola suele ser más leve y puede acompañarse de adenopatías retroauriculares. Una lesión cutánea retroauricular no equivale a una adenopatía."
+    },
+    "src": "Ministerio de Salud de la Nación · Sarampión, síntomas y prevención",
+    "src_url": "https://www.argentina.gob.ar/salud/sarampion/sintomas"
+  },
+  {
+    "originalId": "diciembre-2022:88",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Para una persona adulta, la ley reconoce el acceso a las intervenciones previstas mediante su consentimiento informado. El equipo debe brindarle información suficiente sobre el procedimiento, riesgos y alternativas para que pueda decidir.",
+    "o": {
+      "A": "Una evaluación psiquiátrica para acreditar la identidad no es una condición legal de acceso.",
+      "B": "El artículo 11 no exige un diagnóstico de disforia para habilitar el derecho de una persona adulta.",
+      "C": "No se requiere autorización judicial ni administrativa para la intervención de una persona adulta."
+    },
+    "src": "Ley nacional 26.743 · Identidad de género, artículo 11, texto actualizado",
+    "src_url": "https://www.argentina.gob.ar/normativa/nacional/ley-26743-197860/actualizacion"
+  },
+  {
+    "originalId": "diciembre-2022:89",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una lesión periférica accesible por vía percutánea, especialmente en contacto con la pleura, permite obtener tejido mediante una biopsia transtorácica guiada por imágenes. La elección también depende de la seguridad del trayecto y del material necesario.",
+    "o": {
+      "B": "Una lesión central vecina a grandes vasos exige valorar otras vías y no ofrece el trayecto corto del nódulo subpleural.",
+      "C": "Una lesión central visible por vía endobronquial suele ser accesible por broncoscopía.",
+      "D": "Un ganglio mediastínico accesible por ecografía endobronquial puede estudiarse por EBUS y aportar información de estadio."
+    },
+    "src": "NICE NG122 · Lung cancer: diagnosis and management, elección de biopsia",
+    "src_url": "https://www.nice.org.uk/guidance/ng122/chapter/diagnosis-and-staging",
+    "stem": "Debe obtenerse tejido de una lesión sospechosa de cáncer de pulmón. ¿Cuál de estas localizaciones favorece una biopsia percutánea transtorácica guiada por imágenes, si el trayecto es seguro?",
+    "options": [
+      "Nódulo pulmonar periférico en contacto con la pleura costal.",
+      "Masa hiliar central adyacente a grandes vasos.",
+      "Lesión endobronquial central visible por broncoscopía.",
+      "Adenopatía mediastínica accesible por ecografía endobronquial."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:90",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En riesgo habitual se recomiendan 0,4 mg diarios, equivalentes a 400 microgramos, desde antes de la concepción y durante el primer trimestre. El comienzo preconcepcional importa porque el tubo neural cierra temprano.",
+    "o": {
+      "B": "Dos miligramos superan la dosis habitual de prevención primaria en esta situación.",
+      "C": "Cinco miligramos se reservan para situaciones de mayor riesgo, como un embarazo previo afectado por un defecto del tubo neural.",
+      "D": "Diez miligramos no son la dosis preventiva de rutina."
+    },
+    "src": "Ministerio de Salud de la Nación · GPC de atención prenatal de bajo riesgo, suplementación con ácido fólico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-07/GPC%20Atenci%C3%B3n%20Prenatal%20de%20Bajo%20Riesgo%202023.pdf",
+    "stem": "Una persona planifica un embarazo y no presenta factores de alto riesgo para defectos del tubo neural. ¿Qué dosis diaria de ácido fólico se recomienda para prevención primaria?"
+  },
+  {
+    "originalId": "diciembre-2022:91",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Para la vigilancia, ETI es una infección respiratoria aguda con fiebre de al menos 38 °C y tos, con inicio de síntomas dentro de los últimos diez días. La definición identifica un síndrome y no confirma por sí sola infección por virus influenza.",
+    "o": {
+      "A": "No se exige disnea ni taquipnea, que además pueden orientar a compromiso respiratorio más grave.",
+      "B": "Las sibilancias no son un requisito de la definición de vigilancia.",
+      "D": "La hemoptisis no define ETI y requiere evaluación específica."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de vigilancia de infecciones respiratorias agudas 2024, definición de ETI",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/guia_para_la_vigilancia_prevencion_y_control_ira-2024.pdf",
+    "stem": "Según la definición argentina de vigilancia, ¿qué cuadro corresponde a enfermedad tipo influenza (ETI)?",
+    "options": [
+      "Fiebre, disnea y taquipnea obligatorias, aun sin tos.",
+      "Fiebre y sibilancias obligatorias, aun sin tos.",
+      "Infección respiratoria aguda con fiebre ≥38 °C y tos, iniciada en los últimos diez días.",
+      "Fiebre y hemoptisis como requisitos indispensables."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:92",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La trama de estrías blancas persistentes en la mucosa yugal, que no se desprenden al raspado, es típica del liquen plano oral reticular. Puede ser asintomático.",
+    "o": {
+      "A": "La leucoplasia suele manifestarse como una placa blanca sin el patrón reticular fino característico.",
+      "B": "La mordedura repetida produce una mucosa irregular o desflecada en la línea de oclusión.",
+      "C": "Las placas del muguet seudomembranoso suelen desprenderse con el raspado."
+    },
+    "src": "DermNet · Oral lichen planus, variante reticular",
+    "src_url": "https://dermnetnz.org/topics/oral-lichen-planus"
+  },
+  {
+    "originalId": "diciembre-2022:93",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La ecocardiografía que demuestra regurgitación valvular significativa de aparición nueva, comparada con imágenes previas, constituye un criterio mayor. El mero cambio de intensidad de una insuficiencia preexistente no alcanza este criterio.",
+    "o": {
+      "B": "La temperatura documentada mayor de 38 °C es un criterio menor.",
+      "C": "La glomerulonefritis por inmunocomplejos corresponde a un fenómeno inmunológico, criterio menor.",
+      "D": "Una cardiopatía predisponente reconocida se contabiliza como criterio menor."
+    },
+    "src": "Duke–ISCVID 2023 · Criterios clínicos de endocarditis infecciosa, tabla 2",
+    "src_url": "https://thevalveclub.com.br/wp-content/uploads/2024/03/Post513_ciad271.pdf",
+    "stem": "Ante sospecha de endocarditis infecciosa, ¿cuál de estos hallazgos es un criterio mayor según Duke–ISCVID 2023?",
+    "options": [
+      "Regurgitación valvular significativa nueva documentada por ecocardiografía respecto de un estudio previo.",
+      "Fiebre documentada mayor de 38 °C.",
+      "Glomerulonefritis por inmunocomplejos.",
+      "Cardiopatía predisponente."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:94",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La OMS recomienda entre 14 y 17 horas totales de sueño por día para los primeros tres meses, incluidas las siestas. El intervalo orienta el cuidado y se interpreta junto con la alimentación y la facilidad para despertar al bebé.",
+    "o": {
+      "A": "Diez a doce horas está por debajo del intervalo recomendado para un recién nacido.",
+      "B": "Doce a trece horas tampoco alcanza el límite inferior de la recomendación.",
+      "C": "Ocho a diez horas corresponde a una duración mucho menor que la esperada a esta edad."
+    },
+    "src": "OMS · Sueño en recién nacidos y menores de cinco años, grupo de 0 a 3 meses",
+    "src_url": "https://www.who.int/tools/your-life-your-health/life-phase/newborns-and-children-under-5-years/making-sure-newborns-and-children-under-5-years-sleep-safely",
+    "stem": "Juan tiene cinco días, se despierta para alimentarse y su examen es normal. Según la OMS, ¿qué duración total de sueño se recomienda en 24 horas, incluidas las siestas?",
+    "options": [
+      "10 a 12 horas.",
+      "12 a 13 horas.",
+      "8 a 10 horas.",
+      "14 a 17 horas."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:95",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El linfoma era preexistente y se agravó por los efectos del embarazo. Ese vínculo permite clasificar el fallecimiento como muerte materna indirecta.",
+    "o": {
+      "B": "La reducibilidad se refiere a posibilidades de prevención y no clasifica la causa como directa o indirecta.",
+      "C": "La muerte directa deriva de complicaciones obstétricas, intervenciones u omisiones relacionadas con su manejo.",
+      "D": "El momento del fallecimiento no sustituye la clasificación etiológica solicitada."
+    },
+    "src": "OMS · Guía de referencia de la CIE-11, muertes obstétricas directas e indirectas",
+    "src_url": "https://icdcdn.who.int/icd11referenceguide/en-2025-01/refguide.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:96",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El protocolo nacional recomienda realizar idealmente la PTOG con 75 g entre las semanas 24 y 28. Se determina la glucemia en ayunas y a las dos horas de la carga.",
+    "o": {
+      "B": "Entre las semanas 20 y 24 no se encuentra la ventana habitual completa para el rastreo programado.",
+      "C": "La prueba con 100 g pertenece a otra estrategia diagnóstica y no es la carga del protocolo nacional.",
+      "D": "Puede estudiarse más tarde a quien inicia tardíamente sus controles, pero la semana 30 a 32 no es el intervalo ideal de rutina."
+    },
+    "src": "Ministerio de Salud de la Nación · Protocolo de diagnóstico de diabetes gestacional 2023",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-08/Protocolo_de_Diabetes_Gestacional_2023.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:97",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En una internación regida por esta ley, el equipo de salud decide el alta, la externación y los permisos de salida. Si corresponde comunicar la decisión al juez, esa notificación no equivale a solicitar autorización previa.",
+    "o": {
+      "A": "La decisión no queda exclusivamente en manos del psiquiatra ni exige autorización judicial previa.",
+      "B": "El equipo está facultado para decidir sin esperar el permiso del juez.",
+      "D": "La ley atribuye la decisión asistencial al equipo de salud. El caso excluye las internaciones en el marco del artículo 34 del Código Penal."
+    },
+    "src": "Ley nacional 26.657 · Salud mental, artículo 23",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/s2d1.libro_.ley_26.657_salud_mentalweb.pdf",
+    "stem": "En una internación de salud mental que no fue dispuesta en el marco del artículo 34 del Código Penal, ¿quién decide el alta, la externación o los permisos de salida según el artículo 23 de la Ley 26.657?",
+    "options": [
+      "Únicamente el psiquiatra, con autorización del juez.",
+      "El equipo de salud, previa autorización judicial.",
+      "El equipo de salud, sin autorización judicial previa.",
+      "El juez, a propuesta de la familia."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:99",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La paciente capaz expresó que no autoriza divulgar información. El equipo debe mantener la confidencialidad y puede explicarle al esposo que necesita autorización de ella para compartir datos clínicos.",
+    "o": {
+      "B": "El vínculo conyugal por sí solo no habilita el acceso a la historia clínica contra la voluntad expresa de una paciente capaz."
+    },
+    "src": "Ley nacional 26.529 · Derechos del paciente, artículos 2 y 4, texto actualizado",
+    "src_url": "https://www.argentina.gob.ar/normativa/nacional/160432/actualizacion"
+  },
+  {
+    "originalId": "diciembre-2022:100",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La tracción axial seguida de rechazo a usar el brazo, sin tumefacción ni dolor óseo focal, orienta a subluxación de la cabeza radial. Corresponde reducción cerrada, por hiperpronación o supinación-flexión, y reevaluar el uso espontáneo del brazo.",
+    "o": {
+      "B": "La férula sola no corrige la subluxación. Tras una reducción exitosa con función recuperada no suele ser necesaria.",
+      "C": "Esperar sin intentar reducción prolonga el dolor y la limitación funcional.",
+      "D": "La derivación se reserva para reducción fallida, presentación atípica o sospecha de otra lesión."
+    },
+    "src": "Royal Children’s Hospital · Pulled elbow, evaluación y reducción",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/Pulled_elbow/",
+    "stem": "Niña de dos años que dejó de usar el brazo después de un tirón de la mano. Mantiene el antebrazo en pronación y el codo levemente flexionado. No hay deformidad, edema ni dolor óseo focal. ¿Cuál es la conducta inicial más apropiada?",
+    "options": [
+      "Realizar reducción cerrada mediante hiperpronación o supinación-flexión y reevaluar la función.",
+      "Colocar una férula posterior sin intentar reducción.",
+      "Indicar únicamente observación domiciliaria.",
+      "Derivar de rutina a cirugía antes de intentar una reducción."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:1",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El bupropión puede provocar insomnio. Cuando se indican dos tomas, programar la segunda por la tarde, con la separación prescripta y lejos de la hora de acostarse, ayuda a reducirlo.",
+    "o": {
+      "A": "Los calambres no explican la recomendación específica sobre el horario de la segunda dosis.",
+      "C": "La cefalea puede presentarse, pero la medida sobre el horario apunta a evitar alteraciones del sueño.",
+      "D": "La diarrea no es el efecto que se busca prevenir al evitar una toma nocturna."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de tratamiento de la adicción al tabaco, bupropión de liberación prolongada",
+    "src_url": "https://www.asat.org.ar/images/comunidad/publicaciones/guia_nacional.pdf",
+    "stem": "Una persona inicia bupropión de liberación prolongada para dejar de fumar. ¿Qué efecto adverso frecuente se intenta reducir al evitar la segunda toma cerca de la hora de acostarse?"
+  },
+  {
+    "originalId": "febrero-2023:2",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El etambutol puede causar neuropatía óptica con disminución de la agudeza visual y de la discriminación de colores, clásicamente rojo y verde. Un cambio visual nuevo durante el tratamiento requiere evaluación urgente y revisión del fármaco.",
+    "o": {
+      "A": "La hipoacusia irreversible orienta más a ototoxicidad por aminoglucósidos.",
+      "C": "La hepatotoxicidad se asocia más con isoniazida, rifampicina o pirazinamida. La clave para etambutol es la toxicidad visual.",
+      "D": "La necrosis tubular es más característica de fármacos nefrotóxicos como los aminoglucósidos. La función renal sí influye en la eliminación del etambutol."
+    },
+    "src": "Ministerio de Salud de la Nación · Pautas técnicas de tuberculosis en la Argentina, reacciones adversas al etambutol",
+    "src_url": "https://panel.aam.org.ar/img_up/24042026.0.pdf",
+    "stem": "En una persona que recibe etambutol por tuberculosis, ¿qué toxicidad característica justifica vigilar la agudeza visual y la discriminación de colores?"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {

@@ -137,9 +137,12 @@ const answerBlock = [
   ...Array.from('CDAACBABBCBABBCCDDBA', (answer, i) => ['diciembre-2022', 2 + i, answer]),
   ...Array.from('CCABCDAABADBCABADCCD', (answer, i) => ['diciembre-2022', 22 + i, answer]),
   ...Array.from('BBCBDBDBAABDBBDBBABA', (answer, i) => ['diciembre-2022', 42 + i, answer]),
-  ...Array.from('BAACCACDDBAAAAACBDDA', (answer, i) => ['diciembre-2022', 62 + i, answer])
+  ...Array.from('BAACCACDDBAAAAACBDDA', (answer, i) => ['diciembre-2022', 62 + i, answer]),
+  ...Array.from('ACDBABDAACDADAAC', (answer, i) => ['diciembre-2022', 82 + i, answer]),
+  ['diciembre-2022', 99, 'A'], ['diciembre-2022', 100, 'A'],
+  ['febrero-2023', 1, 'B'], ['febrero-2023', 2, 'B']
 ];
-assert.equal(answerBlock.length, 100);
+assert.equal(answerBlock.length, 120);
 for (const [examId, n, answer] of answerBlock) {
   const selected = vm.runInContext('EX.find(e => e.id === "' + examId + '")', context);
   const index = selected.qs.findIndex(item => item.n === n);
