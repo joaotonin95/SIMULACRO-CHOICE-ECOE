@@ -2202,6 +2202,343 @@
       "Inhalador de dosis medida con espaciador y boquilla sin máscara.",
       "Inhalador de polvo seco solo."
     ]
+  },
+  {
+    "originalId": "febrero-2023:23",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Tras descartar urgencias orgánicas, se explica lo ocurrido, se contiene a la paciente y se acuerda seguimiento en atención primaria. Una primera crisis aislada no basta para diagnosticar trastorno de pánico.",
+    "o": {
+      "A": "Indicar alprazolam a demanda al alta expone a sedación y dependencia sin resolver el seguimiento.",
+      "B": "La fluoxetina no aborta la crisis y no hay indicación automática de tratamiento preventivo tras un solo episodio.",
+      "C": "La terapia cognitivo-conductual puede ser útil si se confirma un trastorno de pánico. Indicarla como única medida omite la intervención inmediata y la reevaluación."
+    },
+    "src": "NICE CG113 · Ataque de pánico en guardia, recomendación 1.3.6",
+    "src_url": "https://www.nice.org.uk/guidance/cg113/resources/generalised-anxietydisorder-and-panic-disorder-in-adults-management-pdf-35109387756997",
+    "stem": "Mujer de 26 años con primer episodio de miedo intenso, palpitaciones, hiperventilación y dolor torácico, con pico en diez minutos. La evaluación clínica dirigida descarta causas urgentes y consumo de sustancias. Los síntomas ceden, está estable y sin riesgo para sí misma. ¿Cuál es la conducta inicial más adecuada?",
+    "options": [
+      "Dar el alta con alprazolam a demanda como única indicación.",
+      "Iniciar fluoxetina de forma sistemática.",
+      "Indicar únicamente terapia cognitivo-conductual intensiva.",
+      "Brindar contención e información, acordar control en atención primaria y explicar cuándo volver a la guardia."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:24",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La resección endoscópica en una pieza conserva la muestra para evaluar histología, invasión y margen. Con una cabeza de 25 mm se considera profilaxis del sangrado del pedículo.",
+    "o": {
+      "A": "La mera vigilancia demora el diagnóstico histológico y deja la lesión que pudo haber sangrado.",
+      "B": "La ablación destruye tejido necesario para evaluar invasión y márgenes.",
+      "C": "La colectomía se valora si hay criterios de invasión profunda, resección no curativa u otra indicación. No es el primer paso en este escenario."
+    },
+    "src": "ESGE · Colorectal polypectomy and endoscopic mucosal resection, actualización 2024, pólipos pediculados",
+    "src_url": "https://www.thieme-connect.de/products/ejournals/pdf/10.1055/a-2304-3219.pdf",
+    "stem": "Paciente estable de 72 años con episodio de proctorragia. La colonoscopía muestra un pólipo sigmoideo pediculado de 25 mm, técnicamente resecable en una pieza y sin signos endoscópicos de invasión profunda. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "febrero-2023:25",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En la fase aguda el ARN plasmático puede detectarse antes de que el inmunoensayo combinado se vuelva reactivo. La sospecha clínica en el embarazo justifica solicitar ARN de VIH ahora.",
+    "o": {
+      "A": "Esperar un año dejaría sin evaluar una infección con implicancias maternas y perinatales inmediatas.",
+      "B": "Los CD4 informan sobre el estado inmunológico y no confirman una infección aguda.",
+      "D": "Un resultado no reactivo durante el período de ventana no excluye primoinfección."
+    },
+    "src": "NIH · Pregnancy and Postpartum HIV Testing, sospecha de infección aguda",
+    "src_url": "https://clinicalinfo.hiv.gov/en/guidelines/perinatal/maternal-hiv-testing-identification-exposure",
+    "stem": "Gestante con exposición reciente y síndrome compatible con primoinfección por VIH. El inmunoensayo de antígeno y anticuerpos es no reactivo. ¿Qué prueba pedir ahora?",
+    "options": [
+      "Repetir únicamente serología al año",
+      "CD4 aislados",
+      "ARN del VIH",
+      "Descartar VIH sin más estudios"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:26",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En una persona asintomática, una glucemia plasmática en ayunas de 138 mg/dL supera el umbral de 126 mg/dL y debe confirmarse. El algoritmo nacional indica repetir la glucemia en ayunas.",
+    "o": {
+      "A": "Es pertinente conversar sobre hábitos, pero una única medición en una paciente asintomática no confirma el diagnóstico.",
+      "B": "La PTOG es especialmente útil ante glucemia alterada por debajo de 126 mg/dL. Para el valor de este caso, el algoritmo indica repetir la glucemia basal.",
+      "C": "Comunicar un diagnóstico definitivo e iniciar metformina antes de confirmarlo adelanta la decisión terapéutica."
+    },
+    "src": "Ministerio de Salud de la Nación · GPC nacional de diabetes tipo 2, algoritmo diagnóstico",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2021-01/guia-nacional-practica-clinica-diabetes-mellitius-tipo2_version-abreviada.pdf",
+    "stem": "Mujer de 45 años, asintomática, sin diagnóstico previo de diabetes. En una muestra de plasma venoso tras ocho horas de ayuno tiene glucemia de 138 mg/dL. Según la guía nacional argentina de DM2, ¿qué estudio corresponde para confirmar el hallazgo?"
+  },
+  {
+    "originalId": "febrero-2023:27",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La cintura por encima del umbral poblacional, los triglicéridos de al menos 150 mg/dL y la glucemia en ayunas de al menos 100 mg/dL aportan tres componentes distintos. Los otros dos son presión elevada y HDL bajo.",
+    "o": {
+      "A": "El LDL alto y el tabaquismo aumentan el riesgo cardiovascular, pero no integran los cinco componentes.",
+      "B": "La edad y el sedentarismo influyen en el riesgo, pero no son componentes diagnósticos de esta definición.",
+      "D": "El colesterol total y el antecedente familiar no cuentan como dos componentes del síndrome."
+    },
+    "src": "American Heart Association · Statistical Update, síndrome metabólico, definición armonizada",
+    "src_url": "https://www.heart.org/en/-/media/Files/Professional/Quality-Improvement/Get-With-the-Guidelines/Get-With-The-Guidelines-AFIB/AFib-Month/2024-AHA-Statistical-Update.pdf",
+    "stem": "Según la definición armonizada de síndrome metabólico, ¿qué combinación reúne tres componentes diagnósticos distintos?",
+    "options": [
+      "LDL alto y tabaquismo",
+      "Sedentarismo y edad avanzada",
+      "Cintura elevada para la población, TG 220 mg/dL y glucemia en ayunas 118 mg/dL",
+      "Colesterol total elevado y antecedente familiar"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:28",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor unilateral agudo con reflejo cremastérico ausente hace sospechar torsión del cordón. Hay que convocar de inmediato al equipo quirúrgico para exploración y destorsión sin demoras.",
+    "o": {
+      "B": "La orina y el Doppler no deben retrasar la cirugía ante alta sospecha clínica.",
+      "C": "Esperar doce horas con analgésicos compromete la posibilidad de preservar el testículo.",
+      "D": "Condicionar la evaluación urológica al resultado ecográfico puede demorar la reperfusión."
+    },
+    "src": "EAU · Pocket Guidelines on Paediatric Urology 2026, escroto agudo",
+    "src_url": "https://d56bochluxqnz.cloudfront.net/documents/pocket-guidelines/EAU-Pocket-on-Paediatric-Urology-2026.pdf"
+  },
+  {
+    "originalId": "febrero-2023:29",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Un mioma intramural sin síntomas clínicamente relevantes puede observarse. Se acuerda seguimiento y reevaluación si aparece sangrado importante, anemia, dolor o síntomas compresivos.",
+    "o": {
+      "A": "La histerectomía es definitiva y desproporcionada para un hallazgo que no afecta la calidad de vida.",
+      "B": "La miomectomía no se indica solo por el diámetro informado en una paciente sin síntomas ni otra indicación.",
+      "C": "Los análogos de GnRH tienen efectos adversos y su uso suele ser temporal, por ejemplo ante situaciones preoperatorias seleccionadas."
+    },
+    "src": "NIH · Uterine Fibroids, manejo según síntomas",
+    "src_url": "https://health.nih.gov/health-topics-a-z/uterine-fibroids",
+    "stem": "Mujer de 41 años con mioma intramural de 3,5 cm hallado por ecografía. Tiene ciclos habituales sin sangrado que afecte su vida diaria, hemoglobina normal y ausencia de dolor o compresión. Prefiere evitar intervenciones. ¿Cuál es la conducta más apropiada?"
+  },
+  {
+    "originalId": "febrero-2023:30",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Elegir una fecha cercana y organizar cómo afrontar el primer día sin fumar son pasos concretos de preparación. Todavía no comenzó la abstinencia.",
+    "o": {
+      "B": "En contemplación la persona considera dejar de fumar, pero aún no concretó un plan inmediato.",
+      "C": "En precontemplación no hay intención próxima de cambio.",
+      "D": "La acción comienza cuando pone en práctica el cambio y deja de fumar."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de tratamiento de la adicción al tabaco, versión breve 2024, preparación del día D",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/gpc-tabaco-breve-08-2024.pdf",
+    "stem": "Un paciente que aún fuma decide dejar el cigarrillo dentro de dos semanas, fija el cumpleaños de su hija como día D y organiza apoyo para esa fecha. Según el modelo de etapas del cambio, ¿en qué etapa está?"
+  },
+  {
+    "originalId": "febrero-2023:31",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La presentación de cara con mentón posterior persistente impide el mecanismo de desprendimiento por vía vaginal. Si no rota ni desciende con dinámica adecuada, corresponde cesárea.",
+    "o": {
+      "A": "El vacuum está contraindicado en la presentación de cara de un feto vivo.",
+      "B": "Aumentar la dinámica no corrige el obstáculo mecánico de un mentón posterior persistente.",
+      "C": "No corresponde esperar un descenso que no ocurre para intentar fórceps con la cabeza alta y el mentón posterior."
+    },
+    "src": "Médicos Sin Fronteras · Guía obstétrica, 7.9, presentación de cara",
+    "src_url": "https://medicalguidelines.msf.org/en/viewport/ONC/english/7-9-face-presentation-51417589.html",
+    "stem": "Gestante de término con dilatación completa y presentación de cara. En evaluaciones sucesivas persiste el mentón posterior, con cabeza alta y sin descenso pese a dinámica adecuada. Hay disponibilidad inmediata de quirófano. ¿Cuál es la vía de finalización indicada?"
+  },
+  {
+    "originalId": "febrero-2023:32",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La espirometría, la calidad de vida y la adherencia se registraron en una misma evaluación de cada participante. El período de reclutamiento y el muestreo sistemático no convierten la medición en longitudinal.",
+    "o": {
+      "A": "La selección aleatoria de participantes no equivale a asignar una intervención al azar.",
+      "B": "Una cohorte requeriría seguir a los individuos para observar cambios o desenlaces posteriores.",
+      "C": "La muestra proviene de una población definida y se miden variables de forma sistemática en un corte, más específico que una descripción de casos."
+    },
+    "src": "OMS · Epidemiología de la salud ocupacional, diseño transversal",
+    "src_url": "https://iris.who.int/bitstream/handle/10665/70570/WHO_SDE_OEH_01.3_eng.pdf"
+  },
+  {
+    "originalId": "febrero-2023:33",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El dolor pleurítico que mejora al inclinarse hacia adelante, el roce y los cambios difusos del ST y del PR orientan a pericarditis aguda. La troponina ayuda a evaluar si hay compromiso miocárdico asociado.",
+    "o": {
+      "A": "Un infarto anteroseptal suele producir cambios regionales en precordiales, no el patrón difuso con roce descrito.",
+      "B": "El dolor de pared no explica el roce pericárdico ni el descenso del PR.",
+      "D": "La angina inestable no explica el patrón pleurítico-posicional con roce y cambios difusos."
+    },
+    "src": "ESC 2025 · Guidelines for the management of myocarditis and pericarditis, presentación pericárdica",
+    "src_url": "https://academic.oup.com/eurheartj/article/46/40/3952/8234483",
+    "stem": "Deportista de 34 años con cuatro días de dolor torácico que empeora con la inspiración y mejora al sentarse inclinado hacia adelante. Está estable. Se ausculta roce pericárdico. El ECG muestra supradesnivel difuso del ST y descenso del PR. ¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Infarto anteroseptal",
+      "Dolor de pared con repolarización precoz del deportista",
+      "Pericarditis aguda",
+      "Angina inestable"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:34",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La hipotensión y el compromiso respiratorio con hipersonoridad y ausencia unilateral de murmullo vesicular indican neumotórax a tensión. Requiere descompresión inmediata por personal entrenado y drenaje pleural definitivo.",
+    "o": {
+      "A": "Un derrame produce matidez. Esperar una placa y dar diuréticos no resuelve el shock obstructivo.",
+      "C": "El TEP puede causar disnea e hipotensión, pero no suele abolir el murmullo vesicular con hipersonoridad unilateral.",
+      "D": "La neumonía suele producir fiebre y signos de condensación. Los antibióticos no alivian una tensión intrapleural."
+    },
+    "src": "NICE NG39 · Major trauma, manejo del neumotórax a tensión",
+    "src_url": "https://www.nice.org.uk/guidance/ng39/resources/major-trauma-assessment-and-initial-management-pdf-1837400761285",
+    "stem": "Tras un traumatismo torácico, un adulto presenta disnea intensa, TA 75/45 mmHg, ingurgitación yugular, hipersonoridad y ausencia de murmullo vesicular derechos. ¿Qué diagnóstico y conducta corresponden?",
+    "options": [
+      "Derrame pleural: esperar radiografía y administrar diuréticos.",
+      "Neumotórax a tensión: descomprimir inmediatamente sin esperar imágenes y completar el drenaje pleural.",
+      "TEP: anticoagular de inmediato.",
+      "Neumonía: administrar antibióticos."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:35",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "E1, V2 y M5 suman Glasgow 8. Deben asegurarse la vía aérea y la oxigenación, evitar hipotensión y coordinar evacuación neuroquirúrgica urgente. Tanto el espesor mayor de 10 mm como la desviación mayor de 5 mm son criterios quirúrgicos.",
+    "o": {
+      "A": "La sala general no permite el manejo inicial de este TEC grave y la observación demoraría la evacuación.",
+      "B": "La dextrosa al 5 % no es el líquido de reanimación indicado para mantener perfusión cerebral. No sustituye la cirugía.",
+      "D": "Reducir de forma brusca la presión con nitroprusiato puede comprometer la perfusión cerebral y no evacúa el hematoma."
+    },
+    "src": "Brain Trauma Foundation · Guidelines for the Surgical Management of TBI, hematoma subdural agudo",
+    "src_url": "https://braintrauma.org/coma/guidelines/surgical",
+    "stem": "Adulto con TEC. No abre los ojos, emite sonidos incomprensibles y localiza la presión. La TC muestra hematoma subdural agudo de 12 mm y desviación de la línea media de 7 mm. ¿Qué conducta inicial corresponde?",
+    "options": [
+      "Observar en sala general y repetir la TC al día siguiente.",
+      "Expandir con dextrosa al 5 % y diferir la interconsulta neuroquirúrgica.",
+      "Asegurar la vía aérea y perfusión, activar neurocirugía para evacuación urgente y coordinar cuidados intensivos.",
+      "Normalizar de inmediato la TA con nitroprusiato como tratamiento principal."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:36",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La exposición a suelo contaminado, la eosinofilia, la hepatomegalia y el compromiso pulmonar en un preescolar orientan a larva migrans visceral por Toxocara. Los infiltrados migratorios solos no bastan para el diagnóstico.",
+    "o": {
+      "A": "La neumonía bacteriana puede dar condensación y fiebre, pero explica peor la eosinofilia marcada con compromiso hepático.",
+      "B": "La tuberculosis puede tener evolución subaguda, pero la exposición y el patrón eosinofílico favorecen una helmintiasis tisular.",
+      "D": "La aspergilosis invasiva es mucho más probable en huéspedes inmunocomprometidos y no explica el antecedente de geofagia."
+    },
+    "src": "CDC · Clinical Overview of Toxocariasis, enfermedad visceral",
+    "src_url": "https://www.cdc.gov/toxocariasis/hcp/clinical-overview/index.html",
+    "stem": "Niño de cuatro años con geofagia y exposición frecuente a tierra donde defecan cachorros. Presenta fiebre, tos, dolor abdominal, hepatomegalia, eosinofilia marcada e infiltrados pulmonares que cambian de localización. ¿Qué diagnóstico integra mejor estos datos?"
+  },
+  {
+    "originalId": "febrero-2023:37",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Se solicita IgA antitransglutaminasa tisular junto con IgA total mientras el paciente consume gluten. La IgA total permite reconocer un déficit que podría producir serología IgA falsamente negativa.",
+    "o": {
+      "A": "El antiendomisio IgA es muy específico y puede complementar el estudio, pero no es la primera determinación habitual.",
+      "C": "Los ANA se usan en otras enfermedades autoinmunes y no son marcadores específicos de celiaquía.",
+      "D": "Los anticuerpos antimitocondriales orientan a colangitis biliar primaria."
+    },
+    "src": "Guía de práctica clínica sobre enfermedad celíaca · Algoritmo de diagnóstico serológico, Argentina",
+    "src_url": "https://www.assal.gov.ar/celiaquia/materiales/guia-practica-clinica-enfermedad-celiaca.pdf"
+  },
+  {
+    "originalId": "febrero-2023:38",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La fosfomicina trometamol oral de 3 g en dosis única es una opción para la mujer no embarazada. En el varón con aislamiento sensible, TMP-SMX 160/800 mg cada doce horas durante siete días es un esquema recomendado.",
+    "o": {
+      "A": "Una dosis única de nitrofurantoína no completa el tratamiento habitual de cistitis en ninguno de los dos casos.",
+      "B": "La pauta de fosfomicina oral en dosis única no se extrapola automáticamente al varón.",
+      "D": "Tres días de amoxicilina en el varón no constituyen el esquema recomendado y la sensibilidad no está documentada."
+    },
+    "src": "EAU 2026 · Pocket Guidelines on Urological Infections, tratamiento de la cistitis",
+    "src_url": "https://d56bochluxqnz.cloudfront.net/documents/pocket-guidelines/EAU-Pocket-on-Urological-Infections-2026.pdf",
+    "stem": "Dos adultos tienen cistitis localizada, sin fiebre, dolor lumbar ni signos de prostatitis. La mujer no está embarazada. En el varón, el urocultivo informa E. coli sensible a trimetoprima-sulfametoxazol. Ambos tienen función renal normal y no presentan alergias ni contraindicaciones. Según EAU, ¿qué combinación es apropiada?",
+    "options": [
+      "Una dosis única de nitrofurantoína para ambos.",
+      "Fosfomicina trometamol en dosis única para ambos.",
+      "Mujer: fosfomicina trometamol 3 g en dosis única. Varón: TMP-SMX 160/800 mg cada 12 horas por siete días.",
+      "Mujer: cefalexina tres días. Varón: amoxicilina tres días."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:39",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La furosemida puede provocar pérdidas renales de potasio. La hipopotasemia aumenta la susceptibilidad a los efectos tóxicos de la digoxina, lo que concuerda con náuseas y bradiarritmia.",
+    "o": {
+      "A": "La hipernatremia aislada no es el trastorno que explica esta susceptibilidad.",
+      "C": "La hiperventilación voluntaria no explica el vínculo farmacológico entre el diurético, el potasio bajo y la digoxina.",
+      "D": "La hipoglucemia puede causar síntomas autonómicos, pero no es el factor predisponente demostrado en el caso."
+    },
+    "src": "FDA · Digoxina, ficha de prescripción, toxicidad digitálica",
+    "src_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021648s015lbl.pdf",
+    "stem": "Paciente tratada con digoxina y furosemida con náuseas, bradiarritmia y potasio de 2,7 mmol/L. ¿Qué alteración favorece la toxicidad digitálica?",
+    "options": [
+      "Hipernatremia aislada",
+      "Hipopotasemia por el diurético de asa",
+      "Hiperventilación voluntaria",
+      "Hipoglucemia"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:40",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "A los cinco años corresponde viajar en el asiento trasero con un sistema de retención infantil homologado, instalado correctamente y elegido según peso y talla.",
+    "o": {
+      "A": "El cinturón de adulto por sí solo no garantiza un ajuste adecuado y no corresponde ubicarlo adelante.",
+      "B": "Los brazos de un adulto no pueden retenerlo de forma segura durante una colisión.",
+      "D": "Viajar de pie deja al niño sin sujeción y aumenta el riesgo de lesiones."
+    },
+    "src": "Agencia Nacional de Seguridad Vial · Seguridad vial infantil, sistemas de retención",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/6-seguridad-vial-infantil.pdf",
+    "stem": "Según la orientación nacional argentina, ¿cómo debe viajar en automóvil particular un niño de cinco años?",
+    "options": [
+      "Delante con cinturón de adulto",
+      "En brazos de un adulto",
+      "Atrás con sistema de retención adecuado a su tamaño",
+      "De pie detrás del conductor"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:41",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Los permisos de salida son facultad del equipo de salud. Cuando corresponde informar al juez, se trata de una comunicación y no de pedir autorización previa. La ley contempla una excepción para internaciones del artículo 34 del Código Penal.",
+    "o": {
+      "B": "Exigir autorización judicial previa para cada salida no es la regla del artículo 23.",
+      "C": "El juez no reemplaza al equipo tratante en esta decisión clínica ordinaria.",
+      "D": "La decisión no se reserva al psiquiatra individual ni requiere el permiso judicial propuesto."
+    },
+    "src": "Ley nacional 26.657 · Artículo 23, alta, externación y permisos de salida",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/s2d1.libro_.ley_26.657_salud_mentalweb.pdf",
+    "stem": "En una internación regida por la Ley Nacional de Salud Mental, ajena al artículo 34 del Código Penal, ¿quién decide un permiso de salida según el artículo 23?"
+  },
+  {
+    "originalId": "febrero-2023:42",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En una cirugía electiva, la información y la decisión libre del paciente deben quedar documentadas mediante consentimiento informado escrito y firmado. La aceptación verbal durante la consulta no completa la instrumentación exigida.",
+    "o": {
+      "A": "Una persona adulta capaz no necesita autorización judicial para consentir esta cirugía.",
+      "C": "La firma de un familiar no sustituye la del paciente capaz.",
+      "D": "El carácter programado de la intervención no la exime del consentimiento escrito."
+    },
+    "src": "Ley nacional 26.529 · Artículos 5 a 7, consentimiento informado e instrumentación",
+    "src_url": "https://www.argentina.gob.ar/normativa/nacional/ley-26529-160432/texto",
+    "stem": "Adulto capaz de 55 años acepta verbalmente una cirugía electiva de hernia luego de recibir información sobre riesgos, beneficios y alternativas. ¿Qué paso falta antes de la intervención?",
+    "options": [
+      "Solicitar autorización judicial.",
+      "Documentar el consentimiento informado por escrito con la firma del paciente.",
+      "Reemplazar el consentimiento del paciente por la firma de un familiar.",
+      "Operar sin otra constancia por tratarse de cirugía programada."
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
