@@ -7722,6 +7722,342 @@
     },
     "src": "MSF y Hospital Universitario de Oslo · Methanol Poisoning Protocol, fisiopatología y pronóstico",
     "src_url": "https://methanolpoisoning.msf.org/wp-content/uploads/2023/03/MSF_International_Methanol-Poisoning_Protocol_v2_20230110_EN.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:95",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La asplenia anatómica aumenta el riesgo de enfermedad neumocócica invasiva. En un adulto de este grupo sin vacunación antineumocócica previa, el esquema argentino con VCN20 consiste en una dosis. La protección contra meningococo y Hib se evalúa por separado.",
+    "o": {
+      "A": "La VPN23 aislada no es el esquema nacional indicado para iniciar la vacunación en este caso.",
+      "B": "No corresponde diferir la protección hasta los 65 años cuando ya existe asplenia.",
+      "D": "La VCN20 no se indica anualmente. La indicación anual corresponde, entre otras vacunas, a la antigripal."
+    },
+    "src": "Ministerio de Salud de la Nación · Lineamientos técnicos de vacunación con VCN20 en mayores de 5 años, población objetivo y esquemas",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2018/02/lineamiento_tecnico_vcn20_2024.pdf",
+    "stem": "Un adulto de 42 años con esplenectomía previa nunca recibió vacunas antineumocócicas. Al actualizar su protección frente a bacterias encapsuladas, ¿qué esquema específico contra el neumococo corresponde según los lineamientos argentinos con VCN20?",
+    "options": [
+      "Una dosis de VPN23 como único esquema",
+      "Esperar hasta los 65 años para comenzar",
+      "Una dosis de vacuna conjugada de 20 serotipos (VCN20)",
+      "Una dosis anual de VCN20"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:96",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La dificultad para hablar, la taquipnea y la hipoxemia indican una exacerbación grave. Se trata de inmediato con oxígeno titulado, salbutamol inhalado repetido, ipratropio y corticoide sistémico temprano, con reevaluación estrecha.",
+    "o": {
+      "A": "El magnesio intravenoso puede considerarse si la respuesta al manejo inicial es insuficiente. Un broncodilatador de acción prolongada aislado no es el rescate indicado.",
+      "C": "El oxígeno corrige la hipoxemia y el corticoide trata la inflamación, pero ambos dejan sin tratar de inmediato el broncoespasmo si se omite el broncodilatador.",
+      "D": "La intubación se considera si hay deterioro, agotamiento o falla del tratamiento. En una paciente alerta y ventilando se inicia el rescate mientras se prepara la escalada si hiciera falta."
+    },
+    "src": "GINA 2026 · Manejo de exacerbaciones de asma en servicios de urgencias",
+    "src_url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf",
+    "stem": "Una adulta con asma presenta disnea intensa, habla entrecortada, FR 32/min, saturación de 88 % respirando aire y sibilancias difusas. Está alerta y mantiene el esfuerzo respiratorio. ¿Qué tratamiento inicial corresponde en la guardia?",
+    "options": [
+      "Magnesio intravenoso y un broncodilatador de acción prolongada como único rescate",
+      "Oxígeno titulado, salbutamol inhalado repetido, ipratropio y corticoide sistémico temprano",
+      "Oxígeno y corticoide intravenoso sin broncodilatadores",
+      "Intubación inmediata como primera medida en todos los casos"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:97",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El déficit de aldosterona favorece pérdida de sodio, hipotensión e hiperpotasemia. La ACTH elevada por falta de cortisol explica la hiperpigmentación mucosa y de los pliegues, característica de insuficiencia suprarrenal primaria.",
+    "o": {
+      "A": "El exceso de cortisol suele asociarse con hipertensión y otros signos de hipercortisolismo.",
+      "B": "El exceso de aldosterona favorece hipertensión e hipopotasemia, el patrón inverso al del caso.",
+      "D": "El hipotiroidismo puede provocar cansancio e hiponatremia, pero no explica bien la combinación de hiperpotasemia y pigmentación gingival."
+    },
+    "src": "Endocrine Society · Primary Adrenal Insufficiency, recomendación 1.1",
+    "src_url": "https://www.endocrine.org/clinical-practice-guidelines/primary-adrenal-insufficiency",
+    "stem": "Una mujer de 30 años refiere semanas de astenia y calambres. Tiene TA 90/60 mmHg, hiperpigmentación en pliegues palmares y encías, hiponatremia e hiperpotasemia. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "diciembre-2024:98",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor de esfuerzo que cede con reposo sugiere claudicación. El pie frío y pálido, la úlcera distal y los pulsos disminuidos respaldan un déficit de perfusión arterial que requiere evaluación vascular.",
+    "o": {
+      "B": "La neuropatía puede coexistir y favorecer úlceras, pero por sí sola no explica los pulsos disminuidos y la claudicación reproducible.",
+      "C": "Una trombosis venosa profunda suele provocar edema y dolor, sin este patrón de claudicación y pérdida de pulsos.",
+      "D": "La celulitis suele producir eritema, calor y dolor local. La frialdad y la hipoperfusión orientan a otra causa."
+    },
+    "src": "ACC/AHA 2024 · Guideline for Lower Extremity Peripheral Artery Disease, tabla 6",
+    "src_url": "https://professional.heart.org/-/media/PHD-Files-2/Science-News/2/2024/2024-PAD-guideline-slide-set.pdf?sc_lang=en",
+    "stem": "Un hombre con diabetes tipo 2 tiene dolor de pantorrilla al caminar que cede al detenerse. Presenta una úlcera distal que no cicatriza, pie frío y pálido y pulsos pedios disminuidos. ¿Qué diagnóstico explica mejor estos hallazgos?"
+  },
+  {
+    "originalId": "diciembre-2024:99",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En un adulto sin sospecha de enfermedad hipofisaria se mide TSH. Si está baja, se determinan T4 libre y T3 libre. TSH suprimida con hormona tiroidea libre elevada confirma tirotoxicosis manifiesta. Los anticuerpos contra el receptor de TSH ayudan a confirmar la etiología de Graves.",
+    "o": {
+      "A": "La glucemia no mide la función tiroidea ni confirma exceso de hormonas tiroideas.",
+      "B": "Cortisol y ACTH evalúan el eje suprarrenal y no demuestran tirotoxicosis.",
+      "D": "El ECG permite detectar taquicardia o fibrilación auricular, pero no confirma la alteración hormonal."
+    },
+    "src": "NICE NG145 · Thyroid disease, evaluación de disfunción tiroidea y estudio de la tirotoxicosis",
+    "src_url": "https://www.nice.org.uk/guidance/ng145/resources/thyroid-disease-assessment-and-management-pdf-66141781496773",
+    "stem": "Una mujer de 28 años tiene palpitaciones, pérdida de peso, temblor fino y exoftalmos. No hay sospecha de disfunción hipofisaria. ¿Qué estrategia de laboratorio permite confirmar si tiene tirotoxicosis manifiesta?",
+    "options": [
+      "Nivel de glucosa en sangre",
+      "Cortisol y ACTH",
+      "Medir TSH y, si está baja, T4 libre y T3 libre",
+      "Electrocardiograma"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:100",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En la cetoacidosis diabética se acumulan aniones no medidos, principalmente beta-hidroxibutirato y acetoacetato. Al consumirse bicarbonato, aumenta la brecha aniónica.",
+    "o": {
+      "A": "La alcalosis respiratoria se debe a una caída primaria de la PaCO₂ y no es una causa de acumulación de cetoácidos.",
+      "C": "La acidosis tubular renal suele generar acidosis metabólica hiperclorémica con brecha aniónica normal.",
+      "D": "La pérdida intestinal de bicarbonato por diarrea suele producir acidosis hiperclorémica con brecha normal."
+    },
+    "src": "Manual MSD profesional · Causas de acidosis metabólica, clasificación según brecha aniónica",
+    "src_url": "https://www.msdmanuals.com/professional/multimedia/table/causes-of-metabolic-acidosis",
+    "stem": "¿Cuál de estas condiciones produce típicamente acidosis metabólica con brecha aniónica elevada?"
+  },
+  {
+    "originalId": "febrero-2025:1",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El dolor persistente en hipocondrio derecho, el Murphy positivo y la respuesta inflamatoria se acompañan de cálculos y signos ecográficos de inflamación vesicular. En conjunto sostienen el diagnóstico de colecistitis aguda litiásica.",
+    "o": {
+      "A": "La apendicitis suele localizarse en la fosa ilíaca derecha y no explica el Murphy ecográfico con pared vesicular engrosada.",
+      "C": "En pancreatitis predomina el dolor epigástrico, a menudo irradiado al dorso. La lipasa normal y la inflamación localizada en la vesícula favorecen colecistitis.",
+      "D": "La hepatitis puede causar dolor e ictericia, pero suele acompañarse de elevación de aminotransferasas y no explica el conjunto de hallazgos vesiculares."
+    },
+    "src": "WSES 2020 · Guía de colecistitis aguda litiásica, sección 1, diagnóstico",
+    "src_url": "https://link.springer.com/article/10.1186/s13017-020-00336-x",
+    "stem": "Un hombre de 47 años presenta dolor continuo en hipocondrio derecho desde hace 10 horas, fiebre de 38,8 °C, Murphy positivo y leucocitosis. Bilirrubina, aminotransferasas y lipasa normales. La ecografía muestra cálculos, pared vesicular de 5 mm, líquido perivesicular y vía biliar no dilatada. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "febrero-2025:2",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Una vez iniciados el sostén hemodinámico, el fármaco vasoactivo y el antibiótico, la ligadura endoscópica es el tratamiento hemostático de elección para várices esofágicas sangrantes.",
+    "o": {
+      "A": "La vitamina K puede corregir una deficiencia específica, pero no controla directamente el sangrado de una várice.",
+      "C": "No se indican plaquetas de rutina sólo por tener cirrosis y su transfusión no reemplaza la hemostasia endoscópica.",
+      "D": "La profilaxis antibiótica ya iniciada reduce complicaciones infecciosas, pero no controla por sí sola la hemorragia activa."
+    },
+    "src": "Baveno VII · Consenso sobre hipertensión portal, sección 6, hemorragia variceal aguda",
+    "src_url": "https://socgastro.org.br/novo/wp-content/uploads/2022/04/a0952fc4-9be2-4bcf-a2e2-0f810b9f1b1c.pdf",
+    "stem": "Un hombre con cirrosis consulta por hematemesis y shock. Tras iniciar reanimación, tratamiento vasoactivo y profilaxis antibiótica, se logra estabilidad suficiente para la endoscopia urgente. Se observan várices esofágicas con sangrado activo. ¿Qué intervención permite controlar el sitio de sangrado?"
+  },
+  {
+    "originalId": "febrero-2025:3",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El estridor, la ronquera y la hipoxemia indican amenaza de obstrucción. Se administra oxígeno de alta concentración y se asegura precozmente la vía aérea por personal entrenado, antes de que progrese el edema.",
+    "o": {
+      "A": "La máscara aporta oxígeno mientras se prepara la intubación, pero no mantiene permeable una vía aérea que se está cerrando.",
+      "C": "Los líquidos son necesarios para la reanimación del gran quemado y no resuelven la obstrucción de la vía aérea superior.",
+      "D": "El monitoreo detecta complicaciones, pero no evita la pérdida de la vía aérea."
+    },
+    "src": "Victorian State Trauma System · Burns guideline, evaluación y protección de la vía aérea",
+    "src_url": "https://trauma.reach.vic.gov.au/wp-content/uploads/2024/08/Burns-guideline_V2-16102017-update-poster-201118.pdf"
+  },
+  {
+    "originalId": "febrero-2025:4",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Con sospecha de rotura y deterioro que impide trasladarlo a tomografía, la prioridad es el control urgente de la hemorragia por cirugía vascular. La reanimación se titula a perfusión suficiente, evitando grandes cargas de cristaloides para normalizar la presión antes del control.",
+    "o": {
+      "A": "La analgesia es complementaria y no controla la hemorragia retroperitoneal.",
+      "C": "La angio-TC es de elección si el estado permite obtenerla sin una demora peligrosa. El caso especifica que no tolera el traslado.",
+      "D": "Ya hay shock hemorrágico. Reducir farmacológicamente la presión agravaría la hipoperfusión."
+    },
+    "src": "ESVS 2024 · Abdominal Aorto-Iliac Artery Aneurysms, sección 6, aneurisma roto",
+    "src_url": "https://pure.amsterdamumc.nl/ws/files/156657105/Editors-choice--european-society-for-vascular-surgery-esvs-2024-clinical-practice-guidelines-on-the-management-of-ab.pdf",
+    "stem": "Un hombre de 72 años presenta dolor abdominal y lumbar súbito, masa pulsátil y shock. La ecografía al pie de cama muestra un aneurisma aórtico abdominal de 8 cm. Pese a la reanimación inicial se deteriora y no tolera el traslado a tomografía. Hay equipo vascular y quirófano disponibles. ¿Cuál es la prioridad?",
+    "options": [
+      "Administrar sólo analgésicos",
+      "Activar la reparación vascular inmediata y continuar la reanimación controlada",
+      "Trasladar a tomografía antes de avisar al equipo vascular",
+      "Administrar antihipertensivos"
+    ]
+  },
+  {
+    "originalId": "febrero-2025:5",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Glasgow 8 tras un traumatismo craneal grave obliga a priorizar protección de la vía aérea y ventilación adecuada, con protección cervical. La anisocoria exige evaluación simultánea de herniación y atención neuroquirúrgica urgente.",
+    "o": {
+      "A": "Una radiografía simple no identifica de forma adecuada una lesión intracraneal y no precede al control de la vía aérea.",
+      "B": "Los fluidos se titulan si hay compromiso circulatorio, pero no protegen de aspiración ni corrigen la ventilación.",
+      "D": "La osmoterapia puede ser necesaria si se sospecha herniación. No sustituye la protección inmediata de la vía aérea en el paciente comatoso."
+    },
+    "src": "NICE NG232 · Head injury, secciones 1.4 y 1.8, manejo avanzado de la vía aérea",
+    "src_url": "https://www.nice.org.uk/guidance/ng232/resources/head-injury-assessment-%20and-early-management-pdf-66143892774085"
+  },
+  {
+    "originalId": "febrero-2025:6",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Una vez compensado, se indican las cuatro familias que mejoran el pronóstico, ajustadas a tolerancia: inhibición del sistema renina-angiotensina con preferencia por ARNI si es posible, betabloqueante con evidencia, antagonista mineralocorticoide e inhibidor de SGLT2. Se controlan presión, función renal y potasio.",
+    "o": {
+      "A": "La digoxina puede tener un papel en pacientes seleccionados, pero no reemplaza el tratamiento que reduce morbimortalidad.",
+      "C": "Sin una arritmia que lo justifique, la amiodarona no trata la disfunción sistólica ni sustituye la terapia de base.",
+      "D": "La nitroglicerina puede aliviar síntomas en escenarios agudos. Como monoterapia no brinda el beneficio pronóstico de los cuatro grupos."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de insuficiencia cardíaca, tratamiento de la IC con fracción de eyección reducida",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2024/05/COMPLETO-H_22082023.pdf",
+    "stem": "Un hombre con infarto previo e insuficiencia cardíaca con FEVI de 25 % ya está euvolémico y estable después de la descongestión. TA 118/74 mmHg, filtrado estimado 65 ml/min/1,73 m² y potasio 4,2 mmol/l. Sin contraindicaciones, ¿qué estrategia de fondo mejora el pronóstico?",
+    "options": [
+      "Digoxina como único tratamiento",
+      "Incorporar sacubitrilo/valsartán, un betabloqueante con evidencia, espironolactona y un inhibidor de SGLT2 según tolerancia",
+      "Amiodarona como tratamiento de base",
+      "Nitroglicerina como único tratamiento"
+    ]
+  },
+  {
+    "originalId": "febrero-2025:7",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La glucemia supera 600 mg/dl y la osmolalidad efectiva supera 300 mOsm/kg. La ausencia de cetonemia significativa y de acidosis completa el patrón de estado hiperosmolar hiperglucémico.",
+    "o": {
+      "A": "La cetoacidosis requiere cetosis significativa y acidosis metabólica. Ambos componentes faltan.",
+      "C": "Una glucemia de 720 mg/dl es hiperglucemia marcada y descarta hipoglucemia en esta muestra.",
+      "D": "La diabetes insípida causa pérdida de agua libre, pero no explica la hiperglucemia intensa con diuresis osmótica."
+    },
+    "src": "Cleveland Clinic Journal of Medicine · Hyperglycemic crises in adults, tabla de criterios de estado hiperosmolar del consenso 2024",
+    "src_url": "https://www.ccjm.org/content/ccjom/92/3/152.full.pdf",
+    "stem": "Una mujer con diabetes tipo 2 presenta poliuria, deshidratación y letargo. Glucemia 720 mg/dl, sodio medido 145 mmol/l, osmolalidad efectiva calculada 330 mOsm/kg, beta-hidroxibutirato 0,6 mmol/l, pH 7,38 y bicarbonato 24 mmol/l. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "febrero-2025:8",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El aumento agudo de disnea, tos y expectoración respecto del estado habitual con sibilancias es compatible con exacerbación. La hipercapnia con acidemia e hipoxemia indica compromiso respiratorio grave.",
+    "o": {
+      "A": "La neumonía puede coexistir, pero la ausencia de un infiltrado nuevo o signos focales la hace menos probable como explicación principal.",
+      "C": "No se describen ortopnea, edemas ni congestión radiográfica que apoyen descompensación cardíaca.",
+      "D": "El tromboembolismo puede simular una exacerbación. La progresión con aumento del esputo y broncoobstrucción favorece EPOC, sin excluir otras causas si la evolución es atípica."
+    },
+    "src": "GOLD 2026 · Capítulo 4, exacerbaciones de EPOC y diagnósticos diferenciales",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2025/12/GOLD-REPORT-2026-v1.3-8Dec2025_WMV.pdf",
+    "stem": "Un hombre de 68 años con EPOC tiene tres días de aumento de disnea, tos y volumen de esputo. Presenta sibilancias difusas, sin edema ni ortopnea. La radiografía no muestra infiltrado nuevo ni congestión. En aire ambiente: pH 7,32, PaCO₂ 60 mmHg, PaO₂ 55 mmHg y bicarbonato 30 mmol/l. ¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Neumonía",
+      "Exacerbación de EPOC",
+      "Insuficiencia cardíaca congestiva",
+      "Tromboembolismo pulmonar"
+    ]
+  },
+  {
+    "originalId": "febrero-2025:10",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En la afasia de Wernicke el habla conserva fluidez, pero contiene parafasias y puede transmitir poco significado. Se alteran tanto la comprensión como la repetición.",
+    "o": {
+      "A": "El habla no fluida con repetición conservada no corresponde a Wernicke.",
+      "B": "La combinación de fluidez, comprensión conservada y dificultad para repetir orienta a afasia de conducción.",
+      "D": "La falta de fluidez con comprensión y repetición conservadas orienta más a una afasia transcortical motora."
+    },
+    "src": "Manual MSD profesional · Afasia, tabla de síndromes afásicos",
+    "src_url": "https://www.msdmanuals.com/professional/neurologic-disorders/function-and-dysfunction-of-the-cerebral-lobes/aphasia",
+    "stem": "¿Qué combinación de fluidez, comprensión y repetición caracteriza a la afasia de Wernicke?",
+    "options": [
+      "Habla no fluida, comprensión alterada, repetición preservada",
+      "Habla fluida, comprensión preservada, repetición alterada",
+      "Habla fluida con parafasias, comprensión alterada y repetición alterada",
+      "Habla no fluida, comprensión preservada, repetición preservada"
+    ]
+  },
+  {
+    "originalId": "febrero-2025:11",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En un primer episodio no complicado se usa aspirina o un AINE a dosis antiinflamatorias asociado a colchicina, que reduce las recurrencias. Se restringe el ejercicio hasta la remisión clínica y se indica gastroprotección con el AINE.",
+    "o": {
+      "A": "Sin sospecha de infección bacteriana no corresponde iniciar antibióticos empíricos.",
+      "C": "Los corticoides se reservan para indicaciones específicas, contraindicación o respuesta insuficiente al tratamiento inicial.",
+      "D": "El drenaje está indicado ante taponamiento o en circunstancias diagnósticas o terapéuticas seleccionadas. No hay derrame significativo ni compromiso hemodinámico."
+    },
+    "src": "ESC 2025 · Guía de miocarditis y pericarditis, tratamiento médico de la pericarditis aguda",
+    "src_url": "https://www.escardio.org/static-file/Escardio/Guidelines/Products/Slide%20sets/2025/2025%20official%20slides_MyoPeri.pdf",
+    "stem": "Una mujer de 35 años presenta un primer episodio de pericarditis aguda tras una infección respiratoria. Tiene dolor posicional, roce, elevación difusa del ST y descenso del PR. Está estable, con troponina normal, sin derrame significativo ni datos de etiología bacteriana. No está embarazada ni tiene contraindicaciones a AINE o colchicina. ¿Qué tratamiento inicial indicás?",
+    "options": [
+      "Antibióticos y reposo",
+      "Ibuprofeno a dosis antiinflamatoria con gastroprotección, colchicina y restricción transitoria del ejercicio",
+      "Corticoide como único antiinflamatorio de primera línea",
+      "Pericardiocentesis urgente"
+    ]
+  },
+  {
+    "originalId": "febrero-2025:12",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El shock que persiste pese a la reanimación y el líquido libre intraperitoneal tras trauma cerrado indican control quirúrgico urgente de la hemorragia. La reanimación continúa en paralelo.",
+    "o": {
+      "A": "La observación es inadecuada ante sangrado con inestabilidad persistente.",
+      "C": "La tomografía requiere estabilidad suficiente y demoraría el control del foco hemorrágico.",
+      "D": "El alta expone a progresión inmediata del shock sin control del sangrado."
+    },
+    "src": "Washington State Department of Health · Blunt Abdominal Injury, algoritmo del paciente inestable con FAST positivo",
+    "src_url": "https://doh.wa.gov/sites/default/files/legacy/Documents/Pubs/530168.pdf",
+    "stem": "Trauma abdominal cerrado con shock persistente pese a reanimación y hemoperitoneo en el FAST. ¿Qué conducta corresponde?",
+    "options": [
+      "Observación en sala",
+      "Exploración quirúrgica urgente para controlar el sangrado",
+      "TC electiva",
+      "Alta"
+    ]
+  },
+  {
+    "originalId": "febrero-2025:13",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La fibrilación auricular sin anticoagulación favorece embolia arterial mesentérica. El dolor súbito desproporcionado al examen es característico de la etapa temprana. El lactato elevado aumenta la preocupación, pero no confirma el diagnóstico: se requiere angio-TC urgente.",
+    "o": {
+      "A": "La obstrucción suele producir dolor cólico, vómitos y distensión. No explica tan bien el inicio súbito con riesgo embólico y dolor intenso pese al abdomen poco expresivo.",
+      "C": "La diverticulitis suele producir dolor y sensibilidad localizada, en general en fosa ilíaca izquierda.",
+      "D": "La colitis ulcerosa suele manifestarse con diarrea sanguinolenta y urgencia evacuatoria. El cuadro favorece isquemia arterial."
+    },
+    "src": "WSES 2022 · Acute mesenteric ischemia, presentación clínica y diagnóstico por angio-TC",
+    "src_url": "https://doi.org/10.1186/s13017-022-00443-x"
+  },
+  {
+    "originalId": "febrero-2025:14",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El dolor intenso, el eritema, la irreductibilidad y la sepsis hacen sospechar estrangulación con isquemia intestinal. Se requiere exploración quirúrgica de emergencia junto con reanimación y antibióticos.",
+    "o": {
+      "A": "La reducción manual se considera sólo sin sospecha de isquemia. En este caso podría reintroducir intestino no viable en el abdomen.",
+      "B": "La tomografía puede ayudar si el diagnóstico es incierto, pero no debe demorar la cirugía ante estrangulación clínicamente evidente.",
+      "C": "Los antibióticos son un complemento y no restauran la perfusión del intestino estrangulado."
+    },
+    "src": "HerniaSurge 2023 · Actualización internacional, manejo de la hernia inguinal aguda irreductible",
+    "src_url": "https://scientiasalut.gencat.cat/bitstream/handle/11351/10571/update_international_herniasurge_guidelines_groin_hernia_management_2023.pdf?isAllowed=y&sequence=1"
+  },
+  {
+    "originalId": "febrero-2025:15",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La tomografía permite localizar la transición, investigar la causa y buscar asa cerrada, isquemia o líquido libre. Estos hallazgos ayudan a decidir si hace falta cirugía urgente además de las medidas iniciales de sostén.",
+    "o": {
+      "A": "La radiografía puede mostrar asas dilatadas y niveles hidroaéreos, pero no caracteriza bien la causa, un asa cerrada o la isquemia.",
+      "B": "La ecografía puede ser útil si no hay tomografía o en circunstancias especiales, pero es menos completa para evaluar la causa y las complicaciones en esta adulta.",
+      "C": "El enema estudia principalmente el colon y no permite evaluar de manera integral el punto de transición del intestino delgado ni su perfusión."
+    },
+    "src": "WSES · Guías de Bolonia sobre obstrucción intestinal por adherencias, evaluación inicial e imágenes",
+    "src_url": "https://link.springer.com/article/10.1186/s13017-018-0185-2",
+    "stem": "Una mujer de 60 años con cirugía abdominal previa tiene vómitos, distensión y falta de eliminación de gases y materia fecal. Está estable y sin peritonismo. Ya se indicó ayuno, hidratación IV y descompresión nasogástrica. Hay tomografía disponible. ¿Qué estudio priorizás para evaluar la causa y buscar complicaciones de una obstrucción mecánica?",
+    "options": [
+      "Radiografía simple de abdomen como único estudio",
+      "Realizar ecografía de abdomen",
+      "Estudio contrastado del colon por enema",
+      "Tomografía de abdomen y pelvis"
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
