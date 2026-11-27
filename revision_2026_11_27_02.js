@@ -6438,6 +6438,329 @@
     },
     "src": "DLB Consortium · Diagnosis and management of dementia with Lewy bodies, cuarto informe de consenso",
     "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/5496518/"
+  },
+  {
+    "originalId": "diciembre-2024:15",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Un tumor de más de 5 cm sin criterios de T4 es T3. Al combinar T3 con N1 y M0, la tabla anatómica lo ubica en IIIA. No se necesitan receptores ni grado histológico para responder sobre el estadio anatómico.",
+    "o": {
+      "A": "El estadio anatómico IA corresponde a un tumor pequeño sin compromiso ganglionar regional.",
+      "C": "El grupo IIIC requiere N3. En este caso se especifica N1.",
+      "D": "El estadio IV exige metástasis a distancia, mientras que M0 indica su ausencia."
+    },
+    "src": "Alberta Health Services · Staging Investigations for Newly Diagnosed Breast Cancer, apéndice A, grupos anatómicos AJCC 8",
+    "src_url": "https://www.albertahealthservices.ca/assets/info/hp/cancer/if-hp-cancer-guide-br012-staging-investigations.pdf?Mobile=1&Source=%2Fassets%2F_layouts%2F15%2Fmobile%2Fviewa.aspx%3FList%3D3ccf9404-77ed-45f4-a5cc-5ce14ecbffb7%26View%3D5e55ff97-6586-4968-b81a-cef1097df8e4%26RootFolder%3D%252Fassets%252Finfo%252Fhp%252Fcancer%26ViewMode%3DDetail%26PageFirstRow%3D1%26wdFCCState%3D1",
+    "stem": "Un carcinoma mamario invasor de 6 cm sin invasión de piel ni pared torácica se clasifica T3 N1 M0. ¿Cuál es su estadio anatómico?",
+    "options": [
+      "IA",
+      "IIIA",
+      "IIIC",
+      "IV"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:16",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El grupo de grado 3 corresponde a Gleason 4 + 3 = 7: predomina el patrón 4, con glándulas fusionadas, mal formadas o cribiformes, y hay un componente menor de glándulas individuales bien formadas de patrón 3.",
+    "o": {
+      "B": "Mencionar fusión glandular sin precisar los patrones predominante y secundario no identifica al grupo 3.",
+      "C": "El predominio de glándulas bien formadas con menor cantidad de patrón 4 corresponde a Gleason 3 + 4, grupo 2.",
+      "D": "La ausencia de formación glandular o la comedonecrosis corresponden a patrón 5, que no integra el puntaje 4 + 3."
+    },
+    "src": "International Collaboration on Cancer Reporting · Prostate histopathology reporting, tabla de grupos de grado ISUP",
+    "src_url": "https://www.iccr-cancer.org/wp-content/uploads/2024/12/ICCR-Prostate-CoreBx-Part2-SpecLevel-1st-ed-v1.1-bookmark.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:17",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La aftosis oral recurrente, la uveítis y las lesiones papulopustulosas, asociadas a oligoartritis, orientan a enfermedad de Behçet. La ausencia de úlceras genitales no la excluye. El HLA-B51 es una asociación epidemiológica y no confirma el diagnóstico.",
+    "o": {
+      "A": "En Sjögren predominan la sequedad ocular y bucal. La uveítis con lesiones papulopustulosas y aftas recurrentes favorece Behçet.",
+      "B": "La artritis reumatoide suele producir poliartritis simétrica, especialmente de manos, y no integra tan bien la afectación mucocutánea y ocular.",
+      "D": "El lupus puede causar úlceras orales y artritis, pero este conjunto de aftosis recurrente, uveítis y pústulas estériles orienta más a Behçet."
+    },
+    "src": "International Society for Behçet’s Disease · International Classification Criteria, manifestaciones orales, oculares y cutáneas",
+    "src_url": "https://behcetdiseasesociety.org/menu/15/international-classification-criteria",
+    "stem": "Varón de 36 años con oligoartritis inflamatoria, cuatro episodios de aftas orales dolorosas en el último año, lesiones papulopustulosas estériles y uveítis anterior confirmada por oftalmología. Niega úlceras genitales. Se evaluaron causas infecciosas alternativas. ¿Qué enfermedad explica mejor el cuadro?"
+  },
+  {
+    "originalId": "diciembre-2024:18",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La sensación de arenilla, la xerostomía persistente que obliga a beber para tragar y las artralgias sugieren Sjögren. La sospecha se estudia con evaluación objetiva de ojos y glándulas salivales y anticuerpos anti-Ro/SSA, entre otros datos.",
+    "o": {
+      "A": "El síndrome poliglandular tipo II requiere insuficiencia suprarrenal primaria autoinmune junto con autoinmunidad tiroidea o diabetes tipo 1. La sequedad no lo define.",
+      "B": "La rigidez y el antecedente familiar no demuestran artritis reumatoide; faltan sinovitis objetiva y otros datos articulares. Predomina el síndrome seco.",
+      "C": "El lupus puede coexistir con sequedad, pero no se describen hallazgos que lo apoyen mejor que Sjögren."
+    },
+    "src": "British Society for Rheumatology · Guideline on management of adult and juvenile onset Sjögren disease, evaluación diagnóstica",
+    "src_url": "https://researchportal.northumbria.ac.uk/files/134519902/Sjogren_s_guideline_2023_full_guideline_FINAL_revised_Feb_2024_CLEAN_002_.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:19",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El dolor súbito en el flanco que irradia hacia la ingle y se acompaña de náuseas es típico de cólico por un cálculo en el uréter. La ausencia de fiebre hace menos probable una infección asociada, que siempre debe evaluarse.",
+    "o": {
+      "A": "La apendicitis suele dar dolor focal en fosa ilíaca derecha; la irradiación desde el flanco a la ingle favorece litiasis.",
+      "B": "Una úlcera perforada suele causar dolor abdominal brusco con irritación peritoneal. El abdomen es blando y la topografía es otra.",
+      "D": "La colecistitis suele localizarse en hipocondrio derecho y puede irradiar al hombro o dorso, no característicamente a la ingle."
+    },
+    "src": "Indian Council of Medical Research · Standard Treatment Workflow: Renal and Ureteric Stones, presentación clínica",
+    "src_url": "https://stw.icmr.org.in/pdfs/1725952325_urology_renal_and_ureteric_stones.pdf"
+  },
+  {
+    "originalId": "diciembre-2024:20",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La epigastralgia de esfuerzo con diaforesis puede ser una presentación isquémica. El supradesnivel del ST en DII, DIII y aVF con cambios recíprocos orienta a infarto inferior y requiere activar de inmediato la estrategia de reperfusión.",
+    "o": {
+      "A": "La litiasis ureteral suele irradiar desde el flanco a la ingle y no explica el patrón electrocardiográfico regional.",
+      "B": "Una úlcera puede causar epigastralgia, pero no explica el supradesnivel persistente en derivaciones inferiores con cambios recíprocos.",
+      "C": "El antecedente de litiasis biliar no basta para atribuirle el cuadro. El ECG y los síntomas vegetativos obligan a priorizar el infarto."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso para el manejo de pacientes con dolor precordial, evaluación electrocardiográfica",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2017/10/consenso-para-el-manejo-de-pacientes-con-dolor-precordial.pdf",
+    "stem": "Varón de 67 años con hipertensión y dislipidemia. Presenta dos horas de epigastralgia iniciada durante un esfuerzo, náuseas y sudoración. El abdomen no tiene signos peritoneales. El ECG muestra supradesnivel persistente del ST en DII, DIII y aVF con infradesnivel recíproco en aVL. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "diciembre-2024:21",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La candidiasis mucocutánea crónica, a menudo de inicio infantil, integra con el hipoparatiroidismo y la insuficiencia suprarrenal primaria la tríada clásica del síndrome poliglandular autoinmune tipo 1 (APECED).",
+    "o": {
+      "A": "La diabetes tipo 1 puede coexistir, pero no integra la tríada clásica que se pregunta.",
+      "B": "La tiroiditis autoinmune puede asociarse a autoinmunidad poliglandular, pero no es uno de los tres componentes clásicos de APECED.",
+      "C": "La miastenia no integra la tríada diagnóstica clásica; su presencia no sustituye a la candidiasis, el hipoparatiroidismo o la insuficiencia suprarrenal."
+    },
+    "src": "Endotext · Autoimmune Polyglandular Syndromes, síndrome poliglandular tipo 1",
+    "src_url": "https://www.endotext.org/wp-content/uploads/pdfs/autoimmune%20polyglandular%20syndromes.pdf",
+    "stem": "¿Cuál de estas manifestaciones integra la tríada clásica del síndrome poliglandular autoinmune tipo 1 y suele aparecer ya en la infancia?"
+  },
+  {
+    "originalId": "diciembre-2024:22",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La combinación de Addison autoinmune con tiroiditis autoinmune que causa hipotiroidismo primario corresponde al tipo II. Puede asociarse también a diabetes tipo 1. La alopecia acompaña la tendencia autoinmune, pero no determina el subtipo.",
+    "o": {
+      "A": "El tipo I suele comenzar en la infancia y se caracteriza por candidiasis mucocutánea, hipoparatiroidismo y Addison.",
+      "B": "El tipo IV agrupa combinaciones que no encajan en los tipos clásicos. Addison con tiroiditis ya define una combinación del tipo II.",
+      "C": "El tipo III incluye autoinmunidad tiroidea con otras enfermedades autoinmunes en ausencia de Addison."
+    },
+    "src": "NIH GARD · Polyglandular autoimmune syndrome, type 2, enfermedades asociadas",
+    "src_url": "https://www.rarediseases.info.nih.gov/diseases/7611/polyglandular-autoimmune-syndrome-type-2",
+    "stem": "Mujer de 42 años con enfermedad de Addison autoinmune confirmada, en tratamiento sustitutivo, y alopecia areata. Se documenta además hipotiroidismo primario con TSH elevada, T4 libre baja y anticuerpos antiperoxidasa positivos. ¿Qué tipo de síndrome poliglandular autoinmune corresponde?"
+  },
+  {
+    "originalId": "diciembre-2024:23",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Para una adulta con SOP que desea anticoncepción y controlar irregularidad menstrual e hirsutismo, un anticonceptivo oral combinado de baja dosis es una opción inicial si no hay contraindicaciones. Se acuerdan medidas de estilo de vida y se valora metformina por el perfil metabólico.",
+    "o": {
+      "B": "La espironolactona no es anticonceptiva. Se considera con anticoncepción eficaz si persiste el hirsutismo pese al tratamiento inicial.",
+      "C": "La metformina puede beneficiar el metabolismo, pero por sí sola no brinda anticoncepción y no es la primera elección para hirsutismo.",
+      "D": "La inducción de la ovulación se reserva para quien busca embarazo, objetivo contrario al expresado por la paciente."
+    },
+    "src": "International Evidence-based Guideline for PCOS 2023 · Recomendaciones 4.2 a 4.6, anticonceptivos, metformina y antiandrógenos",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477934/",
+    "stem": "Mujer de 32 años con SOP confirmado, ciclos muy espaciados e hirsutismo. No busca embarazo, quiere anticoncepción oral y no tiene contraindicaciones para estrógenos. ¿Cuál es la estrategia inicial más apropiada para sus objetivos?",
+    "options": [
+      "Ofrecer anticonceptivo oral combinado de baja dosis, acordar hábitos saludables y valorar metformina según el riesgo metabólico.",
+      "Indicar espironolactona sola como anticonceptivo.",
+      "Indicar únicamente metformina como método anticonceptivo.",
+      "Iniciar inducción de la ovulación."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:24",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El compromiso de casi toda la superficie cutánea con hipotermia constituye una urgencia. Se retira el fármaco sospechoso, se interna para controlar temperatura, líquidos y electrolitos y se busca daño orgánico. El edema facial y la eosinofilia obligan a valorar también DRESS.",
+    "o": {
+      "A": "Continuar el fármaco sospechoso puede agravar la reacción. Un corticoide no sustituye su retiro.",
+      "B": "La tamsulosina estable durante años tiene una relación temporal menos sugestiva que el captopril recién iniciado. Retirar sólo la primera deja la exposición más sospechosa.",
+      "D": "Con hipotermia y deterioro sistémico no alcanza el manejo tópico ambulatorio."
+    },
+    "src": "Ministry of Health, Kenya · Clinical Guidelines for Management, niveles 4–6, eritrodermia",
+    "src_url": "https://health.go.ke/sites/default/files/2025-04/Clinical%20Guidelines%20for%20Management%20Level%204%20Primary%20Care%20Hospitals%20Level%205%20Secondary%20Hospitals%20Level%206%20Tertiary%20Hospitals%20%E2%80%93%20National%20Hospitals.pdf",
+    "stem": "Adulto con eritrodermia aguda que afecta más del 90 % de la piel, hipotermia, edema facial y eosinofilia. Comenzó captopril hace tres semanas y toma tamsulosina sin cambios desde hace años. ¿Qué conducta inicial es prioritaria?",
+    "options": [
+      "Continuar ambas drogas y administrar únicamente corticoide.",
+      "Suspender sólo tamsulosina y mantener captopril.",
+      "Suspender el fármaco sospechoso, internar, iniciar soporte y evaluar compromiso sistémico y gravedad.",
+      "Indicar sólo tratamiento tópico y control ambulatorio."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:25",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Las erosiones mucosas con desprendimiento epidérmico tras una exposición compatible obligan a retirar de inmediato el fármaco sospechoso. Corresponde internación con control de líquidos, dolor, temperatura, mucosas y compromiso ocular, y atención especializada según gravedad.",
+    "o": {
+      "B": "La biopsia puede ayudar a confirmar el diagnóstico, pero no debe prolongar la exposición al posible causante.",
+      "C": "Un antihistamínico no trata la pérdida de barrera cutánea ni protege las mucosas. El alta es insegura.",
+      "D": "La reexposición puede desencadenar una reacción grave y no se utiliza como prueba de confirmación."
+    },
+    "src": "Standard Treatment Guidelines and Essential Medicines List, edición 2024 · Sección 5.10.6.1, Stevens-Johnson y necrólisis epidérmica tóxica",
+    "src_url": "https://sahivsoc.org/Files/PHC-Standard-Treatment-Guidelines-and-EML-8th-Edition-2024.pdf",
+    "stem": "Paciente con erosiones mucosas y desprendimiento epidérmico tras comenzar un fármaco. Ante sospecha de Stevens-Johnson, ¿qué conducta es prioritaria?",
+    "options": [
+      "Suspender el fármaco sospechoso e iniciar soporte especializado en internación",
+      "Continuarlo hasta tener biopsia",
+      "Alta con antihistamínico",
+      "Reexposición para confirmar causalidad"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:26",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La parálisis facial periférica junto con otalgia intensa y vesículas auriculares del mismo lado constituye la presentación clásica de herpes zóster ótico con compromiso facial, o síndrome de Ramsay Hunt.",
+    "o": {
+      "A": "La parálisis de Bell suele ser idiopática. Las vesículas dolorosas en el pabellón orientan a reactivación del virus varicela-zóster.",
+      "B": "La enfermedad de Lyme puede producir parálisis facial, pero no explica típicamente un exantema vesicular ótico doloroso.",
+      "D": "La neurosarcoidosis puede comprometer el facial, pero no produce esta erupción dermatomérica característica."
+    },
+    "src": "StatPearls · Ramsay Hunt Syndrome, presentación clínica",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/NBK557409/?report=reader",
+    "stem": "Adulto con otalgia intensa seguida de parálisis facial periférica derecha y vesículas sobre base eritematosa en el pabellón auricular derecho. ¿Cuál es el diagnóstico más probable?",
+    "options": [
+      "Parálisis de Bell idiopática.",
+      "Enfermedad de Lyme.",
+      "Síndrome de Ramsay Hunt.",
+      "Neurosarcoidosis."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:27",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La sífilis ocular se trata con el esquema de neurosífilis aun si el LCR es normal. Se administra penicilina G cristalina acuosa EV, 18 a 24 millones de unidades al día en dosis divididas o infusión continua, por 10 a 14 días, con evaluación oftalmológica urgente.",
+    "o": {
+      "B": "La penicilina benzatínica IM sola no alcanza las concentraciones necesarias para tratar este compromiso.",
+      "C": "El metronidazol no es un tratamiento eficaz de la infección ocular por Treponema pallidum.",
+      "D": "La penicilina V oral no es el esquema indicado para sífilis ocular."
+    },
+    "src": "CDC · Sexually Transmitted Infections Treatment Guidelines, neurosífilis, sífilis ocular y otosífilis",
+    "src_url": "https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf?btItpQrAuB=dwxLH",
+    "stem": "Adulto con sífilis ocular confirmada y sin alergia a penicilina. ¿Qué esquema recomienda CDC?",
+    "options": [
+      "Penicilina G cristalina acuosa IV, 18–24 millones de unidades diarias por 10–14 días",
+      "Penicilina benzatínica IM como único tratamiento",
+      "Metronidazol oral",
+      "Penicilina V oral"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:28",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La TSH alta con T4 libre baja confirma hipotiroidismo primario manifiesto. Si el litio mantiene estable el trastorno bipolar, se puede continuar y tratar con levotiroxina, ajustándola según TSH y evolución clínica.",
+    "o": {
+      "B": "Suspender litio y observar deja sin tratar el hipotiroidismo manifiesto y puede desestabilizar el ánimo.",
+      "C": "El cambio a quetiapina no es obligatorio para corregir una alteración tiroidea que admite sustitución hormonal.",
+      "D": "Iniciar levotiroxina es adecuado, pero retirar un litio eficaz no es sistemáticamente necesario."
+    },
+    "src": "CANMAT/ISBD · Guías de manejo del trastorno bipolar, vigilancia de función tiroidea durante tratamiento con litio",
+    "src_url": "https://www.kenniscentrumbipolairestoornissen.nl/wp-content/uploads/2019/01/2018-CANMAT-ISBD-Bipolar-Disorders-guideline.pdf",
+    "stem": "Mujer de 27 años, clínicamente estable de su trastorno bipolar con litio en rango terapéutico. Presenta cansancio, xerosis y constipación. TSH 8,5 mUI/L y T4 libre 0,6 ng/dL, por debajo del rango del laboratorio. No hay otros motivos para suspender litio. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "diciembre-2024:29",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El hipertiroidismo bioquímico junto con bocio difuso, orbitopatía y anticuerpos contra el receptor de TSH orienta a enfermedad de Graves. Los anticuerpos estimulan la síntesis de hormona tiroidea.",
+    "o": {
+      "B": "El bocio multinodular tóxico tiene nódulos autónomos y no suele dar orbitopatía ni anticuerpos estimulantes.",
+      "C": "La tiroiditis subaguda provoca liberación transitoria de hormona, a menudo con dolor cervical, y no explica este perfil inmunológico.",
+      "D": "El adenoma tóxico corresponde a un nódulo autónomo, no a una estimulación difusa con orbitopatía."
+    },
+    "src": "Endotext · Diagnosis and Treatment of Graves’ Disease, diagnóstico diferencial",
+    "src_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK285548/",
+    "stem": "Mujer con pérdida de peso, bocio difuso, orbitopatía, TSH suprimida, T4 libre alta y anticuerpos contra el receptor de TSH positivos. ¿Cuál es el diagnóstico?",
+    "options": [
+      "Enfermedad de Graves.",
+      "Bocio multinodular tóxico.",
+      "Tiroiditis subaguda.",
+      "Adenoma tóxico."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:30",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En la clasificación de Keith-Wagener-Barker, el grado III combina alteraciones arteriolares con hemorragias retinianas, exudados o manchas algodonosas. El edema de papila separa al grado IV.",
+    "o": {
+      "A": "El grado II incluye estrechamiento arteriolar más marcado y alteraciones en los cruces arteriovenosos, sin las lesiones exudativas o hemorrágicas del grado III.",
+      "B": "El grado I corresponde a estrechamiento arteriolar leve y no explica las hemorragias.",
+      "C": "El grado IV agrega edema de papila, ausente en el caso."
+    },
+    "src": "European Society of Hypertension · Assessment of Preclinical Organ Damage in Hypertension, tabla 11.1, clasificación de Keith-Wagener-Barker",
+    "src_url": "https://www.eshonline.org/esh-content/uploads/2019/07/1.-Assessment-of-Preclinical-Organ-Damage-in-Hypertension.pdf",
+    "stem": "En un adulto con hipertensión marcada, el oftalmólogo atribuye a retinopatía hipertensiva el estrechamiento arteriolar, los cruces arteriovenosos patológicos, las hemorragias en llama y los exudados. No hay edema de papila. ¿Qué grado corresponde según Keith-Wagener-Barker?"
+  },
+  {
+    "originalId": "diciembre-2024:31",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Etanercept es una proteína de fusión que inhibe TNF y pertenece a los FAME biológicos. Es la opción que queda fuera de los FAME sintéticos convencionales.",
+    "o": {
+      "A": "La sulfasalazina sí es un FAME sintético convencional utilizado en artritis reumatoide.",
+      "C": "La leflunomida es un FAME sintético convencional que inhibe la síntesis de pirimidinas.",
+      "D": "La hidroxicloroquina pertenece al grupo convencional y se utiliza, entre otros escenarios, en enfermedad de baja actividad."
+    },
+    "src": "American College of Rheumatology · Guideline for the Treatment of Rheumatoid Arthritis, clases de DMARD",
+    "src_url": "https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.41752"
+  },
+  {
+    "originalId": "diciembre-2024:32",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En el cuello de cisne la interfalángica proximal se hiperextiende y la distal se flexiona. Reconocer la dirección de cada articulación permite distinguirla de la deformidad en ojal.",
+    "o": {
+      "A": "La interfalángica distal está en flexión, no en hiperextensión.",
+      "B": "La flexión de ambas articulaciones no reproduce la hiperextensión proximal del cuello de cisne.",
+      "D": "La flexión proximal con hiperextensión distal describe la deformidad en ojal o boutonnière."
+    },
+    "src": "Manual MSD profesional · Swan-Neck Deformity, definición anatómica",
+    "src_url": "https://www.msdmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/hand-disorders/swan-neck-deformity"
+  },
+  {
+    "originalId": "diciembre-2024:33",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En un estudio de 24 horas sin supresión ácida, un tiempo de exposición ácida mayor del 6 % constituye evidencia concluyente de reflujo patológico. Más de 80 episodios diarios y una impedancia basal menor de 1.500 ohmios aportan evidencia complementaria.",
+    "o": {
+      "B": "La litiasis biliar suele provocar cólico en hipocondrio derecho y no explica una exposición ácida esofágica patológica.",
+      "C": "La úlcera péptica puede causar epigastralgia, pero no se diagnostica con estos parámetros esofágicos.",
+      "D": "La gastritis se evalúa en el estómago. No explica mejor la pirosis posicional con reflujo documentado."
+    },
+    "src": "Consenso de Lyon 2.0 · Updates to the modern diagnosis of GERD, interpretación de pH-impedanciometría sin tratamiento",
+    "src_url": "https://gut.bmj.com/content/gutjnl/73/2/361.full.pdf",
+    "stem": "Varón de 50 años con pirosis posprandial y al acostarse. Ya se evaluó la disfagia por endoscopía sin lesión obstructiva. La pH-impedanciometría de 24 horas, realizada sin inhibidores de la bomba de protones, muestra exposición ácida esofágica del 8 %, 92 episodios de reflujo e impedancia basal de 1.200 ohmios. ¿Qué diagnóstico apoyan estos hallazgos?"
+  },
+  {
+    "originalId": "diciembre-2024:34",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El asma, la rinosinusitis crónica con pólipos nasales y las reacciones respiratorias reproducibles a inhibidores de COX-1 forman la tríada de enfermedad respiratoria exacerbada por AINE, también llamada síndrome de Samter.",
+    "o": {
+      "B": "El asma alérgica por ácaros puede coexistir con rinitis, pero no explica por sí sola las reacciones repetidas a aspirina e ibuprofeno.",
+      "C": "La granulomatosis con poliangeítis puede afectar nariz y pulmón, pero aquí no se describen signos de vasculitis y la relación con AINE es característica.",
+      "D": "La rinitis alérgica estacional aislada no integra el asma, la poliposis y los episodios de broncoespasmo tras AINE."
+    },
+    "src": "EAACI · Updated Treatment of NSAID-Exacerbated Respiratory Disease, Task Force Report, 2026",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13466261/",
+    "stem": "Adulto con asma, anosmia y rinosinusitis crónica con pólipos bilaterales confirmados. Presentó broncoespasmo en dos oportunidades después de tomar aspirina o ibuprofeno. ¿Qué síndrome integra los tres hallazgos?",
+    "options": [
+      "Enfermedad respiratoria exacerbada por AINE (síndrome de Samter).",
+      "Asma alérgica por ácaros como única explicación.",
+      "Granulomatosis con poliangeítis.",
+      "Rinitis alérgica estacional aislada."
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
