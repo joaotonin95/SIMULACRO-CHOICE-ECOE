@@ -615,6 +615,313 @@
     },
     "src": "WSES · Acute mesenteric ischemia: updated guidelines, diagnóstico clínico y por angio-TC",
     "src_url": "https://link.springer.com/article/10.1186/s13017-022-00443-x"
+  },
+  {
+    "originalId": "diciembre-2022:22",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Una masa fluctuante dolorosa con fiebre en la fosa isquioanal indica un absceso. La incisión y el drenaje oportunos controlan el foco. La anestesia se elige según profundidad y extensión.",
+    "o": {
+      "A": "Los antibióticos pueden agregarse ante signos sistémicos, pero solos dejan la colección sin drenar.",
+      "B": "La aspiración con aguja no sustituye el drenaje adecuado de este absceso clínicamente evidente.",
+      "D": "La TC es útil si la colección es oculta o compleja. En el escenario descripto no debe demorar el control del foco."
+    },
+    "src": "ASCRS · Guía sobre absceso anorrectal, 2022, diagnóstico y drenaje",
+    "src_url": "https://doi.org/10.1097/dcr.0000000000002473",
+    "stem": "Varón de 35 años con dolor perianal y fiebre. La evaluación quirúrgica identifica un absceso isquioanal fluctuante, bien localizado y accesible, sin sospecha de extensión profunda. ¿Qué conducta permite controlar el foco?"
+  },
+  {
+    "originalId": "diciembre-2022:23",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El prolapso que requiere reducción manual define grado III. Con síntomas persistentes y un componente externo importante, la hemorroidectomía escisional trata ambos componentes.",
+    "o": {
+      "A": "El grado IV es irreductible. La ligadura tampoco resuelve el componente externo.",
+      "B": "En el grado II el prolapso se reduce solo. La fotocoagulación no trata el componente externo voluminoso.",
+      "D": "La esclerosis se dirige a hemorroides internas. Además, el comportamiento del prolapso corresponde a grado III."
+    },
+    "src": "ASCRS · Management of Hemorrhoids, 2024, indicaciones de hemorroidectomía",
+    "src_url": "https://doi.org/10.1097/DCR.0000000000003276",
+    "stem": "Paciente con hemorroides internas que prolapsan y requieren reducción manual, componente externo voluminoso y síntomas persistentes pese al tratamiento conservador. ¿Qué combinación de grado y tratamiento definitivo corresponde?"
+  },
+  {
+    "originalId": "diciembre-2022:24",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En el escalón 3 de la vía preferida se usa corticoide inhalado con formoterol a dosis baja como mantenimiento y alivio (MART). Así cada uso de rescate también aporta antiinflamatorio.",
+    "o": {
+      "B": "Budesonida de mantenimiento y salbutamol de rescate no constituyen el esquema MART del escalón 3."
+    },
+    "src": "GINA 2026 · Adultos y adolescentes, vía preferida, escalón 3",
+    "src_url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf",
+    "stem": "Adulto con asma que necesita tratamiento de escalón 3 tras verificar técnica inhalatoria y adherencia. Hay budesonida-formoterol disponible. Según la vía preferida de GINA, ¿qué esquema corresponde?",
+    "options": [
+      "Budesonida-formoterol a dosis baja como mantenimiento y como rescate.",
+      "Budesonida sola de mantenimiento y salbutamol como rescate."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:25",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La presencia de sangre visible en la materia fecal requiere investigar una causa orgánica antes de atribuir los síntomas al SII.",
+    "o": {
+      "A": "El dolor relacionado con la defecación forma parte del patrón clínico habitual del SII.",
+      "C": "Las heces fragmentadas y duras son frecuentes en la constipación y por sí solas no indican sangrado ni inflamación.",
+      "D": "La alternancia de diarrea y constipación es compatible con el subtipo mixto."
+    },
+    "src": "Organización Mundial de Gastroenterología · Directrices sobre síndrome de intestino irritable, signos de alarma",
+    "src_url": "https://www.worldgastroenterology.org/UserFiles/file/guidelines/irritable-bowel-syndrome-spanish-2015.pdf",
+    "stem": "En una persona con dolor abdominal recurrente y cambios del hábito evacuatorio, ¿qué hallazgo obliga a estudiar una causa orgánica antes de atribuir el cuadro al síndrome de intestino irritable?",
+    "options": [
+      "Dolor que mejora al evacuar.",
+      "Sangre visible en la materia fecal.",
+      "Heces duras en bolitas.",
+      "Alternancia entre diarrea y constipación."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:26",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La cinitaprida estimula la motilidad gastrointestinal. Su ficha técnica contempla la dispepsia tipo dismotilidad leve a moderada. La elección clínica depende de la evaluación previa y la respuesta al tratamiento.",
+    "o": {
+      "A": "El sucralfato actúa principalmente como protector de la mucosa.",
+      "B": "La famotidina reduce la secreción de ácido al bloquear receptores H2.",
+      "D": "El omeprazol inhibe la bomba de protones y no es un procinético."
+    },
+    "src": "AEMPS · Cinitaprida, ficha técnica, indicaciones y propiedades farmacodinámicas",
+    "src_url": "https://cima.aemps.es/cima/pdfs/es/ft/78321/FT_78321.html.pdf",
+    "stem": "En un adulto con dispepsia funcional de predominio posprandial ya evaluada, se considera un procinético. ¿Cuál de estos fármacos pertenece a ese grupo?",
+    "options": [
+      "Sucralfato",
+      "Famotidina",
+      "Cinitaprida",
+      "Omeprazol"
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:27",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Las ondas P y los QRS siguen ritmos regulares independientes. La frecuencia auricular supera a la ventricular y el PR cambia sin conducción fija. Esto indica bloqueo AV completo, con escape de QRS estrecho.",
+    "o": {
+      "A": "En el primer grado cada onda P conduce y el PR permanece prolongado y constante.",
+      "B": "En Mobitz I se observa alargamiento progresivo del PR hasta una P bloqueada.",
+      "C": "En Mobitz II hay ondas P bloqueadas y un PR estable en los latidos conducidos. Tampoco se describe el eje de un hemibloqueo."
+    },
+    "src": "Manual MSD profesional · Bloqueo auriculoventricular de tercer grado",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-cardiovasculares/arritmias-card%C3%ADacas-espec%C3%ADficas/bloqueo-auriculoventricular?langselector=1"
+  },
+  {
+    "originalId": "diciembre-2022:28",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El síndrome febril con cefalea retroocular, mialgias, exantema, leucopenia y trombocitopenia orienta a dengue. El dolor abdominal intenso es un signo de alarma que exige evaluación y vigilancia urgentes.",
+    "o": {
+      "B": "Stevens-Johnson suele producir lesiones cutáneas dolorosas con erosiones mucosas o desprendimiento epidérmico.",
+      "C": "La enfermedad meningocócica también puede causar petequias y exige consideración urgente. La cefalea retroocular, el exantema y la leucopenia en conjunto favorecen dengue en este caso.",
+      "D": "En la endocarditis se buscan bacteriemia, hallazgos cardíacos y fenómenos embólicos. El patrón clínico global es menos característico."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre diagnóstico y tratamiento del dengue",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2024/09/gpc_dengue_vc_1012025-652025.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:29",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Entre personas que tienen la enfermedad según el método de referencia, se espera que aproximadamente 90 de cada 100 den positivo. Las restantes son falsos negativos.",
+    "o": {
+      "B": "La probabilidad de estar sano dado un resultado negativo es el valor predictivo negativo.",
+      "C": "La proporción de resultados negativos entre personas sanas es la especificidad.",
+      "D": "La probabilidad de estar enfermo dado un positivo es el valor predictivo positivo y depende también de la prevalencia."
+    },
+    "src": "CDC · Diagnostic Sensitivity and Specificity, tabla de clasificación",
+    "src_url": "https://reach.cdc.gov/sites/default/files/job-aids-resources/Sensitivity_and_Specificity.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:30",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La fiebre alta, el deterioro rápido y la púrpura extensa de aparición brusca hacen sospechar meningococemia. La trombocitopenia puede acompañar la coagulopatía de la sepsis. Requiere tratamiento urgente.",
+    "o": {
+      "A": "La trombocitopenia inmune suele presentarse en un niño en buen estado general con trombocitopenia aislada.",
+      "C": "La leucemia puede causar fiebre y hematomas, pero explica peor el deterioro con púrpura de progresión horaria.",
+      "D": "En la vasculitis por IgA suele conservarse el recuento de plaquetas, pese a la púrpura palpable."
+    },
+    "src": "NICE NG240 · Reconocimiento de enfermedad meningocócica, signos de alarma",
+    "src_url": "https://www.nice.org.uk/guidance/ng240/resources/meningitis-bacterial-and-meningococcal-disease-recognition-diagnosis-and-management-pdf-66143949881029"
+  },
+  {
+    "originalId": "diciembre-2022:31",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La lesión de alto grado se extiende hacia el canal y su límite superior no es visible. La escisión de la zona de transformación permite tratarla y estudiar invasión y márgenes en la pieza.",
+    "o": {
+      "B": "La histerectomía no es el tratamiento inicial de una CIN3 aislada.",
+      "C": "La destrucción local impide evaluar márgenes e invasión y es inapropiada cuando la lesión no se visualiza completa.",
+      "D": "El muestreo endocervical aislado no extirpa la lesión ya demostrada."
+    },
+    "src": "AEPCC · Guía 2022 de prevención del cáncer de cuello uterino, tratamiento de HSIL/CIN3",
+    "src_url": "https://www.aepcc.org/wp-content/uploads/2021/11/AEPCC-Guia_Prevencion-cancer-cervix_2022.pdf",
+    "stem": "Paciente no embarazada de 45 años, con biopsia cervical que informa HSIL/CIN3. En la colposcopía, la lesión se extiende al canal endocervical y no se ve su límite superior. ¿Qué conducta inicial corresponde?"
+  },
+  {
+    "originalId": "diciembre-2022:32",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La combinación de sangrado, útero mucho mayor que el esperado, hiperémesis e hipertensión antes de las 20 semanas orienta a mola hidatidiforme. Una concentración elevada de hCG puede asociarse a quistes tecaluteínicos bilaterales. Se evalúa con ecografía y hCG cuantitativa.",
+    "o": {
+      "A": "La hiperémesis explica los vómitos y la deshidratación, pero no el marcado aumento del tamaño uterino ni los anexos aumentados.",
+      "B": "La hipertensión gestacional típica se inicia después de las 20 semanas y no explica la discordancia de tamaño.",
+      "C": "Un aborto incompleto puede producir sangrado y cuello permeable, pero no explica tan bien el útero desproporcionado y el compromiso anexial."
+    },
+    "src": "FIGO · Diagnosis and management of gestational trophoblastic disease, actualización 2025",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12411817/"
+  },
+  {
+    "originalId": "diciembre-2022:33",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El shock con útero hipertónico en el tercer trimestre sugiere desprendimiento prematuro de placenta normoinserta. La sangre puede acumularse detrás de la placenta y provocar hipovolemia sin sangrado vaginal visible.",
+    "o": {
+      "A": "El shock séptico también puede causar hipotensión y taquicardia. La hipertonía uterina y el contexto obstétrico favorecen hemorragia retroplacentaria."
+    },
+    "src": "Manual MSD profesional · Desprendimiento placentario, hemorragia oculta",
+    "src_url": "https://www.msdmanuals.com/es/professional/ginecolog%C3%ADa-y-obstetricia/complicaciones-prenatales/desprendimiento-placentario"
+  },
+  {
+    "originalId": "diciembre-2022:34",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Los investigadores clasifican a los participantes por exposición previa al tabaco y siguen ambos grupos para comparar la evolución de la función pulmonar. Eso define una cohorte prospectiva.",
+    "o": {
+      "A": "El seguimiento comparativo de grupos según exposición permite evaluar una asociación y excede un diseño puramente descriptivo.",
+      "B": "En casos y controles los grupos se seleccionan por el desenlace, no por el consumo de tabaco.",
+      "D": "Nadie asigna la exposición al cigarrillo, por lo que el estudio es observacional."
+    },
+    "src": "CDC · Cohort Studies, diseño prospectivo",
+    "src_url": "https://stacks.cdc.gov/view/cdc/6688/cdc_6688_DS1.pdf"
+  },
+  {
+    "originalId": "diciembre-2022:35",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El hemopericardio a tensión limita el llenado ventricular y causa shock obstructivo. La hipotensión, la ingurgitación yugular, los ruidos cardíacos apagados y el colapso de cavidades derechas orientan a taponamiento.",
+    "o": {
+      "B": "Una hemorragia hipovolémica aislada suele reducir el llenado yugular y no explica el colapso cardíaco por líquido pericárdico.",
+      "C": "El shock describe el estado circulatorio. El hallazgo ecográfico identifica su causa obstructiva.",
+      "D": "Un neumotórax a tensión también puede distender las yugulares, pero no explica el derrame pericárdico con colapso derecho."
+    },
+    "src": "Manual MSD profesional · Taponamiento cardíaco traumático, clínica y ecografía",
+    "src_url": "https://www.msdmanuals.com/professional/injuries-poisoning/thoracic-trauma/cardiac-tamponade?media=print",
+    "stem": "Tras un traumatismo torácico, un conductor presenta hipotensión, pulso paradójico, ingurgitación yugular y ruidos cardíacos apagados. La ecografía a pie de cama muestra líquido pericárdico con colapso de cavidades derechas. ¿Qué lesión explica el shock?"
+  },
+  {
+    "originalId": "diciembre-2022:36",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La fiebre con escalofríos indica inflamación sistémica, la ictericia y el perfil de laboratorio evidencian colestasis, y la ecografía demuestra obstrucción biliar. La combinación cumple criterios diagnósticos de colangitis aguda.",
+    "o": {
+      "A": "La pancreatitis puede ser de origen biliar, pero no explica mejor la combinación de infección, colestasis y obstrucción documentada. En el caso tampoco se demuestra elevación de lipasa ni inflamación pancreática."
+    },
+    "src": "Tokyo Guidelines 2018 · Initial management of acute biliary infection, criterios de colangitis",
+    "src_url": "https://sites.duke.edu/gifellowship/files/2019/08/Tokyo-guidelines-2018-acute-cholangitis.pdf",
+    "stem": "Varón de 56 años con fiebre de 39 °C, escalofríos, dolor en hipocondrio derecho e ictericia. Tiene leucocitosis, hiperbilirrubinemia directa y fosfatasa alcalina elevada. La ecografía muestra colédoco dilatado con un cálculo distal. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "diciembre-2022:37",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Con TVP probable y ecografía no disponible dentro de cuatro horas, se solicita dímero D y se indica anticoagulación terapéutica interina si el riesgo hemorrágico lo permite. El resultado de la ecografía debe obtenerse dentro de 24 horas.",
+    "o": {
+      "B": "La aspirina no sustituye la anticoagulación terapéutica interina ante una TVP probable.",
+      "C": "Atribuir el edema a la cirugía demoraría el estudio de una trombosis potencialmente embolígena.",
+      "D": "La heparina de 5000 UI subcutáneas cada ocho horas es una pauta profiláctica y no alcanza intensidad terapéutica."
+    },
+    "src": "NICE NG158 · Diagnóstico de TVP, recomendaciones 1.1.3–1.1.4",
+    "src_url": "https://www.nice.org.uk/guidance/NG158/chapter/recommendations",
+    "stem": "Mujer con edema unilateral y dolor de pantorrilla después de cirugía del tendón de Aquiles. Wells para TVP de 3 puntos. Se verificó hemostasia, sin sangrado ni contraindicación para anticoagular. El resultado de la ecografía venosa estará disponible en 12 horas. Según NICE, ¿qué conducta inicial corresponde?",
+    "options": [
+      "Solicitar dímero D, iniciar anticoagulación terapéutica interina y obtener el resultado de la ecografía en menos de 24 horas.",
+      "Dar aspirina y solicitar ecografía ambulatoria sin plazo.",
+      "Indicar reposo y AINE durante 48 horas sin estudios.",
+      "Indicar heparina no fraccionada 5000 UI subcutáneas cada ocho horas como tratamiento de la TVP probable."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:38",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La exacerbación consiste en un empeoramiento agudo, en hasta 14 días, de la disnea y/o de la tos con esputo. Puede ocurrir sin fiebre. La mayor purulencia orienta a un posible desencadenante bacteriano y no identifica por sí sola al patógeno.",
+    "o": {
+      "A": "La fiebre aislada obliga a buscar su causa y no demuestra empeoramiento respiratorio.",
+      "B": "La disnea paroxística nocturna con ortopnea y edema orienta más a insuficiencia cardíaca.",
+      "C": "La tos y la expectoración crónicas sin cambios describen el estado basal."
+    },
+    "src": "GOLD 2027 · Exacerbaciones de EPOC, definición clínica, informe publicado en noviembre de 2026",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2026/11/GOLD-Report-2027-FINAL-v1.0-15Nov2026_WMV.pdf",
+    "stem": "En una persona con EPOC, ¿qué cambio es más compatible con una exacerbación aguda posiblemente infecciosa?",
+    "options": [
+      "Fiebre aislada con disnea, tos y esputo sin cambios.",
+      "Ortopnea, disnea paroxística nocturna y edema bilateral sin cambios de la tos.",
+      "Tos productiva habitual sin variación durante meses.",
+      "Aumento de la disnea, de la tos y de la purulencia del esputo durante los últimos tres días."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:39",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En un adulto inmunocompetente con función renal normal, la pauta oral es de 800 mg cinco veces al día, aproximadamente cada cuatro horas durante la vigilia, por siete días.",
+    "o": {
+      "A": "Cada doce horas aporta menos tomas que la pauta estándar para función renal normal.",
+      "B": "La dosis de 400 mg cada ocho horas no corresponde a la pauta oral de zóster en este adulto.",
+      "D": "Cada seis horas son cuatro tomas diarias. Prolongar a catorce días no reproduce la pauta recomendada."
+    },
+    "src": "AEMPS · Aciclovir 800 mg, ficha técnica, posología para herpes zóster",
+    "src_url": "https://cima.aemps.es/cima/pdfs/es/ft/62295/FichaTecnica_62295.html.pdf",
+    "stem": "Varón inmunocompetente de 44 años, con función renal normal y herpes zóster torácico localizado de 36 horas de evolución. Se decide iniciar aciclovir por vía oral. ¿Qué pauta corresponde?"
+  },
+  {
+    "originalId": "diciembre-2022:40",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Una HbA1c mayor de 10 % es un criterio para considerar el inicio de insulina por hiperglucemia marcada. Los síntomas, la pérdida involuntaria de peso y la presencia de cetosis también influyen en la decisión.",
+    "o": {
+      "A": "Las dificultades con la alimentación requieren abordar barreras concretas y no determinan por sí solas insulinoterapia.",
+      "B": "Una glucemia en ayunas de 155 mg/dL está sobre la meta habitual, pero no alcanza el umbral de hiperglucemia marcada propuesto por la ADA.",
+      "D": "El tabaquismo eleva el riesgo cardiovascular y requiere intervención específica, pero no determina la indicación de insulina."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, sección 9, tratamiento farmacológico",
+    "src_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934",
+    "stem": "En un adulto con DM2 sin crisis hiperglucémica, ¿qué dato por sí solo alcanza uno de los umbrales de la ADA para considerar iniciar insulina por hiperglucemia marcada?",
+    "options": [
+      "Dificultad para sostener el plan alimentario.",
+      "Glucemia en ayunas de 155 mg/dL.",
+      "HbA1c de 10,8 %.",
+      "Tabaquismo de 40 paquetes-año."
+    ]
+  },
+  {
+    "originalId": "diciembre-2022:41",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Tras la resección completa en una pieza de un adenoma con displasia de alto grado, la primera colonoscopía de vigilancia corresponde a los tres años. Si una lesión de 20 mm o más se reseca en fragmentos, el intervalo inicial suele ser de seis meses.",
+    "o": {
+      "A": "Cinco años demora el primer control de este adenoma avanzado.",
+      "B": "La TC no forma parte de la vigilancia rutinaria de un adenoma sin cáncer invasor y cinco años es un intervalo excesivo.",
+      "C": "El control anual no es el intervalo indicado para un único adenoma avanzado con resección completa documentada."
+    },
+    "src": "US Multi-Society Task Force · Follow-up after colonoscopy and polypectomy, tabla 4",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/7672705/",
+    "stem": "Varón de 61 años, sin antecedentes familiares ni síndrome hereditario. En una colonoscopía completa de alta calidad se reseca en una pieza un único adenoma de 3 cm con displasia de alto grado, márgenes libres y sin invasión. ¿Cuándo corresponde la primera colonoscopía de vigilancia?",
+    "options": [
+      "A los cinco años.",
+      "A los cinco años junto con TC de abdomen y pelvis.",
+      "Al año.",
+      "A los tres años."
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
