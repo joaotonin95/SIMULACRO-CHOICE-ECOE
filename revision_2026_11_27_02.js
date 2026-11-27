@@ -6761,6 +6761,325 @@
       "Granulomatosis con poliangeítis.",
       "Rinitis alérgica estacional aislada."
     ]
+  },
+  {
+    "originalId": "diciembre-2024:35",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El shock hemorrágico puede causar necrosis isquémica de la adenohipófisis. La falta de prolactina explica la agalactia y la insuficiencia corticotropa puede producir hipotensión e hipoglucemia aun después de corregir la pérdida de volumen.",
+    "o": {
+      "A": "La tiroiditis posparto puede causar alteraciones del ánimo y del metabolismo, pero no explica la asociación inmediata con shock y agalactia.",
+      "B": "El prolactinoma suele producir galactorrea por exceso de prolactina. No explica la pérdida aguda de función hipofisaria tras la hemorragia.",
+      "D": "Las sinequias uterinas del síndrome de Asherman pueden producir amenorrea e infertilidad, pero no agalactia ni insuficiencia suprarrenal."
+    },
+    "src": "Acute Sheehan’s syndrome · Presentación clínica e hipopituitarismo posparto, 2025",
+    "src_url": "https://pubmed.ncbi.nlm.nih.gov/40117256/",
+    "stem": "Mujer de 30 años con hemorragia posparto masiva por atonía uterina, hipotensión sostenida y necesidad de transfusión. Tras controlar la hemorragia y reponer volumen persisten astenia, hipotensión e hipoglucemia. No logró producir leche. ¿Qué complicación endocrina se debe sospechar?",
+    "options": [
+      "Tiroiditis posparto.",
+      "Prolactinoma.",
+      "Síndrome de Sheehan.",
+      "Síndrome de Asherman."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:36",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La poliuria y la polidipsia con glucemia plasmática al azar ≥200 mg/dL permiten diagnosticar diabetes. El adelgazamiento y los anticuerpos de islote positivos apoyan diabetes tipo 1 autoinmune e indican insulinoterapia. No hace falta esperar la HbA1c para comenzar.",
+    "o": {
+      "B": "El síndrome metabólico por sí solo no explica la autoinmunidad de islote ni el cuadro catabólico. Una prueba de tolerancia no agrega información diagnóstica aquí.",
+      "C": "La hipoglucemia reactiva exige glucemia baja durante los síntomas. Administrar glucosa agravaría la hiperglucemia.",
+      "D": "La metformina sola es insuficiente ante el déficit de insulina por diabetes tipo 1."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, sección 2: diagnóstico y clasificación",
+    "src_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S27/163926",
+    "stem": "Mujer de 22 años con poliuria, polidipsia y adelgazamiento. Glucemia plasmática al azar de 320 mg/dL y anticuerpos anti-GAD e IA-2 positivos. Está estable, sin acidosis ni cetosis. ¿Qué interpretación y tratamiento corresponden?",
+    "options": [
+      "Diabetes tipo 1: la glucemia con los síntomas permite el diagnóstico y corresponde iniciar insulina.",
+      "Síndrome metabólico: hacer prueba de tolerancia oral y tratar sólo con dieta.",
+      "Hipoglucemia reactiva: iniciar suplementos de glucosa.",
+      "Diabetes tipo 2: iniciar únicamente metformina."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:37",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El defecto en la pared del apéndice sugiere perforación y la colección localizada con realce periférico indica un absceso. Ambos hallazgos definen una apendicitis complicada.",
+    "o": {
+      "A": "El cólico biliar suele provocar dolor en hipocondrio derecho y no ocasiona discontinuidad de la pared apendicular.",
+      "C": "La cistitis puede producir dolor suprapúbico y disuria, pero no explica la colección periappendicular.",
+      "D": "La pancreatitis suele dar dolor epigástrico y alteraciones pancreáticas, no una colección centrada en el apéndice."
+    },
+    "src": "WSES · Jerusalem Guidelines, diagnóstico y tratamiento de apendicitis aguda, edición 2025",
+    "src_url": "https://doi.org/10.1001/jamasurg.2025.6218",
+    "stem": "Paciente febril con dolor en fosa ilíaca derecha. La TC muestra discontinuidad de la pared apendicular y colección periappendicular con realce periférico. ¿Cuál es el diagnóstico?",
+    "options": [
+      "Cólico biliar",
+      "Apendicitis complicada con absceso",
+      "Cistitis",
+      "Pancreatitis"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:38",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La fiebre y la leucocitosis indican inflamación sistémica. Con ictericia, colestasis y dilatación del colédoco por un cálculo, se reúnen los tres componentes diagnósticos de colangitis aguda.",
+    "o": {
+      "A": "Una colecistitis aislada afecta la vesícula. No explica tan bien la infección con obstrucción demostrada del colédoco.",
+      "B": "Una hepatitis aguda puede elevar transaminasas y bilirrubina, pero no causa dilatación obstructiva de la vía biliar por un cálculo.",
+      "D": "La pancreatitis suele causar dolor epigástrico y elevación de lipasa. En este cuadro predomina una infección de la vía biliar."
+    },
+    "src": "Tokyo Guidelines 2018 · Manejo inicial de infección biliar, tabla 1 de criterios diagnósticos de colangitis",
+    "src_url": "https://sites.duke.edu/gifellowship/files/2019/08/Tokyo-guidelines-2018-acute-cholangitis.pdf",
+    "stem": "Hombre de 65 años con fiebre de 38,5 °C, dolor en hipocondrio derecho e ictericia. Presenta leucocitosis, bilirrubina de 4 mg/dL y fosfatasa alcalina elevada. La ecografía muestra colédoco dilatado con un cálculo distal, sin engrosamiento vesicular ni líquido perivesicular. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "diciembre-2024:39",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La hipertensión portal favorece el desarrollo de várices. En este caso la endoscopía identifica directamente la fuente esofágica. El manejo incluye reanimación, vasoactivo, profilaxis antibiótica y hemostasia endoscópica con ligadura.",
+    "o": {
+      "B": "La rotura de un aneurisma aórtico suele sangrar hacia el retroperitoneo o peritoneo y no explica el foco endoscópico.",
+      "C": "Una perforación duodenal suele dar peritonismo y aire libre, no sangrado activo desde una columna venosa esofágica.",
+      "D": "La úlcera péptica también puede sangrar en personas con cirrosis. Aquí se identifica otro foco y no hay úlcera gastroduodenal."
+    },
+    "src": "Baveno VII · Consenso sobre hipertensión portal, hemorragia variceal aguda",
+    "src_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11090185/",
+    "stem": "Varón con cirrosis e hipertensión portal presenta hematemesis, melena e hipotensión. Tras iniciar reanimación, la endoscopía muestra sangrado activo desde una columna venosa dilatada en el esófago distal, sin úlcera gastroduodenal. ¿Cuál es el origen de la hemorragia?"
+  },
+  {
+    "originalId": "diciembre-2024:40",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La angio-TC abdominopélvica urgente con contraste EV y fases arterial y venosa permite evaluar la permeabilidad de los vasos mesentéricos y el realce intestinal. La anticoagulación previa no descarta isquemia mesentérica.",
+    "o": {
+      "A": "La radiografía puede mostrar signos tardíos o ser normal al inicio. No permite valorar adecuadamente los vasos.",
+      "C": "La ecografía convencional tiene limitaciones por gas intestinal y no descarta una oclusión mesentérica aguda.",
+      "D": "Sin contraste no se caracteriza adecuadamente la perfusión intestinal ni se visualiza de forma confiable la oclusión vascular."
+    },
+    "src": "WSES · Acute mesenteric ischemia: updated guidelines, recomendación de angio-TC sin demora",
+    "src_url": "https://doi.org/10.1186/s13017-022-00443-x",
+    "stem": "Paciente de 72 años con fibrilación auricular y dolor abdominal súbito intenso, desproporcionado a la palpación. Está estable, sin peritonitis. Ante sospecha de isquemia mesentérica aguda, ¿qué estudio corresponde solicitar de inmediato?",
+    "options": [
+      "Radiografía simple de abdomen.",
+      "Angio-TC de abdomen y pelvis con contraste EV, con fases arterial y venosa.",
+      "Ecografía abdominal convencional.",
+      "TC sin contraste."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:41",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El pH de 7,28 indica acidemia y la PaCO₂ de 60 mmHg identifica retención de CO₂. El bicarbonato de 26 mEq/L es compatible con compensación aguda. La exacerbación de EPOC explica la ventilación alveolar insuficiente.",
+    "o": {
+      "A": "En la alcalosis respiratoria primaria disminuye la PaCO₂, mientras que aquí está elevada.",
+      "B": "La alcalosis metabólica cursa con elevación primaria del bicarbonato y tendencia a alcalemia.",
+      "C": "En la acidosis metabólica el bicarbonato disminuye y la compensación respiratoria reduce la PaCO₂. El patrón informado es el inverso."
+    },
+    "src": "Manual Merck profesional · Respiratory Acidosis, diagnóstico gasométrico",
+    "src_url": "https://www.merckmanuals.com/professional/nephrology/acid-base-regulation-and-disorders/respiratory-acidosis"
+  },
+  {
+    "originalId": "diciembre-2024:42",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El deterioro neurológico junto con daño retiniano agudo y presión muy elevada indica una emergencia hipertensiva. Requiere monitorización y descenso controlado con fármacos EV titulables para evitar hipoperfusión por una caída brusca.",
+    "o": {
+      "B": "El ajuste oral ambulatorio es insuficiente cuando ya existe daño agudo de órgano blanco.",
+      "C": "La confusión aislada no establece un infarto cerebral susceptible de trombólisis. Se necesita evaluación neurológica específica y la presión actual tampoco permite trombólisis inmediata.",
+      "D": "La glucemia normal descarta hipoglucemia en este episodio; la glucosa EV no trata la emergencia hipertensiva."
+    },
+    "src": "Consenso Argentino de Hipertensión Arterial 2025 · Emergencias hipertensivas con daño de órgano blanco",
+    "src_url": "https://www.saha.org.ar/uploads/pdf/1760367723.pdf",
+    "stem": "Adulto con TA 220/130 mmHg, cefalea, visión borrosa y confusión sin focalidad. Glucemia normal, hemorragias retinianas nuevas y edema de papila bilateral. La evaluación urgente no muestra hemorragia cerebral ni otra causa del deterioro. ¿Cuál es el diagnóstico y manejo inicial?",
+    "options": [
+      "Emergencia hipertensiva con compromiso cerebral y retiniano: tratamiento EV titulado bajo monitorización.",
+      "Hipertensión sin daño agudo: ajustar medicación oral y dar el alta.",
+      "ACV isquémico: iniciar trombólisis sin más evaluación.",
+      "Hipoglucemia: administrar glucosa EV."
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:43",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La disección de aorta ascendente requiere cirugía de emergencia. Mientras se activa el equipo quirúrgico se inicia analgesia y control de la fuerza de eyección y la frecuencia con betabloqueante EV, agregando vasodilatador si hace falta y manteniendo la perfusión.",
+    "o": {
+      "A": "La pericarditis suele causar dolor pleurítico y posicional. Los AINE no tratan un colgajo de disección aórtica.",
+      "C": "La imagen ubica la lesión en la aorta ascendente. Anticoagular puede agravar el sangrado y no trata la disección.",
+      "D": "La trombólisis ante una disección puede causar hemorragia catastrófica. El cuadro no se maneja como un infarto primario."
+    },
+    "src": "ACC/AHA · Guideline for the Diagnosis and Management of Aortic Disease, síndrome aórtico agudo y disección tipo A",
+    "src_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001106?download=true",
+    "stem": "Mujer hipertensa con dolor torácico súbito irradiado a la espalda, TA 200/110 mmHg y FC 105/min. La angio-TC muestra un colgajo en aorta ascendente. No hay shock, bradicardia ni insuficiencia aórtica grave. ¿Cuál es el diagnóstico y la conducta inicial?"
+  },
+  {
+    "originalId": "diciembre-2024:44",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La disnea persistente en la EPOC estable se trata con broncodilatación inhalada de acción prolongada. En pacientes sintomáticos del grupo B suele indicarse LABA más LAMA, junto con revisión de técnica y medidas no farmacológicas.",
+    "o": {
+      "A": "Los antibióticos no son tratamiento de mantenimiento habitual de la disnea estable. Se valoran en circunstancias específicas.",
+      "B": "Los corticoides sistémicos crónicos producen toxicidad y no se recomiendan como mantenimiento de la EPOC estable.",
+      "C": "El oxígeno domiciliario prolongado requiere criterios de hipoxemia crónica. La disnea aislada no lo indica."
+    },
+    "src": "GOLD 2027 · Pocket Guide, broncodilatadores en EPOC estable, noviembre de 2026",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2026/11/GOLD-2027-POCKET-GUIDE-v1.1-20Nov2026_WMV.pdf",
+    "stem": "Adulta con EPOC confirmada por espirometría, disnea diaria, saturación basal de 96 % en aire ambiente y sin exacerbaciones en el último año. ¿Qué clase de tratamiento inhalado de mantenimiento corresponde priorizar?"
+  },
+  {
+    "originalId": "diciembre-2024:45",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La pérdida visual monocular subaguda con dolor que aumenta al mover el ojo y defecto pupilar aferente orienta a inflamación del nervio óptico. La alteración de la percepción de colores puede acompañarla.",
+    "o": {
+      "A": "En el glaucoma agudo suelen predominar ojo rojo, halos, presión intraocular elevada y pupila media poco reactiva.",
+      "B": "El desprendimiento de retina típicamente es indoloro y puede manifestarse con fotopsias o una cortina en el campo visual.",
+      "C": "La catarata produce pérdida visual progresiva e indolora, sin dolor con los movimientos oculares."
+    },
+    "src": "Manual MSD profesional · Neuritis óptica, presentación y diagnóstico",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-oft%C3%A1lmicos/trastornos-del-nervio-%C3%B3ptico/neuritis-%C3%B3ptica?ruleredirectid=750"
+  },
+  {
+    "originalId": "diciembre-2024:46",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El aumento de peso, los edemas y la ingurgitación yugular indican sobrecarga de volumen. En una descompensación internada con perfusión conservada corresponde un diurético de asa EV, con control de diuresis, función renal y electrolitos.",
+    "o": {
+      "A": "Los vasopresores se reservan para hipotensión con hipoperfusión y no corrigen la sobrecarga en este paciente estable.",
+      "B": "Un IECA puede modificar el pronóstico en pacientes seleccionados, pero no es la intervención inicial para retirar exceso de volumen.",
+      "D": "Los betabloqueantes tienen un rol crónico; aumentar su dosis no produce la descongestión que se necesita ahora."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de insuficiencia cardíaca, manejo de la congestión aguda",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2024/05/COMPLETO-H_22082023.pdf",
+    "stem": "Hombre de 70 años internado por insuficiencia cardíaca con disnea progresiva, aumento de peso, edema bilateral e ingurgitación yugular. Está normotenso y bien perfundido. ¿Qué grupo de fármacos se prioriza para la descongestión inicial?"
+  },
+  {
+    "originalId": "diciembre-2024:47",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La pérdida brusca de fuerza con recuperación completa y sin evidencia de infarto agudo es compatible con AIT. La resolución de los síntomas no evita la evaluación urgente del territorio vascular y de la causa por el riesgo temprano de ACV.",
+    "o": {
+      "B": "El aura suele tener síntomas positivos de progresión gradual. Aquí el déficit motor fue negativo y máximo desde el comienzo.",
+      "C": "Si hubiera infarto agudo atribuible al episodio se clasificaría como ACV isquémico aun con síntomas transitorios. No se observa lesión aguda en este caso.",
+      "D": "La neuroimagen no muestra sangrado y la evolución clínica orienta más a isquemia transitoria."
+    },
+    "src": "American Heart Association · Diagnosis, Workup, Risk Reduction of Transient Ischemic Attack in the Emergency Department, 2023",
+    "src_url": "https://www.ahajournals.org/doi/pdf/10.1161/STR.0000000000000418",
+    "stem": "Varón de 60 años con hipertensión y dislipidemia presenta hemiparesia derecha de inicio brusco, máxima desde el comienzo y resuelta por completo en una hora. Glucemia normal. No hay hemorragia en la TC ni infarto agudo en la RM con difusión. ¿Cuál es el diagnóstico clínico más probable?"
+  },
+  {
+    "originalId": "diciembre-2024:48",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El VPP responde qué probabilidad tiene de presentar la condición una persona cuyo resultado fue positivo. Se calcula dividiendo los verdaderos positivos por el total de resultados positivos, verdaderos más falsos.",
+    "o": {
+      "B": "La proporción de personas sanas entre quienes tuvieron resultado negativo es el valor predictivo negativo.",
+      "C": "La proporción de sanos entre los positivos es el complemento del VPP. Su numerador está formado por falsos positivos.",
+      "D": "La proporción de enfermos entre los negativos es el complemento del valor predictivo negativo."
+    },
+    "src": "AHRQ · Tabla 2 × 2 para cálculo de medidas de rendimiento diagnóstico, valor predictivo positivo",
+    "src_url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK98249/table/appendix.t1/"
+  },
+  {
+    "originalId": "diciembre-2024:49",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Para pasar un volumen final de 200 mL en dos horas se programan 100 mL/h. Con 1 g en 200 mL, la concentración es de 5 mg/mL y se administran unos 8,3 mg/min, dentro de la velocidad prescripta.",
+    "o": {
+      "A": "A 200 mL/h la bolsa terminaría en una hora y la velocidad sería de unos 16,7 mg/min, superior al máximo fijado en el caso.",
+      "B": "A 50 mL/h se necesitarían cuatro horas para completar el volumen.",
+      "D": "A 150 mL/h la infusión duraría 80 minutos y aportaría 12,5 mg/min, por encima del máximo indicado."
+    },
+    "src": "FDA · Vancomycin Injection, ficha técnica, administración EV y reacciones relacionadas con la infusión",
+    "src_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/050671s032lbl.pdf",
+    "stem": "Se prescribe vancomicina EV 1 g en un volumen final de 200 mL para administrar en dos horas, sin superar 10 mg/min. ¿A qué velocidad se debe programar la bomba?"
+  },
+  {
+    "originalId": "diciembre-2024:50",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Para depositar la vacuna en el músculo deltoides se introduce la aguja perpendicular a la superficie cutánea, a 90°. Se eligen el sitio y la longitud de aguja adecuados al adulto.",
+    "o": {
+      "B": "Quince grados es un ángulo superficial, propio de una técnica intradérmica y no del acceso al deltoides.",
+      "C": "Treinta grados dirige la aguja en forma oblicua y no es la técnica recomendada para una vacuna intramuscular.",
+      "D": "Una trayectoria paralela a la piel no permite alcanzar de manera adecuada el plano muscular."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacunación segura: vía de administración y vacunas, técnica intramuscular",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2023/07/via_de_administracion_y_vacunas.pdf",
+    "stem": "En la administración de una vacuna intramuscular en el deltoides de un adulto, ¿qué ángulo forma la aguja con la piel?",
+    "options": [
+      "90 grados",
+      "15 grados",
+      "30 grados",
+      "Paralelo a la piel"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:51",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La intención de dejar de fumar dentro de los próximos 30 días, sumada a pasos concretos como fijar fecha y reducir el consumo, corresponde a preparación. La persona todavía fuma.",
+    "o": {
+      "A": "En contemplación considera dejarlo, pero aún no asumió este compromiso próximo con un plan concreto.",
+      "C": "En precontemplación no plantea abandonar el tabaco en el futuro cercano.",
+      "D": "En este modelo aplicado a la cesación, la acción comienza cuando efectivamente deja de fumar, no sólo al reducir los cigarrillos."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica de tratamiento de la adicción al tabaco, versión breve 2024, etapas de cambio",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/gpc-tabaco-breve-08-2024.pdf",
+    "stem": "Una persona que todavía fuma decidió abandonar el tabaco dentro de dos semanas, fijó una fecha y ya está reduciendo el número de cigarrillos. Según Prochaska y DiClemente, ¿en qué etapa se encuentra?"
+  },
+  {
+    "originalId": "diciembre-2024:52",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La evaluación del donante y de cada órgano integra antecedentes clínicos, función, hallazgos y riesgos de transmisión. Con esa información se decide qué órganos pueden ofrecerse y el equipo receptor valora la aceptación para su paciente.",
+    "o": {
+      "A": "La edad puede influir en el riesgo o en la asignación, pero no establece por sí sola la viabilidad de cada órgano.",
+      "C": "El grupo sanguíneo interviene en la compatibilidad; no mide la función del órgano ni excluye riesgos transmisibles.",
+      "D": "Ofrecer todo sin evaluación clínica omitiría alteraciones funcionales y contraindicaciones relevantes."
+    },
+    "src": "INCUCAI · Resolución 375/2026, criterios de distribución y asignación de órganos de donantes fallecidos",
+    "src_url": "https://www.argentina.gob.ar/normativa/nacional/norma-431594/texto",
+    "stem": "Según el proceso argentino de donación, ¿cómo se determina qué órganos de un potencial donante fallecido pueden ofrecerse?",
+    "options": [
+      "Solo por la edad",
+      "Por evaluación médica de función, viabilidad y riesgos de los órganos",
+      "Solo por el grupo sanguíneo",
+      "Se ofrecen todos sin evaluación clínica"
+    ]
+  },
+  {
+    "originalId": "diciembre-2024:53",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "En adultos, los CDC recomiendan evitar el sitio femoral para un catéter venoso central cuando hay alternativas apropiadas. La selección integra riesgo infeccioso, complicaciones mecánicas y necesidades individuales, sin asumir un orden de riesgo universal.",
+    "o": {
+      "A": "La yugular interna es una alternativa central válida. La recomendación específica de evitar un sitio de rutina entre estas opciones se refiere al femoral.",
+      "B": "La vía intraósea es un acceso de emergencia y no constituye un sitio venoso central para insertar este catéter.",
+      "C": "La subclavia suele preferirse para reducir infecciones en catéteres centrales no tunelizados cuando el riesgo mecánico y la preservación vascular lo permiten."
+    },
+    "src": "CDC · Guidelines for the Prevention of Intravascular Catheter-Related Infections, selección del sitio de inserción",
+    "src_url": "https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infection/prevention-strategies.html",
+    "stem": "En un adulto que necesita un catéter venoso central no tunelizado, sin urgencia ni contraindicación para otros accesos, ¿qué sitio recomiendan evitar los CDC cuando hay alternativas adecuadas?"
+  },
+  {
+    "originalId": "diciembre-2024:54",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Una vez obtenida una señal inicial de eficacia, el ensayo de búsqueda de dosis compara varias dosis en pacientes para caracterizar respuesta y tolerabilidad y seleccionar el esquema confirmatorio. Es la finalidad convencional de la fase IIb.",
+    "o": {
+      "A": "La fase IV corresponde al estudio posterior a la autorización de comercialización, que aquí todavía no se obtuvo.",
+      "C": "La fase III tiene finalidad confirmatoria con dosis ya seleccionadas. Aquí se decide cuál llevar a esa fase.",
+      "D": "La fase IIa suele buscar la primera prueba de concepto en pacientes; el enunciado especifica que esa etapa ya se completó."
+    },
+    "src": "Food, Medicine and Healthcare Administration and Control Authority · Guidelines for Registration of Biotherapeutic Protein Products, desarrollo clínico en fase II",
+    "src_url": "https://www.efda.gov.et/wp-content/uploads/2019/03/Guidelines-for-Registration-of-Biotherapeutic-Proteint-Products.pdf",
+    "stem": "Un fármaco en investigación ya superó la fase I y mostró una señal inicial de eficacia en una prueba de concepto en pacientes. Antes del ensayo confirmatorio se comparan al azar cuatro dosis y placebo para caracterizar la relación dosis-respuesta y seleccionar la dosis según eficacia y tolerabilidad. Según la subdivisión convencional de fase II, ¿qué etapa es?"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
