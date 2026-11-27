@@ -2857,6 +2857,337 @@
       "Tres días",
       "Diez días"
     ]
+  },
+  {
+    "originalId": "febrero-2023:63",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "Los vómitos no biliosos cada vez más intensos después de las tomas, con hambre posterior y alcalosis por pérdida de ácido gástrico, orientan a estenosis hipertrófica del píloro. La buena ganancia de peso previa no excluye una presentación temprana.",
+    "o": {
+      "A": "La atresia duodenal suele manifestarse desde las primeras tomas, a menudo con vómito bilioso.",
+      "B": "El reflujo fisiológico suele causar regurgitación sin esfuerzo. La progresión a vómitos en proyectil obliga a descartar obstrucción.",
+      "C": "Una crisis suprarrenal suele acompañarse de deshidratación y alteraciones electrolíticas, típicamente con acidosis en la forma perdedora de sal."
+    },
+    "src": "Royal Children’s Hospital · Pyloric stenosis, presentación clínica",
+    "src_url": "https://www.rch.org.au/clinicalguide/guideline_index/Pyloric_stenosis/"
+  },
+  {
+    "originalId": "febrero-2023:64",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La hipertensión grave persistente requiere tratamiento urgente y el sulfato de magnesio previene convulsiones. A las 35 semanas, con compromiso renal y hepático, corresponde finalizar el embarazo después de estabilizar a la madre. La vía depende de la situación obstétrica y fetal.",
+    "o": {
+      "A": "Esperar la maduración pulmonar demoraría una finalización indicada y dejaría sin tratar la hipertensión grave.",
+      "C": "Un Bishop bajo puede dificultar la inducción, pero por sí solo no obliga a realizar cesárea.",
+      "D": "La observación y el control de presión sin un plan de finalización son insuficientes ante este compromiso materno."
+    },
+    "src": "ACOG · Preeclampsia and High Blood Pressure During Pregnancy, manejo de las formas graves",
+    "src_url": "https://www.acog.org/womens-health/faqs/preeclampsia-and-high-blood-pressure-during-pregnancy",
+    "stem": "Primigesta de 35 semanas con cefalea, TA 165/110 mmHg persistente al repetirla, proteinuria, creatinina de 1,9 mg/dL y transaminasas elevadas. Feto cefálico con monitoreo tranquilizador. Bishop 3. ¿Cuál es la estrategia inicial más adecuada?",
+    "options": [
+      "Administrar magnesio y demorar la finalización hasta completar corticoides.",
+      "Tratar de inmediato la hipertensión grave, dar sulfato de magnesio y finalizar tras estabilizar, eligiendo la vía según las condiciones obstétricas.",
+      "Indicar cesárea obligatoria exclusivamente por el Bishop bajo.",
+      "Mantener conducta expectante hasta las 37 semanas si baja la TA."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:65",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El dolor intenso con sangrado, hipertonía uterina y compromiso fetal grave es característico de desprendimiento prematuro de placenta normoinserta. Parte de la pérdida de sangre puede quedar oculta.",
+    "o": {
+      "A": "La placenta previa suele producir sangrado indoloro con útero relajado.",
+      "B": "La rotura de vasa previa puede causar sangrado fetal tras la rotura de membranas, pero no explica típicamente el útero doloroso e hipertónico.",
+      "C": "El embarazo ectópico habitual se manifiesta al comienzo de la gestación y no explica este cuadro intraparto a término."
+    },
+    "src": "Manual MSD profesional · Desprendimiento placentario, signos y síntomas",
+    "src_url": "https://www.msdmanuals.com/es/professional/ginecolog%C3%ADa-y-obstetricia/complicaciones-prenatales/desprendimiento-placentario"
+  },
+  {
+    "originalId": "febrero-2023:66",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En un recién nacido vigoroso, diferir el pinzamiento al menos un minuto permite la transfusión placentaria y mejora las reservas de hierro durante los primeros meses. Esto no elimina la necesidad de evaluar la prevención de ferropenia según edad y riesgo.",
+    "o": {
+      "A": "No se recomienda el pinzamiento sistemático antes del minuto con el objetivo de prevenir policitemia.",
+      "C": "El momento del pinzamiento sí influye en el volumen de sangre transferido y el hierro disponible.",
+      "D": "El beneficio sobre las reservas de hierro no garantiza que ningún lactante necesite hierro durante todo el primer año."
+    },
+    "src": "OMS · Optimal timing of cord clamping for the prevention of iron deficiency anaemia in infants",
+    "src_url": "https://www.who.int/tools/elena/interventions/cord-clamping",
+    "stem": "Recién nacido de término vigoroso, sin indicación de separar de inmediato a la madre y al bebé. ¿Qué afirmación sobre el pinzamiento del cordón es correcta?",
+    "options": [
+      "Debe pinzarse antes del minuto para prevenir policitemia en todos los recién nacidos.",
+      "Diferirlo al menos un minuto favorece los depósitos de hierro durante los primeros meses.",
+      "El momento del pinzamiento no modifica el aporte de hierro al recién nacido.",
+      "Diferirlo evita toda necesidad de hierro durante el primer año."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:67",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "La fiebre, la tos, la taquipnea y el hallazgo unilateral orientan a neumonía basal con posible irritación diafragmática o derrame. Ante dificultad respiratoria que requiere atención hospitalaria, la radiografía de tórax permite evaluar consolidación y complicaciones.",
+    "o": {
+      "A": "La TC no es la imagen inicial habitual para una neumonía con posible derrame.",
+      "B": "Las pruebas hepáticas y renales pueden ser útiles según la evolución, pero no localizan la causa pulmonar.",
+      "C": "Los reactantes inflamatorios no muestran consolidación ni identifican un derrame."
+    },
+    "src": "PIDS/IDSA · Neumonía adquirida en la comunidad en pediatría, indicaciones de radiografía de tórax",
+    "src_url": "https://academic.oup.com/cid/article/53/7/e25/424286",
+    "stem": "Niño de seis años con fiebre, tos, dolor en hipocondrio derecho, FR 50/min y tiraje. Tiene murmullo vesicular disminuido en la base derecha y requiere evaluación hospitalaria. No hay signos peritoneales. Una vez iniciada la estabilización, ¿qué estudio inicial permite evaluar el foco sospechado?"
+  },
+  {
+    "originalId": "febrero-2023:68",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El pródromo febril seguido de dificultad respiratoria con hemoconcentración, trombocitopenia, leucocitosis y linfocitos reactivos orienta a síndrome cardiopulmonar por hantavirus. La exposición rural aumenta la sospecha y la progresión exige evaluación urgente.",
+    "o": {
+      "B": "En la intoxicación por organofosforados predomina un síndrome colinérgico, con secreciones, miosis o fasciculaciones.",
+      "C": "La brucelosis puede causar fiebre y mialgias tras exposición rural, pero explica peor la combinación hematológica y el deterioro respiratorio rápido."
+    },
+    "src": "Ministerio de Salud de la Nación · Hantavirosis, diagnóstico del síndrome cardiopulmonar",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/hantavirosis_o_infeccion_por_hantavirus_2024.pdf",
+    "stem": "Niño de 11 años de una zona rural de Entre Ríos con fiebre, escalofríos y mialgias. En las últimas horas desarrolla dificultad respiratoria. Presenta hemoconcentración, trombocitopenia, leucocitosis y linfocitos atípicos. Entre las opciones disponibles, ¿qué diagnóstico es más probable?"
+  },
+  {
+    "originalId": "febrero-2023:69",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Al confirmarse el embarazo se debe suspender el IECA y ofrecer un antihipertensivo compatible, como labetalol, nifedipina o metildopa según el caso. Corresponde controlar la presión y revisar la exposición con obstetricia.",
+    "o": {
+      "B": "Que la presión esté controlada no justifica continuar un fármaco con riesgo fetal.",
+      "C": "Agregar metildopa sin retirar el IECA mantiene la exposición que debe evitarse.",
+      "D": "Aumentar la dosis no previene la preeclampsia y aumenta una exposición inapropiada."
+    },
+    "src": "NICE NG133 · Hipertensión crónica en el embarazo, medicación antenatal",
+    "src_url": "https://www.nice.org.uk/guidance/ng133/resources/chronic-hypertension-antenatal-care-pdf-8720711393"
+  },
+  {
+    "originalId": "febrero-2023:70",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La morfología fina pleomórfica y la distribución agrupada nueva son sospechosas. Ante una evaluación BI-RADS 4 corresponde obtener tejido, habitualmente mediante biopsia percutánea guiada por imágenes. El número de calcificaciones por sí solo no define la indicación.",
+    "o": {
+      "A": "Las calcificaciones gruesas típicas en palomitas de maíz corresponden a un patrón benigno.",
+      "B": "Las calcificaciones redondas dispersas y estables sin otros signos sospechosos no justifican biopsia por sí solas.",
+      "D": "Las calcificaciones que delinean los vasos con aspecto típico son benignas."
+    },
+    "src": "ACR · BI-RADS, léxico mamográfico de calcificaciones y categorías de evaluación",
+    "src_url": "https://cs.acr.org/-/media/ACR/Files/RADS/BI-RADS/BIRADS-Poster.pdf",
+    "stem": "Una mujer de 60 años completa una mamografía diagnóstica con vistas magnificadas. ¿Qué patrón de calcificaciones justifica una recomendación de biopsia?",
+    "options": [
+      "Calcificaciones gruesas típicas en palomitas de maíz.",
+      "Calcificaciones redondas dispersas y estables.",
+      "Microcalcificaciones finas pleomórficas de aparición reciente, agrupadas y clasificadas BI-RADS 4.",
+      "Calcificaciones vasculares típicas."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:71",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En una niña pequeña, la eosinofilia muy marcada con hepatomegalia y lesiones pulmonares migratorias sugiere larva migrans visceral por Toxocara. La exposición a suelo contaminado y la serología ayudan a sustentar el diagnóstico.",
+    "o": {
+      "A": "La hemosiderosis pulmonar puede causar anemia e infiltrados por hemorragia alveolar, pero la eosinofilia extrema no es típica.",
+      "B": "En toxoplasmosis congénita orientan más las manifestaciones oculares y neurológicas que los infiltrados erráticos eosinofílicos.",
+      "D": "Una neoplasia hematológica entra en el diferencial de hipereosinofilia persistente, pero el patrón hepatopulmonar migratorio en esta edad orienta primero a parasitosis."
+    },
+    "src": "CDC · Clinical Overview of Toxocariasis, compromiso visceral",
+    "src_url": "https://www.cdc.gov/toxocariasis/hcp/clinical-overview/index.html"
+  },
+  {
+    "originalId": "febrero-2023:72",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Ante un trazado patológico durante la infusión, se suspende la oxitocina, se solicita evaluación obstétrica urgente y se corrigen causas reversibles. Si el patrón persiste o el estado fetal empeora, se acelera el nacimiento.",
+    "o": {
+      "B": "Aumentar oxitocina puede agravar el compromiso de la oxigenación fetal.",
+      "C": "La vía y urgencia del nacimiento dependen de la evaluación. Prepararlo cuando corresponde no debe demorar la suspensión de la infusión.",
+      "D": "Mantener la misma infusión sin intervención desatiende el deterioro del registro."
+    },
+    "src": "NICE NG229 · Fetal monitoring in labour, medidas conservadoras y revisión obstétrica urgente",
+    "src_url": "https://www.nice.org.uk/guidance/ng229/resources/fetal-monitoring-in-labour-pdf-66143844065221",
+    "stem": "Durante una inducción con oxitocina, una gestante de término presenta seis contracciones en diez minutos y desaceleraciones tardías repetidas. Está a 6 cm y el parto no es inminente. Mientras se convoca al equipo obstétrico y se evalúa el nacimiento expedito, ¿qué medida debe tomarse inmediatamente con la infusión?",
+    "options": [
+      "Suspender la oxitocina.",
+      "Aumentar la dosis de oxitocina.",
+      "Mantener la infusión hasta llegar al quirófano.",
+      "Continuar la misma dosis y reevaluar recién en una hora."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:73",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Una persona con capacidad para decidir puede rechazar la diálisis después de recibir información comprensible, sin obligación de expresar un motivo. El equipo documenta la decisión informada y ofrece seguimiento y cuidados acordes.",
+    "o": {
+      "B": "Corresponde registrar el rechazo y la información brindada. No se puede exigir al paciente que justifique su decisión por escrito.",
+      "C": "La intervención social puede acompañar si el paciente lo desea, pero no corresponde buscar autorización para imponer el tratamiento.",
+      "D": "La familia no sustituye la voluntad de una persona capaz que ya expresó su decisión."
+    },
+    "src": "Ley nacional 26.529 · Derechos del paciente, artículo 2 inciso e, autonomía de la voluntad",
+    "src_url": "https://www4.diputados.gov.ar/dependencias/dsecretaria/Leyes/26529.pdf"
+  },
+  {
+    "originalId": "febrero-2023:74",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La PCR positiva para CMV en orina del segundo día documenta infección congénita. La toma dentro de las primeras tres semanas permite distinguirla de una adquisición posnatal. Microcefalia y petequias son compatibles.",
+    "o": {
+      "A": "El Chagas congénito requiere pruebas dirigidas a T. cruzi. No explica la detección específica de CMV.",
+      "C": "El VIH perinatal se diagnostica con pruebas virológicas específicas para VIH.",
+      "D": "Zika también puede causar microcefalia, pero el resultado virológico del caso identifica CMV."
+    },
+    "src": "CDC · Laboratory Testing for CMV and Congenital CMV, PCR neonatal",
+    "src_url": "https://www.cdc.gov/cytomegalovirus/php/laboratories/index.html",
+    "stem": "Recién nacido con microcefalia y petequias. En orina del segundo día de vida se detecta CMV por PCR. ¿Cuál es la etiología?",
+    "options": [
+      "Chagas",
+      "Citomegalovirus",
+      "Virus de la inmunodeficiencia humana",
+      "Zika"
+    ]
+  },
+  {
+    "originalId": "febrero-2023:75",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Con síntomas de malabsorción, se solicitan anticuerpos IgA antitransglutaminasa tisular e IgA total mientras la niña consume gluten. Si hay déficit de IgA, se eligen pruebas específicas de tipo IgG.",
+    "o": {
+      "A": "La antigliadina convencional y la antirreticulina no integran el estudio inicial preferido.",
+      "B": "Iniciar por pruebas IgG sin conocer la IgA total no es la estrategia habitual a esta edad.",
+      "D": "HLA-DQ2/DQ8 tiene utilidad en situaciones seleccionadas. Un resultado positivo es frecuente y no confirma celiaquía."
+    },
+    "src": "Sociedad Argentina de Pediatría · Enfermedad celíaca en pediatría, algoritmo diagnóstico, 2024",
+    "src_url": "https://www.sap.org.ar/uploads/consensos/consensos_enfermedad-celiaca-en-pediatria-caracteristicas-clinicas-y-metodologia-diagnostica-151.pdf"
+  },
+  {
+    "originalId": "febrero-2023:76",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "Tras la rotura del preservativo hace 12 horas puede tomar levonorgestrel 1,5 mg cuanto antes. El tabaquismo, la migraña y el propranolol no contraindican esta anticoncepción de emergencia sin estrógeno.",
+    "o": {
+      "B": "Una dosis aislada de 0,75 mg no alcanza la dosis total recomendada.",
+      "C": "No hay en el caso una contraindicación para el levonorgestrel de emergencia.",
+      "D": "Los análisis de rutina no son requisito previo y demorarían una intervención cuya eficacia depende del tiempo."
+    },
+    "src": "AMAdA · Consenso de anticoncepción de emergencia 2026, levonorgestrel oral",
+    "src_url": "https://amada.org.ar/images/AMAdA_Consenso_de_anticoncepcion_de_emergencia_2026.pdf"
+  },
+  {
+    "originalId": "febrero-2023:77",
+    "verifiedOn": "2026-11-27",
+    "a": "D",
+    "why": "El dolor al retirar la mano después de la palpación sugiere irritación del peritoneo. En este contexto justifica evaluar con urgencia causas quirúrgicas y ginecológicas. No determina por sí mismo cuál es la causa.",
+    "o": {
+      "A": "Los ruidos disminuidos son inespecíficos y pueden aparecer en un íleo.",
+      "B": "La puñopercusión lumbar dolorosa orienta más a patología renal o urinaria.",
+      "C": "La equimosis periumbilical de Cullen es un signo cutáneo y no equivale al dolor a la descompresión."
+    },
+    "src": "Manual MSD profesional · Dolor abdominal agudo, examen físico",
+    "src_url": "https://www.msdmanuals.com/es/professional/trastornos-gastrointestinales/abdomen-agudo-y-gastroenterolog%C3%ADa-quir%C3%BArgica/dolor-abdominal-agudo",
+    "stem": "Mujer de 30 años con dolor agudo en abdomen inferior, fiebre y vómitos. ¿Qué hallazgo orienta de manera más directa a irritación peritoneal?",
+    "options": [
+      "Disminución de ruidos hidroaéreos.",
+      "Puñopercusión lumbar positiva.",
+      "Equimosis periumbilical (signo de Cullen).",
+      "Dolor a la descompresión (signo de Blumberg)."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:78",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El signo de Romaña combina edema indoloro de ambos párpados de un mismo ojo con adenopatía regional. En el contexto epidemiológico apropiado sugiere puerta de entrada conjuntival de T. cruzi y requiere estudio de infección aguda.",
+    "o": {
+      "A": "La conjuntivitis viral puede dar adenopatía preauricular, pero explica peor el edema bipalpebral elástico e indoloro característico en este contexto.",
+      "C": "La dacriocistitis suele producir dolor y tumefacción localizada sobre el saco lagrimal, junto al canto medial.",
+      "D": "La blefaritis suele manifestarse con irritación y descamación del borde palpebral, sin este complejo ganglionar."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía para la atención al paciente con enfermedad de Chagas, complejo oftalmoganglionar",
+    "src_url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/320000-324999/320471/res461.pdf",
+    "stem": "Paciente de zona endémica con exposición a vinchucas, edema elástico e indoloro de los párpados superior e inferior de un solo ojo y adenopatía preauricular ipsilateral. ¿Qué diagnóstico y signo corresponden?",
+    "options": [
+      "Conjuntivitis viral.",
+      "Chagas agudo con signo de Romaña.",
+      "Dacriocistitis aguda.",
+      "Blefaritis."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:79",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "Para esta paciente corresponden antigripal anual, una dosis de vacuna neumocócica conjugada de 20 serotipos al no tener dosis previas y refuerzo de doble bacteriana de adultos al cumplirse diez años. Se revisa además el resto del carnet.",
+    "o": {
+      "A": "El refuerzo habitual de doble bacteriana después de un esquema primario completo es cada diez años, no cada cinco.",
+      "B": "La vacuna neumocócica no se indica todos los años.",
+      "D": "La doble bacteriana sola deja sin cubrir las indicaciones de gripe y neumococo."
+    },
+    "src": "Ministerio de Salud de la Nación · Calendario nacional de vacunación, personas de 65 años y más",
+    "src_url": "https://www.argentina.gob.ar/salud/vacunas/vacunacion-adultosmayores",
+    "stem": "Mujer de 65 años en la Argentina, sin dosis previas contra neumococo y con esquema primario antitetánico completo. Su última doble bacteriana fue hace diez años y todavía no recibió la antigripal de esta temporada. Entre estas tres inmunizaciones, ¿qué corresponde ofrecer?",
+    "options": [
+      "Antigripal anual y doble bacteriana cada cinco años, sin neumococo.",
+      "Antigripal y neumocócica anuales, más doble bacteriana cada diez años.",
+      "Antigripal de la temporada, VCN20 y refuerzo de doble bacteriana de adultos.",
+      "Solo refuerzo de doble bacteriana."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:80",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El contacto estrecho con tuberculosis pulmonar bacilífera requiere evaluación aunque el niño esté asintomático. La radiografía busca enfermedad pulmonar y la prueba de infección ayuda a orientar el manejo. Una prueba temprana negativa no descarta infección reciente.",
+    "o": {
+      "A": "Esperar síntomas demora el estudio del contacto y la oportunidad de prevención.",
+      "C": "Solicitar solo baciloscopías de esputo no reemplaza la evaluación clínica, radiográfica y de infección en un niño asintomático.",
+      "D": "Antes de dar tratamiento preventivo hay que descartar enfermedad activa y considerar la sensibilidad del caso fuente."
+    },
+    "src": "Ministerio de Salud de la Nación · Pautas técnicas de tuberculosis en la Argentina, estudio de contactos pediátricos",
+    "src_url": "https://panel.aam.org.ar/img_up/24042026.0.pdf",
+    "stem": "Niño de cinco años, asintomático, contacto estrecho diario de una cuidadora con tuberculosis pulmonar bacilífera confirmada. Ya se realizó anamnesis y examen físico. ¿Qué evaluación inicial corresponde antes de decidir tratamiento preventivo?",
+    "options": [
+      "Esperar y estudiar únicamente si aparece tos.",
+      "Solicitar radiografía de tórax y prueba de infección tuberculosa (PPD o IGRA según disponibilidad).",
+      "Solicitar solo esputo seriado para baciloscopía.",
+      "Iniciar isoniacida como única intervención sin evaluar enfermedad activa."
+    ]
+  },
+  {
+    "originalId": "febrero-2023:81",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "Fumó 20 cigarrillos diarios, equivalentes a un paquete estándar por día, durante 70 menos 18, es decir, 52 años. La exposición acumulada es de 52 paquetes-año.",
+    "o": {
+      "A": "Dieciocho es la edad de inicio y no la duración de la exposición.",
+      "C": "Setenta es la edad actual e incluye años en los que no fumaba.",
+      "D": "Contar cada atado de diez como un paquete estándar duplica la exposición real."
+    },
+    "src": "National Cancer Institute · Dictionary of Cancer Terms, pack year",
+    "src_url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/pack-year"
+  },
+  {
+    "originalId": "febrero-2023:82",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La hipoxemia grave persistente junto con incapacidad para proteger la vía aérea y compromiso circulatorio exige intubación y ventilación invasiva con soporte hemodinámico. La ventilación no invasiva requiere condiciones de seguridad ausentes aquí.",
+    "o": {
+      "A": "Reducir el oxígeno agravaría la hipoxemia. Debe titularse y asegurarse ventilación efectiva.",
+      "C": "Puede repetirse la gasometría durante el manejo, pero esperar sin sostén respiratorio expone a paro.",
+      "D": "El bicarbonato no corrige la insuficiencia respiratoria ni protege la vía aérea."
+    },
+    "src": "GOLD 2027 · Manejo de las exacerbaciones, indicaciones de ventilación mecánica invasiva",
+    "src_url": "https://goldcopd.org/wp-content/uploads/2026/11/GOLD-Report-2027-FINAL-v1.0-15Nov2026_Reduced_WMV.pdf",
+    "stem": "Adulto con EPOC y deterioro respiratorio agudo. Está obnubilado, no protege la vía aérea y presenta hipotensión con hipoperfusión pese a la reanimación inicial. FR 40/min, saturación 77 % y PaO₂ 50 mmHg pese a oxígeno suplementario. ¿Cuál es la conducta respiratoria inmediata?",
+    "options": [
+      "Disminuir la fracción inspirada de oxígeno.",
+      "Intubar e iniciar ventilación mecánica invasiva, junto con el sostén circulatorio.",
+      "Esperar otra gasometría sin modificar el soporte.",
+      "Administrar bicarbonato como única medida."
+    ]
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
