@@ -106,3 +106,26 @@ vm.runInContext('S.st={3:{a:"C",c:1,ok:true}}; S.i=2; quiz()', context);
 assert.ok(appElement.innerHTML.includes('assets/ecg-iar-2026-03.webp'));
 
 console.log('PASS: 1532 questions; 22 specialties; one scorable key per item; IAR 2026 source URLs; UI scoring.');
+
+// Check the active April questions after app.js has applied its later overrides.
+const april = vm.runInContext('EX.find(e => e.id === "abril-2022")', context);
+const aprilKeys = vm.runInContext('KEY["abril-2022"]', context);
+const verifiedAnswers = {
+  61:'A', 62:'B', 63:'D', 64:'D', 65:'A', 66:'B', 68:'A', 69:'D',
+  70:'D', 71:'D', 72:'C', 73:'C', 74:'D', 75:'A', 76:'D', 77:'B',
+  78:'D', 79:'A', 80:'B', 81:'B'
+};
+for (const [n, answer] of Object.entries(verifiedAnswers)) {
+  const item = april.qs.find(q => q.n === Number(n));
+  const key = aprilKeys[n];
+  assert.equal(key.originalId, 'abril-2022:' + n);
+  assert.equal(key.a, answer, key.originalId);
+  assert.match(key.src_url, /^https:\/\//);
+  assert.equal(key.verifiedOn, '2026-11-27');
+  for (const [i] of item.o.entries()) {
+    const letter = 'ABCDE'[i];
+    assert.ok(letter === answer ? key.why : key.o[letter], key.originalId + ' ' + letter);
+  }
+}
+assert.equal(aprilKeys[67].verifiedOn, '2026-11-26');
+assert.match(april.qs.find(q => q.n === 63).o[3], /500 mg IM.*100 mg VO.*7 días/);
