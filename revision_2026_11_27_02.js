@@ -4844,6 +4844,336 @@
       "Diabetes tipo 2 por la edad: iniciar insulina sin considerar la autoinmunidad.",
       "Diabetes insípida: iniciar desmopresina."
     ]
+  },
+  {
+    "originalId": "julio-2024:7",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor aumenta con la carga y la actividad, cede con el reposo y se acompaña de rigidez matinal breve. Estos datos orientan a un patrón mecánico sin identificar una lesión anatómica específica.",
+    "o": {
+      "B": "El dolor inflamatorio suele mejorar con el ejercicio y persistir en reposo, con rigidez matinal más prolongada.",
+      "C": "Una hernia puede causar dolor mecánico, pero el caso no aporta irradiación radicular ni déficit que permitan atribuírselo específicamente.",
+      "D": "Sin traumatismo, fragilidad ósea ni dolor vertebral focal, la fractura es menos probable."
+    },
+    "src": "American College of Physicians · Rheumatology Update for the Internist, patrones de dolor lumbar",
+    "src_url": "https://www.acponline.org/sites/default/files/documents/about_acp/chapters/al/26mtg/Rheumatology%20Update%20for%20the%20Internist.pdf",
+    "stem": "Obrero de 35 años con dolor lumbar difuso que empeora al levantar cargas y mejora con el reposo. Tiene diez minutos de rigidez matinal, sin traumatismo, irradiación, fiebre ni déficit neurológico. ¿Cuál es la caracterización clínica más apropiada?"
+  },
+  {
+    "originalId": "julio-2024:8",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La hepatitis aguda con aminotransferasas elevadas e IgM anti-VHA positiva, en ausencia de vacunación reciente, apoya infección aguda por virus de hepatitis A. La clínica aislada no diferencia los virus hepatotropos.",
+    "o": {
+      "B": "Para hepatitis B aguda se buscarían HBsAg e IgM anti-HBc. La serología informada corresponde a otro virus.",
+      "C": "La cirrosis es un diagnóstico de enfermedad hepática crónica. Por sí sola no explica la IgM anti-VHA positiva en este cuadro agudo.",
+      "D": "La litiasis vesicular aislada no explica la IgM anti-VHA ni el patrón de hepatitis aguda."
+    },
+    "src": "CDC · Clinical Screening and Diagnosis for Hepatitis A, interpretación serológica",
+    "src_url": "https://www.cdc.gov/hepatitis-a/hcp/diagnosis-testing/index.html",
+    "stem": "Adulto de 30 años con cinco días de ictericia, astenia, hepatomegalia y marcada elevación de aminotransferasas. No recibió recientemente vacuna contra hepatitis A. La IgM anti-VHA es positiva. ¿Cuál es el diagnóstico más probable?"
+  },
+  {
+    "originalId": "julio-2024:9",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La hemoglobina baja con microcitosis, ferritina de 7 ng/mL y saturación de transferrina de 10 % indica anemia por déficit de hierro. En un varón adulto corresponde investigar la causa de la ferropenia.",
+    "o": {
+      "A": "El déficit de B12 produce típicamente macrocitosis y no explica por sí mismo los depósitos de hierro agotados.",
+      "B": "La anemia inflamatoria suele cursar con ferritina normal o elevada. Una ferritina tan baja demuestra déficit absoluto de hierro.",
+      "D": "La púrpura trombocitopénica afecta las plaquetas y no explica esta combinación de microcitosis y ferropenia."
+    },
+    "src": "British Society of Gastroenterology · Guidelines for the management of iron deficiency anaemia in adults, estudios de hierro",
+    "src_url": "https://www.bsg.org.uk/getmedia/3e13dd5c-8e7b-4110-87c5-dcc1feee495d/Iron-Deficiency-Anaemia-in-Adults.pdf",
+    "stem": "Varón de 25 años con Hb 10,9 g/dL, VCM 76 fL, ferritina 7 ng/mL y saturación de transferrina 10 %. ¿Qué etiología explica mejor la anemia?",
+    "options": [
+      "Déficit aislado de vitamina B12.",
+      "Anemia inflamatoria sin ferropenia.",
+      "Déficit de hierro.",
+      "Púrpura trombocitopénica inmune."
+    ]
+  },
+  {
+    "originalId": "julio-2024:10",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "En sífilis primaria no complicada de un adulto no gestante con alergia inmediata a penicilina, la alternativa oral es doxiciclina 100 mg cada 12 horas durante 14 días, con seguimiento clínico y serológico.",
+    "o": {
+      "A": "La levofloxacina no es un esquema recomendado contra la sífilis primaria.",
+      "B": "La eritromicina durante tres días carece de eficacia establecida para esta indicación.",
+      "D": "La amoxicilina pertenece a las penicilinas y el esquema ofrecido tampoco es adecuado para sífilis temprana."
+    },
+    "src": "Ministerio de Salud de la Nación · Algoritmo de manejo ambulatorio de las ITS, sífilis temprana",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2023-12/algoritmo-manejo-infecciones-de-transmisioin-sexual.pdf",
+    "stem": "Adulto de 23 años, no gestante, con sífilis primaria, antecedente de anafilaxia a penicilina y seguimiento asegurado. Sin síntomas neurológicos, oculares ni auditivos. ¿Qué alternativa corresponde?",
+    "options": [
+      "Levofloxacina 750 mg por día por 7 días.",
+      "Eritromicina 500 mg por día por 3 días.",
+      "Doxiciclina 100 mg por vía oral cada 12 horas por 14 días.",
+      "Amoxicilina 500 mg por día por 7 días."
+    ]
+  },
+  {
+    "originalId": "julio-2024:11",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En diabetes tipo 2 una HbA1c mayor del 10 % es un criterio para considerar iniciar insulina, especialmente con síntomas o catabolismo. La decisión integra la situación clínica y no depende de un valor aislado en todos los pacientes.",
+    "o": {
+      "B": "Las dificultades con la alimentación requieren explorar barreras y ajustar el plan, pero no indican por sí solas insulinización.",
+      "C": "Una glucemia en ayunas de 155 mg/dL está por encima de la meta habitual, pero no alcanza el criterio de hiperglucemia muy elevada de 300 mg/dL.",
+      "D": "El tabaquismo aumenta el riesgo cardiovascular y requiere abordaje específico. No determina la indicación de insulina."
+    },
+    "src": "ADA · Standards of Care in Diabetes 2026, recomendación 9.20",
+    "src_url": "https://ada.silverchair-cdn.com/ada/content_public/journal/care/issue/49/supplement_1/6/standards-of-care-2026.pdf",
+    "stem": "En un adulto con diabetes tipo 2, ¿cuál de estos hallazgos constituye por sí mismo un criterio de hiperglucemia muy elevada para considerar iniciar insulina según la ADA?",
+    "options": [
+      "HbA1c de 11 %.",
+      "Dificultad para sostener el plan alimentario.",
+      "Una glucemia en ayunas de 155 mg/dL.",
+      "Tabaquismo intenso."
+    ]
+  },
+  {
+    "originalId": "julio-2024:12",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "El contacto de piel lesionada con agua de inundación, las mialgias en pantorrillas, la sufusión conjuntival y el deterioro renal orientan a leptospirosis. La trombocitopenia puede acompañarla y requiere valoración de gravedad.",
+    "o": {
+      "A": "El dengue puede producir fiebre y trombocitopenia, pero la exposición hídrica, la sufusión conjuntival y la neutrofilia orientan más a leptospirosis.",
+      "C": "La leucocitosis neutrofílica en una enfermedad febril aguda no demuestra leucemia. El cuadro epidemiológico y clínico orienta a infección.",
+      "D": "El paludismo exige considerar exposición en zona de transmisión y buscar parasitemia. No explica tan bien estos hallazgos tras la inundación."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía para el equipo de salud: leptospirosis, sospecha clínica",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000489cnt-guia-medica-leptospirosis.pdf",
+    "stem": "Pescador de 22 años del delta del Paraná sin viajes recientes, con exposición de heridas de piel a agua de inundación. Presenta fiebre, mialgias intensas en pantorrillas, sufusión conjuntival, neutrofilia, plaquetopenia y aumento de creatinina. ¿Cuál es la primera sospecha?",
+    "options": [
+      "Dengue.",
+      "Leptospirosis.",
+      "Leucemia aguda.",
+      "Paludismo."
+    ]
+  },
+  {
+    "originalId": "julio-2024:13",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La pielonefritis gestacional requiere internación inicial, urocultivo e inicio oportuno de un antibiótico parenteral. La ceftriaxona EV es una opción empírica en ausencia de alergia grave o riesgo de resistencia, con ajuste posterior al antibiograma.",
+    "o": {
+      "B": "La clindamicina no cubre adecuadamente los bacilos gramnegativos urinarios habituales.",
+      "C": "La penicilina IM propuesta no brinda cobertura empírica adecuada frente a enterobacterias.",
+      "D": "La norfloxacina oral no es una opción inicial apropiada en la pielonefritis gestacional."
+    },
+    "src": "Consenso Argentino Intersociedades de Infección Urinaria · Pielonefritis en el embarazo, Medicina (B Aires) 2020",
+    "src_url": "https://smiba.org.ar/downloads/cursos2024/infectologia_03.pdf"
+  },
+  {
+    "originalId": "julio-2024:14",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La mejoría clínica con estabilidad respiratoria y hemodinámica apoya continuar el antibiótico indicado y controlar la evolución. Si empeora o no mejora como se espera, se revisan el diagnóstico, el germen y las posibles complicaciones.",
+    "o": {
+      "A": "Sin derrame complicado ni empiema no existe una colección pleural que deba drenarse.",
+      "C": "La consolidación con evolución favorable al tratamiento de la neumonía no indica anticoagulación terapéutica.",
+      "D": "La toracotomía no tiene indicación ante una neumonía sin complicación quirúrgica."
+    },
+    "src": "NICE NG250 · Pneumonia: diagnosis and management, reevaluación y seguimiento",
+    "src_url": "https://www.nice.org.uk/guidance/ng250/resources/pneumonia-diagnosis-and-management-pdf-66144010347205",
+    "stem": "Varón de 75 años con neumonía adquirida en la comunidad. Tras 48 horas de antibiótico acorde a gravedad y antecedentes mejora la disnea, está afebril, normotenso y sin hipoxemia. La imagen muestra consolidación sin derrame pleural. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "julio-2024:15",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "En personas con VIH, la tos actual, la fiebre, la pérdida de peso o los sudores nocturnos activan la evaluación de tuberculosis. Un tamizaje positivo requiere pruebas diagnósticas y coordinación con el inicio del tratamiento antirretroviral.",
+    "o": {
+      "B": "El CMV puede causar enfermedad en inmunosupresión avanzada, pero estos cuatro síntomas no conforman un tamizaje específico para CMV.",
+      "C": "La faringitis se evalúa por síntomas y examen orofaríngeos. No es el objetivo de este algoritmo.",
+      "D": "La anemia se investiga con hemograma. La combinación propuesta no es una prueba de detección de anemia."
+    },
+    "src": "OMS · Guidelines on the management of advanced HIV disease, detección sistemática de tuberculosis",
+    "src_url": "https://www.ncbi.nlm.nih.gov/books/n/who384543/pdf/",
+    "stem": "Al evaluar a un adulto con VIH avanzado para iniciar tratamiento antirretroviral, ¿qué infección se busca sistemáticamente con el interrogatorio de la OMS sobre tos, fiebre, pérdida de peso y sudores nocturnos?"
+  },
+  {
+    "originalId": "julio-2024:16",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "El dolor isquémico persistente y la supradesnivelación en derivaciones anteriores contiguas justifican activar reperfusión inmediata. Con hemodinamia disponible en tiempo oportuno se realiza coronariografía urgente con intención de angioplastia primaria.",
+    "o": {
+      "B": "Los antiinflamatorios no reperfunden la arteria y observar retrasaría el tratamiento.",
+      "C": "La ergometría no corresponde ante un infarto en curso y demoraría la reperfusión.",
+      "D": "El alta expone a arritmias, extensión del infarto y muerte."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de emergencias cardiovasculares 2026, IAM con elevación del ST",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2026/05/Consenso-emergencias-cardiovasculares-8.pdf",
+    "stem": "Varón de 45 años con dos horas de dolor precordial opresivo y sudoración. El ECG cumple criterios de IAM con elevación persistente del ST en V1–V3. El centro puede realizar angioplastia primaria de inmediato. ¿Qué conducta corresponde?"
+  },
+  {
+    "originalId": "julio-2024:17",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La presión sistólica en consultorio supera 140 mmHg y los promedios ambulatorios superan los umbrales de 130/80 en 24 horas y 135/85 durante la vigilia. La elevación en ambos ámbitos corresponde a hipertensión sostenida.",
+    "o": {
+      "A": "La concordancia entre consultorio y MAPA define el patrón tensional. No identifica una causa secundaria.",
+      "C": "En hipertensión de guardapolvo blanco la presión ambulatoria es normal, a diferencia de este MAPA.",
+      "D": "En hipertensión oculta la presión de consultorio no alcanza el umbral diagnóstico. Aquí la sistólica es de 154 mmHg."
+    },
+    "src": "Consenso Argentino de Hipertensión Arterial 2025 · Diagnóstico en consultorio y por MAPA",
+    "src_url": "https://www.saha.org.ar/uploads/pdf/1760367723.pdf",
+    "stem": "Varón de 44 años sin antecedentes personales ni familiares, presenta en el consultorio cifras de tensión arterial 154/76 mmHg. Se realiza MAPA que evidencia: promedio 24 hs: 150/95, promedio diurno 152/92. ¿Cuál sería el diagnóstico?",
+    "options": [
+      "Hipertensión arterial secundaria.",
+      "Hipertensión arterial sostenida.",
+      "Hipertensión arterial del guardapolvo blanco",
+      "Hipertensión arterial oculta."
+    ]
+  },
+  {
+    "originalId": "julio-2024:18",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "En un adulto con síndrome nefrótico, los anticuerpos anti-PLA2R orientan fuertemente a nefropatía membranosa asociada a ese antígeno. Corresponde evaluar también condiciones asociadas según el contexto.",
+    "o": {
+      "A": "La enfermedad de cambios mínimos también produce síndrome nefrótico, pero no se caracteriza por anti-PLA2R.",
+      "C": "La glomeruloesclerosis focal y segmentaria se define por su patrón histológico y no por este autoanticuerpo.",
+      "D": "La nefropatía diabética se interpreta según historia de diabetes, albuminuria y otros hallazgos. Anti-PLA2R no es su marcador."
+    },
+    "src": "KDIGO · Clinical Practice Guideline for the Management of Glomerular Diseases, capítulo 3, nefropatía membranosa",
+    "src_url": "https://kdigo.org/wp-content/uploads/2017/02/KDIGO-2021-Glomerular-Diseases-Guideline_English_LN-2024-Update.pdf",
+    "stem": "Adulto con síndrome nefrótico y anticuerpos anti-PLA2R séricos positivos. ¿Qué glomerulopatía se asocia específicamente con el marcador?",
+    "options": [
+      "Enfermedad de cambios mínimos",
+      "Nefropatía membranosa",
+      "Glomeruloesclerosis focal y segmentaria",
+      "Nefropatía diabética"
+    ]
+  },
+  {
+    "originalId": "julio-2024:19",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La diarrea crónica con distensión, adelgazamiento y ferropenia sugiere malabsorción. Corresponde estudiar enfermedad celíaca con anticuerpos antitransglutaminasa IgA e IgA total mientras la paciente sigue consumiendo gluten.",
+    "o": {
+      "B": "La pérdida involuntaria de peso y la ferropenia son signos de alarma que no deben atribuirse de entrada a intestino irritable.",
+      "C": "Una gastroenteritis viral aguda no explica tres meses de síntomas con ferropenia.",
+      "D": "La intolerancia a lactosa puede producir distensión y diarrea tras su consumo, pero no suele explicar por sí sola la ferropenia."
+    },
+    "src": "Ministerio de Salud de la Nación · Guía de práctica clínica sobre diagnóstico y tratamiento de la enfermedad celíaca, sospecha clínica",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/bancos/2018-10/0000000634cnt-guia_enfermedad_celiaca_2016_web.pdf",
+    "stem": "Mujer de 38 años con tres meses de diarrea intermitente, distensión abdominal, pérdida de peso involuntaria y anemia ferropénica. Consume gluten. ¿Cuál de estas enfermedades conviene investigar por posible malabsorción?"
+  },
+  {
+    "originalId": "julio-2024:20",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La inflamación glomerular produce hematuria con eritrocitos dismórficos y a veces cilindros hemáticos. La disminución del filtrado y la retención de sodio pueden causar deterioro renal, edema e hipertensión.",
+    "o": {
+      "B": "La proteinuria masiva con hipoalbuminemia predomina en el síndrome nefrótico, aunque hay cuadros mixtos.",
+      "C": "La glucosuria, la cetonuria y la acidosis orientan a descompensación metabólica diabética.",
+      "D": "Una hematuria microscópica aislada puede tener diversas causas y no constituye por sí sola el conjunto típico del síndrome nefrítico."
+    },
+    "src": "Manual MSD profesional · Generalidades sobre el síndrome nefrítico, manifestaciones y sedimento",
+    "src_url": "https://www.msdmanuals.com/es/professional/nefrolog%C3%ADa/glomerulopat%C3%ADas/generalidades-sobre-el-s%C3%ADndrome-nefr%C3%ADtico?autoredirectid=47196&autoredirectid=48323&ruleredirectid=760"
+  },
+  {
+    "originalId": "julio-2024:21",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La disnea que progresa en días, los despertares nocturnos por falta de aire y el edema bilateral sugieren congestión pulmonar y sistémica por insuficiencia cardíaca. Se evalúan gravedad, función cardíaca y posibles desencadenantes.",
+    "o": {
+      "B": "El tabaquismo aumenta el riesgo de EPOC, pero la disnea paroxística nocturna y la congestión periférica orientan primero a insuficiencia cardíaca.",
+      "C": "La neumonía suele acompañarse de síntomas infecciosos y no explica bien el edema bilateral.",
+      "D": "El TEP puede causar disnea aguda, pero el conjunto de edema simétrico y disnea nocturna recurrente favorece congestión cardíaca."
+    },
+    "src": "Sociedad Argentina de Cardiología · Consenso de emergencias cardiovasculares 2026, insuficiencia cardíaca aguda",
+    "src_url": "https://www.sac.org.ar/wp-content/uploads/2026/05/Consenso-emergencias-cardiovasculares-8.pdf"
+  },
+  {
+    "originalId": "julio-2024:22",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "El agotamiento respiratorio, la incapacidad para proteger la vía aérea y la hipoxemia que persiste pese a soporte optimizado requieren intubación y ventilación invasiva. La decisión integra el estado clínico y la respuesta al soporte.",
+    "o": {
+      "A": "Un paciente lúcido con saturación normal en aire ambiente no requiere intubación por el diagnóstico de COVID-19 solo.",
+      "B": "La fiebre con buena ventilación, oxigenación y estado mental no es una indicación de intubación.",
+      "D": "Si disminuye el trabajo respiratorio y mejora sostenidamente la oxigenación, corresponde continuar el soporte y la vigilancia."
+    },
+    "src": "OMS · Management of critical COVID-19: acute hypoxaemic respiratory failure, indicaciones urgentes de intubación",
+    "src_url": "https://www.who.int/publications/m/item/management-of-critical-covid-19--acute-hypoxaemic-respiratory-failure-and-covid-19",
+    "stem": "En adultos con COVID-19 bajo evaluación en guardia, ¿qué cuadro indica intubación inmediata?",
+    "options": [
+      "Paciente lúcido, sin disnea y con saturación de 97 % en aire ambiente.",
+      "Fiebre con ventilación eficaz, oxigenación normal y sensorio conservado.",
+      "Hipoxemia refractaria pese a alto flujo optimizado, agotamiento y pérdida de la capacidad de proteger la vía aérea.",
+      "Mejoría clínica y de la oxigenación con bajo flujo, sin fatiga ni deterioro del sensorio."
+    ]
+  },
+  {
+    "originalId": "julio-2024:23",
+    "verifiedOn": "2026-11-27",
+    "a": "C",
+    "why": "La recomendación nacional para personas con inmunocompromiso es una dosis cada seis meses. En este adulto con esquema inicial completo y siete meses desde la última dosis corresponde administrar la siguiente.",
+    "o": {
+      "A": "El inmunocompromiso mantiene la indicación de dosis periódicas aun en un adulto joven.",
+      "B": "El intervalo transcurrido no requiere reiniciar el esquema completo.",
+      "D": "La serología no se utiliza para decidir la aplicación programada en este grupo."
+    },
+    "src": "Ministerio de Salud de la Nación · Vacuna COVID-19, esquema para personas con inmunocompromiso",
+    "src_url": "https://www.argentina.gob.ar/node/234523",
+    "stem": "En Argentina, un adulto de 30 años con inmunocompromiso persistente completó su esquema inicial contra COVID-19. Recibió la última dosis hace siete meses y no tiene contraindicaciones ni una indicación especial de revacunación. ¿Qué corresponde?"
+  },
+  {
+    "originalId": "julio-2024:24",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La tuberculina y los ensayos de liberación de interferón gamma detectan sensibilización inmunitaria a antígenos micobacterianos. Ninguna prueba distingue por sí sola infección de enfermedad activa, que se evaluó por separado en este contacto.",
+    "o": {
+      "A": "El hemograma y la VSG son inespecíficos y no demuestran infección tuberculosa.",
+      "C": "La serología comercial no es una prueba recomendada para detectar infección tuberculosa en contactos.",
+      "D": "La investigación de micobacterias en orina se reserva para indicaciones específicas. No sirve como tamizaje de infección en un conviviente asintomático."
+    },
+    "src": "Ministerio de Salud de la Nación · Pautas técnicas de tuberculosis en la Argentina, estudio de contactos e infección tuberculosa",
+    "src_url": "https://panel.aam.org.ar/img_up/24042026.0.pdf",
+    "stem": "Adulto conviviente de paciente con tuberculosis bacilífera. No tiene síntomas y se descartó enfermedad activa. ¿Qué pruebas pueden detectar infección tuberculosa?",
+    "options": [
+      "Hemograma y VSG",
+      "Tuberculina o IGRA",
+      "Serología comercial",
+      "Baciloscopía de orina como tamizaje"
+    ]
+  },
+  {
+    "originalId": "julio-2024:25",
+    "verifiedOn": "2026-11-27",
+    "a": "B",
+    "why": "La disentería bacilar grave con fiebre, tenesmo y deposiciones frecuentes, escasas y sanguinolentas sugiere Shigella y es una excepción en la que puede iniciarse antibiótico empírico tras obtener muestras. La sangre sola no basta: ante sospecha de STEC se evitan antibióticos por riesgo de síndrome urémico hemolítico.",
+    "o": {
+      "A": "La diarrea acuosa leve sin viaje ni factores de riesgo suele requerir hidratación y seguimiento.",
+      "C": "Los vómitos aislados sin diarrea no documentan una enteritis bacteriana susceptible de antibióticos.",
+      "D": "Un cuadro leve en resolución espontánea no justifica exponer al paciente a efectos adversos de antibióticos."
+    },
+    "src": "IDSA · Clinical Practice Guidelines for Infectious Diarrhea, tratamiento empírico de diarrea sanguinolenta",
+    "src_url": "https://www.idsociety.org/practice-guideline/infectious-diarrhea",
+    "stem": "En un adulto inmunocompetente, ¿en qué situación se justifica considerar antibióticos empíricos para diarrea infecciosa mientras se estudia la materia fecal?",
+    "options": [
+      "Diarrea acuosa leve, afebril, sin viaje reciente.",
+      "Disentería bacilar grave con fiebre documentada, cólicos, tenesmo y deposiciones sanguinolentas escasas y frecuentes, sugestiva de shigelosis.",
+      "Vómitos aislados sin diarrea.",
+      "Diarrea leve que se resuelve espontáneamente."
+    ]
+  },
+  {
+    "originalId": "julio-2024:26",
+    "verifiedOn": "2026-11-27",
+    "a": "A",
+    "why": "La afectación del sistema de conducción en la miocardiopatía chagásica suele producir bloqueo completo de rama derecha, solo o asociado a hemibloqueo anterior izquierdo. Esta asociación es característica, aunque no confirma por sí sola la etiología.",
+    "o": {
+      "B": "El bloqueo de rama izquierda aislado puede verse en cardiopatía estructural, pero es menos característico de Chagas.",
+      "C": "La taquicardia sinusal tiene numerosas causas y no identifica el patrón de daño de conducción chagásico.",
+      "D": "Las extrasístoles supraventriculares son inespecíficas y no representan el patrón bifascicular característico."
+    },
+    "src": "Ministerio de Salud de la Nación · Chagas, guía para equipos de salud, alteraciones electrocardiográficas",
+    "src_url": "https://www.argentina.gob.ar/sites/default/files/2021/07/chagas.-guia-para-equipos-de-salud.pdf"
   }
 ];
   for (const {originalId, stem, options, ...key} of reviews) {
